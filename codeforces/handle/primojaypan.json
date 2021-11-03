@@ -3,13 +3,51 @@
   "handle": "primojaypan",
   "handleUrl": "https://codeforces.com/profile/primojaypan",
   "avatar": "https://userpic.codeforces.org/702671/title/7afd468ec0ea645e.jpg",
-  "codeforces": {
-    "rank": "master",
-    "rating": 2151,
-    "maxRank": "master",
-    "maxRating": 2151
-  },
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 134190640,
+      "creationTime": 1635926606,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511557041
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102992M",
+        "name": "Monster Hunter",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102992/problem/M"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102992/submission/134190640"
+    },
+    {
+      "type": "codeforces",
+      "id": 134190533,
+      "creationTime": 1635926543,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511557104
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102992M",
+        "name": "Monster Hunter",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102992/problem/M"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102992/submission/134190533"
+    },
     {
       "type": "codeforces",
       "id": 132504229,
@@ -3353,5 +3391,11 @@
       },
       "submissionUrl": "https://codeforces.com/contest/932/submission/35382709"
     }
-  ]
+  ],
+  "codeforces": {
+    "rank": "master",
+    "rating": 2151,
+    "maxRank": "master",
+    "maxRating": 2151
+  }
 }

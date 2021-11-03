@@ -3,13 +3,428 @@
   "handle": "dfoi_cly",
   "handleUrl": "https://codeforces.com/profile/dfoi_cly",
   "avatar": "https://userpic.codeforces.org/1592942/title/1303aa168b1abc01.jpg",
-  "codeforces": {
-    "rank": "pupil",
-    "rating": 1358,
-    "maxRank": "specialist",
-    "maxRating": 1409
-  },
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 134217131,
+      "creationTime": 1635941513,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511542134
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1603B",
+        "name": "Moderate Modular Mode",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1603/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1603/submission/134217131"
+    },
+    {
+      "type": "codeforces",
+      "id": 134217064,
+      "creationTime": 1635941481,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511542166
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1603A",
+        "name": "Di-visible Confusion",
+        "rating": 1300,
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1603/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1603/submission/134217064"
+    },
+    {
+      "type": "codeforces",
+      "id": 134216926,
+      "creationTime": 1635941390,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511542257
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604B",
+        "name": "XOR Specia-LIS-t",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134216926"
+    },
+    {
+      "type": "codeforces",
+      "id": 134216853,
+      "creationTime": 1635941350,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511542297
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604A",
+        "name": "Era",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134216853"
+    },
+    {
+      "type": "codeforces",
+      "id": 134215697,
+      "creationTime": 1635940723,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604D",
+        "name": "Moderate Modular Mode",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134215697"
+    },
+    {
+      "type": "codeforces",
+      "id": 134215563,
+      "creationTime": 1635940653,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604D",
+        "name": "Moderate Modular Mode",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134215563"
+    },
+    {
+      "type": "codeforces",
+      "id": 134214975,
+      "creationTime": 1635940375,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604D",
+        "name": "Moderate Modular Mode",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134214975"
+    },
+    {
+      "type": "codeforces",
+      "id": 134213672,
+      "creationTime": 1635939691,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604D",
+        "name": "Moderate Modular Mode",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134213672"
+    },
+    {
+      "type": "codeforces",
+      "id": 134213360,
+      "creationTime": 1635939533,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604D",
+        "name": "Moderate Modular Mode",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134213360"
+    },
+    {
+      "type": "codeforces",
+      "id": 134211963,
+      "creationTime": 1635938769,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604C",
+        "name": "Di-visible Confusion",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134211963"
+    },
+    {
+      "type": "codeforces",
+      "id": 134211811,
+      "creationTime": 1635938694,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604C",
+        "name": "Di-visible Confusion",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134211811"
+    },
+    {
+      "type": "codeforces",
+      "id": 134211684,
+      "creationTime": 1635938631,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604C",
+        "name": "Di-visible Confusion",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134211684"
+    },
+    {
+      "type": "codeforces",
+      "id": 134211467,
+      "creationTime": 1635938525,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604C",
+        "name": "Di-visible Confusion",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134211467"
+    },
+    {
+      "type": "codeforces",
+      "id": 134210207,
+      "creationTime": 1635937860,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604B",
+        "name": "XOR Specia-LIS-t",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134210207"
+    },
+    {
+      "type": "codeforces",
+      "id": 134209966,
+      "creationTime": 1635937752,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604B",
+        "name": "XOR Specia-LIS-t",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134209966"
+    },
+    {
+      "type": "codeforces",
+      "id": 134209430,
+      "creationTime": 1635937454,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1635937200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1604A",
+        "name": "Era",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1604/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1604/submission/134209430"
+    },
     {
       "type": "codeforces",
       "id": 134130639,
@@ -392,6 +807,7 @@
         "id": "1607C",
         "name": "Minimum Extraction",
         "tags": [
+          "brute force",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1607/problem/C"
@@ -416,6 +832,7 @@
         "id": "1607C",
         "name": "Minimum Extraction",
         "tags": [
+          "brute force",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1607/problem/C"
@@ -12244,5 +12661,11 @@
       },
       "submissionUrl": "https://codeforces.com/contest/442/submission/122721731"
     }
-  ]
+  ],
+  "codeforces": {
+    "rank": "pupil",
+    "rating": 1331,
+    "maxRank": "specialist",
+    "maxRating": 1409
+  }
 }

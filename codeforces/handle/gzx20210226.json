@@ -3,8 +3,56 @@
   "handle": "gzx20210226",
   "handleUrl": "https://codeforces.com/profile/gzx20210226",
   "avatar": "https://userpic.codeforces.org/no-title.jpg",
-  "codeforces": {},
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 134213982,
+      "creationTime": 1635939852,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511543795
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607B",
+        "name": "Odd Grasshopper",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134213982"
+    },
+    {
+      "type": "codeforces",
+      "id": 134212647,
+      "creationTime": 1635939141,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511544506
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607A",
+        "name": "Linear Keyboard",
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134212647"
+    },
     {
       "type": "codeforces",
       "id": 132131921,
