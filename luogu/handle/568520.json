@@ -1,0 +1,322 @@
+{
+  "type": "luogu/handle",
+  "handle": "568520",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 59266337,
+      "creationTime": 1633488391,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633488391,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2010",
+        "name": "[NOIP2016 普及组] 回文日期",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2010"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59266337"
+    },
+    {
+      "type": "luogu",
+      "id": 59261542,
+      "creationTime": 1633486111,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633486111,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1308",
+        "name": "[NOIP2011 普及组] 统计单词数",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1308"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59261542"
+    },
+    {
+      "type": "luogu",
+      "id": 59256197,
+      "creationTime": 1633483107,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633483107,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1055",
+        "name": "[NOIP2008 普及组] ISBN 号码",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1055"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59256197"
+    },
+    {
+      "type": "luogu",
+      "id": 59252697,
+      "creationTime": 1633479686,
+      "language": "C++ 14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633479686,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5015",
+        "name": "[NOIP2018 普及组] 标题统计",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5015"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59252697"
+    },
+    {
+      "type": "luogu",
+      "id": 59252672,
+      "creationTime": 1633479650,
+      "language": "C++ 14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633479650,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5015",
+        "name": "[NOIP2018 普及组] 标题统计",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5015"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59252672"
+    },
+    {
+      "type": "luogu",
+      "id": 59211596,
+      "creationTime": 1633422819,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633422819,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2141",
+        "name": "[NOIP2014 普及组] 珠心算测验",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2141"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59211596"
+    },
+    {
+      "type": "luogu",
+      "id": 59171539,
+      "creationTime": 1633401640,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633401640,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1427",
+        "name": "小鱼的数字游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1427"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59171539"
+    },
+    {
+      "type": "luogu",
+      "id": 59169015,
+      "creationTime": 1633400363,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633400363,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1047",
+        "name": "[NOIP2005 普及组] 校门外的树",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1047"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59169015"
+    },
+    {
+      "type": "luogu",
+      "id": 59168507,
+      "creationTime": 1633400106,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633400106,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1047",
+        "name": "[NOIP2005 普及组] 校门外的树",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1047"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59168507"
+    },
+    {
+      "type": "luogu",
+      "id": 59163795,
+      "creationTime": 1633397388,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1633397388,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1046",
+        "name": "[NOIP2005 普及组] 陶陶摘苹果",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1046"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/59163795"
+    },
+    {
+      "type": "luogu",
+      "id": 58213297,
+      "creationTime": 1631969687,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1631969687,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1307",
+        "name": "[NOIP2011 普及组] 数字反转",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1307"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/58213297"
+    },
+    {
+      "type": "luogu",
+      "id": 58211267,
+      "creationTime": 1631968271,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1631968271,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1421",
+        "name": "小玉买文具",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1421"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/58211267"
+    },
+    {
+      "type": "luogu",
+      "id": 58210896,
+      "creationTime": 1631968073,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1631968073,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1001",
+        "name": "A+B Problem",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1001"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/58210896"
+    },
+    {
+      "type": "luogu",
+      "id": 58208887,
+      "creationTime": 1631967383,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "568520"
+        ],
+        "participantTime": 1631967383,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5660",
+        "name": "[CSP-J2019] 数字游戏",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5660"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/58208887"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/568520.png",
+  "handleUrl": "https://www.luogu.com.cn/user/568520",
+  "luogu": {
+    "name": "ZXY57",
+    "color": "blue",
+    "ranking": 56057,
+    "slogan": ""
+  }
+}

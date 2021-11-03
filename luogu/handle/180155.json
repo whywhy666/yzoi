@@ -1,0 +1,36 @@
+{
+  "type": "luogu/handle",
+  "handle": "180155",
+  "submissions": [
+    {
+      "type": "luogu",
+      "id": 54498216,
+      "creationTime": 1627551924,
+      "language": "C++ 98",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "180155"
+        ],
+        "participantTime": 1627551924,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P3371",
+        "name": "【模板】单源最短路径（弱化版）",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P3371"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/54498216"
+    }
+  ],
+  "avatar": "https://cdn.luogu.com.cn/upload/usericon/180155.png",
+  "handleUrl": "https://www.luogu.com.cn/user/180155",
+  "luogu": {
+    "name": "LeoWayyyyyyy",
+    "color": "green",
+    "ranking": 10926,
+    "slogan": "我依然在 无人问津的阴雨霉湿之地 合着雨音 唱着没有听众的歌曲"
+  }
+}
