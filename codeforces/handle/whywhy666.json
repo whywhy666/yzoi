@@ -12,6 +12,220 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 133962685,
+      "creationTime": 1635779690,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511703957
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602E",
+        "name": "Optimal Insertion",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133962685"
+    },
+    {
+      "type": "codeforces",
+      "id": 133953396,
+      "creationTime": 1635774274,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511709373
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602D",
+        "name": "Frog Traveler",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "dp",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133953396"
+    },
+    {
+      "type": "codeforces",
+      "id": 133951096,
+      "creationTime": 1635772877,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511710770
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602D",
+        "name": "Frog Traveler",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "dp",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133951096"
+    },
+    {
+      "type": "codeforces",
+      "id": 133948956,
+      "creationTime": 1635771510,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511712137
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602C",
+        "name": "Array Elimination",
+        "rating": 1300,
+        "tags": [
+          "bitmasks",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133948956"
+    },
+    {
+      "type": "codeforces",
+      "id": 133948462,
+      "creationTime": 1635771222,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511712425
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602B",
+        "name": "Divine Array",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133948462"
+    },
+    {
+      "type": "codeforces",
+      "id": 133947670,
+      "creationTime": 1635770714,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511712933
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602B",
+        "name": "Divine Array",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133947670"
+    },
+    {
+      "type": "codeforces",
+      "id": 133947604,
+      "creationTime": 1635770674,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511712973
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602B",
+        "name": "Divine Array",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133947604"
+    },
+    {
+      "type": "codeforces",
+      "id": 133946780,
+      "creationTime": 1635770179,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511713468
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1602A",
+        "name": "Two Subsequences",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1602/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1602/submission/133946780"
+    },
+    {
+      "type": "codeforces",
       "id": 131716846,
       "creationTime": 1634114893,
       "language": "GNU C++17",

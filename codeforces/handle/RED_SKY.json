@@ -1,0 +1,986 @@
+{
+  "type": "codeforces/handle",
+  "handle": "Red_Sky",
+  "handleUrl": "https://codeforces.com/profile/Red_Sky",
+  "avatar": "https://userpic.codeforces.org/no-title.jpg",
+  "codeforces": {},
+  "submissions": [
+    {
+      "type": "codeforces",
+      "id": 133605748,
+      "creationTime": 1635597289,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511886358
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133605748"
+    },
+    {
+      "type": "codeforces",
+      "id": 133605613,
+      "creationTime": 1635597203,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511886444
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133605613"
+    },
+    {
+      "type": "codeforces",
+      "id": 133603000,
+      "creationTime": 1635595228,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511888419
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133603000"
+    },
+    {
+      "type": "codeforces",
+      "id": 133601776,
+      "creationTime": 1635594412,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511889235
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133601776"
+    },
+    {
+      "type": "codeforces",
+      "id": 133601640,
+      "creationTime": 1635594325,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511889322
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133601640"
+    },
+    {
+      "type": "codeforces",
+      "id": 133599301,
+      "creationTime": 1635592690,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511890957
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606A",
+        "name": "AB Balance",
+        "rating": 900,
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133599301"
+    },
+    {
+      "type": "codeforces",
+      "id": 131373658,
+      "creationTime": 1633834573,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513649074
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "19B",
+        "name": "Checkout Assistant",
+        "rating": 1900,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/19/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/19/submission/131373658"
+    },
+    {
+      "type": "codeforces",
+      "id": 131373570,
+      "creationTime": 1633834419,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513649228
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "19B",
+        "name": "Checkout Assistant",
+        "rating": 1900,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/19/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/19/submission/131373570"
+    },
+    {
+      "type": "codeforces",
+      "id": 131349525,
+      "creationTime": 1633798067,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513685580
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "19B",
+        "name": "Checkout Assistant",
+        "rating": 1900,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/19/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/19/submission/131349525"
+    },
+    {
+      "type": "codeforces",
+      "id": 131347680,
+      "creationTime": 1633796604,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513687043
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "19B",
+        "name": "Checkout Assistant",
+        "rating": 1900,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/19/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/19/submission/131347680"
+    },
+    {
+      "type": "codeforces",
+      "id": 131343655,
+      "creationTime": 1633793459,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513690188
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "19B",
+        "name": "Checkout Assistant",
+        "rating": 1900,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/19/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/19/submission/131343655"
+    },
+    {
+      "type": "codeforces",
+      "id": 124468103,
+      "creationTime": 1627786275,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519697372
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "742A",
+        "name": "Arpa’s hard exam and Mehrdad’s naive cheat",
+        "rating": 1000,
+        "tags": [
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/742/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/742/submission/124468103"
+    },
+    {
+      "type": "codeforces",
+      "id": 124468067,
+      "creationTime": 1627786213,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519697434
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "742A",
+        "name": "Arpa’s hard exam and Mehrdad’s naive cheat",
+        "rating": 1000,
+        "tags": [
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/742/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/742/submission/124468067"
+    },
+    {
+      "type": "codeforces",
+      "id": 124467742,
+      "creationTime": 1627785727,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519697920
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1382A",
+        "name": "Common Subsequence",
+        "rating": 800,
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1382/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1382/submission/124467742"
+    },
+    {
+      "type": "codeforces",
+      "id": 124399361,
+      "creationTime": 1627716201,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519767446
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "377A",
+        "name": "Maze",
+        "rating": 1600,
+        "tags": [
+          "dfs and similar"
+        ],
+        "problemUrl": "https://codeforces.com/contest/377/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/377/submission/124399361"
+    },
+    {
+      "type": "codeforces",
+      "id": 124396454,
+      "creationTime": 1627714086,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519769561
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "377A",
+        "name": "Maze",
+        "rating": 1600,
+        "tags": [
+          "dfs and similar"
+        ],
+        "problemUrl": "https://codeforces.com/contest/377/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/377/submission/124396454"
+    },
+    {
+      "type": "codeforces",
+      "id": 124382265,
+      "creationTime": 1627702948,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519780699
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1537A",
+        "name": "Arithmetic Array",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1537/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1537/submission/124382265"
+    },
+    {
+      "type": "codeforces",
+      "id": 124376987,
+      "creationTime": 1627696823,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519786824
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1555C",
+        "name": "Coin Rows",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1555/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1555/submission/124376987"
+    },
+    {
+      "type": "codeforces",
+      "id": 124376369,
+      "creationTime": 1627695980,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519787667
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1555C",
+        "name": "Coin Rows",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1555/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1555/submission/124376369"
+    },
+    {
+      "type": "codeforces",
+      "id": 124237333,
+      "creationTime": 1627628855,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519854792
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "320B",
+        "name": "Ping-Pong (Easy Version)",
+        "rating": 1500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/320/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/320/submission/124237333"
+    },
+    {
+      "type": "codeforces",
+      "id": 124237049,
+      "creationTime": 1627628714,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519854933
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "320B",
+        "name": "Ping-Pong (Easy Version)",
+        "rating": 1500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/320/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/320/submission/124237049"
+    },
+    {
+      "type": "codeforces",
+      "id": 124236570,
+      "creationTime": 1627628417,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519855230
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "320B",
+        "name": "Ping-Pong (Easy Version)",
+        "rating": 1500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/320/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/320/submission/124236570"
+    },
+    {
+      "type": "codeforces",
+      "id": 124233571,
+      "creationTime": 1627626396,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519857251
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "320B",
+        "name": "Ping-Pong (Easy Version)",
+        "rating": 1500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/320/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/320/submission/124233571"
+    },
+    {
+      "type": "codeforces",
+      "id": 124217821,
+      "creationTime": 1627612727,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519870920
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24B",
+        "name": "F1 Champions",
+        "rating": 1500,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/124217821"
+    },
+    {
+      "type": "codeforces",
+      "id": 124217019,
+      "creationTime": 1627611920,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519871727
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24B",
+        "name": "F1 Champions",
+        "rating": 1500,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/124217019"
+    },
+    {
+      "type": "codeforces",
+      "id": 124216871,
+      "creationTime": 1627611771,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519871876
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24B",
+        "name": "F1 Champions",
+        "rating": 1500,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/124216871"
+    },
+    {
+      "type": "codeforces",
+      "id": 124216562,
+      "creationTime": 1627611435,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519872212
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24B",
+        "name": "F1 Champions",
+        "rating": 1500,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/124216562"
+    },
+    {
+      "type": "codeforces",
+      "id": 124216518,
+      "creationTime": 1627611386,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519872261
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24B",
+        "name": "F1 Champions",
+        "rating": 1500,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/124216518"
+    },
+    {
+      "type": "codeforces",
+      "id": 124216228,
+      "creationTime": 1627611066,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519872581
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24B",
+        "name": "F1 Champions",
+        "rating": 1500,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/124216228"
+    },
+    {
+      "type": "codeforces",
+      "id": 124095819,
+      "creationTime": 1627544930,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519938717
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "377A",
+        "name": "Maze",
+        "rating": 1600,
+        "tags": [
+          "dfs and similar"
+        ],
+        "problemUrl": "https://codeforces.com/contest/377/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/377/submission/124095819"
+    },
+    {
+      "type": "codeforces",
+      "id": 124093843,
+      "creationTime": 1627543527,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519940120
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "377A",
+        "name": "Maze",
+        "rating": 1600,
+        "tags": [
+          "dfs and similar"
+        ],
+        "problemUrl": "https://codeforces.com/contest/377/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/377/submission/124093843"
+    },
+    {
+      "type": "codeforces",
+      "id": 124087455,
+      "creationTime": 1627538476,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519945171
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "138A",
+        "name": "Literature Lesson",
+        "rating": 1600,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/138/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/138/submission/124087455"
+    },
+    {
+      "type": "codeforces",
+      "id": 124086534,
+      "creationTime": 1627537549,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519946098
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "60B",
+        "name": "Serial Time!",
+        "rating": 1400,
+        "tags": [
+          "dfs and similar",
+          "dsu"
+        ],
+        "problemUrl": "https://codeforces.com/contest/60/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/60/submission/124086534"
+    },
+    {
+      "type": "codeforces",
+      "id": 124081089,
+      "creationTime": 1627530962,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519952685
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "138A",
+        "name": "Literature Lesson",
+        "rating": 1600,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/138/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/138/submission/124081089"
+    },
+    {
+      "type": "codeforces",
+      "id": 124079668,
+      "creationTime": 1627528994,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519954653
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "138A",
+        "name": "Literature Lesson",
+        "rating": 1600,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/138/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/138/submission/124079668"
+    },
+    {
+      "type": "codeforces",
+      "id": 124079568,
+      "creationTime": 1627528839,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -519954808
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "138A",
+        "name": "Literature Lesson",
+        "rating": 1600,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/138/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/138/submission/124079568"
+    },
+    {
+      "type": "codeforces",
+      "id": 124001654,
+      "creationTime": 1627455981,
+      "language": "GNU C++11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -520027666
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103B",
+        "name": "Cthulhu",
+        "rating": 1500,
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/103/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/103/submission/124001654"
+    },
+    {
+      "type": "codeforces",
+      "id": 123908318,
+      "creationTime": 1627371844,
+      "language": "GNU C11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -520111803
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "691C",
+        "name": "Exponential notation",
+        "rating": 1800,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/691/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/691/submission/123908318"
+    }
+  ]
+}

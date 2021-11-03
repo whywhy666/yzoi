@@ -1,0 +1,267 @@
+{
+  "type": "codeforces/handle",
+  "handle": "gzx20210226",
+  "handleUrl": "https://codeforces.com/profile/gzx20210226",
+  "avatar": "https://userpic.codeforces.org/no-title.jpg",
+  "codeforces": {},
+  "submissions": [
+    {
+      "type": "codeforces",
+      "id": 132131921,
+      "creationTime": 1634390613,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513093034
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1051D",
+        "name": "Bicolorings",
+        "rating": 1700,
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1051/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1051/submission/132131921"
+    },
+    {
+      "type": "codeforces",
+      "id": 131328860,
+      "creationTime": 1633784011,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513699636
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1581A",
+        "name": "CQXYM Count Permutations",
+        "rating": 800,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1581/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1581/submission/131328860"
+    },
+    {
+      "type": "codeforces",
+      "id": 131328597,
+      "creationTime": 1633783875,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513699772
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1581A",
+        "name": "CQXYM Count Permutations",
+        "rating": 800,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1581/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1581/submission/131328597"
+    },
+    {
+      "type": "codeforces",
+      "id": 131325301,
+      "creationTime": 1633781970,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513701677
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1594A",
+        "name": "Consecutive Sum Riddle",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1594/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1594/submission/131325301"
+    },
+    {
+      "type": "codeforces",
+      "id": 130980186,
+      "creationTime": 1633526199,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513957448
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "12B",
+        "name": "Correct Solution?",
+        "rating": 1100,
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/12/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/12/submission/130980186"
+    },
+    {
+      "type": "codeforces",
+      "id": 130978305,
+      "creationTime": 1633524804,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513958843
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "10D",
+        "name": "LCIS",
+        "rating": 2800,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/10/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/10/submission/130978305"
+    },
+    {
+      "type": "codeforces",
+      "id": 130975275,
+      "creationTime": 1633522701,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513960946
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "33C",
+        "name": "Wonderful Randomized Sum",
+        "rating": 1800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/33/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/33/submission/130975275"
+    },
+    {
+      "type": "codeforces",
+      "id": 130972600,
+      "creationTime": 1633520858,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -513962789
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "6D",
+        "name": "Lizards and Basements 2",
+        "rating": 2600,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/6/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/6/submission/130972600"
+    },
+    {
+      "type": "codeforces",
+      "id": 130853174,
+      "creationTime": 1633405491,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -514078156
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "4A",
+        "name": "Watermelon",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/4/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/4/submission/130853174"
+    },
+    {
+      "type": "codeforces",
+      "id": 130851816,
+      "creationTime": 1633403779,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -514079868
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/130851816"
+    }
+  ]
+}

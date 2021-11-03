@@ -5,11 +5,1189 @@
   "avatar": "https://userpic.codeforces.org/1592942/title/1303aa168b1abc01.jpg",
   "codeforces": {
     "rank": "pupil",
-    "rating": 1313,
+    "rating": 1358,
     "maxRank": "specialist",
     "maxRating": 1409
   },
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 134130639,
+      "creationTime": 1635870862,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134130639"
+    },
+    {
+      "type": "codeforces",
+      "id": 134130085,
+      "creationTime": 1635870817,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134130085"
+    },
+    {
+      "type": "codeforces",
+      "id": 134129804,
+      "creationTime": 1635870791,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134129804"
+    },
+    {
+      "type": "codeforces",
+      "id": 134127841,
+      "creationTime": 1635870571,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134127841"
+    },
+    {
+      "type": "codeforces",
+      "id": 134127052,
+      "creationTime": 1635870471,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134127052"
+    },
+    {
+      "type": "codeforces",
+      "id": 134126039,
+      "creationTime": 1635870341,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134126039"
+    },
+    {
+      "type": "codeforces",
+      "id": 134125386,
+      "creationTime": 1635870255,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134125386"
+    },
+    {
+      "type": "codeforces",
+      "id": 134124430,
+      "creationTime": 1635870133,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134124430"
+    },
+    {
+      "type": "codeforces",
+      "id": 134122921,
+      "creationTime": 1635869936,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134122921"
+    },
+    {
+      "type": "codeforces",
+      "id": 134121158,
+      "creationTime": 1635869706,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134121158"
+    },
+    {
+      "type": "codeforces",
+      "id": 134121000,
+      "creationTime": 1635869688,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134121000"
+    },
+    {
+      "type": "codeforces",
+      "id": 134118762,
+      "creationTime": 1635869388,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134118762"
+    },
+    {
+      "type": "codeforces",
+      "id": 134104933,
+      "creationTime": 1635867731,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134104933"
+    },
+    {
+      "type": "codeforces",
+      "id": 134103794,
+      "creationTime": 1635867608,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607D",
+        "name": "Blue-Red Permutation",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134103794"
+    },
+    {
+      "type": "codeforces",
+      "id": 134092103,
+      "creationTime": 1635866372,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607C",
+        "name": "Minimum Extraction",
+        "tags": [
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134092103"
+    },
+    {
+      "type": "codeforces",
+      "id": 134090141,
+      "creationTime": 1635866180,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607C",
+        "name": "Minimum Extraction",
+        "tags": [
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134090141"
+    },
+    {
+      "type": "codeforces",
+      "id": 134083691,
+      "creationTime": 1635865536,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607B",
+        "name": "Odd Grasshopper",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134083691"
+    },
+    {
+      "type": "codeforces",
+      "id": 134071564,
+      "creationTime": 1635864279,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1607A",
+        "name": "Linear Keyboard",
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1607/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1607/submission/134071564"
+    },
+    {
+      "type": "codeforces",
+      "id": 134047478,
+      "creationTime": 1635854214,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511629433
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "297B",
+        "name": "Fish Weight",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/297/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/297/submission/134047478"
+    },
+    {
+      "type": "codeforces",
+      "id": 134045671,
+      "creationTime": 1635853087,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511630560
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "231C",
+        "name": "To Add or Not to Add",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/231/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/231/submission/134045671"
+    },
+    {
+      "type": "codeforces",
+      "id": 134045606,
+      "creationTime": 1635853043,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511630604
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "231C",
+        "name": "To Add or Not to Add",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/231/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/231/submission/134045606"
+    },
+    {
+      "type": "codeforces",
+      "id": 134045424,
+      "creationTime": 1635852945,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511630702
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "231C",
+        "name": "To Add or Not to Add",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/231/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/231/submission/134045424"
+    },
+    {
+      "type": "codeforces",
+      "id": 134045347,
+      "creationTime": 1635852899,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511630748
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "231C",
+        "name": "To Add or Not to Add",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/231/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/231/submission/134045347"
+    },
+    {
+      "type": "codeforces",
+      "id": 134045213,
+      "creationTime": 1635852822,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511630825
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "231C",
+        "name": "To Add or Not to Add",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/231/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/231/submission/134045213"
+    },
+    {
+      "type": "codeforces",
+      "id": 134044925,
+      "creationTime": 1635852639,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511631008
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "231C",
+        "name": "To Add or Not to Add",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/231/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/231/submission/134044925"
+    },
+    {
+      "type": "codeforces",
+      "id": 134019954,
+      "creationTime": 1635835595,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511648052
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37C",
+        "name": "Old Berland Language",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134019954"
+    },
+    {
+      "type": "codeforces",
+      "id": 134019888,
+      "creationTime": 1635835545,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511648102
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37C",
+        "name": "Old Berland Language",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134019888"
+    },
+    {
+      "type": "codeforces",
+      "id": 134019801,
+      "creationTime": 1635835461,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511648186
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37B",
+        "name": "Computer Game",
+        "rating": 1800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134019801"
+    },
+    {
+      "type": "codeforces",
+      "id": 134019748,
+      "creationTime": 1635835425,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511648222
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37C",
+        "name": "Old Berland Language",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134019748"
+    },
+    {
+      "type": "codeforces",
+      "id": 134019686,
+      "creationTime": 1635835375,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511648272
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37C",
+        "name": "Old Berland Language",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134019686"
+    },
+    {
+      "type": "codeforces",
+      "id": 133994530,
+      "creationTime": 1635812488,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511671159
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "39J",
+        "name": "Spelling Check",
+        "rating": 1500,
+        "tags": [
+          "hashing",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/39/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/39/submission/133994530"
+    },
+    {
+      "type": "codeforces",
+      "id": 133994424,
+      "creationTime": 1635812239,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511671408
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "39J",
+        "name": "Spelling Check",
+        "rating": 1500,
+        "tags": [
+          "hashing",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/39/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/39/submission/133994424"
+    },
+    {
+      "type": "codeforces",
+      "id": 133994174,
+      "creationTime": 1635811713,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511671934
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "39J",
+        "name": "Spelling Check",
+        "rating": 1500,
+        "tags": [
+          "hashing",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/39/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/39/submission/133994174"
+    },
+    {
+      "type": "codeforces",
+      "id": 133596331,
+      "creationTime": 1635590865,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511892782
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606A",
+        "name": "AB Balance",
+        "rating": 900,
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133596331"
+    },
+    {
+      "type": "codeforces",
+      "id": 133596312,
+      "creationTime": 1635590851,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511892796
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133596312"
+    },
+    {
+      "type": "codeforces",
+      "id": 133596155,
+      "creationTime": 1635590757,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511892890
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133596155"
+    },
+    {
+      "type": "codeforces",
+      "id": 133510109,
+      "creationTime": 1635523646,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133510109"
+    },
+    {
+      "type": "codeforces",
+      "id": 133508197,
+      "creationTime": 1635523366,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133508197"
+    },
+    {
+      "type": "codeforces",
+      "id": 133504350,
+      "creationTime": 1635522827,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133504350"
+    },
+    {
+      "type": "codeforces",
+      "id": 133498668,
+      "creationTime": 1635522106,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133498668"
+    },
+    {
+      "type": "codeforces",
+      "id": 133497945,
+      "creationTime": 1635522023,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606C",
+        "name": "Banknotes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133497945"
+    },
+    {
+      "type": "codeforces",
+      "id": 133479490,
+      "creationTime": 1635520150,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133479490"
+    },
+    {
+      "type": "codeforces",
+      "id": 133472888,
+      "creationTime": 1635519589,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133472888"
+    },
+    {
+      "type": "codeforces",
+      "id": 133471071,
+      "creationTime": 1635519442,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606B",
+        "name": "Update Files",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133471071"
+    },
+    {
+      "type": "codeforces",
+      "id": 133463156,
+      "creationTime": 1635518818,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1635518100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1606A",
+        "name": "AB Balance",
+        "rating": 900,
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1606/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1606/submission/133463156"
+    },
     {
       "type": "codeforces",
       "id": 132701523,
