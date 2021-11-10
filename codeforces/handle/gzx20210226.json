@@ -6,6 +6,214 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 134870718,
+      "creationTime": 1636553370,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510930277
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "225E",
+        "name": "Unsolvable",
+        "rating": 2100,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/225/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/225/submission/134870718"
+    },
+    {
+      "type": "codeforces",
+      "id": 134864328,
+      "creationTime": 1636552827,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510930820
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "197A",
+        "name": "Plate Game",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/197/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/197/submission/134864328"
+    },
+    {
+      "type": "codeforces",
+      "id": 134863065,
+      "creationTime": 1636552054,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510931593
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "196B",
+        "name": "Infinite Maze",
+        "rating": 2000,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/196/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/196/submission/134863065"
+    },
+    {
+      "type": "codeforces",
+      "id": 134862998,
+      "creationTime": 1636552017,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510931630
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "196B",
+        "name": "Infinite Maze",
+        "rating": 2000,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/196/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/196/submission/134862998"
+    },
+    {
+      "type": "codeforces",
+      "id": 134862698,
+      "creationTime": 1636551836,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510931811
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "196B",
+        "name": "Infinite Maze",
+        "rating": 2000,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/196/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/196/submission/134862698"
+    },
+    {
+      "type": "codeforces",
+      "id": 134861128,
+      "creationTime": 1636550958,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510932689
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "192A",
+        "name": "Funky Numbers",
+        "rating": 1300,
+        "tags": [
+          "binary search",
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/192/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/192/submission/134861128"
+    },
+    {
+      "type": "codeforces",
+      "id": 134860447,
+      "creationTime": 1636550547,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510933100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "190C",
+        "name": "STL",
+        "rating": 1500,
+        "tags": [
+          "dfs and similar"
+        ],
+        "problemUrl": "https://codeforces.com/contest/190/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/190/submission/134860447"
+    },
+    {
+      "type": "codeforces",
+      "id": 134857263,
+      "creationTime": 1636548660,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510934987
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "933A",
+        "name": "A Twisty Movement",
+        "rating": 1800,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/933/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/933/submission/134857263"
+    },
+    {
+      "type": "codeforces",
       "id": 134855571,
       "creationTime": 1636547660,
       "language": "GNU C++14",
