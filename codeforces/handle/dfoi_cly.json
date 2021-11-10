@@ -6,6 +6,1557 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 134823008,
+      "creationTime": 1636530891,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510952756
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "36D",
+        "name": "New Game with a Chess Piece",
+        "rating": 2300,
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/36/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/36/submission/134823008"
+    },
+    {
+      "type": "codeforces",
+      "id": 134806409,
+      "creationTime": 1636512508,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510971139
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1C",
+        "name": "Ancient Berland Circus",
+        "rating": 2100,
+        "tags": [
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/134806409"
+    },
+    {
+      "type": "codeforces",
+      "id": 134805780,
+      "creationTime": 1636511362,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510972285
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1C",
+        "name": "Ancient Berland Circus",
+        "rating": 2100,
+        "tags": [
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/134805780"
+    },
+    {
+      "type": "codeforces",
+      "id": 134805747,
+      "creationTime": 1636511291,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510972356
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1C",
+        "name": "Ancient Berland Circus",
+        "rating": 2100,
+        "tags": [
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/134805747"
+    },
+    {
+      "type": "codeforces",
+      "id": 134805592,
+      "creationTime": 1636510976,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510972671
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1C",
+        "name": "Ancient Berland Circus",
+        "rating": 2100,
+        "tags": [
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/134805592"
+    },
+    {
+      "type": "codeforces",
+      "id": 134762233,
+      "creationTime": 1636464511,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511019136
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "501E",
+        "name": "Misha and Palindrome Degree",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/501/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/501/submission/134762233"
+    },
+    {
+      "type": "codeforces",
+      "id": 134762079,
+      "creationTime": 1636464422,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511019225
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "501E",
+        "name": "Misha and Palindrome Degree",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/501/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/501/submission/134762079"
+    },
+    {
+      "type": "codeforces",
+      "id": 134760832,
+      "creationTime": 1636463698,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511019949
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "501E",
+        "name": "Misha and Palindrome Degree",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/501/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/501/submission/134760832"
+    },
+    {
+      "type": "codeforces",
+      "id": 134746297,
+      "creationTime": 1636454701,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511028946
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "475B",
+        "name": "Strongly Connected City",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/475/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/475/submission/134746297"
+    },
+    {
+      "type": "codeforces",
+      "id": 134745985,
+      "creationTime": 1636454454,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511029193
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "475B",
+        "name": "Strongly Connected City",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/475/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/475/submission/134745985"
+    },
+    {
+      "type": "codeforces",
+      "id": 134739855,
+      "creationTime": 1636449555,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511034092
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "437C",
+        "name": "The Child and Toy",
+        "rating": 1400,
+        "tags": [
+          "graphs",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/437/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/437/submission/134739855"
+    },
+    {
+      "type": "codeforces",
+      "id": 134738010,
+      "creationTime": 1636448092,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511035555
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "10C",
+        "name": "Digital Root",
+        "rating": 2000,
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/10/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/10/submission/134738010"
+    },
+    {
+      "type": "codeforces",
+      "id": 134731765,
+      "creationTime": 1636443124,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511040523
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "337C",
+        "name": "Quiz",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy",
+          "math",
+          "matrices",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/337/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/337/submission/134731765"
+    },
+    {
+      "type": "codeforces",
+      "id": 134731496,
+      "creationTime": 1636442920,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511040727
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "337C",
+        "name": "Quiz",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy",
+          "math",
+          "matrices",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/337/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/337/submission/134731496"
+    },
+    {
+      "type": "codeforces",
+      "id": 134731370,
+      "creationTime": 1636442814,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511040833
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "337C",
+        "name": "Quiz",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy",
+          "math",
+          "matrices",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/337/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/337/submission/134731370"
+    },
+    {
+      "type": "codeforces",
+      "id": 134728842,
+      "creationTime": 1636440653,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511042994
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "339C",
+        "name": "Xenia and Weights",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/339/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/339/submission/134728842"
+    },
+    {
+      "type": "codeforces",
+      "id": 134716983,
+      "creationTime": 1636425512,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511058135
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "300C",
+        "name": "Beautiful Numbers",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/300/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/300/submission/134716983"
+    },
+    {
+      "type": "codeforces",
+      "id": 134716902,
+      "creationTime": 1636425343,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511058304
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "300C",
+        "name": "Beautiful Numbers",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/300/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/300/submission/134716902"
+    },
+    {
+      "type": "codeforces",
+      "id": 134716867,
+      "creationTime": 1636425278,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511058369
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "300C",
+        "name": "Beautiful Numbers",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/300/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/300/submission/134716867"
+    },
+    {
+      "type": "codeforces",
+      "id": 134713827,
+      "creationTime": 1636418080,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511065567
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "258A",
+        "name": "Little Elephant and Bits",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/258/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/258/submission/134713827"
+    },
+    {
+      "type": "codeforces",
+      "id": 134713072,
+      "creationTime": 1636416000,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511067647
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "274A",
+        "name": "k-Multiple Free Set",
+        "rating": 1500,
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/274/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/274/submission/134713072"
+    },
+    {
+      "type": "codeforces",
+      "id": 134712742,
+      "creationTime": 1636414949,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511068698
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24C",
+        "name": "Sequence of points",
+        "rating": 1800,
+        "tags": [
+          "geometry",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/134712742"
+    },
+    {
+      "type": "codeforces",
+      "id": 134675276,
+      "creationTime": 1636381914,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511101733
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "77B",
+        "name": "Falling Anvils",
+        "rating": 1800,
+        "tags": [
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/77/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/77/submission/134675276"
+    },
+    {
+      "type": "codeforces",
+      "id": 134674856,
+      "creationTime": 1636381631,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511102016
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "77B",
+        "name": "Falling Anvils",
+        "rating": 1800,
+        "tags": [
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/77/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/77/submission/134674856"
+    },
+    {
+      "type": "codeforces",
+      "id": 134674647,
+      "creationTime": 1636381498,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511102149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "77B",
+        "name": "Falling Anvils",
+        "rating": 1800,
+        "tags": [
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/77/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/77/submission/134674647"
+    },
+    {
+      "type": "codeforces",
+      "id": 134664771,
+      "creationTime": 1636375375,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511108272
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2B",
+        "name": "The least round way",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2/submission/134664771"
+    },
+    {
+      "type": "codeforces",
+      "id": 134664347,
+      "creationTime": 1636375131,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511108516
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2B",
+        "name": "The least round way",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2/submission/134664347"
+    },
+    {
+      "type": "codeforces",
+      "id": 134664113,
+      "creationTime": 1636374995,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511108652
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2B",
+        "name": "The least round way",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2/submission/134664113"
+    },
+    {
+      "type": "codeforces",
+      "id": 134663678,
+      "creationTime": 1636374738,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511108909
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2B",
+        "name": "The least round way",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2/submission/134663678"
+    },
+    {
+      "type": "codeforces",
+      "id": 134663406,
+      "creationTime": 1636374580,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511109067
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2B",
+        "name": "The least round way",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2/submission/134663406"
+    },
+    {
+      "type": "codeforces",
+      "id": 134662772,
+      "creationTime": 1636374163,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511109484
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2B",
+        "name": "The least round way",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2/submission/134662772"
+    },
+    {
+      "type": "codeforces",
+      "id": 134658426,
+      "creationTime": 1636371560,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112087
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134658426"
+    },
+    {
+      "type": "codeforces",
+      "id": 134658308,
+      "creationTime": 1636371474,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112173
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134658308"
+    },
+    {
+      "type": "codeforces",
+      "id": 134658015,
+      "creationTime": 1636371276,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112371
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134658015"
+    },
+    {
+      "type": "codeforces",
+      "id": 134657713,
+      "creationTime": 1636371092,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112555
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134657713"
+    },
+    {
+      "type": "codeforces",
+      "id": 134657537,
+      "creationTime": 1636370977,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112670
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134657537"
+    },
+    {
+      "type": "codeforces",
+      "id": 134657457,
+      "creationTime": 1636370930,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112717
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134657457"
+    },
+    {
+      "type": "codeforces",
+      "id": 134657400,
+      "creationTime": 1636370885,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112762
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134657400"
+    },
+    {
+      "type": "codeforces",
+      "id": 134657303,
+      "creationTime": 1636370819,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511112828
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "145C",
+        "name": "Lucky Subsequence",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/145/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/145/submission/134657303"
+    },
+    {
+      "type": "codeforces",
+      "id": 134651347,
+      "creationTime": 1636366396,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511117251
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "197A",
+        "name": "Plate Game",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/197/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/197/submission/134651347"
+    },
+    {
+      "type": "codeforces",
+      "id": 134651325,
+      "creationTime": 1636366369,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511117278
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "197A",
+        "name": "Plate Game",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/197/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/197/submission/134651325"
+    },
+    {
+      "type": "codeforces",
+      "id": 134646652,
+      "creationTime": 1636362609,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511121038
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "659C",
+        "name": "Tanya and Toys",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/659/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/659/submission/134646652"
+    },
+    {
+      "type": "codeforces",
+      "id": 134642175,
+      "creationTime": 1636359768,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511123879
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "27E",
+        "name": "Number With The Given Amount Of Divisors",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/27/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/27/submission/134642175"
+    },
+    {
+      "type": "codeforces",
+      "id": 134642096,
+      "creationTime": 1636359725,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511123922
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "27E",
+        "name": "Number With The Given Amount Of Divisors",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/27/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/27/submission/134642096"
+    },
+    {
+      "type": "codeforces",
+      "id": 134639859,
+      "creationTime": 1636358169,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511125478
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37E",
+        "name": "Trial for Chief",
+        "rating": 2600,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134639859"
+    },
+    {
+      "type": "codeforces",
+      "id": 134639837,
+      "creationTime": 1636358155,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511125492
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37E",
+        "name": "Trial for Chief",
+        "rating": 2600,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134639837"
+    },
+    {
+      "type": "codeforces",
+      "id": 134639685,
+      "creationTime": 1636358079,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511125568
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37E",
+        "name": "Trial for Chief",
+        "rating": 2600,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134639685"
+    },
+    {
+      "type": "codeforces",
+      "id": 134639611,
+      "creationTime": 1636358007,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511125640
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37E",
+        "name": "Trial for Chief",
+        "rating": 2600,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134639611"
+    },
+    {
+      "type": "codeforces",
+      "id": 134639238,
+      "creationTime": 1636357751,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511125896
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37E",
+        "name": "Trial for Chief",
+        "rating": 2600,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134639238"
+    },
+    {
+      "type": "codeforces",
+      "id": 134639175,
+      "creationTime": 1636357704,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511125943
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "37E",
+        "name": "Trial for Chief",
+        "rating": 2600,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/37/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/37/submission/134639175"
+    },
+    {
+      "type": "codeforces",
+      "id": 134623239,
+      "creationTime": 1636338795,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511144852
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1065B",
+        "name": "Vasya and Isolated Vertices",
+        "rating": 1300,
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1065/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1065/submission/134623239"
+    },
+    {
+      "type": "codeforces",
+      "id": 134622071,
+      "creationTime": 1636336050,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511147597
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "81C",
+        "name": "Average Score",
+        "rating": 1700,
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/81/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/81/submission/134622071"
+    },
+    {
+      "type": "codeforces",
+      "id": 134622066,
+      "creationTime": 1636336040,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511147607
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "81C",
+        "name": "Average Score",
+        "rating": 1700,
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/81/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/81/submission/134622066"
+    },
+    {
+      "type": "codeforces",
+      "id": 134621985,
+      "creationTime": 1636335876,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511147771
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "81C",
+        "name": "Average Score",
+        "rating": 1700,
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/81/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/81/submission/134621985"
+    },
+    {
+      "type": "codeforces",
+      "id": 134621441,
+      "creationTime": 1636334760,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511148887
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "652C",
+        "name": "Foe Pairs",
+        "rating": 1800,
+        "tags": [
+          "combinatorics",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/652/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/652/submission/134621441"
+    },
+    {
+      "type": "codeforces",
+      "id": 134619346,
+      "creationTime": 1636327378,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511156269
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "652A",
+        "name": "Gabriel and Caterpillar",
+        "rating": 1400,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/652/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/652/submission/134619346"
+    },
+    {
+      "type": "codeforces",
+      "id": 134619330,
+      "creationTime": 1636327330,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511156317
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "652A",
+        "name": "Gabriel and Caterpillar",
+        "rating": 1400,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/652/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/652/submission/134619330"
+    },
+    {
+      "type": "codeforces",
+      "id": 134619282,
+      "creationTime": 1636327194,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511156453
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "652A",
+        "name": "Gabriel and Caterpillar",
+        "rating": 1400,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/652/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/652/submission/134619282"
+    },
+    {
+      "type": "codeforces",
       "id": 134587900,
       "creationTime": 1636294188,
       "language": "GNU C++14",
