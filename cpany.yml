@@ -23,7 +23,9 @@ users:
     codeforces/handle: primojaypan
     luogu/handle: '21385'
   薛雨滢:
-    luogu/handle: '104225'
+    luogu/handle: 
+      -'104225'
+      -'56865'  
   刘晞昀:
     luogu/handle: '20723'
   陈雪阳:
