@@ -4,6 +4,50 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 61924308,
+      "creationTime": 1636203940,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "128241"
+        ],
+        "participantTime": 1636203940,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5657",
+        "name": "[CSP-S2019] 格雷码",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5657"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/61924308"
+    },
+    {
+      "type": "luogu",
+      "id": 61919525,
+      "creationTime": 1636201376,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "128241"
+        ],
+        "participantTime": 1636201376,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5657",
+        "name": "[CSP-S2019] 格雷码",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5657"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/61919525"
+    },
+    {
+      "type": "luogu",
       "id": 59526693,
       "creationTime": 1633788500,
       "language": "C++ 14",
@@ -9248,7 +9292,7 @@
   "luogu": {
     "name": "wqq_250_sb",
     "color": "gray",
-    "ranking": 118408,
+    "ranking": 123731,
     "slogan": null
   }
 }
