@@ -6,6 +6,86 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 135211829,
+      "creationTime": 1636774824,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1636769400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550C",
+        "name": "Manhattan Subarrays",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/135211829"
+    },
+    {
+      "type": "codeforces",
+      "id": 135207691,
+      "creationTime": 1636770277,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1636769400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550B",
+        "name": "Maximum Cost Deletion",
+        "rating": 1000,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/135207691"
+    },
+    {
+      "type": "codeforces",
+      "id": 135207197,
+      "creationTime": 1636769663,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1636769400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550A",
+        "name": "Find The Array",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/135207197"
+    },
+    {
+      "type": "codeforces",
       "id": 135131927,
       "creationTime": 1636730203,
       "language": "GNU C++14",
@@ -24,6 +104,7 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -51,6 +132,7 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -78,6 +160,7 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -105,6 +188,7 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -157,7 +241,8 @@
         "name": "A.M. Deviation",
         "rating": 800,
         "tags": [
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1605/problem/A"
       },

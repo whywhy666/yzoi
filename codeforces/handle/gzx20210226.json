@@ -6,6 +6,267 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 135267100,
+      "creationTime": 1636811803,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510671844
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "36D",
+        "name": "New Game with a Chess Piece",
+        "rating": 2300,
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/36/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/36/submission/135267100"
+    },
+    {
+      "type": "codeforces",
+      "id": 135266855,
+      "creationTime": 1636811672,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510671975
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "196B",
+        "name": "Infinite Maze",
+        "rating": 2000,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/196/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/196/submission/135266855"
+    },
+    {
+      "type": "codeforces",
+      "id": 135266603,
+      "creationTime": 1636811540,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510672107
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "10C",
+        "name": "Digital Root",
+        "rating": 2000,
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/10/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/10/submission/135266603"
+    },
+    {
+      "type": "codeforces",
+      "id": 135266460,
+      "creationTime": 1636811463,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510672184
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "501E",
+        "name": "Misha and Palindrome Degree",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/501/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/501/submission/135266460"
+    },
+    {
+      "type": "codeforces",
+      "id": 135264029,
+      "creationTime": 1636810024,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510673623
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "559C",
+        "name": "Gerald and Giant Chess",
+        "rating": 2200,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/559/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/559/submission/135264029"
+    },
+    {
+      "type": "codeforces",
+      "id": 135262711,
+      "creationTime": 1636809248,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510674399
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "566D",
+        "name": "Restructuring Company",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "dsu"
+        ],
+        "problemUrl": "https://codeforces.com/contest/566/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/566/submission/135262711"
+    },
+    {
+      "type": "codeforces",
+      "id": 135258344,
+      "creationTime": 1636806480,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510677167
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "578B",
+        "name": "\"Or\" Game",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/578/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/578/submission/135258344"
+    },
+    {
+      "type": "codeforces",
+      "id": 135257506,
+      "creationTime": 1636805930,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510677717
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "585B",
+        "name": "Phillip and Trains",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/585/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/585/submission/135257506"
+    },
+    {
+      "type": "codeforces",
+      "id": 135253293,
+      "creationTime": 1636803113,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510680534
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "590D",
+        "name": "Top Secret Task",
+        "rating": 2300,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/590/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/590/submission/135253293"
+    },
+    {
+      "type": "codeforces",
+      "id": 135251858,
+      "creationTime": 1636802174,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510681473
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "598E",
+        "name": "Chocolate Bar",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/598/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/598/submission/135251858"
+    },
+    {
+      "type": "codeforces",
       "id": 135133388,
       "creationTime": 1636730339,
       "language": "GNU C++14",
@@ -24,6 +285,7 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -51,6 +313,7 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -78,6 +341,7 @@
         "rating": 1400,
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -156,7 +420,8 @@
         "name": "A.M. Deviation",
         "rating": 800,
         "tags": [
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1605/problem/A"
       },
