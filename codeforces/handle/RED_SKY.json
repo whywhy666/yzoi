@@ -1,9 +1,139 @@
 {
-  "type": "codeforces/handle",
+  "type": "codeforces",
   "handle": "Red_Sky",
   "handleUrl": "https://codeforces.com/profile/Red_Sky",
   "avatar": "https://userpic.codeforces.org/no-title.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 137124367,
+      "creationTime": 1638014234,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509469413
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "9D",
+        "name": "How many trees?",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/9/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/9/submission/137124367"
+    },
+    {
+      "type": "codeforces",
+      "id": 137124115,
+      "creationTime": 1638014067,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509469580
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "9D",
+        "name": "How many trees?",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/9/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/9/submission/137124115"
+    },
+    {
+      "type": "codeforces",
+      "id": 137119086,
+      "creationTime": 1638010352,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509473295
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1593D1",
+        "name": "All are Same",
+        "rating": 1100,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1593/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1593/submission/137119086"
+    },
+    {
+      "type": "codeforces",
+      "id": 135331473,
+      "creationTime": 1636849922,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510633725
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "10C",
+        "name": "Digital Root",
+        "rating": 2000,
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/10/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/10/submission/135331473"
+    },
+    {
+      "type": "codeforces",
+      "id": 135331309,
+      "creationTime": 1636849321,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -510634326
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "10C",
+        "name": "Digital Root",
+        "rating": 2000,
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/10/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/10/submission/135331309"
+    },
     {
       "type": "codeforces",
       "id": 135263793,

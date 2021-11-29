@@ -1,7 +1,62 @@
 {
-  "type": "codeforces/handle",
+  "type": "codeforces",
   "handle": "lcy921",
   "handleUrl": "https://codeforces.com/profile/lcy921",
   "avatar": "https://userpic.codeforces.org/no-title.jpg",
-  "submissions": []
+  "submissions": [
+    {
+      "type": "codeforces",
+      "id": 137126735,
+      "creationTime": 1638016077,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1638014700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1614A",
+        "name": "Divan and a Store",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1614/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1614/submission/137126735"
+    },
+    {
+      "type": "codeforces",
+      "id": 137126663,
+      "creationTime": 1638016010,
+      "language": "GNU C11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1638014700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1614A",
+        "name": "Divan and a Store",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1614/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1614/submission/137126663"
+    }
+  ]
 }
