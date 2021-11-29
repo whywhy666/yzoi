@@ -4,6 +4,336 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 63658248,
+      "creationTime": 1637938642,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637938642,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1060",
+        "name": "[NOIP2006 普及组] 开心的金明",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1060"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63658248"
+    },
+    {
+      "type": "luogu",
+      "id": 63402677,
+      "creationTime": 1637629872,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637629872,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1496",
+        "name": "火烧赤壁",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1496"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63402677"
+    },
+    {
+      "type": "luogu",
+      "id": 63201853,
+      "creationTime": 1637414946,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637414946,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P7962",
+        "name": "[NOIP2021] 方差【民间数据】",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/P7962"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63201853"
+    },
+    {
+      "type": "luogu",
+      "id": 63201724,
+      "creationTime": 1637414909,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637414909,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P7961",
+        "name": "[NOIP2021] 数列【民间数据】",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/P7961"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63201724"
+    },
+    {
+      "type": "luogu",
+      "id": 63201567,
+      "creationTime": 1637414860,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637414860,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P7960",
+        "name": "[NOIP2021] 报数【民间数据】",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/P7960"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63201567"
+    },
+    {
+      "type": "luogu",
+      "id": 63200834,
+      "creationTime": 1637414614,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637414614,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P7960",
+        "name": "[NOIP2021] 报数【民间数据】",
+        "rating": 0,
+        "problemUrl": "https://www.luogu.com.cn/problem/P7960"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63200834"
+    },
+    {
+      "type": "luogu",
+      "id": 63006195,
+      "creationTime": 1637307084,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637307084,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P6754",
+        "name": "[BalticOI 2013 Day1] Palindrome-Free Numbers",
+        "rating": 6,
+        "problemUrl": "https://www.luogu.com.cn/problem/P6754"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63006195"
+    },
+    {
+      "type": "luogu",
+      "id": 63004411,
+      "creationTime": 1637306116,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637306116,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P6327",
+        "name": "区间加区间sin和",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P6327"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63004411"
+    },
+    {
+      "type": "luogu",
+      "id": 63003716,
+      "creationTime": 1637305712,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637305712,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P5937",
+        "name": "[CEOI1999]Parity Game",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P5937"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63003716"
+    },
+    {
+      "type": "luogu",
+      "id": 62878150,
+      "creationTime": 1637189507,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637189507,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T191183",
+        "name": "倒序输出（reverse)",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T191183"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/62878150"
+    },
+    {
+      "type": "luogu",
+      "id": 62878145,
+      "creationTime": 1637189440,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637189440,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/T",
+        "id": "T191183",
+        "name": "倒序输出（reverse)",
+        "rating": 1,
+        "problemUrl": "https://www.luogu.com.cn/problem/T191183"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/62878145"
+    },
+    {
+      "type": "luogu",
+      "id": 62816090,
+      "creationTime": 1637129726,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637129726,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P7925",
+        "name": "「EVOI-RD2」童年",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P7925"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/62816090"
+    },
+    {
+      "type": "luogu",
+      "id": 62815763,
+      "creationTime": 1637129372,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1637129372,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P7925",
+        "name": "「EVOI-RD2」童年",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P7925"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/62815763"
+    },
+    {
+      "type": "luogu",
+      "id": 62635118,
+      "creationTime": 1636938835,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1636938835,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1031",
+        "name": "[NOIP2002 提高组] 均分纸牌",
+        "rating": 2,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1031"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/62635118"
+    },
+    {
+      "type": "luogu",
+      "id": 62620368,
+      "creationTime": 1636897102,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "505924"
+        ],
+        "participantTime": 1636897102,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1896",
+        "name": "[SCOI2005]互不侵犯",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1896"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/62620368"
+    },
+    {
+      "type": "luogu",
       "id": 62479924,
       "creationTime": 1636795666,
       "language": "C++ 11",
@@ -10105,8 +10435,8 @@
   "handleUrl": "https://www.luogu.com.cn/user/505924",
   "luogu": {
     "name": "天亮codekiller",
-    "color": "green",
-    "ranking": 5990,
+    "color": "orange",
+    "ranking": 1509,
     "slogan": "T-competitor-ACking"
   }
 }

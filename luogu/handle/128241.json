@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 63720095,
+      "creationTime": 1637999208,
+      "language": "C++ 14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "128241"
+        ],
+        "participantTime": 1637999208,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P2196",
+        "name": "[NOIP1996 提高组] 挖地雷",
+        "rating": 3,
+        "problemUrl": "https://www.luogu.com.cn/problem/P2196"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/63720095"
+    },
+    {
+      "type": "luogu",
       "id": 61924308,
       "creationTime": 1636203940,
       "language": "C++ 14",
@@ -9291,8 +9313,8 @@
   "handleUrl": "https://www.luogu.com.cn/user/128241",
   "luogu": {
     "name": "wqq_250_sb",
-    "color": "gray",
-    "ranking": 123731,
-    "slogan": null
+    "color": "blue",
+    "ranking": 24984,
+    "slogan": ""
   }
 }
