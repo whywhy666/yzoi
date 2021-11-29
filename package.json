@@ -5,11 +5,11 @@
     "dev": "cpany dev --open"
   },
   "dependencies": {
-    "@cpany/cli": "0.0.61",
-    "@cpany/plugin-atcoder": "0.1.1",
-    "@cpany/plugin-codeforces": "0.1.1",
-    "@cpany/plugin-hdu": "0.1.1",
-    "@cpany/plugin-luogu": "0.1.1",
+    "@cpany/cli": "^0.1.6",
+    "@cpany/plugin-atcoder": "^0.1.6",
+    "@cpany/plugin-codeforces": "^0.1.6",
+    "@cpany/plugin-hdu": "^0.1.6",
+    "@cpany/plugin-luogu": "^0.1.6",
     "capture-website-cli": "^2.1.0"
   }
 }
