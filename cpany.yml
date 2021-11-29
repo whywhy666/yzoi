@@ -1,66 +1,50 @@
 users:
   tourist:
-    codeforces/handle: tourist
-    atcoder/handle: tourist
+    handle/codeforces: tourist
+    handle/atcoder: tourist
   然然:
-    codeforces/handle: whywhy666
-    atcoder/handle: Sakurajima_Mai
-    luogu/handle: '261745'
+    handle/codeforces: whywhy666
+    handle/atcoder: Sakurajima_Mai
+    handle/luogu: '261745'
   陈陆洋:
-    codeforces/handle: dfoi_cly
-    luogu/handle: '223559'
+    handle/codeforces: dfoi_cly
+    handle/luogu: '223559'
   Primo Pan:
-    codeforces/handle: primojaypan
-    luogu/handle: '21385'
+    handle/codeforces: primojaypan
+    handle/luogu: '21385'
   徐恒奕:
-    luogu/handle: '25906'
+    handle/luogu: '25906'
   朱建豪:
-    luogu/handle: '491014'
+    handle/luogu: '491014'
   沈昱宏:
-    luogu/handle: '490363'
+    handle/luogu: '490363'
   洪天傲:
-    codeforces/handle: RED_SKY
-    luogu/handle: '381649'
+    handle/codeforces: RED_SKY
+    handle/luogu: '381649'
   陆重羽:
-    codeforces/handle: lcy921
-    luogu/handle: '501652'
+    handle/codeforces: lcy921
+    handle/luogu: '501652'
   沈楚骏:
-    luogu/handle: '248346'
+    handle/luogu: '248346'
   郭振轩:
-    codeforces/handle: gzx20210226
-    luogu/handle: '505924'
+    handle/codeforces: gzx20210226
+    handle/luogu: '505924'
   蔡沐阳:
-    luogu/handle: '534455'
+    handle/luogu: '534455'
   陈化之:
-    codeforces/handle: little_bird
-    luogu/handle: '592089'
+    handle/codeforces: little_bird
+    handle/luogu: '592089'
   张钧哲:
-    luogu/handle: '128241'
+    handle/luogu: '128241'
   王梓恒:
-    luogu/handle: '363629'
-    
-handles:
-  - codeforces/handle
-  - atcoder/handle
-  - luogu/handle
-  - hdu/handle
+    handle/luogu: '363629'
 
 contests:
-  - codeforces/contest.json
-  - codeforces/gym-contest.json
-  - atcoder/contest.json
-  - nowcoder
-
-fetch:
-  - codeforces/contest.json
-  - codeforces/gym-contest.json
-  - atcoder/contest.json
-
-static:
-  - atcoder/contest.json
-  - nowcoder
+  # - nowcoder
 
 app:
   recentTime: 2592000 # 1 month
   recentContestsCount: 15
   recentUserCount: 5
+
+

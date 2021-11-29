@@ -1,0 +1,34 @@
+name: Upgrade CPany
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Upgrade version'
+        required: true
+        default: 'latest'
+
+jobs:
+  upgrade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Upgrade dep
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const deps = require('./package.json').dependencies;
+            const version = '${{ github.event.inputs.version }}';
+            for (const dep in deps) {
+              if (dep.startsWith('@cpany')) {
+                const cmd = `npm i ${dep}@${version}`;
+                await core.group(cmd, () => exec.exec(cmd));
+              }
+            }
+      - name: Push upgrade
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add package.json package-lock.json
+          git commit -m "Bump CPany to ${{ github.event.inputs.version }}"
+          git push

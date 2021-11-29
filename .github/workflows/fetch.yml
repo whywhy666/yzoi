@@ -1,7 +1,14 @@
-name: Fetch Luogu data
+name: Fetch data
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - cpany.yml
+  schedule:
+    - cron:  '0 21 * * *'
 
 jobs:
   update:
@@ -12,11 +19,13 @@ jobs:
       - uses: actions/checkout@v2
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
-      - name: Fetch luogu data
-        run: cpany fetch --plugins luogu --log error
-        env:
-          CLIENT_ID: ${{ secrets.LUOGU_CLIENT_ID }}
-          UID: ${{ secrets.LUOGU_UID }}
+      - name: Fetch data
+        run: cpany fetch --plugins codeforces --plugins hdu
+      - name: Capture Screenshot
+        run: |
+          cpany export --out screenshot --type png --page codeforces?sort=Rating
+          cpany export --out members --type png --page members
+          cpany export --out home --type png --page
       - name: Push
         run: |
           git config user.name "${{ github.actor }}"

@@ -1,4 +1,4 @@
-name: Fetch Luogu data
+name: Capture Screenshot
 
 on:
   workflow_dispatch:
@@ -7,16 +7,14 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Set Timezone
-        run: sudo timedatectl set-timezone "Asia/Shanghai"
       - uses: actions/checkout@v2
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
-      - name: Fetch luogu data
-        run: cpany fetch --plugins luogu --log error
-        env:
-          CLIENT_ID: ${{ secrets.LUOGU_CLIENT_ID }}
-          UID: ${{ secrets.LUOGU_UID }}
+      - name: Capture Screenshot
+        run: |
+          cpany export --out screenshot --type png --page codeforces?sort=Rating
+          cpany export --out members --type png --page members
+          cpany export --out home --type png --page
       - name: Push
         run: |
           git config user.name "${{ github.actor }}"
@@ -24,3 +22,7 @@ jobs:
           git add .
           git commit -m "Fetch data on $FETCH_TIME"
           git push
+      - uses: actions/upload-artifact@v2
+        with:
+          name: screenshot
+          path: screenshot.png

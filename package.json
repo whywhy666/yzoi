@@ -1,10 +1,15 @@
 {
   "private": true,
   "scripts": {
-    "dev": "cpany dev",
-    "build": "cpany build"
+    "build": "cpany build",
+    "dev": "cpany dev --open"
   },
   "dependencies": {
-    "@cpany/cli": "0.0.61"
+    "@cpany/cli": "0.0.61",
+    "@cpany/plugin-atcoder": "0.1.1",
+    "@cpany/plugin-codeforces": "0.1.1",
+    "@cpany/plugin-hdu": "0.1.1",
+    "@cpany/plugin-luogu": "0.1.1",
+    "capture-website-cli": "^2.1.0"
   }
 }
