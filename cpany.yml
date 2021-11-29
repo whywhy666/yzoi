@@ -47,4 +47,8 @@ app:
   recentContestsCount: 15
   recentUserCount: 5
 
-
+plugins:
+  - '@cpany/plugin-codeforces'
+  - '@cpany/plugin-atcoder'
+  - '@cpany/plugin-hdu'
+  - '@cpany/plugin-luogu'
