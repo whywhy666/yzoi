@@ -6,6 +6,240 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 137516064,
+      "creationTime": 1638276785,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509206862
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137516064"
+    },
+    {
+      "type": "codeforces",
+      "id": 137515851,
+      "creationTime": 1638276655,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509206992
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137515851"
+    },
+    {
+      "type": "codeforces",
+      "id": 137515812,
+      "creationTime": 1638276635,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509207012
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137515812"
+    },
+    {
+      "type": "codeforces",
+      "id": 137515372,
+      "creationTime": 1638276335,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509207312
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137515372"
+    },
+    {
+      "type": "codeforces",
+      "id": 137515244,
+      "creationTime": 1638276246,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509207401
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137515244"
+    },
+    {
+      "type": "codeforces",
+      "id": 137380241,
+      "creationTime": 1638232003,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509251644
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137380241"
+    },
+    {
+      "type": "codeforces",
+      "id": 137380207,
+      "creationTime": 1638231919,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509251728
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137380207"
+    },
+    {
+      "type": "codeforces",
+      "id": 137380063,
+      "creationTime": 1638231508,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509252139
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137380063"
+    },
+    {
+      "type": "codeforces",
+      "id": 137379885,
+      "creationTime": 1638230965,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509252682
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "671B",
+        "name": "Robin Hood",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/671/submission/137379885"
+    },
+    {
+      "type": "codeforces",
       "id": 137353895,
       "creationTime": 1638200534,
       "language": "GNU C++14",

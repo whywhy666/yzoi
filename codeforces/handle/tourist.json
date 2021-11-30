@@ -76,7 +76,8 @@
           "binary search",
           "data structures",
           "divide and conquer",
-          "meet-in-the-middle"
+          "meet-in-the-middle",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1609/problem/F"
       },
@@ -102,7 +103,6 @@
         "rating": 2400,
         "tags": [
           "data structures",
-          "divide and conquer",
           "dp",
           "matrices"
         ],
