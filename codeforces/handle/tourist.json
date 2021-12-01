@@ -73,7 +73,6 @@
         "name": "Interesting Sections",
         "rating": 2800,
         "tags": [
-          "binary search",
           "data structures",
           "divide and conquer",
           "meet-in-the-middle",
@@ -102,6 +101,7 @@
         "name": "William The Oblivious ",
         "rating": 2400,
         "tags": [
+          "bitmasks",
           "data structures",
           "dp",
           "matrices"

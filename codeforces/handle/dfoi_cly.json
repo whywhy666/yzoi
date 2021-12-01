@@ -6,6 +6,325 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 137704180,
+      "creationTime": 1638376399,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137704180"
+    },
+    {
+      "type": "codeforces",
+      "id": 137702634,
+      "creationTime": 1638376227,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137702634"
+    },
+    {
+      "type": "codeforces",
+      "id": 137699825,
+      "creationTime": 1638375866,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137699825"
+    },
+    {
+      "type": "codeforces",
+      "id": 137699056,
+      "creationTime": 1638375762,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137699056"
+    },
+    {
+      "type": "codeforces",
+      "id": 137698745,
+      "creationTime": 1638375717,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137698745"
+    },
+    {
+      "type": "codeforces",
+      "id": 137697682,
+      "creationTime": 1638375578,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137697682"
+    },
+    {
+      "type": "codeforces",
+      "id": 137697076,
+      "creationTime": 1638375497,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137697076"
+    },
+    {
+      "type": "codeforces",
+      "id": 137661446,
+      "creationTime": 1638371533,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613C",
+        "name": "Poisoned Dagger",
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137661446"
+    },
+    {
+      "type": "codeforces",
+      "id": 137660646,
+      "creationTime": 1638371469,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613C",
+        "name": "Poisoned Dagger",
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137660646"
+    },
+    {
+      "type": "codeforces",
+      "id": 137648329,
+      "creationTime": 1638370613,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613B",
+        "name": "Absent Remainder",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137648329"
+    },
+    {
+      "type": "codeforces",
+      "id": 137640746,
+      "creationTime": 1638370178,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613A",
+        "name": "Long Comparison",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137640746"
+    },
+    {
+      "type": "codeforces",
+      "id": 137636296,
+      "creationTime": 1638369941,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613A",
+        "name": "Long Comparison",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137636296"
+    },
+    {
+      "type": "codeforces",
+      "id": 137632054,
+      "creationTime": 1638369718,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613A",
+        "name": "Long Comparison",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137632054"
+    },
+    {
+      "type": "codeforces",
       "id": 137516064,
       "creationTime": 1638276785,
       "language": "GNU C++14",
