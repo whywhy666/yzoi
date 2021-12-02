@@ -6,6 +6,363 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 137784653,
+      "creationTime": 1638448839,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509034808
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137784653"
+    },
+    {
+      "type": "codeforces",
+      "id": 137784573,
+      "creationTime": 1638448798,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509034849
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137784573"
+    },
+    {
+      "type": "codeforces",
+      "id": 137783776,
+      "creationTime": 1638448341,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509035306
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137783776"
+    },
+    {
+      "type": "codeforces",
+      "id": 137783487,
+      "creationTime": 1638448183,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509035464
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137783487"
+    },
+    {
+      "type": "codeforces",
+      "id": 137782996,
+      "creationTime": 1638447914,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509035733
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137782996"
+    },
+    {
+      "type": "codeforces",
+      "id": 137781973,
+      "creationTime": 1638447342,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509036305
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137781973"
+    },
+    {
+      "type": "codeforces",
+      "id": 137781608,
+      "creationTime": 1638447151,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509036496
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137781608"
+    },
+    {
+      "type": "codeforces",
+      "id": 137780490,
+      "creationTime": 1638446558,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509037089
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137780490"
+    },
+    {
+      "type": "codeforces",
+      "id": 137772270,
+      "creationTime": 1638441523,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509042124
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137772270"
+    },
+    {
+      "type": "codeforces",
+      "id": 137764282,
+      "creationTime": 1638435892,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509047755
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613C",
+        "name": "Poisoned Dagger",
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137764282"
+    },
+    {
+      "type": "codeforces",
+      "id": 137763380,
+      "creationTime": 1638435264,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509048383
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613B",
+        "name": "Absent Remainder",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137763380"
+    },
+    {
+      "type": "codeforces",
+      "id": 137763196,
+      "creationTime": 1638435153,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509048494
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613B",
+        "name": "Absent Remainder",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137763196"
+    },
+    {
+      "type": "codeforces",
+      "id": 137762811,
+      "creationTime": 1638434890,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509048757
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613A",
+        "name": "Long Comparison",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137762811"
+    },
+    {
+      "type": "codeforces",
+      "id": 137762133,
+      "creationTime": 1638434478,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509049169
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613A",
+        "name": "Long Comparison",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137762133"
+    },
+    {
+      "type": "codeforces",
       "id": 137530649,
       "creationTime": 1638285819,
       "language": "GNU C++20 (64)",

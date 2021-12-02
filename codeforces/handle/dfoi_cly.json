@@ -6,6 +6,246 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 137801634,
+      "creationTime": 1638458588,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509025059
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1609D",
+        "name": "Social Network",
+        "rating": 1600,
+        "tags": [
+          "dsu",
+          "graphs",
+          "greedy",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1609/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1609/submission/137801634"
+    },
+    {
+      "type": "codeforces",
+      "id": 137801612,
+      "creationTime": 1638458576,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509025071
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1609C",
+        "name": "Complex Market Analysis",
+        "rating": 1400,
+        "tags": [
+          "binary search",
+          "dp",
+          "implementation",
+          "number theory",
+          "schedules",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1609/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1609/submission/137801612"
+    },
+    {
+      "type": "codeforces",
+      "id": 137801595,
+      "creationTime": 1638458566,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509025081
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1609B",
+        "name": "William the Vigilant",
+        "rating": 1100,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1609/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1609/submission/137801595"
+    },
+    {
+      "type": "codeforces",
+      "id": 137801575,
+      "creationTime": 1638458560,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509025087
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1609A",
+        "name": "Divide and Multiply",
+        "rating": 900,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1609/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1609/submission/137801575"
+    },
+    {
+      "type": "codeforces",
+      "id": 137797879,
+      "creationTime": 1638456512,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509027135
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1610C",
+        "name": "Keshi Is Throwing a Party",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1610/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1610/submission/137797879"
+    },
+    {
+      "type": "codeforces",
+      "id": 137797857,
+      "creationTime": 1638456498,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509027149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1610B",
+        "name": "Kalindrome Array",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1610/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1610/submission/137797857"
+    },
+    {
+      "type": "codeforces",
+      "id": 137797837,
+      "creationTime": 1638456489,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509027158
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1610A",
+        "name": "Anti Light's Cell Guessing",
+        "rating": 900,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1610/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1610/submission/137797837"
+    },
+    {
+      "type": "codeforces",
+      "id": 137744109,
+      "creationTime": 1638420492,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509063155
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137744109"
+    },
+    {
+      "type": "codeforces",
+      "id": 137743968,
+      "creationTime": 1638420359,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509063288
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137743968"
+    },
+    {
+      "type": "codeforces",
       "id": 137704180,
       "creationTime": 1638376399,
       "language": "GNU C++14",
@@ -22,8 +262,8 @@
         "id": "1613D",
         "name": "MEX Sequences",
         "tags": [
-          "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/D"
       },
@@ -47,8 +287,8 @@
         "id": "1613D",
         "name": "MEX Sequences",
         "tags": [
-          "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/D"
       },
@@ -72,8 +312,8 @@
         "id": "1613D",
         "name": "MEX Sequences",
         "tags": [
-          "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/D"
       },
@@ -97,8 +337,8 @@
         "id": "1613D",
         "name": "MEX Sequences",
         "tags": [
-          "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/D"
       },
@@ -122,8 +362,8 @@
         "id": "1613D",
         "name": "MEX Sequences",
         "tags": [
-          "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/D"
       },
@@ -147,8 +387,8 @@
         "id": "1613D",
         "name": "MEX Sequences",
         "tags": [
-          "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/D"
       },
@@ -172,8 +412,8 @@
         "id": "1613D",
         "name": "MEX Sequences",
         "tags": [
-          "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/D"
       },
@@ -245,7 +485,8 @@
         "id": "1613B",
         "name": "Absent Remainder",
         "tags": [
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/B"
       },
@@ -269,7 +510,8 @@
         "id": "1613A",
         "name": "Long Comparison",
         "tags": [
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/A"
       },
@@ -293,7 +535,8 @@
         "id": "1613A",
         "name": "Long Comparison",
         "tags": [
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/A"
       },
@@ -317,7 +560,8 @@
         "id": "1613A",
         "name": "Long Comparison",
         "tags": [
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1613/problem/A"
       },
@@ -21352,9 +21596,9 @@
     }
   ],
   "codeforces": {
-    "rank": "expert",
-    "rating": 1603,
+    "rank": "specialist",
+    "rating": 1579,
     "maxRank": "expert",
-    "maxRating": 1603
+    "maxRating": 1604
   }
 }
