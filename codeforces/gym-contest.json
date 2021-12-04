@@ -11945,6 +11945,17 @@
     "standingsUrl": "https://codeforces.com/gym/102896/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The 3rd Hangzhou Normal University Freshman Programming Contest",
+    "startTime": 1607832000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 102897,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/102897",
+    "standingsUrl": "https://codeforces.com/gym/102897/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Innopolis Open 2020-2021, qualification, contest 2",
     "duration": 18000,
@@ -11953,6 +11964,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/102898",
     "standingsUrl": "https://codeforces.com/gym/102898/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2nd Hangzhou Normal University Freshman Programming Contest",
+    "startTime": 1576987200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 102899,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/102899",
+    "standingsUrl": "https://codeforces.com/gym/102899/standings"
   },
   {
     "type": "codeforces/gym/icpc",
@@ -12585,6 +12607,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103113",
     "standingsUrl": "https://codeforces.com/gym/103113/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2021 Hangzhou Normal U Summer Trials",
+    "startTime": 1622264400,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103114,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103114",
+    "standingsUrl": "https://codeforces.com/gym/103114/standings"
   },
   {
     "type": "codeforces/gym/icpc",
@@ -13473,5 +13506,68 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103448",
     "standingsUrl": "https://codeforces.com/gym/103448/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Krosh Kaliningrad Contest 2",
+    "startTime": 1638615600,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103451,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103451",
+    "standingsUrl": "https://codeforces.com/gym/103451/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 12-03-21 Div. 2 (Beginner)",
+    "startTime": 1638576300,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103455,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103455",
+    "standingsUrl": "https://codeforces.com/gym/103455/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 12-03-21 Div. 1 (Advanced)",
+    "startTime": 1638576300,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103456,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103456",
+    "standingsUrl": "https://codeforces.com/gym/103456/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2021-2022, Вторая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103457,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103457",
+    "standingsUrl": "https://codeforces.com/gym/103457/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2021-2022, Третья командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103458,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103458",
+    "standingsUrl": "https://codeforces.com/gym/103458/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "The second stage of the Republican Olympiad in Informatics. Mogilev region, 2021.",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103464,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103464",
+    "standingsUrl": "https://codeforces.com/gym/103464/standings"
   }
 ]
