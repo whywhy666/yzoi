@@ -6,6 +6,395 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 138082395,
+      "creationTime": 1638697875,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508785772
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138082395"
+    },
+    {
+      "type": "codeforces",
+      "id": 138082368,
+      "creationTime": 1638697856,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508785791
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138082368"
+    },
+    {
+      "type": "codeforces",
+      "id": 138082260,
+      "creationTime": 1638697784,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508785863
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138082260"
+    },
+    {
+      "type": "codeforces",
+      "id": 138082084,
+      "creationTime": 1638697651,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508785996
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138082084"
+    },
+    {
+      "type": "codeforces",
+      "id": 138082004,
+      "creationTime": 1638697584,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508786063
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138082004"
+    },
+    {
+      "type": "codeforces",
+      "id": 138081968,
+      "creationTime": 1638697554,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508786093
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138081968"
+    },
+    {
+      "type": "codeforces",
+      "id": 138081825,
+      "creationTime": 1638697456,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508786191
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138081825"
+    },
+    {
+      "type": "codeforces",
+      "id": 138081787,
+      "creationTime": 1638697415,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508786232
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138081787"
+    },
+    {
+      "type": "codeforces",
+      "id": 138081649,
+      "creationTime": 1638697308,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508786339
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534C",
+        "name": "Polycarpus' Dice",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138081649"
+    },
+    {
+      "type": "codeforces",
+      "id": 138039594,
+      "creationTime": 1638674819,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508808828
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534A",
+        "name": "Exam",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138039594"
+    },
+    {
+      "type": "codeforces",
+      "id": 138039585,
+      "creationTime": 1638674791,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508808856
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "525B",
+        "name": "Pasha and String",
+        "rating": 1400,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/525/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/525/submission/138039585"
+    },
+    {
+      "type": "codeforces",
+      "id": 138039573,
+      "creationTime": 1638674750,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508808897
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "525B",
+        "name": "Pasha and String",
+        "rating": 1400,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/525/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/525/submission/138039573"
+    },
+    {
+      "type": "codeforces",
+      "id": 138039086,
+      "creationTime": 1638673634,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508810013
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534A",
+        "name": "Exam",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138039086"
+    },
+    {
+      "type": "codeforces",
+      "id": 138037542,
+      "creationTime": 1638669991,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508813656
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534B",
+        "name": "Covered Path",
+        "rating": 1400,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138037542"
+    },
+    {
+      "type": "codeforces",
+      "id": 138037222,
+      "creationTime": 1638669239,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508814408
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534B",
+        "name": "Covered Path",
+        "rating": 1400,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/138037222"
+    },
+    {
+      "type": "codeforces",
       "id": 137801634,
       "creationTime": 1638458588,
       "language": "GNU C++14",

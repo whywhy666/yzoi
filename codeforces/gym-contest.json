@@ -13467,6 +13467,7 @@
   {
     "type": "codeforces/gym/icpc",
     "name": "The 2021 ICPC Asia Taipei Regional Programming Contest",
+    "startTime": 1638063000,
     "duration": 18000,
     "participantNumber": 0,
     "id": 103443,
@@ -13569,5 +13570,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103464",
     "standingsUrl": "https://codeforces.com/gym/103464/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2019 ICPC Asia Nanjing Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103466,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103466",
+    "standingsUrl": "https://codeforces.com/gym/103466/standings"
   }
 ]
