@@ -4,6 +4,50 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 64259221,
+      "creationTime": 1638605455,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "21385"
+        ],
+        "participantTime": 1638605455,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1080",
+        "name": "[NOIP2012 提高组] 国王游戏",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1080"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/64259221"
+    },
+    {
+      "type": "luogu",
+      "id": 64259017,
+      "creationTime": 1638605373,
+      "language": "C++ 11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "21385"
+        ],
+        "participantTime": 1638605373,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1080",
+        "name": "[NOIP2012 提高组] 国王游戏",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1080"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/64259017"
+    },
+    {
+      "type": "luogu",
       "id": 55557587,
       "creationTime": 1628663837,
       "language": "C++ 11",
@@ -17168,7 +17212,7 @@
   "luogu": {
     "name": "PrimoPan",
     "color": "blue",
-    "ranking": 72467,
+    "ranking": 72703,
     "slogan": ""
   }
 }
