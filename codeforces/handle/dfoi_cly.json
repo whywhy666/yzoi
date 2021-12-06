@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 138272931,
+      "creationTime": 1638805703,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508677944
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "525A",
+        "name": "Vitaliy and Pie",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "hashing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/525/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/525/submission/138272931"
+    },
+    {
+      "type": "codeforces",
       "id": 138082395,
       "creationTime": 1638697875,
       "language": "GNU C++14",
