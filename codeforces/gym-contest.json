@@ -13580,5 +13580,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103466",
     "standingsUrl": "https://codeforces.com/gym/103466/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Липецке 2021 (9-11 классы)",
+    "startTime": 1638856800,
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 103471,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103471",
+    "standingsUrl": "https://codeforces.com/gym/103471/standings"
   }
 ]
