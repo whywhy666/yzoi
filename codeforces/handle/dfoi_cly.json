@@ -6,6 +6,215 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 138558330,
+      "creationTime": 1639066208,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508417439
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1580A",
+        "name": "Portal",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1580/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1580/submission/138558330"
+    },
+    {
+      "type": "codeforces",
+      "id": 138545145,
+      "creationTime": 1639058271,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508425376
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "630B",
+        "name": "Moore's Law",
+        "rating": 1200,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/630/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/630/submission/138545145"
+    },
+    {
+      "type": "codeforces",
+      "id": 138545105,
+      "creationTime": 1639058243,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508425404
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "630B",
+        "name": "Moore's Law",
+        "rating": 1200,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/630/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/630/submission/138545105"
+    },
+    {
+      "type": "codeforces",
+      "id": 138543499,
+      "creationTime": 1639057272,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508426375
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "611C",
+        "name": "New Year and Domino",
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/611/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/611/submission/138543499"
+    },
+    {
+      "type": "codeforces",
+      "id": 138543047,
+      "creationTime": 1639057022,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508426625
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "611C",
+        "name": "New Year and Domino",
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/611/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/611/submission/138543047"
+    },
+    {
+      "type": "codeforces",
+      "id": 138543028,
+      "creationTime": 1639057005,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508426642
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "611C",
+        "name": "New Year and Domino",
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/611/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/611/submission/138543028"
+    },
+    {
+      "type": "codeforces",
+      "id": 138538729,
+      "creationTime": 1639054163,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508429484
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1559C",
+        "name": "Mocha and Hiking",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1559/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1559/submission/138538729"
+    },
+    {
+      "type": "codeforces",
+      "id": 138538697,
+      "creationTime": 1639054146,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508429501
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1559C",
+        "name": "Mocha and Hiking",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1559/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1559/submission/138538697"
+    },
+    {
+      "type": "codeforces",
       "id": 138458719,
       "creationTime": 1638977288,
       "language": "GNU C++14",
