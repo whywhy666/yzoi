@@ -13509,6 +13509,17 @@
     "standingsUrl": "https://codeforces.com/gym/103448/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Infoleague Winter 2021 Training Round",
+    "startTime": 1638626400,
+    "duration": 604800,
+    "participantNumber": 0,
+    "id": 103449,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103449",
+    "standingsUrl": "https://codeforces.com/gym/103449/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "Krosh Kaliningrad Contest 2",
     "startTime": 1638615600,
@@ -13591,5 +13602,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103471",
     "standingsUrl": "https://codeforces.com/gym/103471/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Innopolis Open 2021-2022. Second qualification round",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103476,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103476",
+    "standingsUrl": "https://codeforces.com/gym/103476/standings"
   }
 ]

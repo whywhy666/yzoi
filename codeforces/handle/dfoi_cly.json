@@ -6,6 +6,460 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 138776758,
+      "creationTime": 1639227839,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508255808
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608C",
+        "name": "Game Master",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138776758"
+    },
+    {
+      "type": "codeforces",
+      "id": 138776614,
+      "creationTime": 1639227754,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508255893
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608C",
+        "name": "Game Master",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138776614"
+    },
+    {
+      "type": "codeforces",
+      "id": 138748958,
+      "creationTime": 1639220741,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639217100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608C",
+        "name": "Game Master",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138748958"
+    },
+    {
+      "type": "codeforces",
+      "id": 138748220,
+      "creationTime": 1639220614,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639217100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608C",
+        "name": "Game Master",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138748220"
+    },
+    {
+      "type": "codeforces",
+      "id": 138746763,
+      "creationTime": 1639220375,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639217100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608C",
+        "name": "Game Master",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138746763"
+    },
+    {
+      "type": "codeforces",
+      "id": 138737098,
+      "creationTime": 1639218836,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639217100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608B",
+        "name": "Build the Permutation",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138737098"
+    },
+    {
+      "type": "codeforces",
+      "id": 138735770,
+      "creationTime": 1639218622,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639217100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608B",
+        "name": "Build the Permutation",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138735770"
+    },
+    {
+      "type": "codeforces",
+      "id": 138721726,
+      "creationTime": 1639217193,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639217100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608A",
+        "name": "Find Array",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/138721726"
+    },
+    {
+      "type": "codeforces",
+      "id": 138713011,
+      "creationTime": 1639211511,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508272136
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1542C",
+        "name": "Strange Function",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1542/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1542/submission/138713011"
+    },
+    {
+      "type": "codeforces",
+      "id": 138698551,
+      "creationTime": 1639199453,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508284194
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1555D",
+        "name": "Say No to Palindromes",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1555/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1555/submission/138698551"
+    },
+    {
+      "type": "codeforces",
+      "id": 138690596,
+      "creationTime": 1639186728,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508296919
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1548B",
+        "name": "Integers Have Friends",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "divide and conquer",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1548/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1548/submission/138690596"
+    },
+    {
+      "type": "codeforces",
+      "id": 138690578,
+      "creationTime": 1639186701,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508296946
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1548B",
+        "name": "Integers Have Friends",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "divide and conquer",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1548/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1548/submission/138690578"
+    },
+    {
+      "type": "codeforces",
+      "id": 138690535,
+      "creationTime": 1639186624,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508297023
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1548B",
+        "name": "Integers Have Friends",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "divide and conquer",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1548/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1548/submission/138690535"
+    },
+    {
+      "type": "codeforces",
+      "id": 138690496,
+      "creationTime": 1639186545,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508297102
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1548B",
+        "name": "Integers Have Friends",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "divide and conquer",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1548/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1548/submission/138690496"
+    },
+    {
+      "type": "codeforces",
+      "id": 138690462,
+      "creationTime": 1639186485,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508297162
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1548B",
+        "name": "Integers Have Friends",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "divide and conquer",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1548/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1548/submission/138690462"
+    },
+    {
+      "type": "codeforces",
+      "id": 138690270,
+      "creationTime": 1639186065,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508297582
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1548B",
+        "name": "Integers Have Friends",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "divide and conquer",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1548/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1548/submission/138690270"
+    },
+    {
+      "type": "codeforces",
       "id": 138558330,
       "creationTime": 1639066208,
       "language": "GNU C++14",
@@ -22606,7 +23060,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1579,
+    "rating": 1589,
     "maxRank": "expert",
     "maxRating": 1604
   }
