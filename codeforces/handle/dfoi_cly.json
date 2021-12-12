@@ -6,6 +6,389 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 138903872,
+      "creationTime": 1639325978,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639322100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1591C",
+        "name": "Minimize Distance",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1591/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1591/submission/138903872"
+    },
+    {
+      "type": "codeforces",
+      "id": 138878914,
+      "creationTime": 1639322802,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639322100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1591B",
+        "name": "Array Eversion",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1591/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1591/submission/138878914"
+    },
+    {
+      "type": "codeforces",
+      "id": 138877380,
+      "creationTime": 1639322707,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639322100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1591B",
+        "name": "Array Eversion",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1591/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1591/submission/138877380"
+    },
+    {
+      "type": "codeforces",
+      "id": 138871139,
+      "creationTime": 1639322363,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639322100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1591A",
+        "name": "Life of a Flower",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1591/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1591/submission/138871139"
+    },
+    {
+      "type": "codeforces",
+      "id": 138868590,
+      "creationTime": 1639321441,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508162206
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "714A",
+        "name": "Meeting of Old Friends",
+        "rating": 1100,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/714/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/714/submission/138868590"
+    },
+    {
+      "type": "codeforces",
+      "id": 138823785,
+      "creationTime": 1639278228,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508205419
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "535B",
+        "name": "Tavas and SaDDas",
+        "rating": 1100,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/535/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/535/submission/138823785"
+    },
+    {
+      "type": "codeforces",
+      "id": 138823567,
+      "creationTime": 1639277757,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508205890
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "535B",
+        "name": "Tavas and SaDDas",
+        "rating": 1100,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/535/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/535/submission/138823567"
+    },
+    {
+      "type": "codeforces",
+      "id": 138822439,
+      "creationTime": 1639275203,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508208444
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "545B",
+        "name": "Equidistant String",
+        "rating": 1100,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/545/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/545/submission/138822439"
+    },
+    {
+      "type": "codeforces",
+      "id": 138822426,
+      "creationTime": 1639275175,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508208472
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "545B",
+        "name": "Equidistant String",
+        "rating": 1100,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/545/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/545/submission/138822426"
+    },
+    {
+      "type": "codeforces",
+      "id": 138822322,
+      "creationTime": 1639274865,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508208782
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "545A",
+        "name": "Toy Cars",
+        "rating": 900,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/545/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/545/submission/138822322"
+    },
+    {
+      "type": "codeforces",
+      "id": 138821918,
+      "creationTime": 1639274035,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508209612
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "535A",
+        "name": "Tavas and Nafas",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/535/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/535/submission/138821918"
+    },
+    {
+      "type": "codeforces",
+      "id": 138821903,
+      "creationTime": 1639274004,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508209643
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "535A",
+        "name": "Tavas and Nafas",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/535/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/535/submission/138821903"
+    },
+    {
+      "type": "codeforces",
+      "id": 138821889,
+      "creationTime": 1639273972,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508209675
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "535A",
+        "name": "Tavas and Nafas",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/535/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/535/submission/138821889"
+    },
+    {
+      "type": "codeforces",
+      "id": 138821876,
+      "creationTime": 1639273938,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508209709
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "535A",
+        "name": "Tavas and Nafas",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/535/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/535/submission/138821876"
+    },
+    {
+      "type": "codeforces",
+      "id": 138821701,
+      "creationTime": 1639273424,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508210223
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "510A",
+        "name": "Fox And Snake",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/510/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/510/submission/138821701"
+    },
+    {
+      "type": "codeforces",
       "id": 138776758,
       "creationTime": 1639227839,
       "language": "GNU C++14",
@@ -23060,7 +23443,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1589,
+    "rating": 1590,
     "maxRank": "expert",
     "maxRating": 1604
   }
