@@ -13573,6 +13573,28 @@
     "standingsUrl": "https://codeforces.com/gym/103458/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The Hangzhou Normal U Qualification Trials for ZJPSC 2021",
+    "startTime": 1617165000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103462,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103462",
+    "standingsUrl": "https://codeforces.com/gym/103462/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The Hangzhou Normal U Qualification Trials for ZJPSC 2020",
+    "startTime": 1600232400,
+    "duration": 15600,
+    "participantNumber": 0,
+    "id": 103463,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103463",
+    "standingsUrl": "https://codeforces.com/gym/103463/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "The second stage of the Republican Olympiad in Informatics. Mogilev region, 2021.",
     "duration": 18000,
@@ -13595,6 +13617,7 @@
   {
     "type": "codeforces/gym/icpc",
     "name": "2021-2022 ACM-ICPC, Asia Nanjing Regional Contest (XXII Open Cup, Grand Prix of Nanjing)",
+    "startTime": 1638586800,
     "duration": 18000,
     "participantNumber": 0,
     "id": 103470,
@@ -13633,5 +13656,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103478",
     "standingsUrl": "https://codeforces.com/gym/103478/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 4th Hangzhou Normal University Freshman Programming Contest",
+    "startTime": 1639287000,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103480,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103480",
+    "standingsUrl": "https://codeforces.com/gym/103480/standings"
   }
 ]
