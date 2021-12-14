@@ -6,6 +6,338 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 139244402,
+      "creationTime": 1639493926,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639492500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618D",
+        "name": "Array and Operations",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139244402"
+    },
+    {
+      "type": "codeforces",
+      "id": 139238101,
+      "creationTime": 1639493482,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639492500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618C",
+        "name": "Paint the Array",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139238101"
+    },
+    {
+      "type": "codeforces",
+      "id": 139231569,
+      "creationTime": 1639493055,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639492500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618B",
+        "name": "Missing Bigram",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139231569"
+    },
+    {
+      "type": "codeforces",
+      "id": 139224356,
+      "creationTime": 1639492654,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639492500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618A",
+        "name": "Polycarp and Sums of Subsequences",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139224356"
+    },
+    {
+      "type": "codeforces",
+      "id": 139130953,
+      "creationTime": 1639480286,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508003361
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "35A",
+        "name": "Shell Game",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/35/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/35/submission/139130953"
+    },
+    {
+      "type": "codeforces",
+      "id": 139130761,
+      "creationTime": 1639480165,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508003482
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "35A",
+        "name": "Shell Game",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/35/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/35/submission/139130761"
+    },
+    {
+      "type": "codeforces",
+      "id": 139074253,
+      "creationTime": 1639462680,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508020967
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1296D",
+        "name": "Fight with Monsters",
+        "rating": 1500,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1296/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1296/submission/139074253"
+    },
+    {
+      "type": "codeforces",
+      "id": 139074237,
+      "creationTime": 1639462663,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508020984
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1296D",
+        "name": "Fight with Monsters",
+        "rating": 1500,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1296/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1296/submission/139074237"
+    },
+    {
+      "type": "codeforces",
+      "id": 139074159,
+      "creationTime": 1639462600,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508021047
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1296D",
+        "name": "Fight with Monsters",
+        "rating": 1500,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1296/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1296/submission/139074159"
+    },
+    {
+      "type": "codeforces",
+      "id": 139069248,
+      "creationTime": 1639462559,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508021088
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1296D",
+        "name": "Fight with Monsters",
+        "rating": 1500,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1296/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1296/submission/139069248"
+    },
+    {
+      "type": "codeforces",
+      "id": 139031958,
+      "creationTime": 1639441111,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508042536
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1611F",
+        "name": "ATM and Students",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1611/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1611/submission/139031958"
+    },
+    {
+      "type": "codeforces",
+      "id": 139031883,
+      "creationTime": 1639440908,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508042739
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1611F",
+        "name": "ATM and Students",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1611/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1611/submission/139031883"
+    },
+    {
+      "type": "codeforces",
+      "id": 139031815,
+      "creationTime": 1639440745,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -508042902
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1611F",
+        "name": "ATM and Students",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1611/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1611/submission/139031815"
+    },
+    {
+      "type": "codeforces",
       "id": 138903872,
       "creationTime": 1639325978,
       "language": "GNU C++14",
@@ -21,6 +353,7 @@
         "type": "codeforces",
         "id": "1591C",
         "name": "Minimize Distance",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -46,6 +379,7 @@
         "type": "codeforces",
         "id": "1591B",
         "name": "Array Eversion",
+        "rating": 900,
         "tags": [
           "greedy"
         ],
@@ -70,6 +404,7 @@
         "type": "codeforces",
         "id": "1591B",
         "name": "Array Eversion",
+        "rating": 900,
         "tags": [
           "greedy"
         ],
@@ -94,6 +429,7 @@
         "type": "codeforces",
         "id": "1591A",
         "name": "Life of a Flower",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -404,6 +740,7 @@
         "type": "codeforces",
         "id": "1608C",
         "name": "Game Master",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -433,6 +770,7 @@
         "type": "codeforces",
         "id": "1608C",
         "name": "Game Master",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -462,6 +800,7 @@
         "type": "codeforces",
         "id": "1608C",
         "name": "Game Master",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -491,6 +830,7 @@
         "type": "codeforces",
         "id": "1608C",
         "name": "Game Master",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -520,6 +860,7 @@
         "type": "codeforces",
         "id": "1608C",
         "name": "Game Master",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -549,6 +890,7 @@
         "type": "codeforces",
         "id": "1608B",
         "name": "Build the Permutation",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -574,6 +916,7 @@
         "type": "codeforces",
         "id": "1608B",
         "name": "Build the Permutation",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -599,6 +942,7 @@
         "type": "codeforces",
         "id": "1608A",
         "name": "Find Array",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -1250,6 +1594,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -1275,6 +1620,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -1300,6 +1646,7 @@
         "type": "codeforces",
         "id": "1613C",
         "name": "Poisoned Dagger",
+        "rating": 1200,
         "tags": [
           "binary search"
         ],
@@ -1324,6 +1671,7 @@
         "type": "codeforces",
         "id": "1613C",
         "name": "Poisoned Dagger",
+        "rating": 1200,
         "tags": [
           "binary search"
         ],
@@ -1348,6 +1696,7 @@
         "type": "codeforces",
         "id": "1613B",
         "name": "Absent Remainder",
+        "rating": 1000,
         "tags": [
           "greedy",
           "implementation",
@@ -1374,6 +1723,7 @@
         "type": "codeforces",
         "id": "1613A",
         "name": "Long Comparison",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -1399,6 +1749,7 @@
         "type": "codeforces",
         "id": "1613B",
         "name": "Absent Remainder",
+        "rating": 1000,
         "tags": [
           "greedy",
           "implementation",
@@ -1425,6 +1776,7 @@
         "type": "codeforces",
         "id": "1613A",
         "name": "Long Comparison",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -2056,6 +2408,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2081,6 +2434,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2106,6 +2460,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2131,6 +2486,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2156,6 +2512,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2181,6 +2538,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2206,6 +2564,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2231,6 +2590,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2256,6 +2616,7 @@
         "type": "codeforces",
         "id": "1613D",
         "name": "MEX Sequences",
+        "rating": 1900,
         "tags": [
           "dp",
           "math"
@@ -2281,6 +2642,7 @@
         "type": "codeforces",
         "id": "1613C",
         "name": "Poisoned Dagger",
+        "rating": 1200,
         "tags": [
           "binary search"
         ],
@@ -2305,6 +2667,7 @@
         "type": "codeforces",
         "id": "1613C",
         "name": "Poisoned Dagger",
+        "rating": 1200,
         "tags": [
           "binary search"
         ],
@@ -2329,6 +2692,7 @@
         "type": "codeforces",
         "id": "1613B",
         "name": "Absent Remainder",
+        "rating": 1000,
         "tags": [
           "greedy",
           "implementation",
@@ -2355,6 +2719,7 @@
         "type": "codeforces",
         "id": "1613A",
         "name": "Long Comparison",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -2380,6 +2745,7 @@
         "type": "codeforces",
         "id": "1613A",
         "name": "Long Comparison",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -2405,6 +2771,7 @@
         "type": "codeforces",
         "id": "1613A",
         "name": "Long Comparison",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
