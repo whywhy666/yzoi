@@ -6,6 +6,190 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 139409741,
+      "creationTime": 1639583492,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507900155
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608B",
+        "name": "Build the Permutation",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/139409741"
+    },
+    {
+      "type": "codeforces",
+      "id": 139409723,
+      "creationTime": 1639583483,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507900164
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608C",
+        "name": "Game Master",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/139409723"
+    },
+    {
+      "type": "codeforces",
+      "id": 139409712,
+      "creationTime": 1639583476,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507900171
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608B",
+        "name": "Build the Permutation",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/139409712"
+    },
+    {
+      "type": "codeforces",
+      "id": 139409701,
+      "creationTime": 1639583469,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507900178
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1608A",
+        "name": "Find Array",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1608/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1608/submission/139409701"
+    },
+    {
+      "type": "codeforces",
+      "id": 139409577,
+      "creationTime": 1639583386,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507900261
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1591C",
+        "name": "Minimize Distance",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1591/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1591/submission/139409577"
+    },
+    {
+      "type": "codeforces",
+      "id": 139409570,
+      "creationTime": 1639583380,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507900267
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1591B",
+        "name": "Array Eversion",
+        "rating": 900,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1591/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1591/submission/139409570"
+    },
+    {
+      "type": "codeforces",
+      "id": 139409556,
+      "creationTime": 1639583375,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507900272
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1591A",
+        "name": "Life of a Flower",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1591/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1591/submission/139409556"
+    },
+    {
+      "type": "codeforces",
       "id": 139244402,
       "creationTime": 1639493926,
       "language": "GNU C++14",
@@ -22,6 +206,7 @@
         "id": "1618D",
         "name": "Array and Operations",
         "tags": [
+          "dp",
           "greedy",
           "math"
         ],
@@ -23810,7 +23995,7 @@
   ],
   "codeforces": {
     "rank": "specialist",
-    "rating": 1562,
+    "rating": 1568,
     "maxRank": "expert",
     "maxRating": 1604
   }
