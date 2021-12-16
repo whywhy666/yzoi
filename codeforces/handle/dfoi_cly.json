@@ -205,6 +205,7 @@
         "type": "codeforces",
         "id": "1618D",
         "name": "Array and Operations",
+        "rating": 1300,
         "tags": [
           "dp",
           "greedy",
@@ -231,6 +232,7 @@
         "type": "codeforces",
         "id": "1618C",
         "name": "Paint the Array",
+        "rating": 1100,
         "tags": [
           "math"
         ],
@@ -255,6 +257,7 @@
         "type": "codeforces",
         "id": "1618B",
         "name": "Missing Bigram",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -279,8 +282,10 @@
         "type": "codeforces",
         "id": "1618A",
         "name": "Polycarp and Sums of Subsequences",
+        "rating": 800,
         "tags": [
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1618/problem/A"
       },

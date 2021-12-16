@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 139456061,
+      "creationTime": 1639638490,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507845157
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "5A",
+        "name": "Chat Servers Outgoing Traffic",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/5/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/5/submission/139456061"
+    },
+    {
+      "type": "codeforces",
       "id": 138303813,
       "creationTime": 1638838209,
       "language": "GNU C++14",
