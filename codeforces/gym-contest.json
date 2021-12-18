@@ -13677,5 +13677,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103483",
     "standingsUrl": "https://codeforces.com/gym/103483/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 15th Jilin Provincial Collegiate Programming Contest",
+    "startTime": 1638239400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103486,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103486",
+    "standingsUrl": "https://codeforces.com/gym/103486/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2021 Zhejiang University City College Freshman Programming Contest",
+    "startTime": 1639803600,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103488,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103488",
+    "standingsUrl": "https://codeforces.com/gym/103488/standings"
   }
 ]

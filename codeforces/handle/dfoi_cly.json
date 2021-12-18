@@ -6,6 +6,203 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 139791519,
+      "creationTime": 1639845022,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639841700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1620C",
+        "name": "BA-String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "greedy",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1620/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1620/submission/139791519"
+    },
+    {
+      "type": "codeforces",
+      "id": 139790569,
+      "creationTime": 1639844903,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639841700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1620C",
+        "name": "BA-String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "greedy",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1620/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1620/submission/139790569"
+    },
+    {
+      "type": "codeforces",
+      "id": 139788843,
+      "creationTime": 1639844684,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639841700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1620C",
+        "name": "BA-String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "greedy",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1620/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1620/submission/139788843"
+    },
+    {
+      "type": "codeforces",
+      "id": 139788109,
+      "creationTime": 1639844595,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639841700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1620C",
+        "name": "BA-String",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "greedy",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1620/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1620/submission/139788109"
+    },
+    {
+      "type": "codeforces",
+      "id": 139775920,
+      "creationTime": 1639843284,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639841700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1620B",
+        "name": "Triangles on a Rectangle",
+        "tags": [
+          "geometry",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1620/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1620/submission/139775920"
+    },
+    {
+      "type": "codeforces",
+      "id": 139773884,
+      "creationTime": 1639843099,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639841700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1620B",
+        "name": "Triangles on a Rectangle",
+        "tags": [
+          "geometry",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1620/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1620/submission/139773884"
+    },
+    {
+      "type": "codeforces",
+      "id": 139759265,
+      "creationTime": 1639842039,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1639841700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1620A",
+        "name": "Equal or Not Equal",
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1620/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1620/submission/139759265"
+    },
+    {
+      "type": "codeforces",
       "id": 139652250,
       "creationTime": 1639754481,
       "language": "GNU C++14",
