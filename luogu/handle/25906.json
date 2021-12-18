@@ -4,6 +4,50 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 65009069,
+      "creationTime": 1639477656,
+      "language": "C++ 17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "25906"
+        ],
+        "participantTime": 1639477656,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1242",
+        "name": "新汉诺塔",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1242"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65009069"
+    },
+    {
+      "type": "luogu",
+      "id": 65009055,
+      "creationTime": 1639477647,
+      "language": "C++ 17",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "25906"
+        ],
+        "participantTime": 1639477647,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1242",
+        "name": "新汉诺塔",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1242"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/65009055"
+    },
+    {
+      "type": "luogu",
       "id": 63397582,
       "creationTime": 1637594575,
       "language": "C++ 17",
@@ -40400,7 +40444,7 @@
   "luogu": {
     "name": "Rey_HR",
     "color": "green",
-    "ranking": 7620,
+    "ranking": 8100,
     "slogan": ""
   }
 }

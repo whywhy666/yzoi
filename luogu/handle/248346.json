@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 64611169,
+      "creationTime": 1639034847,
+      "language": "C++ 11",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "248346"
+        ],
+        "participantTime": 1639034847,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1004",
+        "name": "[NOIP2000 提高组] 方格取数",
+        "rating": 4,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1004"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/64611169"
+    },
+    {
+      "type": "luogu",
       "id": 63551153,
       "creationTime": 1637824785,
       "language": "C++ 11",
@@ -9952,7 +9974,7 @@
   "luogu": {
     "name": "yccj1",
     "color": "green",
-    "ranking": 14052,
+    "ranking": 14239,
     "slogan": ""
   }
 }

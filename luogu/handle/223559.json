@@ -4,6 +4,28 @@
   "submissions": [
     {
       "type": "luogu",
+      "id": 64738688,
+      "creationTime": 1639190352,
+      "language": "C++ 14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "223559"
+        ],
+        "participantTime": 1639190352,
+        "participantType": "PRACTICE"
+      },
+      "problem": {
+        "type": "luogu/P",
+        "id": "P1379",
+        "name": "八数码难题",
+        "rating": 5,
+        "problemUrl": "https://www.luogu.com.cn/problem/P1379"
+      },
+      "submissionUrl": "https://www.luogu.com.cn/record/64738688"
+    },
+    {
+      "type": "luogu",
       "id": 64084966,
       "creationTime": 1638427087,
       "language": "C++ 14",
@@ -23218,7 +23240,7 @@
   "luogu": {
     "name": "XL4453",
     "color": "red",
-    "ranking": 957,
+    "ranking": 351,
     "slogan": "时间是如此的流逝，向着目标的地方伸出双手，就仿佛接近了那遥远的地方。"
   }
 }
