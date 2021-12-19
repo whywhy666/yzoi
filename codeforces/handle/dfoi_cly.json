@@ -6,6 +6,109 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 139847822,
+      "creationTime": 1639877355,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507606292
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618D",
+        "name": "Array and Operations",
+        "rating": 1300,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139847822"
+    },
+    {
+      "type": "codeforces",
+      "id": 139847814,
+      "creationTime": 1639877348,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507606299
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618C",
+        "name": "Paint the Array",
+        "rating": 1100,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139847814"
+    },
+    {
+      "type": "codeforces",
+      "id": 139847811,
+      "creationTime": 1639877342,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507606305
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618B",
+        "name": "Missing Bigram",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139847811"
+    },
+    {
+      "type": "codeforces",
+      "id": 139847807,
+      "creationTime": 1639877331,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "dfoi_cly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507606316
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1618A",
+        "name": "Polycarp and Sums of Subsequences",
+        "rating": 800,
+        "tags": [
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1618/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1618/submission/139847807"
+    },
+    {
+      "type": "codeforces",
       "id": 139791519,
       "creationTime": 1639845022,
       "language": "GNU C++14",
@@ -22,13 +125,11 @@
         "id": "1620C",
         "name": "BA-String",
         "tags": [
-          "bitmasks",
           "brute force",
           "dp",
           "greedy",
           "implementation",
-          "math",
-          "shortest paths"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1620/problem/C"
       },
@@ -52,13 +153,11 @@
         "id": "1620C",
         "name": "BA-String",
         "tags": [
-          "bitmasks",
           "brute force",
           "dp",
           "greedy",
           "implementation",
-          "math",
-          "shortest paths"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1620/problem/C"
       },
@@ -82,13 +181,11 @@
         "id": "1620C",
         "name": "BA-String",
         "tags": [
-          "bitmasks",
           "brute force",
           "dp",
           "greedy",
           "implementation",
-          "math",
-          "shortest paths"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1620/problem/C"
       },
@@ -112,13 +209,11 @@
         "id": "1620C",
         "name": "BA-String",
         "tags": [
-          "bitmasks",
           "brute force",
           "dp",
           "greedy",
           "implementation",
-          "math",
-          "shortest paths"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1620/problem/C"
       },
@@ -195,6 +290,7 @@
         "name": "Equal or Not Equal",
         "tags": [
           "constructive algorithms",
+          "dsu",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1620/problem/A"
@@ -24250,9 +24346,9 @@
     }
   ],
   "codeforces": {
-    "rank": "specialist",
-    "rating": 1568,
+    "rank": "expert",
+    "rating": 1615,
     "maxRank": "expert",
-    "maxRating": 1604
+    "maxRating": 1615
   }
 }
