@@ -13680,6 +13680,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Copa Do Matão, University Of São Paulo Programming Contest",
+    "startTime": 1639933200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103485,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103485",
+    "standingsUrl": "https://codeforces.com/gym/103485/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 15th Jilin Provincial Collegiate Programming Contest",
     "startTime": 1638239400,
     "duration": 18000,
@@ -13699,5 +13710,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103488",
     "standingsUrl": "https://codeforces.com/gym/103488/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "1 Олимпиада Силаэдра",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103491,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103491",
+    "standingsUrl": "https://codeforces.com/gym/103491/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "China Collegiate Programming Contest 2021, Qualification Round (Online), Rematch",
+    "startTime": 1633838400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103492,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103492",
+    "standingsUrl": "https://codeforces.com/gym/103492/standings"
   }
 ]
