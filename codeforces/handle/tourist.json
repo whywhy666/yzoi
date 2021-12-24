@@ -6,6 +6,209 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 140507685,
+      "creationTime": 1640366686,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -507116961
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615H",
+        "name": "Reindeer Games",
+        "tags": [
+          "constructive algorithms",
+          "flows",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140507685"
+    },
+    {
+      "type": "codeforces",
+      "id": 140492296,
+      "creationTime": 1640362527,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615F",
+        "name": "LEGOndary Grandmaster",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140492296"
+    },
+    {
+      "type": "codeforces",
+      "id": 140487529,
+      "creationTime": 1640361568,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615G",
+        "name": "Maximum Adjacent Pairs",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140487529"
+    },
+    {
+      "type": "codeforces",
+      "id": 140466523,
+      "creationTime": 1640358175,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615D",
+        "name": "X(or)-mas Tree",
+        "tags": [
+          "2-sat",
+          "dsu",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140466523"
+    },
+    {
+      "type": "codeforces",
+      "id": 140464011,
+      "creationTime": 1640357865,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615E",
+        "name": "Purple Crayon",
+        "tags": [
+          "data structures",
+          "games",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140464011"
+    },
+    {
+      "type": "codeforces",
+      "id": 140453957,
+      "creationTime": 1640356887,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615C",
+        "name": "Menorah",
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140453957"
+    },
+    {
+      "type": "codeforces",
+      "id": 140449069,
+      "creationTime": 1640356642,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615A",
+        "name": "Closing The Gap",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140449069"
+    },
+    {
+      "type": "codeforces",
+      "id": 140448127,
+      "creationTime": 1640356605,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640356500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1615B",
+        "name": "And It's Non-Zero",
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1615/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1615/submission/140448127"
+    },
+    {
+      "type": "codeforces",
       "id": 137263072,
       "creationTime": 1638117956,
       "language": "GNU C++17 (64)",
