@@ -6,6 +6,417 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 141117613,
+      "creationTime": 1640798236,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616G",
+        "name": "Just Add an Edge",
+        "rating": 3500,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141117613"
+    },
+    {
+      "type": "codeforces",
+      "id": 141095274,
+      "creationTime": 1640795607,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616H",
+        "name": "Keep XOR Low",
+        "rating": 3000,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141095274"
+    },
+    {
+      "type": "codeforces",
+      "id": 141078524,
+      "creationTime": 1640794190,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616F",
+        "name": "Tricolor Triangles",
+        "rating": 2900,
+        "tags": [
+          "brute force",
+          "graphs",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141078524"
+    },
+    {
+      "type": "codeforces",
+      "id": 141059771,
+      "creationTime": 1640793042,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616D",
+        "name": "Keep the Average High",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141059771"
+    },
+    {
+      "type": "codeforces",
+      "id": 141053365,
+      "creationTime": 1640792754,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616C",
+        "name": "Representative Edges",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "geometry",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141053365"
+    },
+    {
+      "type": "codeforces",
+      "id": 141049454,
+      "creationTime": 1640792593,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616E",
+        "name": "Lexicographically Small Enough",
+        "rating": 2200,
+        "tags": [
+          "brute force",
+          "data structures",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141049454"
+    },
+    {
+      "type": "codeforces",
+      "id": 141042671,
+      "creationTime": 1640792342,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616B",
+        "name": "Mirror in the String",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141042671"
+    },
+    {
+      "type": "codeforces",
+      "id": 141039613,
+      "creationTime": 1640792252,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616B",
+        "name": "Mirror in the String",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141039613"
+    },
+    {
+      "type": "codeforces",
+      "id": 141038086,
+      "creationTime": 1640792181,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640792100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1616A",
+        "name": "Integer Diversity",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1616/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1616/submission/141038086"
+    },
+    {
+      "type": "codeforces",
+      "id": 140796824,
+      "creationTime": 1640619809,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640615700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622F",
+        "name": "Quadratic Set",
+        "rating": 2900,
+        "tags": [
+          "constructive algorithms",
+          "hashing",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/140796824"
+    },
+    {
+      "type": "codeforces",
+      "id": 140765216,
+      "creationTime": 1640616455,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640615700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622E",
+        "name": "Math Test",
+        "rating": 2200,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/140765216"
+    },
+    {
+      "type": "codeforces",
+      "id": 140761526,
+      "creationTime": 1640616251,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640615700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622D",
+        "name": "Shuffle",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/140761526"
+    },
+    {
+      "type": "codeforces",
+      "id": 140756712,
+      "creationTime": 1640616052,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640615700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622C",
+        "name": "Set or Decrease",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/140756712"
+    },
+    {
+      "type": "codeforces",
+      "id": 140752335,
+      "creationTime": 1640615879,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640615700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622B",
+        "name": "Berland Music",
+        "rating": 1000,
+        "tags": [
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/140752335"
+    },
+    {
+      "type": "codeforces",
+      "id": 140751413,
+      "creationTime": 1640615781,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1640615700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622A",
+        "name": "Construct a Rectangle",
+        "rating": 800,
+        "tags": [
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/140751413"
+    },
+    {
+      "type": "codeforces",
       "id": 140507685,
       "creationTime": 1640366686,
       "language": "GNU C++17 (64)",
@@ -21,8 +432,12 @@
         "type": "codeforces",
         "id": "1615H",
         "name": "Reindeer Games",
+        "rating": 3000,
         "tags": [
+          "binary search",
           "constructive algorithms",
+          "data structures",
+          "divide and conquer",
           "flows",
           "graphs",
           "shortest paths"
@@ -48,9 +463,11 @@
         "type": "codeforces",
         "id": "1615F",
         "name": "LEGOndary Grandmaster",
+        "rating": 2800,
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1615/problem/F"
       },
@@ -73,7 +490,11 @@
         "type": "codeforces",
         "id": "1615G",
         "name": "Maximum Adjacent Pairs",
-        "tags": [],
+        "rating": 3300,
+        "tags": [
+          "constructive algorithms",
+          "graph matchings"
+        ],
         "problemUrl": "https://codeforces.com/contest/1615/problem/G"
       },
       "submissionUrl": "https://codeforces.com/contest/1615/submission/140487529"
@@ -95,8 +516,10 @@
         "type": "codeforces",
         "id": "1615D",
         "name": "X(or)-mas Tree",
+        "rating": 2200,
         "tags": [
-          "2-sat",
+          "bitmasks",
+          "dfs and similar",
           "dsu",
           "graphs",
           "trees"
@@ -122,10 +545,15 @@
         "type": "codeforces",
         "id": "1615E",
         "name": "Purple Crayon",
+        "rating": 2400,
         "tags": [
           "data structures",
+          "dfs and similar",
           "games",
+          "graphs",
           "greedy",
+          "math",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1615/problem/E"
@@ -149,10 +577,12 @@
         "type": "codeforces",
         "id": "1615C",
         "name": "Menorah",
+        "rating": 1600,
         "tags": [
+          "brute force",
           "graphs",
           "greedy",
-          "shortest paths"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1615/problem/C"
       },
@@ -175,8 +605,10 @@
         "type": "codeforces",
         "id": "1615A",
         "name": "Closing The Gap",
+        "rating": 800,
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1615/problem/A"
       },
@@ -199,9 +631,11 @@
         "type": "codeforces",
         "id": "1615B",
         "name": "And It's Non-Zero",
+        "rating": 1300,
         "tags": [
           "bitmasks",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1615/problem/B"
       },
@@ -84277,7 +84711,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3870,
+    "rating": 3836,
     "maxRank": "legendary grandmaster",
     "maxRating": 3870
   }
