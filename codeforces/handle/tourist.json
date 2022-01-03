@@ -6,6 +6,235 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 141553669,
+      "creationTime": 1641226742,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621H",
+        "name": "Trains and Airplanes",
+        "tags": [
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141553669"
+    },
+    {
+      "type": "codeforces",
+      "id": 141550674,
+      "creationTime": 1641226323,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621H",
+        "name": "Trains and Airplanes",
+        "tags": [
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141550674"
+    },
+    {
+      "type": "codeforces",
+      "id": 141534378,
+      "creationTime": 1641224124,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621G",
+        "name": "Weighted Increasing Subsequences",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141534378"
+    },
+    {
+      "type": "codeforces",
+      "id": 141521114,
+      "creationTime": 1641222528,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621F",
+        "name": "Strange Instructions",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141521114"
+    },
+    {
+      "type": "codeforces",
+      "id": 141513060,
+      "creationTime": 1641221747,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621E",
+        "name": "New School",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141513060"
+    },
+    {
+      "type": "codeforces",
+      "id": 141508577,
+      "creationTime": 1641221397,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621D",
+        "name": "The Winter Hike",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141508577"
+    },
+    {
+      "type": "codeforces",
+      "id": 141501257,
+      "creationTime": 1641220966,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621C",
+        "name": "Hidden Permutations",
+        "tags": [
+          "dfs and similar",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141501257"
+    },
+    {
+      "type": "codeforces",
+      "id": 141497668,
+      "creationTime": 1641220745,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621B",
+        "name": "Integers Shop",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141497668"
+    },
+    {
+      "type": "codeforces",
+      "id": 141496713,
+      "creationTime": 1641220577,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1641220500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1621A",
+        "name": "Stable Arrangement of Rooks",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1621/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1621/submission/141496713"
+    },
+    {
+      "type": "codeforces",
       "id": 141117613,
       "creationTime": 1640798236,
       "language": "GNU C++17 (64)",
@@ -108,7 +337,6 @@
         "name": "Keep the Average High",
         "rating": 2000,
         "tags": [
-          "data structures",
           "dp",
           "greedy",
           "math"
@@ -271,7 +499,6 @@
         "tags": [
           "constructive algorithms",
           "hashing",
-          "implementation",
           "math",
           "number theory"
         ],
