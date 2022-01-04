@@ -23,7 +23,8 @@
         "name": "Trains and Airplanes",
         "tags": [
           "graphs",
-          "shortest paths"
+          "shortest paths",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1621/problem/H"
       },
@@ -48,7 +49,8 @@
         "name": "Trains and Airplanes",
         "tags": [
           "graphs",
-          "shortest paths"
+          "shortest paths",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1621/problem/H"
       },
@@ -97,7 +99,8 @@
         "id": "1621F",
         "name": "Strange Instructions",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1621/problem/F"
       },
@@ -84938,8 +84941,8 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3836,
+    "rating": 3911,
     "maxRank": "legendary grandmaster",
-    "maxRating": 3870
+    "maxRating": 3911
   }
 }

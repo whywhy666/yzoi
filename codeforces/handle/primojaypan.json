@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 141650658,
+      "creationTime": 1641306212,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -506177435
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1623C",
+        "name": "Balanced Stone Heaps",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1623/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1623/submission/141650658"
+    },
+    {
+      "type": "codeforces",
       "id": 134190640,
       "creationTime": 1635926606,
       "language": "GNU C++17",
