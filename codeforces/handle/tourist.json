@@ -22,6 +22,7 @@
         "id": "1621H",
         "name": "Trains and Airplanes",
         "tags": [
+          "dfs and similar",
           "graphs",
           "shortest paths",
           "trees"
@@ -48,6 +49,7 @@
         "id": "1621H",
         "name": "Trains and Airplanes",
         "tags": [
+          "dfs and similar",
           "graphs",
           "shortest paths",
           "trees"
@@ -99,6 +101,7 @@
         "id": "1621F",
         "name": "Strange Instructions",
         "tags": [
+          "data structures",
           "greedy",
           "implementation"
         ],
@@ -126,6 +129,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "dp",
           "greedy",
           "implementation",
           "sortings"
