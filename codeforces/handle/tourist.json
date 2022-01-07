@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1621H",
         "name": "Trains and Airplanes",
+        "rating": 3500,
         "tags": [
           "dfs and similar",
           "graphs",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1621H",
         "name": "Trains and Airplanes",
+        "rating": 3500,
         "tags": [
           "dfs and similar",
           "graphs",
@@ -75,9 +77,11 @@
         "type": "codeforces",
         "id": "1621G",
         "name": "Weighted Increasing Subsequences",
+        "rating": 3200,
         "tags": [
           "data structures",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1621/problem/G"
       },
@@ -100,6 +104,7 @@
         "type": "codeforces",
         "id": "1621F",
         "name": "Strange Instructions",
+        "rating": 2700,
         "tags": [
           "data structures",
           "greedy",
@@ -126,6 +131,7 @@
         "type": "codeforces",
         "id": "1621E",
         "name": "New School",
+        "rating": 2300,
         "tags": [
           "binary search",
           "data structures",
@@ -155,6 +161,7 @@
         "type": "codeforces",
         "id": "1621D",
         "name": "The Winter Hike",
+        "rating": 2100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -181,6 +188,7 @@
         "type": "codeforces",
         "id": "1621C",
         "name": "Hidden Permutations",
+        "rating": 1700,
         "tags": [
           "dfs and similar",
           "interactive",
@@ -207,6 +215,7 @@
         "type": "codeforces",
         "id": "1621B",
         "name": "Integers Shop",
+        "rating": 1500,
         "tags": [
           "data structures",
           "greedy",
@@ -233,6 +242,7 @@
         "type": "codeforces",
         "id": "1621A",
         "name": "Stable Arrangement of Rooks",
+        "rating": 800,
         "tags": [
           "constructive algorithms"
         ],
