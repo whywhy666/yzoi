@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 142308494,
+      "creationTime": 1641847463,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505636184
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "3A",
+        "name": "Shortest path of the king",
+        "rating": 1000,
+        "tags": [
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/3/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/3/submission/142308494"
+    },
+    {
+      "type": "codeforces",
       "id": 141553669,
       "creationTime": 1641226742,
       "language": "GNU C++17 (64)",
