@@ -13805,5 +13805,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103522",
     "standingsUrl": "https://codeforces.com/gym/103522/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2017-2018, Первая личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103524,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103524",
+    "standingsUrl": "https://codeforces.com/gym/103524/standings"
   }
 ]
