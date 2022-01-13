@@ -265,7 +265,6 @@
         "id": "1625E1",
         "name": "Cats on the Upgrade (easy version)",
         "tags": [
-          "binary search",
           "data structures",
           "dfs and similar",
           "divide and conquer",
@@ -296,10 +295,11 @@
         "name": "Binary Spiders",
         "tags": [
           "bitmasks",
-          "constructive algorithms",
-          "greedy",
+          "brute force",
+          "data structures",
           "implementation",
-          "sortings"
+          "sortings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1625/problem/D"
       },
@@ -323,6 +323,7 @@
         "id": "1625C",
         "name": "Road Optimization",
         "tags": [
+          "data structures",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1625/problem/C"
@@ -347,6 +348,7 @@
         "id": "1625B",
         "name": "Elementary Particles",
         "tags": [
+          "binary search",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1625/problem/B"
