@@ -22,6 +22,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -49,6 +50,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -76,6 +78,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -103,6 +106,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -130,6 +134,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -157,6 +162,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -184,6 +190,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -211,6 +218,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -238,6 +246,7 @@
         "id": "1625E2",
         "name": "Cats on the Upgrade (hard version)",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -265,6 +274,7 @@
         "id": "1625E1",
         "name": "Cats on the Upgrade (easy version)",
         "tags": [
+          "brute force",
           "data structures",
           "dfs and similar",
           "divide and conquer",
@@ -295,9 +305,9 @@
         "name": "Binary Spiders",
         "tags": [
           "bitmasks",
-          "brute force",
           "data structures",
           "implementation",
+          "math",
           "sortings",
           "trees"
         ],
@@ -348,8 +358,9 @@
         "id": "1625B",
         "name": "Elementary Particles",
         "tags": [
-          "binary search",
-          "greedy"
+          "brute force",
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1625/problem/B"
       },
