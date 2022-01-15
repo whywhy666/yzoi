@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 142817659,
+      "creationTime": 1642249612,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505234035
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622C",
+        "name": "Set or Decrease",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/142817659"
+    },
+    {
+      "type": "codeforces",
       "id": 141650658,
       "creationTime": 1641306212,
       "language": "GNU C++17",
