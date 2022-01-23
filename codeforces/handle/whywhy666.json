@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 142951714,
+      "creationTime": 1642336236,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -505147411
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1627D",
+        "name": "Not Adding",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1627/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1627/submission/142951714"
+    },
+    {
+      "type": "codeforces",
       "id": 141474545,
       "creationTime": 1641205529,
       "language": "GNU C++20 (64)",

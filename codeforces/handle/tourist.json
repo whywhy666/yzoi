@@ -6,6 +6,244 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 143704137,
+      "creationTime": 1642872786,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504610861
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628F",
+        "name": "Spaceship Crisis Management",
+        "tags": [
+          "binary search",
+          "data structures",
+          "geometry",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143704137"
+    },
+    {
+      "type": "codeforces",
+      "id": 143703507,
+      "creationTime": 1642872592,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504611055
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628F",
+        "name": "Spaceship Crisis Management",
+        "tags": [
+          "binary search",
+          "data structures",
+          "geometry",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143703507"
+    },
+    {
+      "type": "codeforces",
+      "id": 143675713,
+      "creationTime": 1642866069,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642862100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628E",
+        "name": "Groceries in Meteor Town",
+        "tags": [
+          "binary search",
+          "data structures",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143675713"
+    },
+    {
+      "type": "codeforces",
+      "id": 143673702,
+      "creationTime": 1642865817,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642862100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628E",
+        "name": "Groceries in Meteor Town",
+        "tags": [
+          "binary search",
+          "data structures",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143673702"
+    },
+    {
+      "type": "codeforces",
+      "id": 143658634,
+      "creationTime": 1642864141,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642862100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628D2",
+        "name": "Game on Sum (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143658634"
+    },
+    {
+      "type": "codeforces",
+      "id": 143652051,
+      "creationTime": 1642863576,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642862100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628D1",
+        "name": "Game on Sum (Easy Version)",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143652051"
+    },
+    {
+      "type": "codeforces",
+      "id": 143648600,
+      "creationTime": 1642863327,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642862100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628C",
+        "name": "Grid Xor",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143648600"
+    },
+    {
+      "type": "codeforces",
+      "id": 143641041,
+      "creationTime": 1642862828,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642862100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628B",
+        "name": "Peculiar Movie Preferences",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143641041"
+    },
+    {
+      "type": "codeforces",
+      "id": 143633679,
+      "creationTime": 1642862452,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1642862100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628A",
+        "name": "Meximum Array",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/143633679"
+    },
+    {
+      "type": "codeforces",
       "id": 142535896,
       "creationTime": 1642007255,
       "language": "GNU C++17 (64)",
@@ -85382,8 +85620,8 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3911,
+    "rating": 3979,
     "maxRank": "legendary grandmaster",
-    "maxRating": 3911
+    "maxRating": 3979
   }
 }
