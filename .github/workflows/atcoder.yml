@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  atcoder:
     runs-on: ubuntu-latest
     steps:
       - name: Set Timezone
@@ -13,7 +13,7 @@ jobs:
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
       - name: Fetch atcoder data
-        run: cpany fetch --plugins atcoder --log error
+        run: cpany fetch --plugin atcoder --log error
         env:
           REVEL_SESSION: ${{ secrets.REVEL_SESSION }}
       - name: Push
