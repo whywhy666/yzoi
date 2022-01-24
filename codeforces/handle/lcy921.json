@@ -2,8 +2,34 @@
   "type": "codeforces",
   "handle": "lcy921",
   "handleUrl": "https://codeforces.com/profile/lcy921",
-  "avatar": "https://userpic.codeforces.org/no-title.jpg",
+  "avatar": "https://userpic.codeforces.org/2241839/title/de4beddd47d52be2.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 143854879,
+      "creationTime": 1643014815,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504468832
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "4A",
+        "name": "Watermelon",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/4/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/4/submission/143854879"
+    },
     {
       "type": "codeforces",
       "id": 137126735,

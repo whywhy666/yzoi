@@ -209,6 +209,7 @@
         "name": "Peculiar Movie Preferences",
         "tags": [
           "greedy",
+          "meet-in-the-middle",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1628/problem/B"
@@ -233,10 +234,12 @@
         "id": "1628A",
         "name": "Meximum Array",
         "tags": [
+          "binary search",
           "constructive algorithms",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1628/problem/A"
       },

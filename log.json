@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1642972123,
+  "updateTime": 1643058473,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陆重羽",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 143854879,
+            "pid": "4A",
+            "name": "Watermelon",
+            "verdict": "OK",
+            "creationTime": 1643014815
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e18bb4eaa7ead8cb60699f64223139160968451b"
+  "ref": "ec63ae2c656c6de946d83509e23194ccbe896e9e"
 }
