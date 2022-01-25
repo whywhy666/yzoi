@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1628F",
         "name": "Spaceship Crisis Management",
+        "rating": 3500,
         "tags": [
           "binary search",
           "data structures",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1628F",
         "name": "Spaceship Crisis Management",
+        "rating": 3500,
         "tags": [
           "binary search",
           "data structures",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1628E",
         "name": "Groceries in Meteor Town",
+        "rating": 3100,
         "tags": [
           "binary search",
           "data structures",
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "1628E",
         "name": "Groceries in Meteor Town",
+        "rating": 3100,
         "tags": [
           "binary search",
           "data structures",
@@ -127,10 +131,12 @@
         "type": "codeforces",
         "id": "1628D2",
         "name": "Game on Sum (Hard Version)",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "dp",
-          "games"
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1628/problem/D2"
       },
@@ -153,10 +159,12 @@
         "type": "codeforces",
         "id": "1628D1",
         "name": "Game on Sum (Easy Version)",
+        "rating": 2100,
         "tags": [
           "combinatorics",
           "dp",
-          "games"
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1628/problem/D1"
       },
@@ -179,6 +187,7 @@
         "type": "codeforces",
         "id": "1628C",
         "name": "Grid Xor",
+        "rating": 2300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -207,9 +216,9 @@
         "type": "codeforces",
         "id": "1628B",
         "name": "Peculiar Movie Preferences",
+        "rating": 1700,
         "tags": [
           "greedy",
-          "meet-in-the-middle",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1628/problem/B"
@@ -233,6 +242,7 @@
         "type": "codeforces",
         "id": "1628A",
         "name": "Meximum Array",
+        "rating": 1400,
         "tags": [
           "binary search",
           "constructive algorithms",
