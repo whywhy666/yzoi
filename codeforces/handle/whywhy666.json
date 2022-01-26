@@ -6,6 +6,88 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144071462,
+      "creationTime": 1643202097,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504281550
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1629B",
+        "name": "GCD Arrays",
+        "tags": [
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1629/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1629/submission/144071462"
+    },
+    {
+      "type": "codeforces",
+      "id": 144071432,
+      "creationTime": 1643202082,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504281565
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1629A",
+        "name": "Download More RAM",
+        "tags": [
+          "brute force",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1629/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1629/submission/144071432"
+    },
+    {
+      "type": "codeforces",
+      "id": 144071296,
+      "creationTime": 1643201994,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504281653
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1628A",
+        "name": "Meximum Array",
+        "rating": 1400,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1628/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1628/submission/144071296"
+    },
+    {
+      "type": "codeforces",
       "id": 142951714,
       "creationTime": 1642336236,
       "language": "GNU C++20 (64)",

@@ -1,26 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1643144964,
+  "updateTime": 1643231378,
   "history": {
     "user": [
+      {
+        "name": "然然",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 144071462,
+            "pid": "1629B",
+            "name": "GCD Arrays",
+            "verdict": "OK",
+            "creationTime": 1643202097
+          },
+          {
+            "platform": "codeforces",
+            "id": 144071432,
+            "pid": "1629A",
+            "name": "Download More RAM",
+            "verdict": "OK",
+            "creationTime": 1643202082
+          },
+          {
+            "platform": "codeforces",
+            "id": 144071296,
+            "pid": "1628A",
+            "name": "Meximum Array",
+            "verdict": "OK",
+            "creationTime": 1643201994
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 143949341,
-            "pid": "633D",
-            "name": "Fibonacci-ish",
+            "id": 144025231,
+            "pid": "7D",
+            "name": "Palindrome Degree",
             "verdict": "OK",
-            "creationTime": 1643099284
+            "creationTime": 1643164648
           },
           {
             "platform": "codeforces",
-            "id": 143949089,
-            "pid": "633D",
-            "name": "Fibonacci-ish",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1643099136
+            "id": 144025188,
+            "pid": "7D",
+            "name": "Palindrome Degree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1643164583
+          },
+          {
+            "platform": "codeforces",
+            "id": 144024665,
+            "pid": "7D",
+            "name": "Palindrome Degree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1643163778
+          },
+          {
+            "platform": "codeforces",
+            "id": 144022853,
+            "pid": "1073E",
+            "name": "Segment Sum",
+            "verdict": "OK",
+            "creationTime": 1643160337
           }
         ],
         "newContests": []
@@ -28,5 +74,5 @@
     ],
     "contest": []
   },
-  "ref": "8f90c688a0e32b7504984aa81da2398886fe515a"
+  "ref": "9286eb9dd32eabdb7401c2c6394ad4ef53654ac4"
 }

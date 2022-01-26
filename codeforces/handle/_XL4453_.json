@@ -6,6 +6,112 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144025231,
+      "creationTime": 1643164648,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504318999
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "7D",
+        "name": "Palindrome Degree",
+        "rating": 2200,
+        "tags": [
+          "hashing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/7/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/7/submission/144025231"
+    },
+    {
+      "type": "codeforces",
+      "id": 144025188,
+      "creationTime": 1643164583,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504319064
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "7D",
+        "name": "Palindrome Degree",
+        "rating": 2200,
+        "tags": [
+          "hashing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/7/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/7/submission/144025188"
+    },
+    {
+      "type": "codeforces",
+      "id": 144024665,
+      "creationTime": 1643163778,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504319869
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "7D",
+        "name": "Palindrome Degree",
+        "rating": 2200,
+        "tags": [
+          "hashing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/7/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/7/submission/144024665"
+    },
+    {
+      "type": "codeforces",
+      "id": 144022853,
+      "creationTime": 1643160337,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504323310
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1073E",
+        "name": "Segment Sum",
+        "rating": 2300,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1073/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1073/submission/144022853"
+    },
+    {
+      "type": "codeforces",
       "id": 143949341,
       "creationTime": 1643099284,
       "language": "GNU C++14",
