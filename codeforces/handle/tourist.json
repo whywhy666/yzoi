@@ -23,7 +23,8 @@
         "name": "Expected Components",
         "tags": [
           "combinatorics",
-          "number theory"
+          "number theory",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1630/problem/E"
       },
@@ -47,6 +48,7 @@
         "id": "1630D",
         "name": "Flipping Range",
         "tags": [
+          "constructive algorithms",
           "dp",
           "greedy",
           "number theory"
@@ -73,8 +75,12 @@
         "id": "1630C",
         "name": "Paint the Middle",
         "tags": [
+          "2-sat",
+          "data structures",
           "dp",
-          "greedy"
+          "greedy",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1630/problem/C"
       },
@@ -99,6 +105,8 @@
         "name": "Range and Partition",
         "tags": [
           "binary search",
+          "constructive algorithms",
+          "data structures",
           "greedy",
           "two pointers"
         ],

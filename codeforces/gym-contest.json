@@ -13868,12 +13868,22 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "CP Course Contest 3",
+    "name": "CP Course Contest",
     "duration": 18000,
     "participantNumber": 0,
     "id": 103540,
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103540",
     "standingsUrl": "https://codeforces.com/gym/103540/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Длинный тур отборочного этапа Открытой олимпиады 2021-2022",
+    "duration": 600,
+    "participantNumber": 0,
+    "id": 103548,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103548",
+    "standingsUrl": "https://codeforces.com/gym/103548/standings"
   }
 ]

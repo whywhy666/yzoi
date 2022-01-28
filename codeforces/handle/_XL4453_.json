@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144272670,
+      "creationTime": 1643335663,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504147984
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "8C",
+        "name": "Looking for Order",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/8/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/8/submission/144272670"
+    },
+    {
+      "type": "codeforces",
+      "id": 144272636,
+      "creationTime": 1643335611,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504148036
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "8C",
+        "name": "Looking for Order",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/8/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/8/submission/144272636"
+    },
+    {
+      "type": "codeforces",
       "id": 144150910,
       "creationTime": 1643281747,
       "language": "GNU C++14",

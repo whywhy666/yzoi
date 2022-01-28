@@ -1,134 +1,26 @@
 {
   "version": "0.1.16",
-  "updateTime": 1643317719,
+  "updateTime": 1643404509,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 144210990,
-            "pid": "1630E",
-            "name": "Expected Components",
-            "verdict": "OK",
-            "creationTime": 1643297037
-          },
-          {
-            "platform": "codeforces",
-            "id": 144199054,
-            "pid": "1630D",
-            "name": "Flipping Range",
-            "verdict": "OK",
-            "creationTime": 1643296066
-          },
-          {
-            "platform": "codeforces",
-            "id": 144191587,
-            "pid": "1630C",
-            "name": "Paint the Middle",
-            "verdict": "OK",
-            "creationTime": 1643295539
-          },
-          {
-            "platform": "codeforces",
-            "id": 144178499,
-            "pid": "1630B",
-            "name": "Range and Partition",
-            "verdict": "OK",
-            "creationTime": 1643294770
-          },
-          {
-            "platform": "codeforces",
-            "id": 144172483,
-            "pid": "1630A",
-            "name": "And Matching",
-            "verdict": "OK",
-            "creationTime": 1643294468
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 144150910,
-            "pid": "444A",
-            "name": "DZY Loves Physics",
+            "id": 144272670,
+            "pid": "8C",
+            "name": "Looking for Order",
             "verdict": "OK",
-            "creationTime": 1643281747
+            "creationTime": 1643335663
           },
           {
             "platform": "codeforces",
-            "id": 144150882,
-            "pid": "444A",
-            "name": "DZY Loves Physics",
+            "id": 144272636,
+            "pid": "8C",
+            "name": "Looking for Order",
             "verdict": "OK",
-            "creationTime": 1643281733
-          },
-          {
-            "platform": "codeforces",
-            "id": 144138637,
-            "pid": "518D",
-            "name": "Ilya and Escalator",
-            "verdict": "OK",
-            "creationTime": 1643272557
-          },
-          {
-            "platform": "codeforces",
-            "id": 144138501,
-            "pid": "518D",
-            "name": "Ilya and Escalator",
-            "verdict": "OK",
-            "creationTime": 1643272466
-          },
-          {
-            "platform": "codeforces",
-            "id": 144130348,
-            "pid": "1611B",
-            "name": "Team Composition: Programmers and Mathematicians",
-            "verdict": "OK",
-            "creationTime": 1643266458
-          },
-          {
-            "platform": "codeforces",
-            "id": 144130104,
-            "pid": "1611B",
-            "name": "Team Composition: Programmers and Mathematicians",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1643266293
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "陆重羽",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 144131923,
-            "pid": "329E",
-            "name": "Evil",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1643267548
-          },
-          {
-            "platform": "codeforces",
-            "id": 144131664,
-            "pid": "518D",
-            "name": "Ilya and Escalator",
-            "verdict": "OK",
-            "creationTime": 1643267367
-          },
-          {
-            "platform": "codeforces",
-            "id": 144131364,
-            "pid": "518D",
-            "name": "Ilya and Escalator",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1643267158
+            "creationTime": 1643335611
           }
         ],
         "newContests": []
@@ -136,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "db6d1802eb03392d636d26159d5e85bb87542dc4"
+  "ref": "14c5d5ed9909bac9af36b7c5ad53cfc65c022d15"
 }
