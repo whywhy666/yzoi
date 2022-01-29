@@ -1,26 +1,58 @@
 {
   "version": "0.1.16",
-  "updateTime": 1643404509,
+  "updateTime": 1643490501,
   "history": {
     "user": [
       {
-        "name": "陈陆洋",
+        "name": "然然",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 144272670,
-            "pid": "8C",
-            "name": "Looking for Order",
+            "id": 144434790,
+            "pid": "1624G",
+            "name": "MinOr Tree",
             "verdict": "OK",
-            "creationTime": 1643335663
+            "creationTime": 1643469141
           },
           {
             "platform": "codeforces",
-            "id": 144272636,
-            "pid": "8C",
-            "name": "Looking for Order",
+            "id": 144434762,
+            "pid": "1624G",
+            "name": "MinOr Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1643469128
+          },
+          {
+            "platform": "codeforces",
+            "id": 144434616,
+            "pid": "1624G",
+            "name": "MinOr Tree",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1643469039
+          },
+          {
+            "platform": "codeforces",
+            "id": 144432928,
+            "pid": "1624F",
+            "name": "Interacdive Problem",
             "verdict": "OK",
-            "creationTime": 1643335611
+            "creationTime": 1643467963
+          },
+          {
+            "platform": "codeforces",
+            "id": 144432867,
+            "pid": "1624B",
+            "name": "Make AP",
+            "verdict": "OK",
+            "creationTime": 1643467933
+          },
+          {
+            "platform": "codeforces",
+            "id": 144432846,
+            "pid": "1624A",
+            "name": "Plus One on the Subset",
+            "verdict": "OK",
+            "creationTime": 1643467911
           }
         ],
         "newContests": []
@@ -28,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "14c5d5ed9909bac9af36b7c5ad53cfc65c022d15"
+  "ref": "e9efe45c72206a342d5b2fdba11a546debd5b489"
 }

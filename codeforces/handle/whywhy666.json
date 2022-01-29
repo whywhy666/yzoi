@@ -6,6 +6,171 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144434790,
+      "creationTime": 1643469141,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504014506
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624G",
+        "name": "MinOr Tree",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144434790"
+    },
+    {
+      "type": "codeforces",
+      "id": 144434762,
+      "creationTime": 1643469128,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504014519
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624G",
+        "name": "MinOr Tree",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144434762"
+    },
+    {
+      "type": "codeforces",
+      "id": 144434616,
+      "creationTime": 1643469039,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504014608
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624G",
+        "name": "MinOr Tree",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144434616"
+    },
+    {
+      "type": "codeforces",
+      "id": 144432928,
+      "creationTime": 1643467963,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504015684
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624F",
+        "name": "Interacdive Problem",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144432928"
+    },
+    {
+      "type": "codeforces",
+      "id": 144432867,
+      "creationTime": 1643467933,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504015714
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144432867"
+    },
+    {
+      "type": "codeforces",
+      "id": 144432846,
+      "creationTime": 1643467911,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -504015736
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624A",
+        "name": "Plus One on the Subset",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144432846"
+    },
+    {
+      "type": "codeforces",
       "id": 144071462,
       "creationTime": 1643202097,
       "language": "GNU C++20 (64)",

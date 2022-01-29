@@ -75,7 +75,6 @@
         "id": "1630C",
         "name": "Paint the Middle",
         "tags": [
-          "2-sat",
           "data structures",
           "dp",
           "greedy",
@@ -106,7 +105,6 @@
         "tags": [
           "binary search",
           "constructive algorithms",
-          "data structures",
           "greedy",
           "two pointers"
         ],
@@ -133,6 +131,7 @@
         "name": "And Matching",
         "tags": [
           "bitmasks",
+          "brute force",
           "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1630/problem/A"
