@@ -6,6 +6,58 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144472700,
+      "creationTime": 1643520903,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503962744
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1630B",
+        "name": "Range and Partition",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1630/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1630/submission/144472700"
+    },
+    {
+      "type": "codeforces",
+      "id": 144472191,
+      "creationTime": 1643520405,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503963242
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1630A",
+        "name": "And Matching",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1630/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1630/submission/144472191"
+    },
+    {
+      "type": "codeforces",
       "id": 144434790,
       "creationTime": 1643469141,
       "language": "GNU C++20 (64)",

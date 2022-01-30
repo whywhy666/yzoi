@@ -6,6 +6,163 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144593559,
+      "creationTime": 1643568214,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1643563080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632E1",
+        "name": "Distance Tree (easy version)",
+        "tags": [
+          "dfs and similar",
+          "shortest paths",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/144593559"
+    },
+    {
+      "type": "codeforces",
+      "id": 144593547,
+      "creationTime": 1643568204,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1643563080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632E2",
+        "name": "Distance Tree (hard version)",
+        "tags": [
+          "dfs and similar",
+          "shortest paths",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/144593547"
+    },
+    {
+      "type": "codeforces",
+      "id": 144590662,
+      "creationTime": 1643565939,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1643563080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632D",
+        "name": "New Year Concert",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/144590662"
+    },
+    {
+      "type": "codeforces",
+      "id": 144589339,
+      "creationTime": 1643565074,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1643563080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632C",
+        "name": "Strange Test",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/144589339"
+    },
+    {
+      "type": "codeforces",
+      "id": 144587334,
+      "creationTime": 1643563954,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1643563080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632B",
+        "name": "Roof Construction",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/144587334"
+    },
+    {
+      "type": "codeforces",
+      "id": 144585492,
+      "creationTime": 1643563173,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1643563080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632A",
+        "name": "ABC",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/144585492"
+    },
+    {
+      "type": "codeforces",
       "id": 144210990,
       "creationTime": 1643297037,
       "language": "GNU C++17 (64)",
@@ -75,7 +232,6 @@
         "id": "1630C",
         "name": "Paint the Middle",
         "tags": [
-          "data structures",
           "dp",
           "greedy",
           "sortings",
@@ -104,7 +260,7 @@
         "name": "Range and Partition",
         "tags": [
           "binary search",
-          "constructive algorithms",
+          "data structures",
           "greedy",
           "two pointers"
         ],
@@ -131,7 +287,6 @@
         "name": "And Matching",
         "tags": [
           "bitmasks",
-          "brute force",
           "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1630/problem/A"
@@ -85769,7 +85924,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3810,
+    "rating": 3809,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
