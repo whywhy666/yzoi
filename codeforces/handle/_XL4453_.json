@@ -6,6 +6,368 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144716819,
+      "creationTime": 1643643082,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1643639700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633D",
+        "name": "Make Them Equal",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/144716819"
+    },
+    {
+      "type": "codeforces",
+      "id": 144711190,
+      "creationTime": 1643642612,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1643639700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633D",
+        "name": "Make Them Equal",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/144711190"
+    },
+    {
+      "type": "codeforces",
+      "id": 144706421,
+      "creationTime": 1643642253,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1643639700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633D",
+        "name": "Make Them Equal",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/144706421"
+    },
+    {
+      "type": "codeforces",
+      "id": 144686981,
+      "creationTime": 1643641067,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1643639700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633C",
+        "name": "Kill the Monster",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/144686981"
+    },
+    {
+      "type": "codeforces",
+      "id": 144685793,
+      "creationTime": 1643641008,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1643639700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633C",
+        "name": "Kill the Monster",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/144685793"
+    },
+    {
+      "type": "codeforces",
+      "id": 144670050,
+      "creationTime": 1643640355,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1643639700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633B",
+        "name": "Minority",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/144670050"
+    },
+    {
+      "type": "codeforces",
+      "id": 144659696,
+      "creationTime": 1643639968,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1643639700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633A",
+        "name": "Div. 7",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/144659696"
+    },
+    {
+      "type": "codeforces",
+      "id": 144633137,
+      "creationTime": 1643621355,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503862292
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624D",
+        "name": "Palindromes Coloring",
+        "rating": 1400,
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144633137"
+    },
+    {
+      "type": "codeforces",
+      "id": 144627681,
+      "creationTime": 1643616699,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503866948
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624C",
+        "name": "Division by Two and Permutation",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "flows",
+          "graph matchings",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144627681"
+    },
+    {
+      "type": "codeforces",
+      "id": 144627600,
+      "creationTime": 1643616625,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503867022
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624C",
+        "name": "Division by Two and Permutation",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "flows",
+          "graph matchings",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144627600"
+    },
+    {
+      "type": "codeforces",
+      "id": 144608674,
+      "creationTime": 1643599757,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503883890
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144608674"
+    },
+    {
+      "type": "codeforces",
+      "id": 144608653,
+      "creationTime": 1643599717,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503883930
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144608653"
+    },
+    {
+      "type": "codeforces",
+      "id": 144608599,
+      "creationTime": 1643599632,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503884015
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624B",
+        "name": "Make AP",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144608599"
+    },
+    {
+      "type": "codeforces",
+      "id": 144607906,
+      "creationTime": 1643598429,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503885218
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624A",
+        "name": "Plus One on the Subset",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/144607906"
+    },
+    {
+      "type": "codeforces",
       "id": 144568377,
       "creationTime": 1643558474,
       "language": "GNU C++14",
@@ -84,6 +446,8 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "brute force",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1632/problem/C"
@@ -25703,8 +26067,8 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1615,
+    "rating": 1727,
     "maxRank": "expert",
-    "maxRating": 1615
+    "maxRating": 1727
   }
 }

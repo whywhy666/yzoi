@@ -6,6 +6,36 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144624109,
+      "creationTime": 1643613623,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503870024
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632D",
+        "name": "New Year Concert",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/144624109"
+    },
+    {
+      "type": "codeforces",
       "id": 144472700,
       "creationTime": 1643520903,
       "language": "GNU C++20 (64)",
@@ -23,6 +53,7 @@
         "name": "Range and Partition",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
           "greedy",
           "two pointers"

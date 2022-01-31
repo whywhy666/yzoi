@@ -22,6 +22,8 @@
         "id": "1632E1",
         "name": "Distance Tree (easy version)",
         "tags": [
+          "binary search",
+          "data structures",
           "dfs and similar",
           "shortest paths",
           "trees"
@@ -48,6 +50,7 @@
         "id": "1632E2",
         "name": "Distance Tree (hard version)",
         "tags": [
+          "binary search",
           "dfs and similar",
           "shortest paths",
           "trees"
@@ -106,6 +109,8 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "brute force",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1632/problem/C"
@@ -180,6 +185,7 @@
         "name": "Expected Components",
         "tags": [
           "combinatorics",
+          "math",
           "number theory",
           "probabilities"
         ],
@@ -260,6 +266,7 @@
         "name": "Range and Partition",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
           "greedy",
           "two pointers"
