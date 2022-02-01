@@ -23,7 +23,7 @@
         "name": "Make Them Equal",
         "tags": [
           "dp",
-          "greedy"
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
       },
@@ -48,7 +48,7 @@
         "name": "Make Them Equal",
         "tags": [
           "dp",
-          "greedy"
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
       },
@@ -73,7 +73,7 @@
         "name": "Make Them Equal",
         "tags": [
           "dp",
-          "greedy"
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
       },
@@ -147,6 +147,7 @@
         "id": "1633B",
         "name": "Minority",
         "tags": [
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/B"
@@ -171,7 +172,8 @@
         "id": "1633A",
         "name": "Div. 7",
         "tags": [
-          "brute force"
+          "brute force",
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/A"
       },
@@ -386,7 +388,6 @@
         "tags": [
           "binary search",
           "data structures",
-          "dp",
           "greedy",
           "math",
           "number theory",
@@ -416,7 +417,6 @@
         "tags": [
           "binary search",
           "data structures",
-          "dp",
           "greedy",
           "math",
           "number theory",
@@ -447,7 +447,6 @@
           "binary search",
           "bitmasks",
           "brute force",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1632/problem/C"
@@ -26067,8 +26066,8 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1727,
+    "rating": 1774,
     "maxRank": "expert",
-    "maxRating": 1727
+    "maxRating": 1774
   }
 }
