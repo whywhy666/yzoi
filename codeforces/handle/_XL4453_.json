@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 144930627,
+      "creationTime": 1643801091,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503682556
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "333B",
+        "name": "Chips",
+        "rating": 1800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/333/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/333/submission/144930627"
+    },
+    {
+      "type": "codeforces",
+      "id": 144899742,
+      "creationTime": 1643778874,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503704773
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "333B",
+        "name": "Chips",
+        "rating": 1800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/333/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/333/submission/144899742"
+    },
+    {
+      "type": "codeforces",
       "id": 144716819,
       "creationTime": 1643643082,
       "language": "GNU C++14",
@@ -21,8 +71,10 @@
         "type": "codeforces",
         "id": "1633D",
         "name": "Make Them Equal",
+        "rating": 1600,
         "tags": [
           "dp",
+          "greedy",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
@@ -46,8 +98,10 @@
         "type": "codeforces",
         "id": "1633D",
         "name": "Make Them Equal",
+        "rating": 1600,
         "tags": [
           "dp",
+          "greedy",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
@@ -71,8 +125,10 @@
         "type": "codeforces",
         "id": "1633D",
         "name": "Make Them Equal",
+        "rating": 1600,
         "tags": [
           "dp",
+          "greedy",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
@@ -96,6 +152,7 @@
         "type": "codeforces",
         "id": "1633C",
         "name": "Kill the Monster",
+        "rating": 1100,
         "tags": [
           "brute force",
           "math"
@@ -121,6 +178,7 @@
         "type": "codeforces",
         "id": "1633C",
         "name": "Kill the Monster",
+        "rating": 1100,
         "tags": [
           "brute force",
           "math"
@@ -146,8 +204,8 @@
         "type": "codeforces",
         "id": "1633B",
         "name": "Minority",
+        "rating": 800,
         "tags": [
-          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/B"
@@ -171,9 +229,9 @@
         "type": "codeforces",
         "id": "1633A",
         "name": "Div. 7",
+        "rating": 800,
         "tags": [
-          "brute force",
-          "constructive algorithms"
+          "brute force"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/A"
       },
@@ -385,6 +443,7 @@
         "type": "codeforces",
         "id": "1632D",
         "name": "New Year Concert",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -414,6 +473,7 @@
         "type": "codeforces",
         "id": "1632D",
         "name": "New Year Concert",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -443,10 +503,12 @@
         "type": "codeforces",
         "id": "1632C",
         "name": "Strange Test",
+        "rating": 1600,
         "tags": [
           "binary search",
           "bitmasks",
           "brute force",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1632/problem/C"
@@ -470,6 +532,7 @@
         "type": "codeforces",
         "id": "1632B",
         "name": "Roof Construction",
+        "rating": 1000,
         "tags": [
           "bitmasks",
           "constructive algorithms"
@@ -495,6 +558,7 @@
         "type": "codeforces",
         "id": "1632B",
         "name": "Roof Construction",
+        "rating": 1000,
         "tags": [
           "bitmasks",
           "constructive algorithms"
@@ -520,6 +584,7 @@
         "type": "codeforces",
         "id": "1632A",
         "name": "ABC",
+        "rating": 800,
         "tags": [
           "implementation"
         ],

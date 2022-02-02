@@ -21,10 +21,12 @@
         "type": "codeforces",
         "id": "1632E1",
         "name": "Distance Tree (easy version)",
+        "rating": 2400,
         "tags": [
           "binary search",
           "data structures",
           "dfs and similar",
+          "graphs",
           "shortest paths",
           "trees"
         ],
@@ -49,6 +51,7 @@
         "type": "codeforces",
         "id": "1632E2",
         "name": "Distance Tree (hard version)",
+        "rating": 2700,
         "tags": [
           "binary search",
           "dfs and similar",
@@ -76,6 +79,7 @@
         "type": "codeforces",
         "id": "1632D",
         "name": "New Year Concert",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -105,10 +109,12 @@
         "type": "codeforces",
         "id": "1632C",
         "name": "Strange Test",
+        "rating": 1600,
         "tags": [
           "binary search",
           "bitmasks",
           "brute force",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1632/problem/C"
@@ -132,6 +138,7 @@
         "type": "codeforces",
         "id": "1632B",
         "name": "Roof Construction",
+        "rating": 1000,
         "tags": [
           "bitmasks",
           "constructive algorithms"
@@ -157,6 +164,7 @@
         "type": "codeforces",
         "id": "1632A",
         "name": "ABC",
+        "rating": 800,
         "tags": [
           "implementation"
         ],

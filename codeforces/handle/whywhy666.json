@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1632D",
         "name": "New Year Concert",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -268,6 +269,7 @@
         "type": "codeforces",
         "id": "1629B",
         "name": "GCD Arrays",
+        "rating": 800,
         "tags": [
           "greedy",
           "math",
@@ -294,6 +296,7 @@
         "type": "codeforces",
         "id": "1629A",
         "name": "Download More RAM",
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",
