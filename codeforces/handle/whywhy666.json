@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 145006265,
+      "creationTime": 1643875154,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503608493
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1633D",
+        "name": "Make Them Equal",
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1633/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1633/submission/145006265"
+    },
+    {
+      "type": "codeforces",
       "id": 144624109,
       "creationTime": 1643613623,
       "language": "GNU C++20 (64)",

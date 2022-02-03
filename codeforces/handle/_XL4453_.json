@@ -6,6 +6,171 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 145016314,
+      "creationTime": 1643882364,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503601283
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "327C",
+        "name": "Magic Five",
+        "rating": 1700,
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/327/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/327/submission/145016314"
+    },
+    {
+      "type": "codeforces",
+      "id": 145014361,
+      "creationTime": 1643881036,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503602611
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "327D",
+        "name": "Block Tower",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/327/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/327/submission/145014361"
+    },
+    {
+      "type": "codeforces",
+      "id": 144999861,
+      "creationTime": 1643870567,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503613080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1558B",
+        "name": "Up the Strip",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "dp",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1558/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1558/submission/144999861"
+    },
+    {
+      "type": "codeforces",
+      "id": 144998418,
+      "creationTime": 1643869557,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503614090
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1558B",
+        "name": "Up the Strip",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "dp",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1558/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1558/submission/144998418"
+    },
+    {
+      "type": "codeforces",
+      "id": 144989106,
+      "creationTime": 1643860092,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503623555
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "768E",
+        "name": "Game of Stones",
+        "rating": 2100,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/768/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/768/submission/144989106"
+    },
+    {
+      "type": "codeforces",
+      "id": 144989037,
+      "creationTime": 1643859979,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503623668
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "768E",
+        "name": "Game of Stones",
+        "rating": 2100,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/768/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/768/submission/144989037"
+    },
+    {
+      "type": "codeforces",
       "id": 144930627,
       "creationTime": 1643801091,
       "language": "GNU C++14",
