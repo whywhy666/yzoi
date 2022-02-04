@@ -1,78 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1643922536,
+  "updateTime": 1644008890,
   "history": {
-    "user": [
-      {
-        "name": "然然",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 145006265,
-            "pid": "1633D",
-            "name": "Make Them Equal",
-            "verdict": "OK",
-            "creationTime": 1643875154
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 145016314,
-            "pid": "327C",
-            "name": "Magic Five",
-            "verdict": "OK",
-            "creationTime": 1643882364
-          },
-          {
-            "platform": "codeforces",
-            "id": 145014361,
-            "pid": "327D",
-            "name": "Block Tower",
-            "verdict": "OK",
-            "creationTime": 1643881036
-          },
-          {
-            "platform": "codeforces",
-            "id": 144999861,
-            "pid": "1558B",
-            "name": "Up the Strip",
-            "verdict": "OK",
-            "creationTime": 1643870567
-          },
-          {
-            "platform": "codeforces",
-            "id": 144998418,
-            "pid": "1558B",
-            "name": "Up the Strip",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1643869557
-          },
-          {
-            "platform": "codeforces",
-            "id": 144989106,
-            "pid": "768E",
-            "name": "Game of Stones",
-            "verdict": "OK",
-            "creationTime": 1643860092
-          },
-          {
-            "platform": "codeforces",
-            "id": 144989037,
-            "pid": "768E",
-            "name": "Game of Stones",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1643859979
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1e7ad46e16c6283c337872f80f6416b0dcb4cc3c"
+  "ref": "de3b7320fae2f78de91e7920df49097e02c388ef"
 }

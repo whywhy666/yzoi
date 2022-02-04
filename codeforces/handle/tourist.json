@@ -83,6 +83,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "divide and conquer",
           "greedy",
           "math",
           "number theory",
@@ -189,6 +190,7 @@
         "type": "codeforces",
         "id": "1630E",
         "name": "Expected Components",
+        "rating": 2900,
         "tags": [
           "combinatorics",
           "math",
@@ -216,6 +218,7 @@
         "type": "codeforces",
         "id": "1630D",
         "name": "Flipping Range",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -243,6 +246,7 @@
         "type": "codeforces",
         "id": "1630C",
         "name": "Paint the Middle",
+        "rating": 2200,
         "tags": [
           "dp",
           "greedy",
@@ -270,6 +274,7 @@
         "type": "codeforces",
         "id": "1630B",
         "name": "Range and Partition",
+        "rating": 1800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -298,6 +303,7 @@
         "type": "codeforces",
         "id": "1630A",
         "name": "And Matching",
+        "rating": 1500,
         "tags": [
           "bitmasks",
           "constructive algorithms"

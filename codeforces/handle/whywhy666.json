@@ -24,8 +24,7 @@
         "rating": 1600,
         "tags": [
           "dp",
-          "greedy",
-          "shortest paths"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
       },
@@ -52,6 +51,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "divide and conquer",
           "greedy",
           "math",
           "number theory",
@@ -78,6 +78,7 @@
         "type": "codeforces",
         "id": "1630B",
         "name": "Range and Partition",
+        "rating": 1800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -106,6 +107,7 @@
         "type": "codeforces",
         "id": "1630A",
         "name": "And Matching",
+        "rating": 1500,
         "tags": [
           "bitmasks",
           "constructive algorithms"

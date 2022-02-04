@@ -239,8 +239,7 @@
         "rating": 1600,
         "tags": [
           "dp",
-          "greedy",
-          "shortest paths"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
       },
@@ -266,8 +265,7 @@
         "rating": 1600,
         "tags": [
           "dp",
-          "greedy",
-          "shortest paths"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
       },
@@ -293,8 +291,7 @@
         "rating": 1600,
         "tags": [
           "dp",
-          "greedy",
-          "shortest paths"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1633/problem/D"
       },
@@ -612,6 +609,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "divide and conquer",
           "greedy",
           "math",
           "number theory",
@@ -642,6 +640,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "divide and conquer",
           "greedy",
           "math",
           "number theory",
@@ -26296,8 +26295,8 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1774,
+    "rating": 1772,
     "maxRank": "expert",
-    "maxRating": 1774
+    "maxRating": 1772
   }
 }
