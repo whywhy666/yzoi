@@ -6,6 +6,116 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 145185207,
+      "creationTime": 1644035192,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503448455
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632D",
+        "name": "New Year Concert",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/145185207"
+    },
+    {
+      "type": "codeforces",
+      "id": 145185187,
+      "creationTime": 1644035173,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503448474
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632C",
+        "name": "Strange Test",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/145185187"
+    },
+    {
+      "type": "codeforces",
+      "id": 145185184,
+      "creationTime": 1644035164,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503448483
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632B",
+        "name": "Roof Construction",
+        "rating": 1000,
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/145185184"
+    },
+    {
+      "type": "codeforces",
+      "id": 145185164,
+      "creationTime": 1644035152,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503448495
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1632A",
+        "name": "ABC",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1632/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1632/submission/145185164"
+    },
+    {
+      "type": "codeforces",
       "id": 145016314,
       "creationTime": 1643882364,
       "language": "GNU C++14",
@@ -609,7 +719,6 @@
         "tags": [
           "binary search",
           "data structures",
-          "divide and conquer",
           "greedy",
           "math",
           "number theory",
@@ -640,7 +749,6 @@
         "tags": [
           "binary search",
           "data structures",
-          "divide and conquer",
           "greedy",
           "math",
           "number theory",
