@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 145340490,
+      "creationTime": 1644118262,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -503365385
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1630A",
+        "name": "And Matching",
+        "rating": 1500,
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1630/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1630/submission/145340490"
+    },
+    {
+      "type": "codeforces",
       "id": 145185207,
       "creationTime": 1644035192,
       "language": "GNU C++14",
