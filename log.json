@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1644613767,
+  "updateTime": 1644700087,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 146151101,
+            "pid": "1637H",
+            "name": "Minimize Inversions Number",
+            "verdict": "OK",
+            "creationTime": 1644685151
+          },
+          {
+            "platform": "codeforces",
+            "id": 146127666,
+            "pid": "1637G",
+            "name": "Birthday",
+            "verdict": "OK",
+            "creationTime": 1644681571
+          },
+          {
+            "platform": "codeforces",
+            "id": 146102047,
+            "pid": "1637F",
+            "name": "Towers",
+            "verdict": "OK",
+            "creationTime": 1644678795
+          },
+          {
+            "platform": "codeforces",
+            "id": 146093750,
+            "pid": "1637E",
+            "name": "Best Pair",
+            "verdict": "OK",
+            "creationTime": 1644678069
+          },
+          {
+            "platform": "codeforces",
+            "id": 146083055,
+            "pid": "1637D",
+            "name": "Yet Another Minimization Problem",
+            "verdict": "OK",
+            "creationTime": 1644677231
+          },
+          {
+            "platform": "codeforces",
+            "id": 146079146,
+            "pid": "1637C",
+            "name": "Andrew and Stones",
+            "verdict": "OK",
+            "creationTime": 1644677002
+          },
+          {
+            "platform": "codeforces",
+            "id": 146075981,
+            "pid": "1637C",
+            "name": "Andrew and Stones",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1644676859
+          },
+          {
+            "platform": "codeforces",
+            "id": 146071731,
+            "pid": "1637B",
+            "name": "MEX and Array",
+            "verdict": "OK",
+            "creationTime": 1644676688
+          },
+          {
+            "platform": "codeforces",
+            "id": 146069953,
+            "pid": "1637A",
+            "name": "Sorting Parts",
+            "verdict": "OK",
+            "creationTime": 1644676585
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "3c324c116cd51961f2a75c79dbe6fb178c7f431b"
+  "ref": "9e57dededeeb06b01752f59f7dd9d180fac0effd"
 }

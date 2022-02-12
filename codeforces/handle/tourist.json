@@ -6,6 +6,232 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 146151101,
+      "creationTime": 1644685151,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637H",
+        "name": "Minimize Inversions Number",
+        "tags": [
+          "data structures",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146151101"
+    },
+    {
+      "type": "codeforces",
+      "id": 146127666,
+      "creationTime": 1644681571,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637G",
+        "name": "Birthday",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146127666"
+    },
+    {
+      "type": "codeforces",
+      "id": 146102047,
+      "creationTime": 1644678795,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637F",
+        "name": "Towers",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146102047"
+    },
+    {
+      "type": "codeforces",
+      "id": 146093750,
+      "creationTime": 1644678069,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637E",
+        "name": "Best Pair",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146093750"
+    },
+    {
+      "type": "codeforces",
+      "id": 146083055,
+      "creationTime": 1644677231,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637D",
+        "name": "Yet Another Minimization Problem",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146083055"
+    },
+    {
+      "type": "codeforces",
+      "id": 146079146,
+      "creationTime": 1644677002,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637C",
+        "name": "Andrew and Stones",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146079146"
+    },
+    {
+      "type": "codeforces",
+      "id": 146075981,
+      "creationTime": 1644676859,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637C",
+        "name": "Andrew and Stones",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146075981"
+    },
+    {
+      "type": "codeforces",
+      "id": 146071731,
+      "creationTime": 1644676688,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637B",
+        "name": "MEX and Array",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146071731"
+    },
+    {
+      "type": "codeforces",
+      "id": 146069953,
+      "creationTime": 1644676585,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1644676500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637A",
+        "name": "Sorting Parts",
+        "tags": [
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146069953"
+    },
+    {
+      "type": "codeforces",
       "id": 145292703,
       "creationTime": 1644067777,
       "language": "GNU C++17 (64)",
@@ -100502,7 +100728,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3809,
+    "rating": 3879,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

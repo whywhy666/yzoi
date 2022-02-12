@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Global Round 19",
+    "startTime": 1644676500,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 1637,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1637",
+    "standingsUrl": "https://codeforces.com/contest/1637/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round #770 (Div. 2)",
     "startTime": 1644158100,
     "duration": 9000,
