@@ -76,6 +76,7 @@
           "constructive algorithms",
           "dfs and similar",
           "dp",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/F"
@@ -100,7 +101,9 @@
         "id": "1637E",
         "name": "Best Pair",
         "tags": [
-          "brute force"
+          "binary search",
+          "brute force",
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/E"
       },
@@ -124,7 +127,9 @@
         "id": "1637D",
         "name": "Yet Another Minimization Problem",
         "tags": [
+          "brute force",
           "dp",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/D"
@@ -149,7 +154,6 @@
         "id": "1637C",
         "name": "Andrew and Stones",
         "tags": [
-          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/C"
@@ -174,7 +178,6 @@
         "id": "1637C",
         "name": "Andrew and Stones",
         "tags": [
-          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/C"
@@ -200,6 +203,8 @@
         "name": "MEX and Array",
         "tags": [
           "brute force",
+          "dp",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/B"
@@ -224,6 +229,7 @@
         "id": "1637A",
         "name": "Sorting Parts",
         "tags": [
+          "brute force",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/A"

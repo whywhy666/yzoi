@@ -1,82 +1,42 @@
 {
   "version": "0.1.16",
-  "updateTime": 1644700087,
+  "updateTime": 1644786543,
   "history": {
     "user": [
       {
-        "name": "tourist",
+        "name": "然然",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 146151101,
-            "pid": "1637H",
-            "name": "Minimize Inversions Number",
+            "id": 146208655,
+            "pid": "1634D",
+            "name": "Finding Zero",
             "verdict": "OK",
-            "creationTime": 1644685151
+            "creationTime": 1644738241
           },
           {
             "platform": "codeforces",
-            "id": 146127666,
-            "pid": "1637G",
-            "name": "Birthday",
+            "id": 146204395,
+            "pid": "1634C",
+            "name": "OKEA",
             "verdict": "OK",
-            "creationTime": 1644681571
+            "creationTime": 1644735494
           },
           {
             "platform": "codeforces",
-            "id": 146102047,
-            "pid": "1637F",
-            "name": "Towers",
+            "id": 146203754,
+            "pid": "1634B",
+            "name": "Fortune Telling",
             "verdict": "OK",
-            "creationTime": 1644678795
+            "creationTime": 1644735080
           },
           {
             "platform": "codeforces",
-            "id": 146093750,
-            "pid": "1637E",
-            "name": "Best Pair",
+            "id": 146203512,
+            "pid": "1634A",
+            "name": "Reverse and Concatenate",
             "verdict": "OK",
-            "creationTime": 1644678069
-          },
-          {
-            "platform": "codeforces",
-            "id": 146083055,
-            "pid": "1637D",
-            "name": "Yet Another Minimization Problem",
-            "verdict": "OK",
-            "creationTime": 1644677231
-          },
-          {
-            "platform": "codeforces",
-            "id": 146079146,
-            "pid": "1637C",
-            "name": "Andrew and Stones",
-            "verdict": "OK",
-            "creationTime": 1644677002
-          },
-          {
-            "platform": "codeforces",
-            "id": 146075981,
-            "pid": "1637C",
-            "name": "Andrew and Stones",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1644676859
-          },
-          {
-            "platform": "codeforces",
-            "id": 146071731,
-            "pid": "1637B",
-            "name": "MEX and Array",
-            "verdict": "OK",
-            "creationTime": 1644676688
-          },
-          {
-            "platform": "codeforces",
-            "id": 146069953,
-            "pid": "1637A",
-            "name": "Sorting Parts",
-            "verdict": "OK",
-            "creationTime": 1644676585
+            "creationTime": 1644734934
           }
         ],
         "newContests": []
@@ -84,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "9e57dededeeb06b01752f59f7dd9d180fac0effd"
+  "ref": "145501ddc4d621970e3e724910b8d865ebfa67bd"
 }
