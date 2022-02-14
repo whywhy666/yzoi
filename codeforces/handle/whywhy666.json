@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1634D",
         "name": "Finding Zero",
+        "rating": 2000,
         "tags": [
           "constructive algorithms",
           "interactive",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1634C",
         "name": "OKEA",
+        "rating": 1000,
         "tags": [
           "constructive algorithms"
         ],
@@ -71,6 +73,7 @@
         "type": "codeforces",
         "id": "1634B",
         "name": "Fortune Telling",
+        "rating": 1400,
         "tags": [
           "bitmasks",
           "math"
@@ -96,6 +99,7 @@
         "type": "codeforces",
         "id": "1634A",
         "name": "Reverse and Concatenate",
+        "rating": 800,
         "tags": [
           "greedy",
           "strings"

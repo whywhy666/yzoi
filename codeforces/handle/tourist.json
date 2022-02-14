@@ -6,6 +6,132 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 146445328,
+      "creationTime": 1644865885,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -502617762
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638E",
+        "name": "Colorful Operations",
+        "tags": [
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/146445328"
+    },
+    {
+      "type": "codeforces",
+      "id": 146445294,
+      "creationTime": 1644865878,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -502617769
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638D",
+        "name": "Big Brush",
+        "tags": [
+          "dfs and similar",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/146445294"
+    },
+    {
+      "type": "codeforces",
+      "id": 146445274,
+      "creationTime": 1644865872,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -502617775
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638C",
+        "name": "Inversion Graph",
+        "tags": [
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/146445274"
+    },
+    {
+      "type": "codeforces",
+      "id": 146445254,
+      "creationTime": 1644865865,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -502617782
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638B",
+        "name": "Odd Swap Sort",
+        "tags": [
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/146445254"
+    },
+    {
+      "type": "codeforces",
+      "id": 146445146,
+      "creationTime": 1644865845,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -502617802
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638A",
+        "name": "Reverse",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/146445146"
+    },
+    {
+      "type": "codeforces",
       "id": 146151101,
       "creationTime": 1644685151,
       "language": "GNU C++20 (64)",
@@ -154,7 +280,8 @@
         "id": "1637C",
         "name": "Andrew and Stones",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/C"
       },
@@ -178,7 +305,8 @@
         "id": "1637C",
         "name": "Andrew and Stones",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/C"
       },
