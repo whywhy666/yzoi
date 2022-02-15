@@ -1,50 +1,32 @@
 {
   "version": "0.1.16",
-  "updateTime": 1644872895,
+  "updateTime": 1644959312,
   "history": {
     "user": [
       {
-        "name": "tourist",
+        "name": "然然",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 146445328,
-            "pid": "1638E",
-            "name": "Colorful Operations",
+            "id": 146491277,
+            "pid": "1637C",
+            "name": "Andrew and Stones",
             "verdict": "OK",
-            "creationTime": 1644865885
-          },
+            "creationTime": 1644912683
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 146445294,
-            "pid": "1638D",
-            "name": "Big Brush",
+            "id": 146460520,
+            "pid": "1631A",
+            "name": "Min Max Swap",
             "verdict": "OK",
-            "creationTime": 1644865878
-          },
-          {
-            "platform": "codeforces",
-            "id": 146445274,
-            "pid": "1638C",
-            "name": "Inversion Graph",
-            "verdict": "OK",
-            "creationTime": 1644865872
-          },
-          {
-            "platform": "codeforces",
-            "id": 146445254,
-            "pid": "1638B",
-            "name": "Odd Swap Sort",
-            "verdict": "OK",
-            "creationTime": 1644865865
-          },
-          {
-            "platform": "codeforces",
-            "id": 146445146,
-            "pid": "1638A",
-            "name": "Reverse",
-            "verdict": "OK",
-            "creationTime": 1644865845
+            "creationTime": 1644884773
           }
         ],
         "newContests": []
@@ -52,5 +34,5 @@
     ],
     "contest": []
   },
-  "ref": "64eddb755099ba21f5903a4d49c5154e9060a256"
+  "ref": "6dea187da137e43c15ca98381c0725f79784e343"
 }

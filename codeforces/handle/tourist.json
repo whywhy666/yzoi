@@ -22,6 +22,7 @@
         "id": "1638E",
         "name": "Colorful Operations",
         "tags": [
+          "brute force",
           "data structures",
           "implementation"
         ],
@@ -47,6 +48,7 @@
         "id": "1638D",
         "name": "Big Brush",
         "tags": [
+          "constructive algorithms",
           "dfs and similar",
           "greedy",
           "implementation"
@@ -73,6 +75,7 @@
         "id": "1638C",
         "name": "Inversion Graph",
         "tags": [
+          "dsu",
           "graphs",
           "math"
         ],
@@ -98,6 +101,7 @@
         "id": "1638B",
         "name": "Odd Swap Sort",
         "tags": [
+          "data structures",
           "math",
           "sortings"
         ],
@@ -175,6 +179,7 @@
         "name": "Birthday",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/G"
@@ -229,7 +234,8 @@
         "tags": [
           "binary search",
           "brute force",
-          "data structures"
+          "data structures",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1637/problem/E"
       },

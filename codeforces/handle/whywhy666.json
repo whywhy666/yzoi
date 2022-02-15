@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 146491277,
+      "creationTime": 1644912683,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -502570964
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637C",
+        "name": "Andrew and Stones",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/146491277"
+    },
+    {
+      "type": "codeforces",
       "id": 146208655,
       "creationTime": 1644738241,
       "language": "GNU C++20 (64)",

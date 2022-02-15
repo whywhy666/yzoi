@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 146460520,
+      "creationTime": 1644884773,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -502598874
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1631A",
+        "name": "Min Max Swap",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1631/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1631/submission/146460520"
+    },
+    {
+      "type": "codeforces",
       "id": 145340490,
       "creationTime": 1644118262,
       "language": "GNU C++14",
