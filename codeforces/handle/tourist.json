@@ -49,7 +49,7 @@
         "name": "Big Brush",
         "tags": [
           "constructive algorithms",
-          "dfs and similar",
+          "data structures",
           "greedy",
           "implementation"
         ],
@@ -75,6 +75,7 @@
         "id": "1638C",
         "name": "Inversion Graph",
         "tags": [
+          "data structures",
           "dsu",
           "graphs",
           "math"
@@ -127,6 +128,7 @@
         "id": "1638A",
         "name": "Reverse",
         "tags": [
+          "constructive algorithms",
           "greedy",
           "math"
         ],

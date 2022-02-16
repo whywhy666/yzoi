@@ -1,38 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1644959312,
+  "updateTime": 1645045769,
   "history": {
-    "user": [
-      {
-        "name": "然然",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 146491277,
-            "pid": "1637C",
-            "name": "Andrew and Stones",
-            "verdict": "OK",
-            "creationTime": 1644912683
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 146460520,
-            "pid": "1631A",
-            "name": "Min Max Swap",
-            "verdict": "OK",
-            "creationTime": 1644884773
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "6dea187da137e43c15ca98381c0725f79784e343"
+  "ref": "c63fc7b216d4fd64d489bbd297fb923f1fc6cebe"
 }
