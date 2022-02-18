@@ -51,7 +51,8 @@
           "constructive algorithms",
           "data structures",
           "greedy",
-          "implementation"
+          "implementation",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1638/problem/D"
       },
@@ -155,6 +156,7 @@
         "name": "Minimize Inversions Number",
         "tags": [
           "data structures",
+          "greedy",
           "math",
           "sortings"
         ],
