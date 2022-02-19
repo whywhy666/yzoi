@@ -1,56 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1645218586,
+  "updateTime": 1645305019,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 146833528,
-            "pid": "1359D",
-            "name": "Yet Another Yet Another Task",
-            "verdict": "OK",
-            "creationTime": 1645190282
-          },
-          {
-            "platform": "codeforces",
-            "id": 146833475,
-            "pid": "1359D",
-            "name": "Yet Another Yet Another Task",
-            "verdict": "OK",
-            "creationTime": 1645190254
-          },
-          {
-            "platform": "codeforces",
-            "id": 146833025,
-            "pid": "1359D",
-            "name": "Yet Another Yet Another Task",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645189957
-          },
-          {
-            "platform": "codeforces",
-            "id": 146829932,
-            "pid": "1370D",
-            "name": "Odd-Even Subsequence",
-            "verdict": "OK",
-            "creationTime": 1645187993
-          },
-          {
-            "platform": "codeforces",
-            "id": 146829900,
-            "pid": "1370D",
-            "name": "Odd-Even Subsequence",
-            "verdict": "OK",
-            "creationTime": 1645187977
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9e5d515f37d9d2ab9e08d872b492e25e76925b0f"
+  "ref": "b2232749a55a7a0c7c81957f4f2f44ad789f6271"
 }
