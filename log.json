@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1645391401,
+  "updateTime": 1645477753,
   "history": {
     "user": [
       {
@@ -8,27 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 146983949,
-            "pid": "1638A",
-            "name": "Reverse",
-            "verdict": "OK",
-            "creationTime": 1645318113
-          },
-          {
-            "platform": "codeforces",
-            "id": 146983881,
-            "pid": "1638A",
-            "name": "Reverse",
+            "id": 147184215,
+            "pid": "243B",
+            "name": "Hydra",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645317937
-          },
-          {
-            "platform": "codeforces",
-            "id": 146983776,
-            "pid": "1638A",
-            "name": "Reverse",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645317673
+            "creationTime": 1645452752
           }
         ],
         "newContests": []
@@ -36,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "ff3e2bfe4698eb5649f901c16b4b7c68a6dc66eb"
+  "ref": "b5211f551c04c4df13ff65d649d1ad6df7f4abfc"
 }
