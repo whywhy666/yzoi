@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Educational Codeforces Round 123 (Rated for Div. 2)",
+    "startTime": 1645540500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1644,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1644",
+    "standingsUrl": "https://codeforces.com/contest/1644/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round #772 (Div. 2)",
     "startTime": 1645367700,
     "duration": 7200,
