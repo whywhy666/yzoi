@@ -6,6 +6,188 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 147463572,
+      "creationTime": 1645617932,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1645611000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641F",
+        "name": "Covering Circle",
+        "tags": [
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147463572"
+    },
+    {
+      "type": "codeforces",
+      "id": 147445838,
+      "creationTime": 1645614665,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1645611000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641E",
+        "name": "Special Positions",
+        "tags": [
+          "combinatorics",
+          "fft"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147445838"
+    },
+    {
+      "type": "codeforces",
+      "id": 147438181,
+      "creationTime": 1645613653,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1645611000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641B",
+        "name": "Repetitions Decoding",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147438181"
+    },
+    {
+      "type": "codeforces",
+      "id": 147435041,
+      "creationTime": 1645613291,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1645611000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641C",
+        "name": "Anonymity Is Important",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dsu",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147435041"
+    },
+    {
+      "type": "codeforces",
+      "id": 147427811,
+      "creationTime": 1645612579,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1645611000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "combinatorics",
+          "hashing",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147427811"
+    },
+    {
+      "type": "codeforces",
+      "id": 147420887,
+      "creationTime": 1645611960,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1645611000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "combinatorics",
+          "hashing",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147420887"
+    },
+    {
+      "type": "codeforces",
+      "id": 147414901,
+      "creationTime": 1645611325,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1645611000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641A",
+        "name": "Great Sequence",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147414901"
+    },
+    {
+      "type": "codeforces",
       "id": 146445328,
       "creationTime": 1644865885,
       "language": "GNU C++20 (64)",
@@ -100883,7 +101065,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3879,
+    "rating": 3946,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

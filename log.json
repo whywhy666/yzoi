@@ -1,50 +1,136 @@
 {
   "version": "0.1.16",
-  "updateTime": 1645564170,
+  "updateTime": 1645650595,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 147463572,
+            "pid": "1641F",
+            "name": "Covering Circle",
+            "verdict": "OK",
+            "creationTime": 1645617932
+          },
+          {
+            "platform": "codeforces",
+            "id": 147445838,
+            "pid": "1641E",
+            "name": "Special Positions",
+            "verdict": "OK",
+            "creationTime": 1645614665
+          },
+          {
+            "platform": "codeforces",
+            "id": 147438181,
+            "pid": "1641B",
+            "name": "Repetitions Decoding",
+            "verdict": "OK",
+            "creationTime": 1645613653
+          },
+          {
+            "platform": "codeforces",
+            "id": 147435041,
+            "pid": "1641C",
+            "name": "Anonymity Is Important",
+            "verdict": "OK",
+            "creationTime": 1645613291
+          },
+          {
+            "platform": "codeforces",
+            "id": 147427811,
+            "pid": "1641D",
+            "name": "Two Arrays",
+            "verdict": "OK",
+            "creationTime": 1645612579
+          },
+          {
+            "platform": "codeforces",
+            "id": 147420887,
+            "pid": "1641D",
+            "name": "Two Arrays",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1645611960
+          },
+          {
+            "platform": "codeforces",
+            "id": 147414901,
+            "pid": "1641A",
+            "name": "Great Sequence",
+            "verdict": "OK",
+            "creationTime": 1645611325
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 147311149,
-            "pid": "243B",
-            "name": "Hydra",
+            "id": 147476176,
+            "pid": "1245C",
+            "name": "Constanze's Machine",
             "verdict": "OK",
-            "creationTime": 1645542595
+            "creationTime": 1645623464
           },
           {
             "platform": "codeforces",
-            "id": 147222563,
-            "pid": "243B",
-            "name": "Hydra",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1645489493
-          },
-          {
-            "platform": "codeforces",
-            "id": 147222431,
-            "pid": "243B",
-            "name": "Hydra",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1645489202
-          },
-          {
-            "platform": "codeforces",
-            "id": 147222388,
-            "pid": "243B",
-            "name": "Hydra",
+            "id": 147476097,
+            "pid": "1245C",
+            "name": "Constanze's Machine",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645489058
+            "creationTime": 1645623425
           },
           {
             "platform": "codeforces",
-            "id": 147222352,
-            "pid": "243B",
-            "name": "Hydra",
+            "id": 147475983,
+            "pid": "1245C",
+            "name": "Constanze's Machine",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645488960
+            "creationTime": 1645623362
+          },
+          {
+            "platform": "codeforces",
+            "id": 147474476,
+            "pid": "1630D",
+            "name": "Flipping Range",
+            "verdict": "OK",
+            "creationTime": 1645622688
+          },
+          {
+            "platform": "codeforces",
+            "id": 147474414,
+            "pid": "1630D",
+            "name": "Flipping Range",
+            "verdict": "OK",
+            "creationTime": 1645622662
+          },
+          {
+            "platform": "codeforces",
+            "id": 147474334,
+            "pid": "1630D",
+            "name": "Flipping Range",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1645622625
+          },
+          {
+            "platform": "codeforces",
+            "id": 147473053,
+            "pid": "1630D",
+            "name": "Flipping Range",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1645622104
+          },
+          {
+            "platform": "codeforces",
+            "id": 147472668,
+            "pid": "1630D",
+            "name": "Flipping Range",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1645621943
           }
         ],
         "newContests": []
@@ -52,5 +138,5 @@
     ],
     "contest": []
   },
-  "ref": "b5201aef6427edeb61b3825a6d324d325d8ac35d"
+  "ref": "8e0d42bfcb7028d23702460e09f46159a2691410"
 }

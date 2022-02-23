@@ -13958,5 +13958,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103575",
     "standingsUrl": "https://codeforces.com/gym/103575/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 ICPC Universidad Nacional de Colombia Programming Contest",
+    "startTime": 1645552800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103577,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103577",
+    "standingsUrl": "https://codeforces.com/gym/103577/standings"
   }
 ]
