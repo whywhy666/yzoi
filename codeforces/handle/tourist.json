@@ -6,6 +6,180 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 147518709,
+      "creationTime": 1645655817,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501827830
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "hashing",
+          "probabilities",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147518709"
+    },
+    {
+      "type": "codeforces",
+      "id": 147518559,
+      "creationTime": 1645655543,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501828104
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "hashing",
+          "probabilities",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147518559"
+    },
+    {
+      "type": "codeforces",
+      "id": 147518438,
+      "creationTime": 1645655350,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501828297
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "hashing",
+          "probabilities",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147518438"
+    },
+    {
+      "type": "codeforces",
+      "id": 147518414,
+      "creationTime": 1645655303,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501828344
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "hashing",
+          "probabilities",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147518414"
+    },
+    {
+      "type": "codeforces",
+      "id": 147518379,
+      "creationTime": 1645655241,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501828406
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "hashing",
+          "probabilities",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147518379"
+    },
+    {
+      "type": "codeforces",
+      "id": 147518361,
+      "creationTime": 1645655203,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501828444
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1641D",
+        "name": "Two Arrays",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "hashing",
+          "probabilities",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1641/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1641/submission/147518361"
+    },
+    {
+      "type": "codeforces",
       "id": 147463572,
       "creationTime": 1645617932,
       "language": "GNU C++20 (64)",
@@ -46,8 +220,11 @@
         "id": "1641E",
         "name": "Special Positions",
         "tags": [
+          "brute force",
           "combinatorics",
-          "fft"
+          "divide and conquer",
+          "fft",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1641/problem/E"
       },
@@ -72,6 +249,8 @@
         "name": "Repetitions Decoding",
         "tags": [
           "constructive algorithms",
+          "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1641/problem/B"
@@ -99,6 +278,7 @@
           "binary search",
           "data structures",
           "dsu",
+          "greedy",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1641/problem/C"
@@ -125,8 +305,9 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "combinatorics",
+          "greedy",
           "hashing",
+          "probabilities",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1641/problem/D"
@@ -153,8 +334,9 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "combinatorics",
+          "greedy",
           "hashing",
+          "probabilities",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1641/problem/D"
@@ -179,6 +361,7 @@
         "id": "1641A",
         "name": "Great Sequence",
         "tags": [
+          "brute force",
           "greedy",
           "sortings"
         ],

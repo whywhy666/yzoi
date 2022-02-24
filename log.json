@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1645650595,
+  "updateTime": 1645737011,
   "history": {
     "user": [
       {
@@ -8,59 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 147463572,
-            "pid": "1641F",
-            "name": "Covering Circle",
-            "verdict": "OK",
-            "creationTime": 1645617932
-          },
-          {
-            "platform": "codeforces",
-            "id": 147445838,
-            "pid": "1641E",
-            "name": "Special Positions",
-            "verdict": "OK",
-            "creationTime": 1645614665
-          },
-          {
-            "platform": "codeforces",
-            "id": 147438181,
-            "pid": "1641B",
-            "name": "Repetitions Decoding",
-            "verdict": "OK",
-            "creationTime": 1645613653
-          },
-          {
-            "platform": "codeforces",
-            "id": 147435041,
-            "pid": "1641C",
-            "name": "Anonymity Is Important",
-            "verdict": "OK",
-            "creationTime": 1645613291
-          },
-          {
-            "platform": "codeforces",
-            "id": 147427811,
+            "id": 147518709,
             "pid": "1641D",
             "name": "Two Arrays",
             "verdict": "OK",
-            "creationTime": 1645612579
+            "creationTime": 1645655817
           },
           {
             "platform": "codeforces",
-            "id": 147420887,
+            "id": 147518559,
             "pid": "1641D",
             "name": "Two Arrays",
             "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1645611960
+            "creationTime": 1645655543
           },
           {
             "platform": "codeforces",
-            "id": 147414901,
-            "pid": "1641A",
-            "name": "Great Sequence",
+            "id": 147518438,
+            "pid": "1641D",
+            "name": "Two Arrays",
             "verdict": "OK",
-            "creationTime": 1645611325
+            "creationTime": 1645655350
+          },
+          {
+            "platform": "codeforces",
+            "id": 147518414,
+            "pid": "1641D",
+            "name": "Two Arrays",
+            "verdict": "OK",
+            "creationTime": 1645655303
+          },
+          {
+            "platform": "codeforces",
+            "id": 147518379,
+            "pid": "1641D",
+            "name": "Two Arrays",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1645655241
+          },
+          {
+            "platform": "codeforces",
+            "id": 147518361,
+            "pid": "1641D",
+            "name": "Two Arrays",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1645655203
           }
         ],
         "newContests": []
@@ -70,67 +62,115 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 147476176,
-            "pid": "1245C",
-            "name": "Constanze's Machine",
+            "id": 147576457,
+            "pid": "1634A",
+            "name": "Reverse and Concatenate",
             "verdict": "OK",
-            "creationTime": 1645623464
+            "creationTime": 1645710953
           },
           {
             "platform": "codeforces",
-            "id": 147476097,
-            "pid": "1245C",
-            "name": "Constanze's Machine",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645623425
-          },
-          {
-            "platform": "codeforces",
-            "id": 147475983,
-            "pid": "1245C",
-            "name": "Constanze's Machine",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645623362
-          },
-          {
-            "platform": "codeforces",
-            "id": 147474476,
-            "pid": "1630D",
-            "name": "Flipping Range",
+            "id": 147573012,
+            "pid": "1620D",
+            "name": "Exact Change",
             "verdict": "OK",
-            "creationTime": 1645622688
+            "creationTime": 1645708899
           },
           {
             "platform": "codeforces",
-            "id": 147474414,
-            "pid": "1630D",
-            "name": "Flipping Range",
+            "id": 147572986,
+            "pid": "1620D",
+            "name": "Exact Change",
             "verdict": "OK",
-            "creationTime": 1645622662
+            "creationTime": 1645708882
           },
           {
             "platform": "codeforces",
-            "id": 147474334,
-            "pid": "1630D",
-            "name": "Flipping Range",
+            "id": 147572795,
+            "pid": "1620D",
+            "name": "Exact Change",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645622625
+            "creationTime": 1645708754
           },
           {
             "platform": "codeforces",
-            "id": 147473053,
-            "pid": "1630D",
-            "name": "Flipping Range",
+            "id": 147572639,
+            "pid": "1620D",
+            "name": "Exact Change",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645622104
+            "creationTime": 1645708663
           },
           {
             "platform": "codeforces",
-            "id": 147472668,
-            "pid": "1630D",
-            "name": "Flipping Range",
+            "id": 147571247,
+            "pid": "1620D",
+            "name": "Exact Change",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645621943
+            "creationTime": 1645707840
+          },
+          {
+            "platform": "codeforces",
+            "id": 147570405,
+            "pid": "1620D",
+            "name": "Exact Change",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1645707344
+          },
+          {
+            "platform": "codeforces",
+            "id": 147570231,
+            "pid": "1620D",
+            "name": "Exact Change",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1645707233
+          },
+          {
+            "platform": "codeforces",
+            "id": 147566745,
+            "pid": "1620C",
+            "name": "BA-String",
+            "verdict": "OK",
+            "creationTime": 1645704995
+          },
+          {
+            "platform": "codeforces",
+            "id": 147566710,
+            "pid": "1620B",
+            "name": "Triangles on a Rectangle",
+            "verdict": "OK",
+            "creationTime": 1645704973
+          },
+          {
+            "platform": "codeforces",
+            "id": 147566685,
+            "pid": "1620A",
+            "name": "Equal or Not Equal",
+            "verdict": "OK",
+            "creationTime": 1645704954
+          },
+          {
+            "platform": "codeforces",
+            "id": 147540841,
+            "pid": "1611D",
+            "name": "Weights Assignment For Tree Edges",
+            "verdict": "OK",
+            "creationTime": 1645685082
+          },
+          {
+            "platform": "codeforces",
+            "id": 147540828,
+            "pid": "1611D",
+            "name": "Weights Assignment For Tree Edges",
+            "verdict": "OK",
+            "creationTime": 1645685068
+          },
+          {
+            "platform": "codeforces",
+            "id": 147540706,
+            "pid": "1611D",
+            "name": "Weights Assignment For Tree Edges",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1645684954
           }
         ],
         "newContests": []
@@ -138,5 +178,5 @@
     ],
     "contest": []
   },
-  "ref": "8e0d42bfcb7028d23702460e09f46159a2691410"
+  "ref": "848320f2e3dab01ee8b39237e5e00494f4ea7ba2"
 }
