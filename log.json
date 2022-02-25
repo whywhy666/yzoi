@@ -1,176 +1,58 @@
 {
   "version": "0.1.16",
-  "updateTime": 1645737011,
+  "updateTime": 1645823360,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 147518709,
-            "pid": "1641D",
-            "name": "Two Arrays",
-            "verdict": "OK",
-            "creationTime": 1645655817
-          },
-          {
-            "platform": "codeforces",
-            "id": 147518559,
-            "pid": "1641D",
-            "name": "Two Arrays",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1645655543
-          },
-          {
-            "platform": "codeforces",
-            "id": 147518438,
-            "pid": "1641D",
-            "name": "Two Arrays",
-            "verdict": "OK",
-            "creationTime": 1645655350
-          },
-          {
-            "platform": "codeforces",
-            "id": 147518414,
-            "pid": "1641D",
-            "name": "Two Arrays",
-            "verdict": "OK",
-            "creationTime": 1645655303
-          },
-          {
-            "platform": "codeforces",
-            "id": 147518379,
-            "pid": "1641D",
-            "name": "Two Arrays",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1645655241
-          },
-          {
-            "platform": "codeforces",
-            "id": 147518361,
-            "pid": "1641D",
-            "name": "Two Arrays",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1645655203
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 147576457,
-            "pid": "1634A",
-            "name": "Reverse and Concatenate",
+            "id": 147657484,
+            "pid": "1634C",
+            "name": "OKEA",
             "verdict": "OK",
-            "creationTime": 1645710953
+            "creationTime": 1645792272
           },
           {
             "platform": "codeforces",
-            "id": 147573012,
-            "pid": "1620D",
-            "name": "Exact Change",
+            "id": 147657468,
+            "pid": "1634C",
+            "name": "OKEA",
             "verdict": "OK",
-            "creationTime": 1645708899
+            "creationTime": 1645792259
           },
           {
             "platform": "codeforces",
-            "id": 147572986,
-            "pid": "1620D",
-            "name": "Exact Change",
-            "verdict": "OK",
-            "creationTime": 1645708882
-          },
-          {
-            "platform": "codeforces",
-            "id": 147572795,
-            "pid": "1620D",
-            "name": "Exact Change",
+            "id": 147657267,
+            "pid": "1634C",
+            "name": "OKEA",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645708754
+            "creationTime": 1645792113
           },
           {
             "platform": "codeforces",
-            "id": 147572639,
-            "pid": "1620D",
-            "name": "Exact Change",
+            "id": 147657109,
+            "pid": "1634C",
+            "name": "OKEA",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645708663
+            "creationTime": 1645792008
           },
           {
             "platform": "codeforces",
-            "id": 147571247,
-            "pid": "1620D",
-            "name": "Exact Change",
+            "id": 147657078,
+            "pid": "251B",
+            "name": "Playing with Permutations",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645707840
+            "creationTime": 1645791979
           },
           {
             "platform": "codeforces",
-            "id": 147570405,
-            "pid": "1620D",
-            "name": "Exact Change",
+            "id": 147657025,
+            "pid": "1634C",
+            "name": "OKEA",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645707344
-          },
-          {
-            "platform": "codeforces",
-            "id": 147570231,
-            "pid": "1620D",
-            "name": "Exact Change",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645707233
-          },
-          {
-            "platform": "codeforces",
-            "id": 147566745,
-            "pid": "1620C",
-            "name": "BA-String",
-            "verdict": "OK",
-            "creationTime": 1645704995
-          },
-          {
-            "platform": "codeforces",
-            "id": 147566710,
-            "pid": "1620B",
-            "name": "Triangles on a Rectangle",
-            "verdict": "OK",
-            "creationTime": 1645704973
-          },
-          {
-            "platform": "codeforces",
-            "id": 147566685,
-            "pid": "1620A",
-            "name": "Equal or Not Equal",
-            "verdict": "OK",
-            "creationTime": 1645704954
-          },
-          {
-            "platform": "codeforces",
-            "id": 147540841,
-            "pid": "1611D",
-            "name": "Weights Assignment For Tree Edges",
-            "verdict": "OK",
-            "creationTime": 1645685082
-          },
-          {
-            "platform": "codeforces",
-            "id": 147540828,
-            "pid": "1611D",
-            "name": "Weights Assignment For Tree Edges",
-            "verdict": "OK",
-            "creationTime": 1645685068
-          },
-          {
-            "platform": "codeforces",
-            "id": 147540706,
-            "pid": "1611D",
-            "name": "Weights Assignment For Tree Edges",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645684954
+            "creationTime": 1645791939
           }
         ],
         "newContests": []
@@ -178,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "848320f2e3dab01ee8b39237e5e00494f4ea7ba2"
+  "ref": "564ca74942bcfd7e07a1065323e0e313836480ff"
 }
