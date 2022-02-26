@@ -6,6 +6,81 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 147771761,
+      "creationTime": 1645880710,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501602937
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "157A",
+        "name": "Game Outcome",
+        "rating": 800,
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/157/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/157/submission/147771761"
+    },
+    {
+      "type": "codeforces",
+      "id": 147770877,
+      "creationTime": 1645880143,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501603504
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1351A",
+        "name": "A+B (Trial Problem)",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1351/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1351/submission/147770877"
+    },
+    {
+      "type": "codeforces",
+      "id": 147770482,
+      "creationTime": 1645879929,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501603718
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "71A",
+        "name": "Way Too Long Words",
+        "rating": 800,
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/71/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/71/submission/147770482"
+    },
+    {
+      "type": "codeforces",
       "id": 144131923,
       "creationTime": 1643267548,
       "language": "FPC",

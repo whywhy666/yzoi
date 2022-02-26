@@ -6,6 +6,436 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 147780520,
+      "creationTime": 1645886271,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501597376
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147780520"
+    },
+    {
+      "type": "codeforces",
+      "id": 147780494,
+      "creationTime": 1645886255,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501597392
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147780494"
+    },
+    {
+      "type": "codeforces",
+      "id": 147780344,
+      "creationTime": 1645886166,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501597481
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147780344"
+    },
+    {
+      "type": "codeforces",
+      "id": 147761895,
+      "creationTime": 1645874353,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501609294
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147761895"
+    },
+    {
+      "type": "codeforces",
+      "id": 147759579,
+      "creationTime": 1645872958,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501610689
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147759579"
+    },
+    {
+      "type": "codeforces",
+      "id": 147758596,
+      "creationTime": 1645872404,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501611243
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147758596"
+    },
+    {
+      "type": "codeforces",
+      "id": 147758534,
+      "creationTime": 1645872370,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501611277
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147758534"
+    },
+    {
+      "type": "codeforces",
+      "id": 147758271,
+      "creationTime": 1645872227,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501611420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147758271"
+    },
+    {
+      "type": "codeforces",
+      "id": 147757956,
+      "creationTime": 1645872061,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501611586
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147757956"
+    },
+    {
+      "type": "codeforces",
+      "id": 147757794,
+      "creationTime": 1645871968,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501611679
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147757794"
+    },
+    {
+      "type": "codeforces",
+      "id": 147757460,
+      "creationTime": 1645871773,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501611874
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147757460"
+    },
+    {
+      "type": "codeforces",
+      "id": 147757391,
+      "creationTime": 1645871727,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501611920
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "18D",
+        "name": "Seller Bob",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/18/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/18/submission/147757391"
+    },
+    {
+      "type": "codeforces",
+      "id": 147735083,
+      "creationTime": 1645859678,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501623969
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "251B",
+        "name": "Playing with Permutations",
+        "rating": 1800,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/251/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/251/submission/147735083"
+    },
+    {
+      "type": "codeforces",
+      "id": 147734269,
+      "creationTime": 1645859253,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501624394
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "252D",
+        "name": "Playing with Permutations",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/252/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/252/submission/147734269"
+    },
+    {
+      "type": "codeforces",
+      "id": 147734119,
+      "creationTime": 1645859180,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501624467
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "252D",
+        "name": "Playing with Permutations",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/252/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/252/submission/147734119"
+    },
+    {
+      "type": "codeforces",
+      "id": 147732796,
+      "creationTime": 1645858496,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501625151
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "251B",
+        "name": "Playing with Permutations",
+        "rating": 1800,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/251/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/251/submission/147732796"
+    },
+    {
+      "type": "codeforces",
       "id": 147657484,
       "creationTime": 1645792272,
       "language": "GNU C++14",
