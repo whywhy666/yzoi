@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1645909761,
+  "updateTime": 1645996199,
   "history": {
     "user": [
       {
@@ -8,161 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 147780520,
-            "pid": "18D",
-            "name": "Seller Bob",
+            "id": 147842212,
+            "pid": "59D",
+            "name": "Team Arrangement",
             "verdict": "OK",
-            "creationTime": 1645886271
+            "creationTime": 1645952621
           },
           {
             "platform": "codeforces",
-            "id": 147780494,
-            "pid": "18D",
-            "name": "Seller Bob",
+            "id": 147842187,
+            "pid": "59D",
+            "name": "Team Arrangement",
             "verdict": "OK",
-            "creationTime": 1645886255
+            "creationTime": 1645952602
           },
           {
             "platform": "codeforces",
-            "id": 147780344,
-            "pid": "18D",
-            "name": "Seller Bob",
+            "id": 147841634,
+            "pid": "59D",
+            "name": "Team Arrangement",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645886166
+            "creationTime": 1645952218
           },
           {
             "platform": "codeforces",
-            "id": 147761895,
-            "pid": "18D",
-            "name": "Seller Bob",
+            "id": 147841541,
+            "pid": "59D",
+            "name": "Team Arrangement",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1645874353
-          },
-          {
-            "platform": "codeforces",
-            "id": 147759579,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645872958
-          },
-          {
-            "platform": "codeforces",
-            "id": 147758596,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645872404
-          },
-          {
-            "platform": "codeforces",
-            "id": 147758534,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645872370
-          },
-          {
-            "platform": "codeforces",
-            "id": 147758271,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645872227
-          },
-          {
-            "platform": "codeforces",
-            "id": 147757956,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645872061
-          },
-          {
-            "platform": "codeforces",
-            "id": 147757794,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645871968
-          },
-          {
-            "platform": "codeforces",
-            "id": 147757460,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645871773
-          },
-          {
-            "platform": "codeforces",
-            "id": 147757391,
-            "pid": "18D",
-            "name": "Seller Bob",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1645871727
-          },
-          {
-            "platform": "codeforces",
-            "id": 147735083,
-            "pid": "251B",
-            "name": "Playing with Permutations",
-            "verdict": "OK",
-            "creationTime": 1645859678
-          },
-          {
-            "platform": "codeforces",
-            "id": 147734269,
-            "pid": "252D",
-            "name": "Playing with Permutations",
-            "verdict": "OK",
-            "creationTime": 1645859253
-          },
-          {
-            "platform": "codeforces",
-            "id": 147734119,
-            "pid": "252D",
-            "name": "Playing with Permutations",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645859180
-          },
-          {
-            "platform": "codeforces",
-            "id": 147732796,
-            "pid": "251B",
-            "name": "Playing with Permutations",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645858496
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "陆重羽",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 147771761,
-            "pid": "157A",
-            "name": "Game Outcome",
-            "verdict": "OK",
-            "creationTime": 1645880710
-          },
-          {
-            "platform": "codeforces",
-            "id": 147770877,
-            "pid": "1351A",
-            "name": "A+B (Trial Problem)",
-            "verdict": "OK",
-            "creationTime": 1645880143
-          },
-          {
-            "platform": "codeforces",
-            "id": 147770482,
-            "pid": "71A",
-            "name": "Way Too Long Words",
-            "verdict": "OK",
-            "creationTime": 1645879929
+            "creationTime": 1645952166
           }
         ],
         "newContests": []
@@ -170,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "d3c375fdc8fb2dd0cc91337187a79b728afb3a3a"
+  "ref": "4453d8e4eed80716d04fd66b926fee8a6b24c454"
 }
