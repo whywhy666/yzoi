@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1645996199,
+  "updateTime": 1646082563,
   "history": {
     "user": [
       {
@@ -8,35 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 147842212,
-            "pid": "59D",
-            "name": "Team Arrangement",
+            "id": 147948646,
+            "pid": "665D",
+            "name": "Simple Subset",
             "verdict": "OK",
-            "creationTime": 1645952621
+            "creationTime": 1646056063
           },
           {
             "platform": "codeforces",
-            "id": 147842187,
-            "pid": "59D",
-            "name": "Team Arrangement",
+            "id": 147948558,
+            "pid": "665D",
+            "name": "Simple Subset",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646056008
+          },
+          {
+            "platform": "codeforces",
+            "id": 147948377,
+            "pid": "665D",
+            "name": "Simple Subset",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646055895
+          },
+          {
+            "platform": "codeforces",
+            "id": 147946110,
+            "pid": "1621A",
+            "name": "Stable Arrangement of Rooks",
             "verdict": "OK",
-            "creationTime": 1645952602
+            "creationTime": 1646054430
           },
           {
             "platform": "codeforces",
-            "id": 147841634,
-            "pid": "59D",
-            "name": "Team Arrangement",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645952218
-          },
-          {
-            "platform": "codeforces",
-            "id": 147841541,
-            "pid": "59D",
-            "name": "Team Arrangement",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1645952166
+            "id": 147946079,
+            "pid": "1621A",
+            "name": "Stable Arrangement of Rooks",
+            "verdict": "OK",
+            "creationTime": 1646054406
           }
         ],
         "newContests": []
@@ -44,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "4453d8e4eed80716d04fd66b926fee8a6b24c454"
+  "ref": "817ba71ba16c19d3180e4cc370f2deaacf4997d0"
 }
