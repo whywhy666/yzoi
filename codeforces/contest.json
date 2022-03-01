@@ -33,6 +33,17 @@
     "standingsUrl": "https://codeforces.com/contest/1644/standings"
   },
   {
+    "type": "codeforces/icpc",
+    "name": "Kotlin Heroes: Practice 9",
+    "startTime": 1645536900,
+    "duration": 604800,
+    "participantNumber": 0,
+    "id": 1645,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1645",
+    "standingsUrl": "https://codeforces.com/contest/1645/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round #772 (Div. 2)",
     "startTime": 1645367700,

@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1646082563,
+  "updateTime": 1646169009,
   "history": {
     "user": [
       {
@@ -8,43 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 147948646,
-            "pid": "665D",
-            "name": "Simple Subset",
+            "id": 148035582,
+            "pid": "1630C",
+            "name": "Paint the Middle",
             "verdict": "OK",
-            "creationTime": 1646056063
+            "creationTime": 1646142207
           },
           {
             "platform": "codeforces",
-            "id": 147948558,
-            "pid": "665D",
-            "name": "Simple Subset",
+            "id": 148035417,
+            "pid": "1630C",
+            "name": "Paint the Middle",
+            "verdict": "OK",
+            "creationTime": 1646142100
+          },
+          {
+            "platform": "codeforces",
+            "id": 148035363,
+            "pid": "1630C",
+            "name": "Paint the Middle",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1646056008
+            "creationTime": 1646142065
           },
           {
             "platform": "codeforces",
-            "id": 147948377,
-            "pid": "665D",
-            "name": "Simple Subset",
+            "id": 148032764,
+            "pid": "1630C",
+            "name": "Paint the Middle",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1646055895
+            "creationTime": 1646140402
           },
           {
             "platform": "codeforces",
-            "id": 147946110,
-            "pid": "1621A",
-            "name": "Stable Arrangement of Rooks",
+            "id": 148002069,
+            "pid": "1621B",
+            "name": "Integers Shop",
             "verdict": "OK",
-            "creationTime": 1646054430
-          },
-          {
-            "platform": "codeforces",
-            "id": 147946079,
-            "pid": "1621A",
-            "name": "Stable Arrangement of Rooks",
-            "verdict": "OK",
-            "creationTime": 1646054406
+            "creationTime": 1646116924
           }
         ],
         "newContests": []
@@ -52,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "817ba71ba16c19d3180e4cc370f2deaacf4997d0"
+  "ref": "7adf285ef484ef2eff5493341d80f784900cca9e"
 }
