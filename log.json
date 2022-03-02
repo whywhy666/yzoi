@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1646169009,
+  "updateTime": 1646255317,
   "history": {
     "user": [
       {
@@ -8,43 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 148035582,
-            "pid": "1630C",
-            "name": "Paint the Middle",
+            "id": 148129613,
+            "pid": "1542A",
+            "name": "Odd Set",
             "verdict": "OK",
-            "creationTime": 1646142207
-          },
-          {
-            "platform": "codeforces",
-            "id": 148035417,
-            "pid": "1630C",
-            "name": "Paint the Middle",
-            "verdict": "OK",
-            "creationTime": 1646142100
-          },
-          {
-            "platform": "codeforces",
-            "id": 148035363,
-            "pid": "1630C",
-            "name": "Paint the Middle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646142065
-          },
-          {
-            "platform": "codeforces",
-            "id": 148032764,
-            "pid": "1630C",
-            "name": "Paint the Middle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646140402
-          },
-          {
-            "platform": "codeforces",
-            "id": 148002069,
-            "pid": "1621B",
-            "name": "Integers Shop",
-            "verdict": "OK",
-            "creationTime": 1646116924
+            "creationTime": 1646235193
           }
         ],
         "newContests": []
@@ -52,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "7adf285ef484ef2eff5493341d80f784900cca9e"
+  "ref": "f69bcb45b2152c255ded1aeb8c7043b749111ab2"
 }
