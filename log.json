@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1646341809,
+  "updateTime": 1646428215,
   "history": {
     "user": [
       {
@@ -8,59 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 148207337,
-            "pid": "1529A",
-            "name": "Eshag Loves Big Arrays",
+            "id": 148287886,
+            "pid": "1634D",
+            "name": "Finding Zero",
             "verdict": "OK",
-            "creationTime": 1646316849
+            "creationTime": 1646399993
           },
           {
             "platform": "codeforces",
-            "id": 148207286,
-            "pid": "1529A",
-            "name": "Eshag Loves Big Arrays",
+            "id": 148287854,
+            "pid": "1634D",
+            "name": "Finding Zero",
             "verdict": "OK",
-            "creationTime": 1646316810
+            "creationTime": 1646399974
           },
           {
             "platform": "codeforces",
-            "id": 148203551,
-            "pid": "1621D",
-            "name": "The Winter Hike",
-            "verdict": "OK",
-            "creationTime": 1646314398
-          },
-          {
-            "platform": "codeforces",
-            "id": 148203189,
-            "pid": "1621D",
-            "name": "The Winter Hike",
+            "id": 148287174,
+            "pid": "1634D",
+            "name": "Finding Zero",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1646314174
+            "creationTime": 1646399566
           },
           {
             "platform": "codeforces",
-            "id": 148203099,
-            "pid": "1621D",
-            "name": "The Winter Hike",
+            "id": 148286476,
+            "pid": "1634D",
+            "name": "Finding Zero",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1646314112
+            "creationTime": 1646399134
           },
           {
             "platform": "codeforces",
-            "id": 148198351,
-            "pid": "1621C",
-            "name": "Hidden Permutations",
-            "verdict": "OK",
-            "creationTime": 1646311156
+            "id": 148286088,
+            "pid": "1634D",
+            "name": "Finding Zero",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646398881
           },
           {
             "platform": "codeforces",
-            "id": 148198330,
-            "pid": "1621C",
-            "name": "Hidden Permutations",
+            "id": 148285644,
+            "pid": "1634D",
+            "name": "Finding Zero",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646398629
+          },
+          {
+            "platform": "codeforces",
+            "id": 148283729,
+            "pid": "1624G",
+            "name": "MinOr Tree",
             "verdict": "OK",
-            "creationTime": 1646311141
+            "creationTime": 1646397473
+          },
+          {
+            "platform": "codeforces",
+            "id": 148283378,
+            "pid": "1624G",
+            "name": "MinOr Tree",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1646397256
+          },
+          {
+            "platform": "codeforces",
+            "id": 148283327,
+            "pid": "1624G",
+            "name": "MinOr Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646397223
+          },
+          {
+            "platform": "codeforces",
+            "id": 148283275,
+            "pid": "1624G",
+            "name": "MinOr Tree",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1646397195
           }
         ],
         "newContests": []
@@ -68,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "23770bc71218a4a17e0f7ba1e914067f0d0edfcc"
+  "ref": "ee437e45951a53c686ba11c07689e8ea59b91ec8"
 }

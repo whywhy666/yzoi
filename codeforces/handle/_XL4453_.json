@@ -6,6 +6,284 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 148287886,
+      "creationTime": 1646399993,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501083654
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1634D",
+        "name": "Finding Zero",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1634/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1634/submission/148287886"
+    },
+    {
+      "type": "codeforces",
+      "id": 148287854,
+      "creationTime": 1646399974,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501083673
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1634D",
+        "name": "Finding Zero",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1634/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1634/submission/148287854"
+    },
+    {
+      "type": "codeforces",
+      "id": 148287174,
+      "creationTime": 1646399566,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501084081
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1634D",
+        "name": "Finding Zero",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1634/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1634/submission/148287174"
+    },
+    {
+      "type": "codeforces",
+      "id": 148286476,
+      "creationTime": 1646399134,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501084513
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1634D",
+        "name": "Finding Zero",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1634/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1634/submission/148286476"
+    },
+    {
+      "type": "codeforces",
+      "id": 148286088,
+      "creationTime": 1646398881,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501084766
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1634D",
+        "name": "Finding Zero",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1634/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1634/submission/148286088"
+    },
+    {
+      "type": "codeforces",
+      "id": 148285644,
+      "creationTime": 1646398629,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501085018
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1634D",
+        "name": "Finding Zero",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1634/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1634/submission/148285644"
+    },
+    {
+      "type": "codeforces",
+      "id": 148283729,
+      "creationTime": 1646397473,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501086174
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624G",
+        "name": "MinOr Tree",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/148283729"
+    },
+    {
+      "type": "codeforces",
+      "id": 148283378,
+      "creationTime": 1646397256,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501086391
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624G",
+        "name": "MinOr Tree",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/148283378"
+    },
+    {
+      "type": "codeforces",
+      "id": 148283327,
+      "creationTime": 1646397223,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501086424
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624G",
+        "name": "MinOr Tree",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/148283327"
+    },
+    {
+      "type": "codeforces",
+      "id": 148283275,
+      "creationTime": 1646397195,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -501086452
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1624G",
+        "name": "MinOr Tree",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1624/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1624/submission/148283275"
+    },
+    {
+      "type": "codeforces",
       "id": 148207337,
       "creationTime": 1646316849,
       "language": "GNU C++14",
