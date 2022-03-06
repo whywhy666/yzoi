@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1646514573,
+  "updateTime": 1646600972,
   "history": {
     "user": [
       {
@@ -8,115 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 148479234,
+            "id": 148623225,
+            "pid": "1529B",
+            "name": "Sifid and Strange Subsequences",
+            "verdict": "OK",
+            "creationTime": 1646580952
+          },
+          {
+            "platform": "codeforces",
+            "id": 148623183,
+            "pid": "1529B",
+            "name": "Sifid and Strange Subsequences",
+            "verdict": "OK",
+            "creationTime": 1646580930
+          },
+          {
+            "platform": "codeforces",
+            "id": 148623115,
+            "pid": "1529B",
+            "name": "Sifid and Strange Subsequences",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1646580885
+          },
+          {
+            "platform": "codeforces",
+            "id": 148539522,
+            "pid": "1634B",
+            "name": "Fortune Telling",
+            "verdict": "OK",
+            "creationTime": 1646558951
+          },
+          {
+            "platform": "codeforces",
+            "id": 148538089,
+            "pid": "1634E",
+            "name": "Fair Share",
+            "verdict": "OK",
+            "creationTime": 1646557873
+          },
+          {
+            "platform": "codeforces",
+            "id": 148506820,
             "pid": "1624F",
             "name": "Interacdive Problem",
             "verdict": "OK",
-            "creationTime": 1646495146
-          },
-          {
-            "platform": "codeforces",
-            "id": 148479180,
-            "pid": "1624F",
-            "name": "Interacdive Problem",
-            "verdict": "OK",
-            "creationTime": 1646495097
-          },
-          {
-            "platform": "codeforces",
-            "id": 148478972,
-            "pid": "1624F",
-            "name": "Interacdive Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646494910
-          },
-          {
-            "platform": "codeforces",
-            "id": 148478381,
-            "pid": "1624F",
-            "name": "Interacdive Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646494391
-          },
-          {
-            "platform": "codeforces",
-            "id": 148435263,
-            "pid": "1624F",
-            "name": "Interacdive Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646466034
-          },
-          {
-            "platform": "codeforces",
-            "id": 148432758,
-            "pid": "1624F",
-            "name": "Interacdive Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646464665
-          },
-          {
-            "platform": "codeforces",
-            "id": 148432700,
-            "pid": "1624F",
-            "name": "Interacdive Problem",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646464631
-          },
-          {
-            "platform": "codeforces",
-            "id": 148432592,
-            "pid": "1624E",
-            "name": "Masha-forgetful",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646464572
-          },
-          {
-            "platform": "codeforces",
-            "id": 148430310,
-            "pid": "1624E",
-            "name": "Masha-forgetful",
-            "verdict": "OK",
-            "creationTime": 1646463380
-          },
-          {
-            "platform": "codeforces",
-            "id": 148430291,
-            "pid": "1624E",
-            "name": "Masha-forgetful",
-            "verdict": "OK",
-            "creationTime": 1646463369
-          },
-          {
-            "platform": "codeforces",
-            "id": 148429654,
-            "pid": "1624E",
-            "name": "Masha-forgetful",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646463018
-          },
-          {
-            "platform": "codeforces",
-            "id": 148429481,
-            "pid": "1624E",
-            "name": "Masha-forgetful",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646462911
-          },
-          {
-            "platform": "codeforces",
-            "id": 148417554,
-            "pid": "1637A",
-            "name": "Sorting Parts",
-            "verdict": "OK",
-            "creationTime": 1646455636
-          },
-          {
-            "platform": "codeforces",
-            "id": 148417314,
-            "pid": "1637A",
-            "name": "Sorting Parts",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646455439
+            "creationTime": 1646529039
           }
         ],
         "newContests": []
@@ -124,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "f939e9bf8796dcc9b3a78d1b1d1374541f2ec426"
+  "ref": "88a0cb46f11876b0d97783a0614bb5120d5f1c35"
 }
