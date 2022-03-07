@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1646600972,
+  "updateTime": 1646687383,
   "history": {
     "user": [
       {
@@ -8,51 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 148623225,
-            "pid": "1529B",
-            "name": "Sifid and Strange Subsequences",
+            "id": 148712591,
+            "pid": "1610D",
+            "name": "Not Quite Lee",
             "verdict": "OK",
-            "creationTime": 1646580952
+            "creationTime": 1646665711
           },
           {
             "platform": "codeforces",
-            "id": 148623183,
-            "pid": "1529B",
-            "name": "Sifid and Strange Subsequences",
-            "verdict": "OK",
-            "creationTime": 1646580930
-          },
-          {
-            "platform": "codeforces",
-            "id": 148623115,
-            "pid": "1529B",
-            "name": "Sifid and Strange Subsequences",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1646580885
-          },
-          {
-            "platform": "codeforces",
-            "id": 148539522,
-            "pid": "1634B",
-            "name": "Fortune Telling",
-            "verdict": "OK",
-            "creationTime": 1646558951
-          },
-          {
-            "platform": "codeforces",
-            "id": 148538089,
-            "pid": "1634E",
-            "name": "Fair Share",
-            "verdict": "OK",
-            "creationTime": 1646557873
-          },
-          {
-            "platform": "codeforces",
-            "id": 148506820,
-            "pid": "1624F",
-            "name": "Interacdive Problem",
-            "verdict": "OK",
-            "creationTime": 1646529039
+            "id": 148712024,
+            "pid": "1610D",
+            "name": "Not Quite Lee",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646665350
           }
         ],
         "newContests": []
@@ -60,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "88a0cb46f11876b0d97783a0614bb5120d5f1c35"
+  "ref": "56a8513698a6908b39cdf117904d2eb0295c3e8b"
 }
