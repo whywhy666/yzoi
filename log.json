@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1646687383,
+  "updateTime": 1646773782,
   "history": {
     "user": [
       {
@@ -8,19 +8,147 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 148712591,
-            "pid": "1610D",
-            "name": "Not Quite Lee",
+            "id": 148803819,
+            "pid": "15C",
+            "name": "Industrial Nim",
             "verdict": "OK",
-            "creationTime": 1646665711
+            "creationTime": 1646747659
           },
           {
             "platform": "codeforces",
-            "id": 148712024,
-            "pid": "1610D",
-            "name": "Not Quite Lee",
+            "id": 148803701,
+            "pid": "15C",
+            "name": "Industrial Nim",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1646665350
+            "creationTime": 1646747585
+          },
+          {
+            "platform": "codeforces",
+            "id": 148802421,
+            "pid": "15C",
+            "name": "Industrial Nim",
+            "verdict": "OK",
+            "creationTime": 1646746768
+          },
+          {
+            "platform": "codeforces",
+            "id": 148802364,
+            "pid": "15C",
+            "name": "Industrial Nim",
+            "verdict": "OK",
+            "creationTime": 1646746732
+          },
+          {
+            "platform": "codeforces",
+            "id": 148802234,
+            "pid": "15C",
+            "name": "Industrial Nim",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646746648
+          },
+          {
+            "platform": "codeforces",
+            "id": 148801558,
+            "pid": "15C",
+            "name": "Industrial Nim",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646746199
+          },
+          {
+            "platform": "codeforces",
+            "id": 148801252,
+            "pid": "15C",
+            "name": "Industrial Nim",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646745996
+          },
+          {
+            "platform": "codeforces",
+            "id": 148801062,
+            "pid": "15C",
+            "name": "Industrial Nim",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646745889
+          },
+          {
+            "platform": "codeforces",
+            "id": 148797741,
+            "pid": "1558C",
+            "name": "Bottom-Tier Reversals",
+            "verdict": "OK",
+            "creationTime": 1646743827
+          },
+          {
+            "platform": "codeforces",
+            "id": 148795824,
+            "pid": "1589D",
+            "name": "Guess the Permutation",
+            "verdict": "OK",
+            "creationTime": 1646742644
+          },
+          {
+            "platform": "codeforces",
+            "id": 148795682,
+            "pid": "1589D",
+            "name": "Guess the Permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646742553
+          },
+          {
+            "platform": "codeforces",
+            "id": 148795619,
+            "pid": "1589D",
+            "name": "Guess the Permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646742515
+          },
+          {
+            "platform": "codeforces",
+            "id": 148795256,
+            "pid": "1589D",
+            "name": "Guess the Permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646742268
+          },
+          {
+            "platform": "codeforces",
+            "id": 148794928,
+            "pid": "1584D",
+            "name": "Guess the Permutation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646742057
+          },
+          {
+            "platform": "codeforces",
+            "id": 148747100,
+            "pid": "1613E",
+            "name": "Crazy Robot",
+            "verdict": "OK",
+            "creationTime": 1646698865
+          },
+          {
+            "platform": "codeforces",
+            "id": 148747090,
+            "pid": "1613E",
+            "name": "Crazy Robot",
+            "verdict": "OK",
+            "creationTime": 1646698849
+          },
+          {
+            "platform": "codeforces",
+            "id": 148747049,
+            "pid": "1613E",
+            "name": "Crazy Robot",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1646698740
+          },
+          {
+            "platform": "codeforces",
+            "id": 148746987,
+            "pid": "1613E",
+            "name": "Crazy Robot",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1646698588
           }
         ],
         "newContests": []
@@ -28,5 +156,5 @@
     ],
     "contest": []
   },
-  "ref": "56a8513698a6908b39cdf117904d2eb0295c3e8b"
+  "ref": "ba241722d8d28448941ab5ec0ee8a1da756033a4"
 }
