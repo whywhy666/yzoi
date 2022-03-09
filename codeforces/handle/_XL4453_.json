@@ -6,6 +6,117 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 149005314,
+      "creationTime": 1646840653,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500642994
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550C",
+        "name": "Manhattan Subarrays",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/149005314"
+    },
+    {
+      "type": "codeforces",
+      "id": 149005255,
+      "creationTime": 1646840613,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500643034
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550C",
+        "name": "Manhattan Subarrays",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/149005255"
+    },
+    {
+      "type": "codeforces",
+      "id": 149004841,
+      "creationTime": 1646840311,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500643336
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550C",
+        "name": "Manhattan Subarrays",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "geometry",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/149004841"
+    },
+    {
+      "type": "codeforces",
+      "id": 148994258,
+      "creationTime": 1646833629,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500650018
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1065D",
+        "name": "Three Pieces",
+        "rating": 2200,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1065/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1065/submission/148994258"
+    },
+    {
+      "type": "codeforces",
       "id": 148803819,
       "creationTime": 1646747659,
       "language": "GNU C++14",
