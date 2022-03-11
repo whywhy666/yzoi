@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1646946586,
+  "updateTime": 1647032975,
   "history": {
     "user": [
       {
@@ -8,155 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 149164795,
-            "pid": "1651D",
-            "name": "Nearest Excluded Points",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1646929550
-          },
-          {
-            "platform": "codeforces",
-            "id": 149163997,
-            "pid": "1651D",
-            "name": "Nearest Excluded Points",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1646929438
-          },
-          {
-            "platform": "codeforces",
-            "id": 149161462,
-            "pid": "1651D",
-            "name": "Nearest Excluded Points",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646929083
-          },
-          {
-            "platform": "codeforces",
-            "id": 149158699,
-            "pid": "1651D",
-            "name": "Nearest Excluded Points",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646928699
-          },
-          {
-            "platform": "codeforces",
-            "id": 149151968,
-            "pid": "1651D",
-            "name": "Nearest Excluded Points",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646927803
-          },
-          {
-            "platform": "codeforces",
-            "id": 149130702,
-            "pid": "1651C",
-            "name": "Fault-tolerant Network",
+            "id": 149260477,
+            "pid": "1304E",
+            "name": "1-Trees and Queries",
             "verdict": "OK",
-            "creationTime": 1646925407
+            "creationTime": 1647007196
           },
           {
             "platform": "codeforces",
-            "id": 149123461,
-            "pid": "1651C",
-            "name": "Fault-tolerant Network",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646924763
-          },
-          {
-            "platform": "codeforces",
-            "id": 149105594,
-            "pid": "1651B",
-            "name": "Prove Him Wrong",
+            "id": 149260447,
+            "pid": "1304E",
+            "name": "1-Trees and Queries",
             "verdict": "OK",
-            "creationTime": 1646923571
+            "creationTime": 1647007180
           },
           {
             "platform": "codeforces",
-            "id": 149105008,
-            "pid": "1651B",
-            "name": "Prove Him Wrong",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646923541
+            "id": 149260375,
+            "pid": "1304E",
+            "name": "1-Trees and Queries",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1647007138
           },
           {
             "platform": "codeforces",
-            "id": 149100549,
-            "pid": "1651B",
-            "name": "Prove Him Wrong",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646923344
-          },
-          {
-            "platform": "codeforces",
-            "id": 149091683,
-            "pid": "1651A",
-            "name": "Playoff",
+            "id": 149250602,
+            "pid": "891C",
+            "name": "Envy",
             "verdict": "OK",
-            "creationTime": 1646922979
+            "creationTime": 1647001864
           },
           {
             "platform": "codeforces",
-            "id": 149090128,
+            "id": 149249984,
             "pid": "891C",
             "name": "Envy",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646921975
-          },
-          {
-            "platform": "codeforces",
-            "id": 149089790,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646921752
-          },
-          {
-            "platform": "codeforces",
-            "id": 149089586,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646921620
-          },
-          {
-            "platform": "codeforces",
-            "id": 149089347,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646921462
-          },
-          {
-            "platform": "codeforces",
-            "id": 149089015,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646921277
-          },
-          {
-            "platform": "codeforces",
-            "id": 149088690,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1646921077
-          },
-          {
-            "platform": "codeforces",
-            "id": 149080138,
-            "pid": "1553B",
-            "name": "Reverse String",
             "verdict": "OK",
-            "creationTime": 1646915740
+            "creationTime": 1647001555
           },
           {
             "platform": "codeforces",
-            "id": 149080078,
-            "pid": "1553B",
-            "name": "Reverse String",
+            "id": 149249543,
+            "pid": "891C",
+            "name": "Envy",
             "verdict": "OK",
-            "creationTime": 1646915698
+            "creationTime": 1647001302
           }
         ],
         "newContests": []
@@ -164,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "9c66d1067b9fd26125f00de40618dabfb89187c7"
+  "ref": "ec68d4c200679018008f28dcfa2782280265e760"
 }

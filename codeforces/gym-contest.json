@@ -14031,5 +14031,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103590",
     "standingsUrl": "https://codeforces.com/gym/103590/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Турнир Архимеда 2021",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103600,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103600",
+    "standingsUrl": "https://codeforces.com/gym/103600/standings"
   }
 ]

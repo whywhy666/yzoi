@@ -6,6 +6,171 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 149260477,
+      "creationTime": 1647007196,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500476451
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1304E",
+        "name": "1-Trees and Queries",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "shortest paths",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1304/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1304/submission/149260477"
+    },
+    {
+      "type": "codeforces",
+      "id": 149260447,
+      "creationTime": 1647007180,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500476467
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1304E",
+        "name": "1-Trees and Queries",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "shortest paths",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1304/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1304/submission/149260447"
+    },
+    {
+      "type": "codeforces",
+      "id": 149260375,
+      "creationTime": 1647007138,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500476509
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1304E",
+        "name": "1-Trees and Queries",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "shortest paths",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1304/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1304/submission/149260375"
+    },
+    {
+      "type": "codeforces",
+      "id": 149250602,
+      "creationTime": 1647001864,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500481783
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "891C",
+        "name": "Envy",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/891/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/891/submission/149250602"
+    },
+    {
+      "type": "codeforces",
+      "id": 149249984,
+      "creationTime": 1647001555,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500482092
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "891C",
+        "name": "Envy",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/891/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/891/submission/149249984"
+    },
+    {
+      "type": "codeforces",
+      "id": 149249543,
+      "creationTime": 1647001302,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500482345
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "891C",
+        "name": "Envy",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/891/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/891/submission/149249543"
+    },
+    {
+      "type": "codeforces",
       "id": 149164795,
       "creationTime": 1646929550,
       "language": "GNU C++14",
@@ -22,7 +187,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
-          "binary search",
+          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -50,7 +215,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
-          "binary search",
+          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -78,7 +243,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
-          "binary search",
+          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -106,7 +271,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
-          "binary search",
+          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -134,7 +299,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
-          "binary search",
+          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -30745,7 +30910,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1772,
+    "rating": 1762,
     "maxRank": "expert",
     "maxRating": 1772
   }
