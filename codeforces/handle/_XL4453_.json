@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 149440858,
+      "creationTime": 1647099729,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500383918
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638A",
+        "name": "Reverse",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/149440858"
+    },
+    {
+      "type": "codeforces",
       "id": 149260477,
       "creationTime": 1647007196,
       "language": "GNU C++14",

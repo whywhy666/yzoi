@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1647032975,
+  "updateTime": 1647119400,
   "history": {
     "user": [
       {
@@ -8,51 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 149260477,
-            "pid": "1304E",
-            "name": "1-Trees and Queries",
+            "id": 149440858,
+            "pid": "1638A",
+            "name": "Reverse",
             "verdict": "OK",
-            "creationTime": 1647007196
-          },
-          {
-            "platform": "codeforces",
-            "id": 149260447,
-            "pid": "1304E",
-            "name": "1-Trees and Queries",
-            "verdict": "OK",
-            "creationTime": 1647007180
-          },
-          {
-            "platform": "codeforces",
-            "id": 149260375,
-            "pid": "1304E",
-            "name": "1-Trees and Queries",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1647007138
-          },
-          {
-            "platform": "codeforces",
-            "id": 149250602,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "OK",
-            "creationTime": 1647001864
-          },
-          {
-            "platform": "codeforces",
-            "id": 149249984,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "OK",
-            "creationTime": 1647001555
-          },
-          {
-            "platform": "codeforces",
-            "id": 149249543,
-            "pid": "891C",
-            "name": "Envy",
-            "verdict": "OK",
-            "creationTime": 1647001302
+            "creationTime": 1647099729
           }
         ],
         "newContests": []
@@ -60,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "ec68d4c200679018008f28dcfa2782280265e760"
+  "ref": "a4759c6a5721d9154ca8322b2a412731e59f467a"
 }
