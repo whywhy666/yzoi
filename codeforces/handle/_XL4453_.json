@@ -6,6 +6,174 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 149531091,
+      "creationTime": 1647179415,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500304232
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637B",
+        "name": "MEX and Array",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/149531091"
+    },
+    {
+      "type": "codeforces",
+      "id": 149531004,
+      "creationTime": 1647179362,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500304285
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637B",
+        "name": "MEX and Array",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/149531004"
+    },
+    {
+      "type": "codeforces",
+      "id": 149502311,
+      "creationTime": 1647161988,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500321659
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1438C",
+        "name": "Engineer Artem",
+        "rating": 2000,
+        "tags": [
+          "2-sat",
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "fft",
+          "flows"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1438/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1438/submission/149502311"
+    },
+    {
+      "type": "codeforces",
+      "id": 149500031,
+      "creationTime": 1647160660,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500322987
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1438C",
+        "name": "Engineer Artem",
+        "rating": 2000,
+        "tags": [
+          "2-sat",
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "fft",
+          "flows"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1438/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1438/submission/149500031"
+    },
+    {
+      "type": "codeforces",
+      "id": 149495881,
+      "creationTime": 1647157972,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500325675
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "251C",
+        "name": "Number Transformation",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/251/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/251/submission/149495881"
+    },
+    {
+      "type": "codeforces",
+      "id": 149495816,
+      "creationTime": 1647157938,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500325709
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "251C",
+        "name": "Number Transformation",
+        "rating": 2000,
+        "tags": [
+          "dp",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/251/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/251/submission/149495816"
+    },
+    {
+      "type": "codeforces",
       "id": 149440858,
       "creationTime": 1647099729,
       "language": "GNU C++14",
@@ -214,6 +382,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "dfs and similar",
@@ -242,6 +411,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "dfs and similar",
@@ -270,6 +440,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "dfs and similar",
@@ -298,6 +469,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "dfs and similar",
@@ -326,6 +498,7 @@
         "id": "1651D",
         "name": "Nearest Excluded Points",
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "dfs and similar",
