@@ -14041,5 +14041,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103600",
     "standingsUrl": "https://codeforces.com/gym/103600/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2021-2022, Четвертая личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103608,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103608",
+    "standingsUrl": "https://codeforces.com/gym/103608/standings"
   }
 ]

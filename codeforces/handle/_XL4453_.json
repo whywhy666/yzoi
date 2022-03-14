@@ -6,6 +6,242 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 149618923,
+      "creationTime": 1647265218,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500218429
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24A",
+        "name": "Ring road",
+        "rating": 1400,
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/149618923"
+    },
+    {
+      "type": "codeforces",
+      "id": 149618903,
+      "creationTime": 1647265207,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500218440
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24A",
+        "name": "Ring road",
+        "rating": 1400,
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/149618903"
+    },
+    {
+      "type": "codeforces",
+      "id": 149616613,
+      "creationTime": 1647263835,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500219812
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "26C",
+        "name": "Parquet",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/26/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/26/submission/149616613"
+    },
+    {
+      "type": "codeforces",
+      "id": 149616577,
+      "creationTime": 1647263815,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500219832
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "26C",
+        "name": "Parquet",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/26/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/26/submission/149616577"
+    },
+    {
+      "type": "codeforces",
+      "id": 149616439,
+      "creationTime": 1647263739,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500219908
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "26C",
+        "name": "Parquet",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/26/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/26/submission/149616439"
+    },
+    {
+      "type": "codeforces",
+      "id": 149612557,
+      "creationTime": 1647261311,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500222336
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15B",
+        "name": "Laser",
+        "rating": 1800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/149612557"
+    },
+    {
+      "type": "codeforces",
+      "id": 149612533,
+      "creationTime": 1647261296,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500222351
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15B",
+        "name": "Laser",
+        "rating": 1800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/149612533"
+    },
+    {
+      "type": "codeforces",
+      "id": 149611808,
+      "creationTime": 1647260759,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500222888
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15B",
+        "name": "Laser",
+        "rating": 1800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/149611808"
+    },
+    {
+      "type": "codeforces",
+      "id": 149575811,
+      "creationTime": 1647232243,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500251404
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638B",
+        "name": "Odd Swap Sort",
+        "rating": 1100,
+        "tags": [
+          "data structures",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/149575811"
+    },
+    {
+      "type": "codeforces",
       "id": 149531091,
       "creationTime": 1647179415,
       "language": "GNU C++14",
@@ -383,7 +619,6 @@
         "name": "Nearest Excluded Points",
         "tags": [
           "binary search",
-          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -412,7 +647,6 @@
         "name": "Nearest Excluded Points",
         "tags": [
           "binary search",
-          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -441,7 +675,6 @@
         "name": "Nearest Excluded Points",
         "tags": [
           "binary search",
-          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -470,7 +703,6 @@
         "name": "Nearest Excluded Points",
         "tags": [
           "binary search",
-          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
@@ -499,7 +731,6 @@
         "name": "Nearest Excluded Points",
         "tags": [
           "binary search",
-          "brute force",
           "data structures",
           "dfs and similar",
           "graphs",
