@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1647292215,
+  "updateTime": 1647378525,
   "history": {
     "user": [
       {
@@ -8,75 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 149618923,
-            "pid": "24A",
-            "name": "Ring road",
+            "id": 149717940,
+            "pid": "1B",
+            "name": "Spreadsheet",
             "verdict": "OK",
-            "creationTime": 1647265218
+            "creationTime": 1647350373
           },
           {
             "platform": "codeforces",
-            "id": 149618903,
-            "pid": "24A",
-            "name": "Ring road",
+            "id": 149717909,
+            "pid": "1B",
+            "name": "Spreadsheet",
             "verdict": "OK",
-            "creationTime": 1647265207
+            "creationTime": 1647350355
           },
           {
             "platform": "codeforces",
-            "id": 149616613,
-            "pid": "26C",
-            "name": "Parquet",
-            "verdict": "OK",
-            "creationTime": 1647263835
-          },
-          {
-            "platform": "codeforces",
-            "id": 149616577,
-            "pid": "26C",
-            "name": "Parquet",
-            "verdict": "OK",
-            "creationTime": 1647263815
-          },
-          {
-            "platform": "codeforces",
-            "id": 149616439,
-            "pid": "26C",
-            "name": "Parquet",
+            "id": 149717113,
+            "pid": "1B",
+            "name": "Spreadsheet",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647263739
+            "creationTime": 1647349918
           },
           {
             "platform": "codeforces",
-            "id": 149612557,
-            "pid": "15B",
-            "name": "Laser",
-            "verdict": "OK",
-            "creationTime": 1647261311
-          },
-          {
-            "platform": "codeforces",
-            "id": 149612533,
-            "pid": "15B",
-            "name": "Laser",
-            "verdict": "OK",
-            "creationTime": 1647261296
-          },
-          {
-            "platform": "codeforces",
-            "id": 149611808,
-            "pid": "15B",
-            "name": "Laser",
+            "id": 149717011,
+            "pid": "1B",
+            "name": "Spreadsheet",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647260759
-          },
-          {
-            "platform": "codeforces",
-            "id": 149575811,
-            "pid": "1638B",
-            "name": "Odd Swap Sort",
-            "verdict": "OK",
-            "creationTime": 1647232243
+            "creationTime": 1647349856
           }
         ],
         "newContests": []
@@ -84,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "8db421a26e279f72c8fdfcc3403fa0646ff05055"
+  "ref": "a07dac48b2291d4fb58f803536539db4151a5b4a"
 }

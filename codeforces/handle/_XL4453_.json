@@ -6,6 +6,110 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 149717940,
+      "creationTime": 1647350373,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500133274
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1B",
+        "name": "Spreadsheet",
+        "rating": 1600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/149717940"
+    },
+    {
+      "type": "codeforces",
+      "id": 149717909,
+      "creationTime": 1647350355,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500133292
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1B",
+        "name": "Spreadsheet",
+        "rating": 1600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/149717909"
+    },
+    {
+      "type": "codeforces",
+      "id": 149717113,
+      "creationTime": 1647349918,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500133729
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1B",
+        "name": "Spreadsheet",
+        "rating": 1600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/149717113"
+    },
+    {
+      "type": "codeforces",
+      "id": 149717011,
+      "creationTime": 1647349856,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -500133791
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1B",
+        "name": "Spreadsheet",
+        "rating": 1600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/149717011"
+    },
+    {
+      "type": "codeforces",
       "id": 149618923,
       "creationTime": 1647265218,
       "language": "GNU C++14",
