@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1647378525,
+  "updateTime": 1647465045,
   "history": {
     "user": [
       {
@@ -8,35 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 149717940,
-            "pid": "1B",
-            "name": "Spreadsheet",
+            "id": 149825395,
+            "pid": "161C",
+            "name": "Abracadabra",
             "verdict": "OK",
-            "creationTime": 1647350373
+            "creationTime": 1647439087
           },
           {
             "platform": "codeforces",
-            "id": 149717909,
-            "pid": "1B",
-            "name": "Spreadsheet",
+            "id": 149825319,
+            "pid": "161C",
+            "name": "Abracadabra",
             "verdict": "OK",
-            "creationTime": 1647350355
+            "creationTime": 1647439050
           },
           {
             "platform": "codeforces",
-            "id": 149717113,
-            "pid": "1B",
-            "name": "Spreadsheet",
+            "id": 149825011,
+            "pid": "161C",
+            "name": "Abracadabra",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647349918
-          },
-          {
-            "platform": "codeforces",
-            "id": 149717011,
-            "pid": "1B",
-            "name": "Spreadsheet",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647349856
+            "creationTime": 1647438890
           }
         ],
         "newContests": []
@@ -44,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "a07dac48b2291d4fb58f803536539db4151a5b4a"
+  "ref": "cf855d7473ae916ed6451af127727839ad79ec5f"
 }
