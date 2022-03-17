@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1647465045,
+  "updateTime": 1647551377,
   "history": {
     "user": [
       {
@@ -8,27 +8,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 149825395,
-            "pid": "161C",
-            "name": "Abracadabra",
+            "id": 149934724,
+            "pid": "33D",
+            "name": "Knights",
             "verdict": "OK",
-            "creationTime": 1647439087
+            "creationTime": 1647531520
           },
           {
             "platform": "codeforces",
-            "id": 149825319,
-            "pid": "161C",
-            "name": "Abracadabra",
+            "id": 149934699,
+            "pid": "33D",
+            "name": "Knights",
             "verdict": "OK",
-            "creationTime": 1647439050
+            "creationTime": 1647531496
           },
           {
             "platform": "codeforces",
-            "id": 149825011,
-            "pid": "161C",
-            "name": "Abracadabra",
+            "id": 149917473,
+            "pid": "22D",
+            "name": "Segments",
+            "verdict": "OK",
+            "creationTime": 1647521461
+          },
+          {
+            "platform": "codeforces",
+            "id": 149917375,
+            "pid": "22D",
+            "name": "Segments",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647438890
+            "creationTime": 1647521409
+          },
+          {
+            "platform": "codeforces",
+            "id": 149917022,
+            "pid": "22D",
+            "name": "Segments",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647521221
+          },
+          {
+            "platform": "codeforces",
+            "id": 149914934,
+            "pid": "21C",
+            "name": "Stripe 2",
+            "verdict": "OK",
+            "creationTime": 1647520083
+          },
+          {
+            "platform": "codeforces",
+            "id": 149914854,
+            "pid": "21C",
+            "name": "Stripe 2",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647520035
+          },
+          {
+            "platform": "codeforces",
+            "id": 149914722,
+            "pid": "21C",
+            "name": "Stripe 2",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647519965
           }
         ],
         "newContests": []
@@ -36,5 +76,5 @@
     ],
     "contest": []
   },
-  "ref": "cf855d7473ae916ed6451af127727839ad79ec5f"
+  "ref": "a9137134a545dd7d5298b01a938dd1e167f6a025"
 }
