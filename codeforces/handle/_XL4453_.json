@@ -6,6 +6,327 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150043934,
+      "creationTime": 1647619207,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499864440
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637C",
+        "name": "Andrew and Stones",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/150043934"
+    },
+    {
+      "type": "codeforces",
+      "id": 150043780,
+      "creationTime": 1647619113,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499864534
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637C",
+        "name": "Andrew and Stones",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/150043780"
+    },
+    {
+      "type": "codeforces",
+      "id": 150043601,
+      "creationTime": 1647618999,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499864648
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637C",
+        "name": "Andrew and Stones",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/150043601"
+    },
+    {
+      "type": "codeforces",
+      "id": 150037796,
+      "creationTime": 1647615807,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499867840
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550D",
+        "name": "Excellent Arrays",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/150037796"
+    },
+    {
+      "type": "codeforces",
+      "id": 150037652,
+      "creationTime": 1647615734,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499867913
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550D",
+        "name": "Excellent Arrays",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/150037652"
+    },
+    {
+      "type": "codeforces",
+      "id": 150037352,
+      "creationTime": 1647615557,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499868090
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550D",
+        "name": "Excellent Arrays",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/150037352"
+    },
+    {
+      "type": "codeforces",
+      "id": 150035974,
+      "creationTime": 1647614749,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499868898
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550D",
+        "name": "Excellent Arrays",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/150035974"
+    },
+    {
+      "type": "codeforces",
+      "id": 150035774,
+      "creationTime": 1647614627,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499869020
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550D",
+        "name": "Excellent Arrays",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/150035774"
+    },
+    {
+      "type": "codeforces",
+      "id": 150035626,
+      "creationTime": 1647614538,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499869109
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550D",
+        "name": "Excellent Arrays",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/150035626"
+    },
+    {
+      "type": "codeforces",
+      "id": 150035507,
+      "creationTime": 1647614468,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499869179
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1550D",
+        "name": "Excellent Arrays",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1550/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1550/submission/150035507"
+    },
+    {
+      "type": "codeforces",
+      "id": 150027553,
+      "creationTime": 1647610058,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499873589
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1436C",
+        "name": "Binary Search",
+        "rating": 1500,
+        "tags": [
+          "binary search",
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1436/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1436/submission/150027553"
+    },
+    {
+      "type": "codeforces",
       "id": 149934724,
       "creationTime": 1647531520,
       "language": "GNU C++14",

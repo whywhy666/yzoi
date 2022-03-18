@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1647551377,
+  "updateTime": 1647637839,
   "history": {
     "user": [
       {
@@ -8,67 +8,91 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 149934724,
-            "pid": "33D",
-            "name": "Knights",
+            "id": 150043934,
+            "pid": "1637C",
+            "name": "Andrew and Stones",
             "verdict": "OK",
-            "creationTime": 1647531520
+            "creationTime": 1647619207
           },
           {
             "platform": "codeforces",
-            "id": 149934699,
-            "pid": "33D",
-            "name": "Knights",
+            "id": 150043780,
+            "pid": "1637C",
+            "name": "Andrew and Stones",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647619113
+          },
+          {
+            "platform": "codeforces",
+            "id": 150043601,
+            "pid": "1637C",
+            "name": "Andrew and Stones",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647618999
+          },
+          {
+            "platform": "codeforces",
+            "id": 150037796,
+            "pid": "1550D",
+            "name": "Excellent Arrays",
             "verdict": "OK",
-            "creationTime": 1647531496
+            "creationTime": 1647615807
           },
           {
             "platform": "codeforces",
-            "id": 149917473,
-            "pid": "22D",
-            "name": "Segments",
+            "id": 150037652,
+            "pid": "1550D",
+            "name": "Excellent Arrays",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1647615734
+          },
+          {
+            "platform": "codeforces",
+            "id": 150037352,
+            "pid": "1550D",
+            "name": "Excellent Arrays",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647615557
+          },
+          {
+            "platform": "codeforces",
+            "id": 150035974,
+            "pid": "1550D",
+            "name": "Excellent Arrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647614749
+          },
+          {
+            "platform": "codeforces",
+            "id": 150035774,
+            "pid": "1550D",
+            "name": "Excellent Arrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647614627
+          },
+          {
+            "platform": "codeforces",
+            "id": 150035626,
+            "pid": "1550D",
+            "name": "Excellent Arrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647614538
+          },
+          {
+            "platform": "codeforces",
+            "id": 150035507,
+            "pid": "1550D",
+            "name": "Excellent Arrays",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647614468
+          },
+          {
+            "platform": "codeforces",
+            "id": 150027553,
+            "pid": "1436C",
+            "name": "Binary Search",
             "verdict": "OK",
-            "creationTime": 1647521461
-          },
-          {
-            "platform": "codeforces",
-            "id": 149917375,
-            "pid": "22D",
-            "name": "Segments",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647521409
-          },
-          {
-            "platform": "codeforces",
-            "id": 149917022,
-            "pid": "22D",
-            "name": "Segments",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647521221
-          },
-          {
-            "platform": "codeforces",
-            "id": 149914934,
-            "pid": "21C",
-            "name": "Stripe 2",
-            "verdict": "OK",
-            "creationTime": 1647520083
-          },
-          {
-            "platform": "codeforces",
-            "id": 149914854,
-            "pid": "21C",
-            "name": "Stripe 2",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647520035
-          },
-          {
-            "platform": "codeforces",
-            "id": 149914722,
-            "pid": "21C",
-            "name": "Stripe 2",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647519965
+            "creationTime": 1647610058
           }
         ],
         "newContests": []
@@ -76,5 +100,5 @@
     ],
     "contest": []
   },
-  "ref": "a9137134a545dd7d5298b01a938dd1e167f6a025"
+  "ref": "0fbf98c8984dff69dc87eb6ae194ab7e3cadd89a"
 }
