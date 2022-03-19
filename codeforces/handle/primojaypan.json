@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150121804,
+      "creationTime": 1647684175,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499799472
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "24D",
+        "name": "Broken robot",
+        "rating": 2400,
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/24/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/24/submission/150121804"
+    },
+    {
+      "type": "codeforces",
       "id": 142817659,
       "creationTime": 1642249612,
       "language": "GNU C++17",

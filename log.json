@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1647637839,
+  "updateTime": 1647724166,
   "history": {
     "user": [
       {
@@ -8,91 +8,161 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 150043934,
-            "pid": "1637C",
-            "name": "Andrew and Stones",
+            "id": 150138659,
+            "pid": "1638C",
+            "name": "Inversion Graph",
             "verdict": "OK",
-            "creationTime": 1647619207
+            "creationTime": 1647694527
           },
           {
             "platform": "codeforces",
-            "id": 150043780,
-            "pid": "1637C",
-            "name": "Andrew and Stones",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647619113
-          },
-          {
-            "platform": "codeforces",
-            "id": 150043601,
-            "pid": "1637C",
-            "name": "Andrew and Stones",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647618999
-          },
-          {
-            "platform": "codeforces",
-            "id": 150037796,
-            "pid": "1550D",
-            "name": "Excellent Arrays",
+            "id": 150136076,
+            "pid": "1621E",
+            "name": "New School",
             "verdict": "OK",
-            "creationTime": 1647615807
+            "creationTime": 1647692963
           },
           {
             "platform": "codeforces",
-            "id": 150037652,
-            "pid": "1550D",
-            "name": "Excellent Arrays",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1647615734
+            "id": 150135973,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "OK",
+            "creationTime": 1647692901
           },
           {
             "platform": "codeforces",
-            "id": 150037352,
-            "pid": "1550D",
-            "name": "Excellent Arrays",
+            "id": 150135884,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647692846
+          },
+          {
+            "platform": "codeforces",
+            "id": 150135713,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647692737
+          },
+          {
+            "platform": "codeforces",
+            "id": 150112675,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "OK",
+            "creationTime": 1647680733
+          },
+          {
+            "platform": "codeforces",
+            "id": 150112623,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647680700
+          },
+          {
+            "platform": "codeforces",
+            "id": 150109902,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647679055
+          },
+          {
+            "platform": "codeforces",
+            "id": 150109539,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647678812
+          },
+          {
+            "platform": "codeforces",
+            "id": 150109342,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647678685
+          },
+          {
+            "platform": "codeforces",
+            "id": 150107117,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647677273
+          },
+          {
+            "platform": "codeforces",
+            "id": 150106967,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647677162
+          },
+          {
+            "platform": "codeforces",
+            "id": 150096998,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647671041
+          },
+          {
+            "platform": "codeforces",
+            "id": 150096199,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647670584
+          },
+          {
+            "platform": "codeforces",
+            "id": 150083911,
+            "pid": "1621E",
+            "name": "New School",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647659537
+          },
+          {
+            "platform": "codeforces",
+            "id": 150079379,
+            "pid": "18E",
+            "name": "Flag 2",
+            "verdict": "OK",
+            "creationTime": 1647652679
+          },
+          {
+            "platform": "codeforces",
+            "id": 150079325,
+            "pid": "18E",
+            "name": "Flag 2",
             "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1647615557
+            "creationTime": 1647652561
           },
           {
             "platform": "codeforces",
-            "id": 150035974,
-            "pid": "1550D",
-            "name": "Excellent Arrays",
+            "id": 150079212,
+            "pid": "18E",
+            "name": "Flag 2",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647614749
-          },
+            "creationTime": 1647652358
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Primo Pan",
+        "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 150035774,
-            "pid": "1550D",
-            "name": "Excellent Arrays",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647614627
-          },
-          {
-            "platform": "codeforces",
-            "id": 150035626,
-            "pid": "1550D",
-            "name": "Excellent Arrays",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647614538
-          },
-          {
-            "platform": "codeforces",
-            "id": 150035507,
-            "pid": "1550D",
-            "name": "Excellent Arrays",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647614468
-          },
-          {
-            "platform": "codeforces",
-            "id": 150027553,
-            "pid": "1436C",
-            "name": "Binary Search",
+            "id": 150121804,
+            "pid": "24D",
+            "name": "Broken robot",
             "verdict": "OK",
-            "creationTime": 1647610058
+            "creationTime": 1647684175
           }
         ],
         "newContests": []
@@ -100,5 +170,5 @@
     ],
     "contest": []
   },
-  "ref": "0fbf98c8984dff69dc87eb6ae194ab7e3cadd89a"
+  "ref": "3ea38c72691fcd1d781b934c1fd6a393c389b9c8"
 }
