@@ -1,6 +1,28 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round #778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)",
+    "startTime": 1647776100,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 1654,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1654",
+    "standingsUrl": "https://codeforces.com/contest/1654/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Технокубок 2022 - Финал",
+    "startTime": 1647764100,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 1652,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1652",
+    "standingsUrl": "https://codeforces.com/contest/1652/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round #777 (Div. 2)",
     "startTime": 1647009300,
     "duration": 7200,

@@ -6,6 +6,891 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150253800,
+      "creationTime": 1647779455,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647776100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1654C",
+        "name": "Alice and the Cake",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1654/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1654/submission/150253800"
+    },
+    {
+      "type": "codeforces",
+      "id": 150253479,
+      "creationTime": 1647779370,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647776100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1654C",
+        "name": "Alice and the Cake",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1654/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1654/submission/150253479"
+    },
+    {
+      "type": "codeforces",
+      "id": 150253196,
+      "creationTime": 1647779307,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647776100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1654C",
+        "name": "Alice and the Cake",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1654/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1654/submission/150253196"
+    },
+    {
+      "type": "codeforces",
+      "id": 150234940,
+      "creationTime": 1647776533,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647776100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1654B",
+        "name": "Prefix Removals",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1654/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1654/submission/150234940"
+    },
+    {
+      "type": "codeforces",
+      "id": 150229766,
+      "creationTime": 1647776246,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647776100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1654A",
+        "name": "Maximum Cake Tastiness",
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1654/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1654/submission/150229766"
+    },
+    {
+      "type": "codeforces",
+      "id": 150211947,
+      "creationTime": 1647766482,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499717165
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150211947"
+    },
+    {
+      "type": "codeforces",
+      "id": 150204171,
+      "creationTime": 1647762644,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499721003
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1349C",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "implementation",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1349/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1349/submission/150204171"
+    },
+    {
+      "type": "codeforces",
+      "id": 150204161,
+      "creationTime": 1647762634,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499721013
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1349B",
+        "name": "Orac and Medians",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1349/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1349/submission/150204161"
+    },
+    {
+      "type": "codeforces",
+      "id": 150204149,
+      "creationTime": 1647762625,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499721022
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1349A",
+        "name": "Orac and LCM",
+        "rating": 1600,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1349/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1349/submission/150204149"
+    },
+    {
+      "type": "codeforces",
+      "id": 150204139,
+      "creationTime": 1647762615,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499721032
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350B",
+        "name": "Orac and Models",
+        "rating": 1400,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150204139"
+    },
+    {
+      "type": "codeforces",
+      "id": 150204132,
+      "creationTime": 1647762611,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499721036
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350A",
+        "name": "Orac and Factors",
+        "rating": 900,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150204132"
+    },
+    {
+      "type": "codeforces",
+      "id": 150192601,
+      "creationTime": 1647753651,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499729996
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150192601"
+    },
+    {
+      "type": "codeforces",
+      "id": 150192387,
+      "creationTime": 1647753435,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499730212
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150192387"
+    },
+    {
+      "type": "codeforces",
+      "id": 150192361,
+      "creationTime": 1647753415,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499730232
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150192361"
+    },
+    {
+      "type": "codeforces",
+      "id": 150192300,
+      "creationTime": 1647753355,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499730292
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150192300"
+    },
+    {
+      "type": "codeforces",
+      "id": 150191917,
+      "creationTime": 1647753028,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499730619
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150191917"
+    },
+    {
+      "type": "codeforces",
+      "id": 150191756,
+      "creationTime": 1647752892,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499730755
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150191756"
+    },
+    {
+      "type": "codeforces",
+      "id": 150191553,
+      "creationTime": 1647752666,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499730981
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150191553"
+    },
+    {
+      "type": "codeforces",
+      "id": 150191315,
+      "creationTime": 1647752412,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499731235
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150191315"
+    },
+    {
+      "type": "codeforces",
+      "id": 150191162,
+      "creationTime": 1647752226,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499731421
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150191162"
+    },
+    {
+      "type": "codeforces",
+      "id": 150191099,
+      "creationTime": 1647752129,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499731518
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150191099"
+    },
+    {
+      "type": "codeforces",
+      "id": 150191007,
+      "creationTime": 1647751985,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499731662
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150191007"
+    },
+    {
+      "type": "codeforces",
+      "id": 150190974,
+      "creationTime": 1647751935,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499731712
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150190974"
+    },
+    {
+      "type": "codeforces",
+      "id": 150190924,
+      "creationTime": 1647751871,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499731776
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150190924"
+    },
+    {
+      "type": "codeforces",
+      "id": 150190877,
+      "creationTime": 1647751804,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499731843
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150190877"
+    },
+    {
+      "type": "codeforces",
+      "id": 150190718,
+      "creationTime": 1647751581,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499732066
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350E",
+        "name": "Orac and Game of Life",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "graphs",
+          "implementation",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150190718"
+    },
+    {
+      "type": "codeforces",
+      "id": 150190086,
+      "creationTime": 1647750631,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647742200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350D",
+        "name": "Orac and Medians",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150190086"
+    },
+    {
+      "type": "codeforces",
+      "id": 150190055,
+      "creationTime": 1647750564,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647742200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350D",
+        "name": "Orac and Medians",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150190055"
+    },
+    {
+      "type": "codeforces",
+      "id": 150189555,
+      "creationTime": 1647749646,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647742200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350C",
+        "name": "Orac and LCM",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150189555"
+    },
+    {
+      "type": "codeforces",
+      "id": 150186393,
+      "creationTime": 1647744240,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647742200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350B",
+        "name": "Orac and Models",
+        "rating": 1400,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150186393"
+    },
+    {
+      "type": "codeforces",
+      "id": 150185363,
+      "creationTime": 1647742335,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647742200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1350A",
+        "name": "Orac and Factors",
+        "rating": 900,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1350/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1350/submission/150185363"
+    },
+    {
+      "type": "codeforces",
+      "id": 150184840,
+      "creationTime": 1647741266,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499742381
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1391A",
+        "name": "Suborrays",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1391/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1391/submission/150184840"
+    },
+    {
+      "type": "codeforces",
       "id": 150138659,
       "creationTime": 1647694527,
       "language": "GNU C++14",
@@ -32590,7 +33475,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1762,
+    "rating": 1711,
     "maxRank": "expert",
     "maxRating": 1772
   }

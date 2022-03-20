@@ -6,6 +6,138 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150232939,
+      "creationTime": 1647776391,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499707256
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651C",
+        "name": "Fault-tolerant Network",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150232939"
+    },
+    {
+      "type": "codeforces",
+      "id": 150230044,
+      "creationTime": 1647776254,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499707393
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651C",
+        "name": "Fault-tolerant Network",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150230044"
+    },
+    {
+      "type": "codeforces",
+      "id": 150228517,
+      "creationTime": 1647776200,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499707447
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651C",
+        "name": "Fault-tolerant Network",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150228517"
+    },
+    {
+      "type": "codeforces",
+      "id": 150224350,
+      "creationTime": 1647773905,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499709742
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651B",
+        "name": "Prove Him Wrong",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150224350"
+    },
+    {
+      "type": "codeforces",
+      "id": 150223541,
+      "creationTime": 1647773431,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499710216
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651A",
+        "name": "Playoff",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150223541"
+    },
+    {
+      "type": "codeforces",
       "id": 146491277,
       "creationTime": 1644912683,
       "language": "GNU C++20 (64)",
