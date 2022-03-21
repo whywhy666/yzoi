@@ -6,6 +6,579 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150360701,
+      "creationTime": 1647867588,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499616059
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "723E",
+        "name": "One-Way Reform",
+        "rating": 2200,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "flows",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/723/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/723/submission/150360701"
+    },
+    {
+      "type": "codeforces",
+      "id": 150360553,
+      "creationTime": 1647867507,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499616140
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "723E",
+        "name": "One-Way Reform",
+        "rating": 2200,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "flows",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/723/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/723/submission/150360553"
+    },
+    {
+      "type": "codeforces",
+      "id": 150360488,
+      "creationTime": 1647867471,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499616176
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "723E",
+        "name": "One-Way Reform",
+        "rating": 2200,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "flows",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/723/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/723/submission/150360488"
+    },
+    {
+      "type": "codeforces",
+      "id": 150360406,
+      "creationTime": 1647867428,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499616219
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "723E",
+        "name": "One-Way Reform",
+        "rating": 2200,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "flows",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/723/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/723/submission/150360406"
+    },
+    {
+      "type": "codeforces",
+      "id": 150359619,
+      "creationTime": 1647866988,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499616659
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "723E",
+        "name": "One-Way Reform",
+        "rating": 2200,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "flows",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/723/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/723/submission/150359619"
+    },
+    {
+      "type": "codeforces",
+      "id": 150359443,
+      "creationTime": 1647866887,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499616760
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "723E",
+        "name": "One-Way Reform",
+        "rating": 2200,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "flows",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/723/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/723/submission/150359443"
+    },
+    {
+      "type": "codeforces",
+      "id": 150358917,
+      "creationTime": 1647866583,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499617064
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "723E",
+        "name": "One-Way Reform",
+        "rating": 2200,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "flows",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/723/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/723/submission/150358917"
+    },
+    {
+      "type": "codeforces",
+      "id": 150317931,
+      "creationTime": 1647834004,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499649643
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "356A",
+        "name": "Knight Tournament",
+        "rating": 1500,
+        "tags": [
+          "data structures",
+          "dsu"
+        ],
+        "problemUrl": "https://codeforces.com/contest/356/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/356/submission/150317931"
+    },
+    {
+      "type": "codeforces",
+      "id": 150316122,
+      "creationTime": 1647831164,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499652483
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "27D",
+        "name": "Ring Road 2",
+        "rating": 2200,
+        "tags": [
+          "2-sat",
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/27/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/27/submission/150316122"
+    },
+    {
+      "type": "codeforces",
+      "id": 150314702,
+      "creationTime": 1647828678,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499654969
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "154D",
+        "name": "Flatland Fencing",
+        "rating": 2400,
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/154/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/154/submission/150314702"
+    },
+    {
+      "type": "codeforces",
+      "id": 150314688,
+      "creationTime": 1647828660,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499654987
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "154D",
+        "name": "Flatland Fencing",
+        "rating": 2400,
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/154/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/154/submission/150314688"
+    },
+    {
+      "type": "codeforces",
+      "id": 150314632,
+      "creationTime": 1647828554,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499655093
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "154D",
+        "name": "Flatland Fencing",
+        "rating": 2400,
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/154/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/154/submission/150314632"
+    },
+    {
+      "type": "codeforces",
+      "id": 150314587,
+      "creationTime": 1647828478,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499655169
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "154D",
+        "name": "Flatland Fencing",
+        "rating": 2400,
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/154/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/154/submission/150314587"
+    },
+    {
+      "type": "codeforces",
+      "id": 150314518,
+      "creationTime": 1647828353,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499655294
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "154D",
+        "name": "Flatland Fencing",
+        "rating": 2400,
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/154/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/154/submission/150314518"
+    },
+    {
+      "type": "codeforces",
+      "id": 150311132,
+      "creationTime": 1647821428,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499662219
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651D",
+        "name": "Nearest Excluded Points",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dfs and similar",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150311132"
+    },
+    {
+      "type": "codeforces",
+      "id": 150309053,
+      "creationTime": 1647817330,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499666317
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651C",
+        "name": "Fault-tolerant Network",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150309053"
+    },
+    {
+      "type": "codeforces",
+      "id": 150309049,
+      "creationTime": 1647817320,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499666327
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651B",
+        "name": "Prove Him Wrong",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150309049"
+    },
+    {
+      "type": "codeforces",
+      "id": 150309046,
+      "creationTime": 1647817313,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499666334
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651A",
+        "name": "Playoff",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150309046"
+    },
+    {
+      "type": "codeforces",
+      "id": 150309003,
+      "creationTime": 1647817235,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499666412
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1650C",
+        "name": "Weight of the System of Nested Segments",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "hashing",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1650/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1650/submission/150309003"
+    },
+    {
+      "type": "codeforces",
+      "id": 150308996,
+      "creationTime": 1647817225,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499666422
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1650B",
+        "name": "DIV + MOD",
+        "rating": 900,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1650/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1650/submission/150308996"
+    },
+    {
+      "type": "codeforces",
+      "id": 150308992,
+      "creationTime": 1647817218,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499666429
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1650A",
+        "name": "Deletions of Two Adjacent Letters",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1650/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1650/submission/150308992"
+    },
+    {
+      "type": "codeforces",
       "id": 150253800,
       "creationTime": 1647779455,
       "language": "GNU C++14",
@@ -21,10 +594,13 @@
         "type": "codeforces",
         "id": "1654C",
         "name": "Alice and the Cake",
+        "rating": 1400,
         "tags": [
+          "brute force",
           "constructive algorithms",
           "data structures",
           "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1654/problem/C"
@@ -48,10 +624,13 @@
         "type": "codeforces",
         "id": "1654C",
         "name": "Alice and the Cake",
+        "rating": 1400,
         "tags": [
+          "brute force",
           "constructive algorithms",
           "data structures",
           "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1654/problem/C"
@@ -75,10 +654,13 @@
         "type": "codeforces",
         "id": "1654C",
         "name": "Alice and the Cake",
+        "rating": 1400,
         "tags": [
+          "brute force",
           "constructive algorithms",
           "data structures",
           "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1654/problem/C"
@@ -102,7 +684,9 @@
         "type": "codeforces",
         "id": "1654B",
         "name": "Prefix Removals",
+        "rating": 800,
         "tags": [
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1654/problem/B"
@@ -126,6 +710,7 @@
         "type": "codeforces",
         "id": "1654A",
         "name": "Maximum Cake Tastiness",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation",
