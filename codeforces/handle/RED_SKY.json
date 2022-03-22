@@ -2,8 +2,215 @@
   "type": "codeforces",
   "handle": "RED_SKY",
   "handleUrl": "https://codeforces.com/profile/Red_Sky",
-  "avatar": "https://userpic.codeforces.org/no-title.jpg",
+  "avatar": "https://userpic.codeforces.org/2138746/title/fb289b861b33dca2.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 150518799,
+      "creationTime": 1647965797,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657D",
+        "name": "For Gamers. By Gamers.",
+        "tags": [
+          "binary search",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150518799"
+    },
+    {
+      "type": "codeforces",
+      "id": 150517759,
+      "creationTime": 1647965621,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657D",
+        "name": "For Gamers. By Gamers.",
+        "tags": [
+          "binary search",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150517759"
+    },
+    {
+      "type": "codeforces",
+      "id": 150502349,
+      "creationTime": 1647963380,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657C",
+        "name": "Bracket Sequence Deletion",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150502349"
+    },
+    {
+      "type": "codeforces",
+      "id": 150483170,
+      "creationTime": 1647961382,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657B",
+        "name": "XY Sequence",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150483170"
+    },
+    {
+      "type": "codeforces",
+      "id": 150474345,
+      "creationTime": 1647960842,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657A",
+        "name": "Integer Moves",
+        "tags": [
+          "math",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150474345"
+    },
+    {
+      "type": "codeforces",
+      "id": 150454467,
+      "creationTime": 1647953723,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647B",
+        "name": "Madoka and the Elegant Gift",
+        "rating": 1200,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150454467"
+    },
+    {
+      "type": "codeforces",
+      "id": 150449125,
+      "creationTime": 1647950251,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647B",
+        "name": "Madoka and the Elegant Gift",
+        "rating": 1200,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150449125"
+    },
+    {
+      "type": "codeforces",
+      "id": 150445048,
+      "creationTime": 1647947378,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647A",
+        "name": "Madoka and Math Dad",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150445048"
+    },
     {
       "type": "codeforces",
       "id": 137124367,

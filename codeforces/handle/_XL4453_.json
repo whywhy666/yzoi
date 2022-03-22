@@ -2,8 +2,854 @@
   "type": "codeforces",
   "handle": "_XL4453_",
   "handleUrl": "https://codeforces.com/profile/_XL4453_",
-  "avatar": "https://userpic.codeforces.org/1592942/title/1303aa168b1abc01.jpg",
+  "avatar": "https://userpic.codeforces.org/1592942/title/3651777ed5437892.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 150528594,
+      "creationTime": 1647967422,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657D",
+        "name": "For Gamers. By Gamers.",
+        "tags": [
+          "binary search",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150528594"
+    },
+    {
+      "type": "codeforces",
+      "id": 150528230,
+      "creationTime": 1647967370,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657D",
+        "name": "For Gamers. By Gamers.",
+        "tags": [
+          "binary search",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150528230"
+    },
+    {
+      "type": "codeforces",
+      "id": 150527786,
+      "creationTime": 1647967309,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657D",
+        "name": "For Gamers. By Gamers.",
+        "tags": [
+          "binary search",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150527786"
+    },
+    {
+      "type": "codeforces",
+      "id": 150492252,
+      "creationTime": 1647962235,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657C",
+        "name": "Bracket Sequence Deletion",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150492252"
+    },
+    {
+      "type": "codeforces",
+      "id": 150488480,
+      "creationTime": 1647961848,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657C",
+        "name": "Bracket Sequence Deletion",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150488480"
+    },
+    {
+      "type": "codeforces",
+      "id": 150471946,
+      "creationTime": 1647960731,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657B",
+        "name": "XY Sequence",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150471946"
+    },
+    {
+      "type": "codeforces",
+      "id": 150465577,
+      "creationTime": 1647960455,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1647960300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657A",
+        "name": "Integer Moves",
+        "tags": [
+          "math",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/150465577"
+    },
+    {
+      "type": "codeforces",
+      "id": 150458948,
+      "creationTime": 1647956452,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499527195
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150458948"
+    },
+    {
+      "type": "codeforces",
+      "id": 150458929,
+      "creationTime": 1647956439,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499527208
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647C",
+        "name": "Madoka and Childish Pranks",
+        "rating": 1300,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150458929"
+    },
+    {
+      "type": "codeforces",
+      "id": 150458904,
+      "creationTime": 1647956421,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499527226
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647B",
+        "name": "Madoka and the Elegant Gift",
+        "rating": 1200,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150458904"
+    },
+    {
+      "type": "codeforces",
+      "id": 150458874,
+      "creationTime": 1647956408,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499527239
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647A",
+        "name": "Madoka and Math Dad",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150458874"
+    },
+    {
+      "type": "codeforces",
+      "id": 150455958,
+      "creationTime": 1647954634,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499529013
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150455958"
+    },
+    {
+      "type": "codeforces",
+      "id": 150455764,
+      "creationTime": 1647954517,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499529130
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150455764"
+    },
+    {
+      "type": "codeforces",
+      "id": 150455541,
+      "creationTime": 1647954376,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499529271
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150455541"
+    },
+    {
+      "type": "codeforces",
+      "id": 150455102,
+      "creationTime": 1647954087,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499529560
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150455102"
+    },
+    {
+      "type": "codeforces",
+      "id": 150454788,
+      "creationTime": 1647953923,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150454788"
+    },
+    {
+      "type": "codeforces",
+      "id": 150454395,
+      "creationTime": 1647953677,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150454395"
+    },
+    {
+      "type": "codeforces",
+      "id": 150453863,
+      "creationTime": 1647953338,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499530309
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150453863"
+    },
+    {
+      "type": "codeforces",
+      "id": 150453613,
+      "creationTime": 1647953178,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150453613"
+    },
+    {
+      "type": "codeforces",
+      "id": 150453212,
+      "creationTime": 1647952913,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150453212"
+    },
+    {
+      "type": "codeforces",
+      "id": 150451121,
+      "creationTime": 1647951564,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647D",
+        "name": "Madoka and the Best School in Russia",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150451121"
+    },
+    {
+      "type": "codeforces",
+      "id": 150446638,
+      "creationTime": 1647948492,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647C",
+        "name": "Madoka and Childish Pranks",
+        "rating": 1300,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150446638"
+    },
+    {
+      "type": "codeforces",
+      "id": 150445365,
+      "creationTime": 1647947603,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647A",
+        "name": "Madoka and Math Dad",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150445365"
+    },
+    {
+      "type": "codeforces",
+      "id": 150444982,
+      "creationTime": 1647947347,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647946800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1647B",
+        "name": "Madoka and the Elegant Gift",
+        "rating": 1200,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1647/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1647/submission/150444982"
+    },
+    {
+      "type": "codeforces",
+      "id": 150440928,
+      "creationTime": 1647944574,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499539073
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1542D",
+        "name": "Priority Queue",
+        "rating": 2200,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "implementation",
+          "math",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1542/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1542/submission/150440928"
+    },
+    {
+      "type": "codeforces",
+      "id": 150440902,
+      "creationTime": 1647944557,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499539090
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1542D",
+        "name": "Priority Queue",
+        "rating": 2200,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "implementation",
+          "math",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1542/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1542/submission/150440902"
+    },
+    {
+      "type": "codeforces",
+      "id": 150440756,
+      "creationTime": 1647944472,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499539175
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1542D",
+        "name": "Priority Queue",
+        "rating": 2200,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "implementation",
+          "math",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1542/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1542/submission/150440756"
+    },
+    {
+      "type": "codeforces",
+      "id": 150440360,
+      "creationTime": 1647944189,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499539458
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1542D",
+        "name": "Priority Queue",
+        "rating": 2200,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "implementation",
+          "math",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1542/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1542/submission/150440360"
+    },
+    {
+      "type": "codeforces",
+      "id": 150411184,
+      "creationTime": 1647914518,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499569129
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "14E",
+        "name": "Camels",
+        "rating": 1900,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/14/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/14/submission/150411184"
+    },
+    {
+      "type": "codeforces",
+      "id": 150410138,
+      "creationTime": 1647912078,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499571569
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1553E",
+        "name": "Permutation Shift",
+        "rating": 2100,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1553/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1553/submission/150410138"
+    },
+    {
+      "type": "codeforces",
+      "id": 150408508,
+      "creationTime": 1647908556,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499575091
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1553E",
+        "name": "Permutation Shift",
+        "rating": 2100,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1553/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1553/submission/150408508"
+    },
     {
       "type": "codeforces",
       "id": 150360701,
@@ -596,8 +1442,6 @@
         "name": "Alice and the Cake",
         "rating": 1400,
         "tags": [
-          "brute force",
-          "constructive algorithms",
           "data structures",
           "greedy",
           "implementation",
@@ -626,8 +1470,6 @@
         "name": "Alice and the Cake",
         "rating": 1400,
         "tags": [
-          "brute force",
-          "constructive algorithms",
           "data structures",
           "greedy",
           "implementation",
@@ -656,8 +1498,6 @@
         "name": "Alice and the Cake",
         "rating": 1400,
         "tags": [
-          "brute force",
-          "constructive algorithms",
           "data structures",
           "greedy",
           "implementation",
@@ -712,6 +1552,7 @@
         "name": "Maximum Cake Tastiness",
         "rating": 800,
         "tags": [
+          "brute force",
           "greedy",
           "implementation",
           "sortings"
