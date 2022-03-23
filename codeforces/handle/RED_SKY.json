@@ -6,6 +6,111 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150611620,
+      "creationTime": 1648041360,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1648037700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651C",
+        "name": "Fault-tolerant Network",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150611620"
+    },
+    {
+      "type": "codeforces",
+      "id": 150611309,
+      "creationTime": 1648041127,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1648037700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651C",
+        "name": "Fault-tolerant Network",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150611309"
+    },
+    {
+      "type": "codeforces",
+      "id": 150607940,
+      "creationTime": 1648038779,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1648037700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651B",
+        "name": "Prove Him Wrong",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150607940"
+    },
+    {
+      "type": "codeforces",
+      "id": 150606902,
+      "creationTime": 1648038097,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1648037700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1651A",
+        "name": "Playoff",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1651/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1651/submission/150606902"
+    },
+    {
+      "type": "codeforces",
       "id": 150518799,
       "creationTime": 1647965797,
       "language": "GNU C++14",
@@ -23,8 +128,10 @@
         "name": "For Gamers. By Gamers.",
         "tags": [
           "binary search",
-          "data structures",
-          "math"
+          "brute force",
+          "dp",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/D"
       },
@@ -49,8 +156,10 @@
         "name": "For Gamers. By Gamers.",
         "tags": [
           "binary search",
-          "data structures",
-          "math"
+          "brute force",
+          "dp",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/D"
       },
@@ -74,7 +183,8 @@
         "id": "1657C",
         "name": "Bracket Sequence Deletion",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/C"
       },
@@ -122,7 +232,7 @@
         "id": "1657A",
         "name": "Integer Moves",
         "tags": [
-          "math",
+          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/A"
@@ -1574,5 +1684,11 @@
       },
       "submissionUrl": "https://codeforces.com/contest/691/submission/123908318"
     }
-  ]
+  ],
+  "codeforces": {
+    "rank": "newbie",
+    "rating": 523,
+    "maxRank": "newbie",
+    "maxRating": 523
+  }
 }

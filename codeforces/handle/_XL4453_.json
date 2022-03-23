@@ -6,6 +6,887 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150603980,
+      "creationTime": 1648036367,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499447280
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637D",
+        "name": "Yet Another Minimization Problem",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/150603980"
+    },
+    {
+      "type": "codeforces",
+      "id": 150603928,
+      "creationTime": 1648036335,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499447312
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637D",
+        "name": "Yet Another Minimization Problem",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/150603928"
+    },
+    {
+      "type": "codeforces",
+      "id": 150603787,
+      "creationTime": 1648036251,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499447396
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1637D",
+        "name": "Yet Another Minimization Problem",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1637/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1637/submission/150603787"
+    },
+    {
+      "type": "codeforces",
+      "id": 150589630,
+      "creationTime": 1648026549,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499457098
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17D",
+        "name": "Notepad",
+        "rating": 2400,
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150589630"
+    },
+    {
+      "type": "codeforces",
+      "id": 150565022,
+      "creationTime": 1648005509,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499478138
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "5E",
+        "name": "Bindian Signalizing",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/5/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/5/submission/150565022"
+    },
+    {
+      "type": "codeforces",
+      "id": 150565008,
+      "creationTime": 1648005488,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499478159
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "5E",
+        "name": "Bindian Signalizing",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/5/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/5/submission/150565008"
+    },
+    {
+      "type": "codeforces",
+      "id": 150564966,
+      "creationTime": 1648005437,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499478210
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "5E",
+        "name": "Bindian Signalizing",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/5/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/5/submission/150564966"
+    },
+    {
+      "type": "codeforces",
+      "id": 150564652,
+      "creationTime": 1648005022,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499478625
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "5E",
+        "name": "Bindian Signalizing",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/5/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/5/submission/150564652"
+    },
+    {
+      "type": "codeforces",
+      "id": 150564542,
+      "creationTime": 1648004887,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499478760
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "5E",
+        "name": "Bindian Signalizing",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/5/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/5/submission/150564542"
+    },
+    {
+      "type": "codeforces",
+      "id": 150564371,
+      "creationTime": 1648004661,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499478986
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "5E",
+        "name": "Bindian Signalizing",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/5/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/5/submission/150564371"
+    },
+    {
+      "type": "codeforces",
+      "id": 150560994,
+      "creationTime": 1647999273,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499484374
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1648B",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1648/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1648/submission/150560994"
+    },
+    {
+      "type": "codeforces",
+      "id": 150560983,
+      "creationTime": 1647999253,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499484394
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1648A",
+        "name": "Weird Sum",
+        "rating": 1400,
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "geometry",
+          "math",
+          "matrices",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1648/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1648/submission/150560983"
+    },
+    {
+      "type": "codeforces",
+      "id": 150560965,
+      "creationTime": 1647999230,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499484417
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649B",
+        "name": "Game of Ball Passing",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150560965"
+    },
+    {
+      "type": "codeforces",
+      "id": 150560959,
+      "creationTime": 1647999220,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499484427
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649A",
+        "name": "Game",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150560959"
+    },
+    {
+      "type": "codeforces",
+      "id": 150560342,
+      "creationTime": 1647998103,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150560342"
+    },
+    {
+      "type": "codeforces",
+      "id": 150559710,
+      "creationTime": 1647996842,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150559710"
+    },
+    {
+      "type": "codeforces",
+      "id": 150559500,
+      "creationTime": 1647996457,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150559500"
+    },
+    {
+      "type": "codeforces",
+      "id": 150559247,
+      "creationTime": 1647996056,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150559247"
+    },
+    {
+      "type": "codeforces",
+      "id": 150559077,
+      "creationTime": 1647995789,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150559077"
+    },
+    {
+      "type": "codeforces",
+      "id": 150559027,
+      "creationTime": 1647995701,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150559027"
+    },
+    {
+      "type": "codeforces",
+      "id": 150558987,
+      "creationTime": 1647995617,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150558987"
+    },
+    {
+      "type": "codeforces",
+      "id": 150558944,
+      "creationTime": 1647995557,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150558944"
+    },
+    {
+      "type": "codeforces",
+      "id": 150558834,
+      "creationTime": 1647995374,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150558834"
+    },
+    {
+      "type": "codeforces",
+      "id": 150558636,
+      "creationTime": 1647995016,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150558636"
+    },
+    {
+      "type": "codeforces",
+      "id": 150558337,
+      "creationTime": 1647994489,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150558337"
+    },
+    {
+      "type": "codeforces",
+      "id": 150558297,
+      "creationTime": 1647994427,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649D",
+        "name": "Integral Array",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150558297"
+    },
+    {
+      "type": "codeforces",
+      "id": 150557752,
+      "creationTime": 1647993467,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649C",
+        "name": "Weird Sum",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150557752"
+    },
+    {
+      "type": "codeforces",
+      "id": 150557195,
+      "creationTime": 1647992400,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649B",
+        "name": "Game of Ball Passing",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150557195"
+    },
+    {
+      "type": "codeforces",
+      "id": 150557077,
+      "creationTime": 1647992171,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649B",
+        "name": "Game of Ball Passing",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150557077"
+    },
+    {
+      "type": "codeforces",
+      "id": 150556453,
+      "creationTime": 1647990896,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649A",
+        "name": "Game",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150556453"
+    },
+    {
+      "type": "codeforces",
+      "id": 150556410,
+      "creationTime": 1647990802,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649A",
+        "name": "Game",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150556410"
+    },
+    {
+      "type": "codeforces",
+      "id": 150556347,
+      "creationTime": 1647990701,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649A",
+        "name": "Game",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150556347"
+    },
+    {
+      "type": "codeforces",
+      "id": 150556270,
+      "creationTime": 1647990546,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1647990300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1649A",
+        "name": "Game",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1649/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1649/submission/150556270"
+    },
+    {
+      "type": "codeforces",
       "id": 150528594,
       "creationTime": 1647967422,
       "language": "GNU C++14",
@@ -23,8 +904,10 @@
         "name": "For Gamers. By Gamers.",
         "tags": [
           "binary search",
-          "data structures",
-          "math"
+          "brute force",
+          "dp",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/D"
       },
@@ -49,8 +932,10 @@
         "name": "For Gamers. By Gamers.",
         "tags": [
           "binary search",
-          "data structures",
-          "math"
+          "brute force",
+          "dp",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/D"
       },
@@ -75,8 +960,10 @@
         "name": "For Gamers. By Gamers.",
         "tags": [
           "binary search",
-          "data structures",
-          "math"
+          "brute force",
+          "dp",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/D"
       },
@@ -100,7 +987,8 @@
         "id": "1657C",
         "name": "Bracket Sequence Deletion",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/C"
       },
@@ -124,7 +1012,8 @@
         "id": "1657C",
         "name": "Bracket Sequence Deletion",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/C"
       },
@@ -172,7 +1061,7 @@
         "id": "1657A",
         "name": "Integer Moves",
         "tags": [
-          "math",
+          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/A"
@@ -34901,7 +35790,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1711,
+    "rating": 1698,
     "maxRank": "expert",
     "maxRating": 1772
   }

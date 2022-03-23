@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1647983383,
+  "updateTime": 1648069702,
   "history": {
     "user": [
       {
@@ -8,251 +8,267 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 150528594,
-            "pid": "1657D",
-            "name": "For Gamers. By Gamers.",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647967422
-          },
-          {
-            "platform": "codeforces",
-            "id": 150528230,
-            "pid": "1657D",
-            "name": "For Gamers. By Gamers.",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647967370
-          },
-          {
-            "platform": "codeforces",
-            "id": 150527786,
-            "pid": "1657D",
-            "name": "For Gamers. By Gamers.",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647967309
-          },
-          {
-            "platform": "codeforces",
-            "id": 150492252,
-            "pid": "1657C",
-            "name": "Bracket Sequence Deletion",
+            "id": 150603980,
+            "pid": "1637D",
+            "name": "Yet Another Minimization Problem",
             "verdict": "OK",
-            "creationTime": 1647962235
+            "creationTime": 1648036367
           },
           {
             "platform": "codeforces",
-            "id": 150488480,
-            "pid": "1657C",
-            "name": "Bracket Sequence Deletion",
+            "id": 150603928,
+            "pid": "1637D",
+            "name": "Yet Another Minimization Problem",
+            "verdict": "OK",
+            "creationTime": 1648036335
+          },
+          {
+            "platform": "codeforces",
+            "id": 150603787,
+            "pid": "1637D",
+            "name": "Yet Another Minimization Problem",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647961848
+            "creationTime": 1648036251
           },
           {
             "platform": "codeforces",
-            "id": 150471946,
-            "pid": "1657B",
-            "name": "XY Sequence",
+            "id": 150589630,
+            "pid": "17D",
+            "name": "Notepad",
             "verdict": "OK",
-            "creationTime": 1647960731
+            "creationTime": 1648026549
           },
           {
             "platform": "codeforces",
-            "id": 150465577,
-            "pid": "1657A",
-            "name": "Integer Moves",
+            "id": 150565022,
+            "pid": "5E",
+            "name": "Bindian Signalizing",
             "verdict": "OK",
-            "creationTime": 1647960455
+            "creationTime": 1648005509
           },
           {
             "platform": "codeforces",
-            "id": 150458948,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
+            "id": 150565008,
+            "pid": "5E",
+            "name": "Bindian Signalizing",
             "verdict": "OK",
-            "creationTime": 1647956452
+            "creationTime": 1648005488
           },
           {
             "platform": "codeforces",
-            "id": 150458929,
-            "pid": "1647C",
-            "name": "Madoka and Childish Pranks",
-            "verdict": "OK",
-            "creationTime": 1647956439
-          },
-          {
-            "platform": "codeforces",
-            "id": 150458904,
-            "pid": "1647B",
-            "name": "Madoka and the Elegant Gift",
-            "verdict": "OK",
-            "creationTime": 1647956421
-          },
-          {
-            "platform": "codeforces",
-            "id": 150458874,
-            "pid": "1647A",
-            "name": "Madoka and Math Dad",
-            "verdict": "OK",
-            "creationTime": 1647956408
-          },
-          {
-            "platform": "codeforces",
-            "id": 150455958,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
-            "verdict": "OK",
-            "creationTime": 1647954634
-          },
-          {
-            "platform": "codeforces",
-            "id": 150455764,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
+            "id": 150564966,
+            "pid": "5E",
+            "name": "Bindian Signalizing",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647954517
+            "creationTime": 1648005437
           },
           {
             "platform": "codeforces",
-            "id": 150455541,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
+            "id": 150564652,
+            "pid": "5E",
+            "name": "Bindian Signalizing",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647954376
+            "creationTime": 1648005022
           },
           {
             "platform": "codeforces",
-            "id": 150455102,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
+            "id": 150564542,
+            "pid": "5E",
+            "name": "Bindian Signalizing",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647954087
+            "creationTime": 1648004887
           },
           {
             "platform": "codeforces",
-            "id": 150454788,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
+            "id": 150564371,
+            "pid": "5E",
+            "name": "Bindian Signalizing",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647953923
+            "creationTime": 1648004661
           },
           {
             "platform": "codeforces",
-            "id": 150454395,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647953677
-          },
-          {
-            "platform": "codeforces",
-            "id": 150453863,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647953338
-          },
-          {
-            "platform": "codeforces",
-            "id": 150453613,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647953178
-          },
-          {
-            "platform": "codeforces",
-            "id": 150453212,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647952913
-          },
-          {
-            "platform": "codeforces",
-            "id": 150451121,
-            "pid": "1647D",
-            "name": "Madoka and the Best School in Russia",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647951564
-          },
-          {
-            "platform": "codeforces",
-            "id": 150446638,
-            "pid": "1647C",
-            "name": "Madoka and Childish Pranks",
+            "id": 150560994,
+            "pid": "1648B",
+            "name": "Integral Array",
             "verdict": "OK",
-            "creationTime": 1647948492
+            "creationTime": 1647999273
           },
           {
             "platform": "codeforces",
-            "id": 150445365,
-            "pid": "1647A",
-            "name": "Madoka and Math Dad",
+            "id": 150560983,
+            "pid": "1648A",
+            "name": "Weird Sum",
             "verdict": "OK",
-            "creationTime": 1647947603
+            "creationTime": 1647999253
           },
           {
             "platform": "codeforces",
-            "id": 150444982,
-            "pid": "1647B",
-            "name": "Madoka and the Elegant Gift",
+            "id": 150560965,
+            "pid": "1649B",
+            "name": "Game of Ball Passing",
             "verdict": "OK",
-            "creationTime": 1647947347
+            "creationTime": 1647999230
           },
           {
             "platform": "codeforces",
-            "id": 150440928,
-            "pid": "1542D",
-            "name": "Priority Queue",
+            "id": 150560959,
+            "pid": "1649A",
+            "name": "Game",
             "verdict": "OK",
-            "creationTime": 1647944574
+            "creationTime": 1647999220
           },
           {
             "platform": "codeforces",
-            "id": 150440902,
-            "pid": "1542D",
-            "name": "Priority Queue",
+            "id": 150560342,
+            "pid": "1649D",
+            "name": "Integral Array",
             "verdict": "OK",
-            "creationTime": 1647944557
+            "creationTime": 1647998103
           },
           {
             "platform": "codeforces",
-            "id": 150440756,
-            "pid": "1542D",
-            "name": "Priority Queue",
+            "id": 150559710,
+            "pid": "1649D",
+            "name": "Integral Array",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647944472
+            "creationTime": 1647996842
           },
           {
             "platform": "codeforces",
-            "id": 150440360,
-            "pid": "1542D",
-            "name": "Priority Queue",
+            "id": 150559500,
+            "pid": "1649D",
+            "name": "Integral Array",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647944189
+            "creationTime": 1647996457
           },
           {
             "platform": "codeforces",
-            "id": 150411184,
-            "pid": "14E",
-            "name": "Camels",
-            "verdict": "OK",
-            "creationTime": 1647914518
+            "id": 150559247,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647996056
           },
           {
             "platform": "codeforces",
-            "id": 150410138,
-            "pid": "1553E",
-            "name": "Permutation Shift",
-            "verdict": "OK",
-            "creationTime": 1647912078
+            "id": 150559077,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647995789
           },
           {
             "platform": "codeforces",
-            "id": 150408508,
-            "pid": "1553E",
-            "name": "Permutation Shift",
+            "id": 150559027,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647995701
+          },
+          {
+            "platform": "codeforces",
+            "id": 150558987,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647995617
+          },
+          {
+            "platform": "codeforces",
+            "id": 150558944,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647995557
+          },
+          {
+            "platform": "codeforces",
+            "id": 150558834,
+            "pid": "1649D",
+            "name": "Integral Array",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1647908556
+            "creationTime": 1647995374
+          },
+          {
+            "platform": "codeforces",
+            "id": 150558636,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647995016
+          },
+          {
+            "platform": "codeforces",
+            "id": 150558337,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647994489
+          },
+          {
+            "platform": "codeforces",
+            "id": 150558297,
+            "pid": "1649D",
+            "name": "Integral Array",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1647994427
+          },
+          {
+            "platform": "codeforces",
+            "id": 150557752,
+            "pid": "1649C",
+            "name": "Weird Sum",
+            "verdict": "OK",
+            "creationTime": 1647993467
+          },
+          {
+            "platform": "codeforces",
+            "id": 150557195,
+            "pid": "1649B",
+            "name": "Game of Ball Passing",
+            "verdict": "OK",
+            "creationTime": 1647992400
+          },
+          {
+            "platform": "codeforces",
+            "id": 150557077,
+            "pid": "1649B",
+            "name": "Game of Ball Passing",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647992171
+          },
+          {
+            "platform": "codeforces",
+            "id": 150556453,
+            "pid": "1649A",
+            "name": "Game",
+            "verdict": "OK",
+            "creationTime": 1647990896
+          },
+          {
+            "platform": "codeforces",
+            "id": 150556410,
+            "pid": "1649A",
+            "name": "Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647990802
+          },
+          {
+            "platform": "codeforces",
+            "id": 150556347,
+            "pid": "1649A",
+            "name": "Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647990701
+          },
+          {
+            "platform": "codeforces",
+            "id": 150556270,
+            "pid": "1649A",
+            "name": "Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1647990546
           }
         ],
         "newContests": []
@@ -262,67 +278,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 150518799,
-            "pid": "1657D",
-            "name": "For Gamers. By Gamers.",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647965797
-          },
-          {
-            "platform": "codeforces",
-            "id": 150517759,
-            "pid": "1657D",
-            "name": "For Gamers. By Gamers.",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647965621
-          },
-          {
-            "platform": "codeforces",
-            "id": 150502349,
-            "pid": "1657C",
-            "name": "Bracket Sequence Deletion",
+            "id": 150611620,
+            "pid": "1651C",
+            "name": "Fault-tolerant Network",
             "verdict": "OK",
-            "creationTime": 1647963380
+            "creationTime": 1648041360
           },
           {
             "platform": "codeforces",
-            "id": 150483170,
-            "pid": "1657B",
-            "name": "XY Sequence",
+            "id": 150611309,
+            "pid": "1651C",
+            "name": "Fault-tolerant Network",
             "verdict": "OK",
-            "creationTime": 1647961382
+            "creationTime": 1648041127
           },
           {
             "platform": "codeforces",
-            "id": 150474345,
-            "pid": "1657A",
-            "name": "Integer Moves",
+            "id": 150607940,
+            "pid": "1651B",
+            "name": "Prove Him Wrong",
             "verdict": "OK",
-            "creationTime": 1647960842
+            "creationTime": 1648038779
           },
           {
             "platform": "codeforces",
-            "id": 150454467,
-            "pid": "1647B",
-            "name": "Madoka and the Elegant Gift",
+            "id": 150606902,
+            "pid": "1651A",
+            "name": "Playoff",
             "verdict": "OK",
-            "creationTime": 1647953723
-          },
-          {
-            "platform": "codeforces",
-            "id": 150449125,
-            "pid": "1647B",
-            "name": "Madoka and the Elegant Gift",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1647950251
-          },
-          {
-            "platform": "codeforces",
-            "id": 150445048,
-            "pid": "1647A",
-            "name": "Madoka and Math Dad",
-            "verdict": "OK",
-            "creationTime": 1647947378
+            "creationTime": 1648038097
           }
         ],
         "newContests": []
@@ -330,5 +314,5 @@
     ],
     "contest": []
   },
-  "ref": "24f4cdc0363f979865e1b0c170801ae5d9e400d3"
+  "ref": "f1d0ae963dac8fb0de042c334d2b7f3b1bef041c"
 }
