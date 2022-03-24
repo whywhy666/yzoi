@@ -6,6 +6,716 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150803941,
+      "creationTime": 1648139649,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150803941"
+    },
+    {
+      "type": "codeforces",
+      "id": 150795124,
+      "creationTime": 1648138835,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150795124"
+    },
+    {
+      "type": "codeforces",
+      "id": 150794904,
+      "creationTime": 1648138810,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150794904"
+    },
+    {
+      "type": "codeforces",
+      "id": 150786489,
+      "creationTime": 1648137782,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150786489"
+    },
+    {
+      "type": "codeforces",
+      "id": 150785485,
+      "creationTime": 1648137660,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150785485"
+    },
+    {
+      "type": "codeforces",
+      "id": 150784883,
+      "creationTime": 1648137587,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150784883"
+    },
+    {
+      "type": "codeforces",
+      "id": 150784324,
+      "creationTime": 1648137521,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150784324"
+    },
+    {
+      "type": "codeforces",
+      "id": 150783995,
+      "creationTime": 1648137485,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150783995"
+    },
+    {
+      "type": "codeforces",
+      "id": 150774323,
+      "creationTime": 1648136390,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150774323"
+    },
+    {
+      "type": "codeforces",
+      "id": 150769341,
+      "creationTime": 1648135869,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150769341"
+    },
+    {
+      "type": "codeforces",
+      "id": 150755385,
+      "creationTime": 1648134571,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656C",
+        "name": "Make Equal With Mod",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150755385"
+    },
+    {
+      "type": "codeforces",
+      "id": 150751302,
+      "creationTime": 1648134238,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656C",
+        "name": "Make Equal With Mod",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150751302"
+    },
+    {
+      "type": "codeforces",
+      "id": 150739925,
+      "creationTime": 1648133408,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656B",
+        "name": "Subtract Operation",
+        "tags": [
+          "data structures",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150739925"
+    },
+    {
+      "type": "codeforces",
+      "id": 150728403,
+      "creationTime": 1648132774,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656A",
+        "name": "Good Pairs",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150728403"
+    },
+    {
+      "type": "codeforces",
+      "id": 150726777,
+      "creationTime": 1648132706,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656A",
+        "name": "Good Pairs",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150726777"
+    },
+    {
+      "type": "codeforces",
+      "id": 150711638,
+      "creationTime": 1648124681,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499358966
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638D",
+        "name": "Big Brush",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/150711638"
+    },
+    {
+      "type": "codeforces",
+      "id": 150711392,
+      "creationTime": 1648124585,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499359062
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638D",
+        "name": "Big Brush",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/150711392"
+    },
+    {
+      "type": "codeforces",
+      "id": 150710376,
+      "creationTime": 1648124151,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499359496
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1638D",
+        "name": "Big Brush",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1638/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1638/submission/150710376"
+    },
+    {
+      "type": "codeforces",
+      "id": 150683872,
+      "creationTime": 1648111420,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499372227
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17C",
+        "name": "Balance",
+        "rating": 2500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150683872"
+    },
+    {
+      "type": "codeforces",
+      "id": 150678128,
+      "creationTime": 1648107553,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499376094
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15E",
+        "name": "Triangles",
+        "rating": 2600,
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150678128"
+    },
+    {
+      "type": "codeforces",
+      "id": 150677128,
+      "creationTime": 1648106697,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499376950
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15E",
+        "name": "Triangles",
+        "rating": 2600,
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150677128"
+    },
+    {
+      "type": "codeforces",
+      "id": 150676615,
+      "creationTime": 1648106281,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499377366
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15E",
+        "name": "Triangles",
+        "rating": 2600,
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150676615"
+    },
+    {
+      "type": "codeforces",
+      "id": 150659462,
+      "creationTime": 1648084379,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499399268
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15D",
+        "name": "Map",
+        "rating": 2500,
+        "tags": [
+          "data structures",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150659462"
+    },
+    {
+      "type": "codeforces",
+      "id": 150659195,
+      "creationTime": 1648083825,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499399822
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15D",
+        "name": "Map",
+        "rating": 2500,
+        "tags": [
+          "data structures",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150659195"
+    },
+    {
+      "type": "codeforces",
+      "id": 150659047,
+      "creationTime": 1648083527,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499400120
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15D",
+        "name": "Map",
+        "rating": 2500,
+        "tags": [
+          "data structures",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150659047"
+    },
+    {
+      "type": "codeforces",
+      "id": 150658885,
+      "creationTime": 1648083174,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499400473
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15D",
+        "name": "Map",
+        "rating": 2500,
+        "tags": [
+          "data structures",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150658885"
+    },
+    {
+      "type": "codeforces",
+      "id": 150658829,
+      "creationTime": 1648083043,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499400604
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "15D",
+        "name": "Map",
+        "rating": 2500,
+        "tags": [
+          "data structures",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/15/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/15/submission/150658829"
+    },
+    {
+      "type": "codeforces",
       "id": 150603980,
       "creationTime": 1648036367,
       "language": "GNU C++14",
@@ -902,10 +1612,11 @@
         "type": "codeforces",
         "id": "1657D",
         "name": "For Gamers. By Gamers.",
+        "rating": 2000,
         "tags": [
           "binary search",
           "brute force",
-          "dp",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -930,10 +1641,11 @@
         "type": "codeforces",
         "id": "1657D",
         "name": "For Gamers. By Gamers.",
+        "rating": 2000,
         "tags": [
           "binary search",
           "brute force",
-          "dp",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -958,10 +1670,11 @@
         "type": "codeforces",
         "id": "1657D",
         "name": "For Gamers. By Gamers.",
+        "rating": 2000,
         "tags": [
           "binary search",
           "brute force",
-          "dp",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -986,6 +1699,7 @@
         "type": "codeforces",
         "id": "1657C",
         "name": "Bracket Sequence Deletion",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation"
@@ -1011,6 +1725,7 @@
         "type": "codeforces",
         "id": "1657C",
         "name": "Bracket Sequence Deletion",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation"
@@ -1036,7 +1751,9 @@
         "type": "codeforces",
         "id": "1657B",
         "name": "XY Sequence",
+        "rating": 800,
         "tags": [
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/B"
@@ -1060,6 +1777,7 @@
         "type": "codeforces",
         "id": "1657A",
         "name": "Integer Moves",
+        "rating": 800,
         "tags": [
           "brute force",
           "math"
@@ -2415,7 +3133,6 @@
         "name": "Prefix Removals",
         "rating": 800,
         "tags": [
-          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1654/problem/B"
@@ -35790,7 +36507,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1698,
+    "rating": 1729,
     "maxRank": "expert",
     "maxRating": 1772
   }

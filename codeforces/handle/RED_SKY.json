@@ -6,6 +6,136 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150767596,
+      "creationTime": 1648135688,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656B",
+        "name": "Subtract Operation",
+        "tags": [
+          "data structures",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150767596"
+    },
+    {
+      "type": "codeforces",
+      "id": 150753057,
+      "creationTime": 1648134379,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656B",
+        "name": "Subtract Operation",
+        "tags": [
+          "data structures",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150753057"
+    },
+    {
+      "type": "codeforces",
+      "id": 150747658,
+      "creationTime": 1648133956,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656B",
+        "name": "Subtract Operation",
+        "tags": [
+          "data structures",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150747658"
+    },
+    {
+      "type": "codeforces",
+      "id": 150747109,
+      "creationTime": 1648133914,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656B",
+        "name": "Subtract Operation",
+        "tags": [
+          "data structures",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150747109"
+    },
+    {
+      "type": "codeforces",
+      "id": 150732894,
+      "creationTime": 1648132994,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Red_Sky"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656A",
+        "name": "Good Pairs",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150732894"
+    },
+    {
+      "type": "codeforces",
       "id": 150611620,
       "creationTime": 1648041360,
       "language": "GNU C++14",
@@ -126,10 +256,11 @@
         "type": "codeforces",
         "id": "1657D",
         "name": "For Gamers. By Gamers.",
+        "rating": 2000,
         "tags": [
           "binary search",
           "brute force",
-          "dp",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -154,10 +285,11 @@
         "type": "codeforces",
         "id": "1657D",
         "name": "For Gamers. By Gamers.",
+        "rating": 2000,
         "tags": [
           "binary search",
           "brute force",
-          "dp",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -182,6 +314,7 @@
         "type": "codeforces",
         "id": "1657C",
         "name": "Bracket Sequence Deletion",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation"
@@ -207,7 +340,9 @@
         "type": "codeforces",
         "id": "1657B",
         "name": "XY Sequence",
+        "rating": 800,
         "tags": [
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/B"
@@ -231,6 +366,7 @@
         "type": "codeforces",
         "id": "1657A",
         "name": "Integer Moves",
+        "rating": 800,
         "tags": [
           "brute force",
           "math"
@@ -1687,8 +1823,8 @@
   ],
   "codeforces": {
     "rank": "newbie",
-    "rating": 523,
+    "rating": 777,
     "maxRank": "newbie",
-    "maxRating": 523
+    "maxRating": 777
   }
 }

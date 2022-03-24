@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150675950,
+      "creationTime": 1648105731,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "gzx20210226"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499377916
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "41E",
+        "name": "3-cycles",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/41/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/41/submission/150675950"
+    },
+    {
+      "type": "codeforces",
       "id": 139456061,
       "creationTime": 1639638490,
       "language": "GNU C++14",

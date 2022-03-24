@@ -6,6 +6,209 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150784328,
+      "creationTime": 1648137520,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656H",
+        "name": "Equal LCM Subsets",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150784328"
+    },
+    {
+      "type": "codeforces",
+      "id": 150772311,
+      "creationTime": 1648136176,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656G",
+        "name": "Cycle Palindrome",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150772311"
+    },
+    {
+      "type": "codeforces",
+      "id": 150764520,
+      "creationTime": 1648135400,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656E",
+        "name": "Equal Tree Sums",
+        "tags": [
+          "constructive algorithms",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150764520"
+    },
+    {
+      "type": "codeforces",
+      "id": 150759499,
+      "creationTime": 1648134933,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656F",
+        "name": "Parametric MST",
+        "tags": [
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150759499"
+    },
+    {
+      "type": "codeforces",
+      "id": 150737577,
+      "creationTime": 1648133261,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150737577"
+    },
+    {
+      "type": "codeforces",
+      "id": 150729270,
+      "creationTime": 1648132818,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656C",
+        "name": "Make Equal With Mod",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150729270"
+    },
+    {
+      "type": "codeforces",
+      "id": 150725120,
+      "creationTime": 1648132629,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656B",
+        "name": "Subtract Operation",
+        "tags": [
+          "data structures",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150725120"
+    },
+    {
+      "type": "codeforces",
+      "id": 150724426,
+      "creationTime": 1648132556,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1648132500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656A",
+        "name": "Good Pairs",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/150724426"
+    },
+    {
+      "type": "codeforces",
       "id": 147518709,
       "creationTime": 1645655817,
       "language": "GNU C++20 (64)",
@@ -101268,7 +101471,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3946,
+    "rating": 3796,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
