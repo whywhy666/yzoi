@@ -1,356 +1,106 @@
 {
   "version": "0.1.16",
-  "updateTime": 1648156254,
+  "updateTime": 1648242774,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 150784328,
-            "pid": "1656H",
-            "name": "Equal LCM Subsets",
-            "verdict": "OK",
-            "creationTime": 1648137520
-          },
-          {
-            "platform": "codeforces",
-            "id": 150772311,
-            "pid": "1656G",
-            "name": "Cycle Palindrome",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1648136176
-          },
-          {
-            "platform": "codeforces",
-            "id": 150764520,
-            "pid": "1656E",
-            "name": "Equal Tree Sums",
-            "verdict": "OK",
-            "creationTime": 1648135400
-          },
-          {
-            "platform": "codeforces",
-            "id": 150759499,
-            "pid": "1656F",
-            "name": "Parametric MST",
-            "verdict": "OK",
-            "creationTime": 1648134933
-          },
-          {
-            "platform": "codeforces",
-            "id": 150737577,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "OK",
-            "creationTime": 1648133261
-          },
-          {
-            "platform": "codeforces",
-            "id": 150729270,
-            "pid": "1656C",
-            "name": "Make Equal With Mod",
-            "verdict": "OK",
-            "creationTime": 1648132818
-          },
-          {
-            "platform": "codeforces",
-            "id": 150725120,
-            "pid": "1656B",
-            "name": "Subtract Operation",
-            "verdict": "OK",
-            "creationTime": 1648132629
-          },
-          {
-            "platform": "codeforces",
-            "id": 150724426,
-            "pid": "1656A",
-            "name": "Good Pairs",
-            "verdict": "OK",
-            "creationTime": 1648132556
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 150803941,
-            "pid": "1656D",
-            "name": "K-good",
+            "id": 150867875,
+            "pid": "229C",
+            "name": "Triangles",
             "verdict": "OK",
-            "creationTime": 1648139649
+            "creationTime": 1648197636
           },
           {
             "platform": "codeforces",
-            "id": 150795124,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648138835
-          },
-          {
-            "platform": "codeforces",
-            "id": 150794904,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648138810
-          },
-          {
-            "platform": "codeforces",
-            "id": 150786489,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648137782
-          },
-          {
-            "platform": "codeforces",
-            "id": 150785485,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648137660
-          },
-          {
-            "platform": "codeforces",
-            "id": 150784883,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648137587
-          },
-          {
-            "platform": "codeforces",
-            "id": 150784324,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648137521
-          },
-          {
-            "platform": "codeforces",
-            "id": 150783995,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648137485
-          },
-          {
-            "platform": "codeforces",
-            "id": 150774323,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1648136390
-          },
-          {
-            "platform": "codeforces",
-            "id": 150769341,
-            "pid": "1656D",
-            "name": "K-good",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648135869
-          },
-          {
-            "platform": "codeforces",
-            "id": 150755385,
-            "pid": "1656C",
-            "name": "Make Equal With Mod",
-            "verdict": "OK",
-            "creationTime": 1648134571
-          },
-          {
-            "platform": "codeforces",
-            "id": 150751302,
-            "pid": "1656C",
-            "name": "Make Equal With Mod",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648134238
-          },
-          {
-            "platform": "codeforces",
-            "id": 150739925,
-            "pid": "1656B",
-            "name": "Subtract Operation",
-            "verdict": "OK",
-            "creationTime": 1648133408
-          },
-          {
-            "platform": "codeforces",
-            "id": 150728403,
-            "pid": "1656A",
-            "name": "Good Pairs",
-            "verdict": "OK",
-            "creationTime": 1648132774
-          },
-          {
-            "platform": "codeforces",
-            "id": 150726777,
-            "pid": "1656A",
-            "name": "Good Pairs",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1648132706
-          },
-          {
-            "platform": "codeforces",
-            "id": 150711638,
-            "pid": "1638D",
-            "name": "Big Brush",
-            "verdict": "OK",
-            "creationTime": 1648124681
-          },
-          {
-            "platform": "codeforces",
-            "id": 150711392,
-            "pid": "1638D",
-            "name": "Big Brush",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648124585
-          },
-          {
-            "platform": "codeforces",
-            "id": 150710376,
-            "pid": "1638D",
-            "name": "Big Brush",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648124151
-          },
-          {
-            "platform": "codeforces",
-            "id": 150683872,
+            "id": 150863232,
             "pid": "17C",
             "name": "Balance",
             "verdict": "OK",
-            "creationTime": 1648111420
+            "creationTime": 1648194804
           },
           {
             "platform": "codeforces",
-            "id": 150678128,
-            "pid": "15E",
-            "name": "Triangles",
+            "id": 150862893,
+            "pid": "17C",
+            "name": "Balance",
             "verdict": "OK",
-            "creationTime": 1648107553
+            "creationTime": 1648194533
           },
           {
             "platform": "codeforces",
-            "id": 150677128,
-            "pid": "15E",
-            "name": "Triangles",
-            "verdict": "OK",
-            "creationTime": 1648106697
+            "id": 150862843,
+            "pid": "17C",
+            "name": "Balance",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1648194489
           },
           {
             "platform": "codeforces",
-            "id": 150676615,
-            "pid": "15E",
-            "name": "Triangles",
+            "id": 150862764,
+            "pid": "17C",
+            "name": "Balance",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1648194415
+          },
+          {
+            "platform": "codeforces",
+            "id": 150862626,
+            "pid": "17C",
+            "name": "Balance",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648106281
+            "creationTime": 1648194302
           },
           {
             "platform": "codeforces",
-            "id": 150659462,
-            "pid": "15D",
-            "name": "Map",
+            "id": 150862570,
+            "pid": "17C",
+            "name": "Balance",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1648194261
+          },
+          {
+            "platform": "codeforces",
+            "id": 150837067,
+            "pid": "190E",
+            "name": "Counter Attack",
             "verdict": "OK",
-            "creationTime": 1648084379
+            "creationTime": 1648167842
           },
           {
             "platform": "codeforces",
-            "id": 150659195,
-            "pid": "15D",
-            "name": "Map",
+            "id": 150837020,
+            "pid": "190E",
+            "name": "Counter Attack",
             "verdict": "OK",
-            "creationTime": 1648083825
+            "creationTime": 1648167767
           },
           {
             "platform": "codeforces",
-            "id": 150659047,
-            "pid": "15D",
-            "name": "Map",
-            "verdict": "OK",
-            "creationTime": 1648083527
-          },
-          {
-            "platform": "codeforces",
-            "id": 150658885,
-            "pid": "15D",
-            "name": "Map",
+            "id": 150836791,
+            "pid": "190E",
+            "name": "Counter Attack",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648083174
+            "creationTime": 1648167369
           },
           {
             "platform": "codeforces",
-            "id": 150658829,
-            "pid": "15D",
-            "name": "Map",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648083043
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "洪天傲",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 150767596,
-            "pid": "1656B",
-            "name": "Subtract Operation",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1648135688
-          },
-          {
-            "platform": "codeforces",
-            "id": 150753057,
-            "pid": "1656B",
-            "name": "Subtract Operation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648134379
-          },
-          {
-            "platform": "codeforces",
-            "id": 150747658,
-            "pid": "1656B",
-            "name": "Subtract Operation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648133956
-          },
-          {
-            "platform": "codeforces",
-            "id": 150747109,
-            "pid": "1656B",
-            "name": "Subtract Operation",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1648133914
-          },
-          {
-            "platform": "codeforces",
-            "id": 150732894,
-            "pid": "1656A",
-            "name": "Good Pairs",
+            "id": 150835225,
+            "pid": "1492C",
+            "name": "Maximum width",
             "verdict": "OK",
-            "creationTime": 1648132994
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "郭振轩",
-        "newSubmissions": [
+            "creationTime": 1648164414
+          },
           {
             "platform": "codeforces",
-            "id": 150675950,
-            "pid": "41E",
-            "name": "3-cycles",
+            "id": 150834738,
+            "pid": "1492A",
+            "name": "Three swimmers",
             "verdict": "OK",
-            "creationTime": 1648105731
+            "creationTime": 1648163393
           }
         ],
         "newContests": []
@@ -358,5 +108,5 @@
     ],
     "contest": []
   },
-  "ref": "a0e76f037a4548443bce3273b158f4a46e48451b"
+  "ref": "d0c6bd3df3d99d88dd171e164268348238a7148e"
 }

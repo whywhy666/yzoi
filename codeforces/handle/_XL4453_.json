@@ -6,6 +6,324 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 150867875,
+      "creationTime": 1648197636,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499286011
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "229C",
+        "name": "Triangles",
+        "rating": 1900,
+        "tags": [
+          "combinatorics",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/229/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/229/submission/150867875"
+    },
+    {
+      "type": "codeforces",
+      "id": 150863232,
+      "creationTime": 1648194804,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499288843
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17C",
+        "name": "Balance",
+        "rating": 2500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150863232"
+    },
+    {
+      "type": "codeforces",
+      "id": 150862893,
+      "creationTime": 1648194533,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499289114
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17C",
+        "name": "Balance",
+        "rating": 2500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150862893"
+    },
+    {
+      "type": "codeforces",
+      "id": 150862843,
+      "creationTime": 1648194489,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499289158
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17C",
+        "name": "Balance",
+        "rating": 2500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150862843"
+    },
+    {
+      "type": "codeforces",
+      "id": 150862764,
+      "creationTime": 1648194415,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499289232
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17C",
+        "name": "Balance",
+        "rating": 2500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150862764"
+    },
+    {
+      "type": "codeforces",
+      "id": 150862626,
+      "creationTime": 1648194302,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499289345
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17C",
+        "name": "Balance",
+        "rating": 2500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150862626"
+    },
+    {
+      "type": "codeforces",
+      "id": 150862570,
+      "creationTime": 1648194261,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499289386
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "17C",
+        "name": "Balance",
+        "rating": 2500,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/17/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/17/submission/150862570"
+    },
+    {
+      "type": "codeforces",
+      "id": 150837067,
+      "creationTime": 1648167842,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499315805
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "190E",
+        "name": "Counter Attack",
+        "rating": 2100,
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs",
+          "hashing",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/190/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/190/submission/150837067"
+    },
+    {
+      "type": "codeforces",
+      "id": 150837020,
+      "creationTime": 1648167767,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499315880
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "190E",
+        "name": "Counter Attack",
+        "rating": 2100,
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs",
+          "hashing",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/190/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/190/submission/150837020"
+    },
+    {
+      "type": "codeforces",
+      "id": 150836791,
+      "creationTime": 1648167369,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499316278
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "190E",
+        "name": "Counter Attack",
+        "rating": 2100,
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs",
+          "hashing",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/190/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/190/submission/150836791"
+    },
+    {
+      "type": "codeforces",
+      "id": 150835225,
+      "creationTime": 1648164414,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499319233
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1492C",
+        "name": "Maximum width",
+        "rating": 1500,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1492/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1492/submission/150835225"
+    },
+    {
+      "type": "codeforces",
+      "id": 150834738,
+      "creationTime": 1648163393,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499320254
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1492A",
+        "name": "Three swimmers",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1492/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1492/submission/150834738"
+    },
+    {
+      "type": "codeforces",
       "id": 150803941,
       "creationTime": 1648139649,
       "language": "GNU C++14",
@@ -283,7 +601,8 @@
         "name": "Make Equal With Mod",
         "tags": [
           "math",
-          "number theory"
+          "number theory",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1656/problem/C"
       },
@@ -308,7 +627,8 @@
         "name": "Make Equal With Mod",
         "tags": [
           "math",
-          "number theory"
+          "number theory",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1656/problem/C"
       },
@@ -332,6 +652,7 @@
         "id": "1656B",
         "name": "Subtract Operation",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "math",
           "two pointers"

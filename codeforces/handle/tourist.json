@@ -73,6 +73,7 @@
         "name": "Equal Tree Sums",
         "tags": [
           "constructive algorithms",
+          "dfs and similar",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1656/problem/E"
@@ -97,7 +98,9 @@
         "id": "1656F",
         "name": "Parametric MST",
         "tags": [
+          "constructive algorithms",
           "graphs",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1656/problem/F"
@@ -149,7 +152,8 @@
         "name": "Make Equal With Mod",
         "tags": [
           "math",
-          "number theory"
+          "number theory",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1656/problem/C"
       },
@@ -173,6 +177,7 @@
         "id": "1656B",
         "name": "Subtract Operation",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "math",
           "two pointers"
