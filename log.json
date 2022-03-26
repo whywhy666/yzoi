@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1648242774,
+  "updateTime": 1648329131,
   "history": {
     "user": [
       {
@@ -8,99 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 150867875,
-            "pid": "229C",
-            "name": "Triangles",
+            "id": 150953672,
+            "pid": "442A",
+            "name": "Borya and Hanabi",
             "verdict": "OK",
-            "creationTime": 1648197636
+            "creationTime": 1648265151
           },
           {
             "platform": "codeforces",
-            "id": 150863232,
-            "pid": "17C",
-            "name": "Balance",
+            "id": 150953620,
+            "pid": "442A",
+            "name": "Borya and Hanabi",
             "verdict": "OK",
-            "creationTime": 1648194804
+            "creationTime": 1648265064
           },
           {
             "platform": "codeforces",
-            "id": 150862893,
-            "pid": "17C",
-            "name": "Balance",
-            "verdict": "OK",
-            "creationTime": 1648194533
-          },
-          {
-            "platform": "codeforces",
-            "id": 150862843,
-            "pid": "17C",
-            "name": "Balance",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1648194489
-          },
-          {
-            "platform": "codeforces",
-            "id": 150862764,
-            "pid": "17C",
-            "name": "Balance",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1648194415
-          },
-          {
-            "platform": "codeforces",
-            "id": 150862626,
-            "pid": "17C",
-            "name": "Balance",
+            "id": 150952459,
+            "pid": "442A",
+            "name": "Borya and Hanabi",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648194302
+            "creationTime": 1648263292
           },
           {
             "platform": "codeforces",
-            "id": 150862570,
-            "pid": "17C",
-            "name": "Balance",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1648194261
-          },
-          {
-            "platform": "codeforces",
-            "id": 150837067,
-            "pid": "190E",
-            "name": "Counter Attack",
-            "verdict": "OK",
-            "creationTime": 1648167842
-          },
-          {
-            "platform": "codeforces",
-            "id": 150837020,
-            "pid": "190E",
-            "name": "Counter Attack",
-            "verdict": "OK",
-            "creationTime": 1648167767
-          },
-          {
-            "platform": "codeforces",
-            "id": 150836791,
-            "pid": "190E",
-            "name": "Counter Attack",
+            "id": 150947952,
+            "pid": "442A",
+            "name": "Borya and Hanabi",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648167369
-          },
-          {
-            "platform": "codeforces",
-            "id": 150835225,
-            "pid": "1492C",
-            "name": "Maximum width",
-            "verdict": "OK",
-            "creationTime": 1648164414
-          },
-          {
-            "platform": "codeforces",
-            "id": 150834738,
-            "pid": "1492A",
-            "name": "Three swimmers",
-            "verdict": "OK",
-            "creationTime": 1648163393
+            "creationTime": 1648254080
           }
         ],
         "newContests": []
@@ -108,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "d0c6bd3df3d99d88dd171e164268348238a7148e"
+  "ref": "0eef425ca3e29ea2a5579d89fd76335e0b806b7b"
 }

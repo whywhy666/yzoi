@@ -22,6 +22,7 @@
         "id": "1656H",
         "name": "Equal LCM Subsets",
         "tags": [
+          "data structures",
           "math",
           "number theory"
         ],
@@ -98,10 +99,12 @@
         "id": "1656F",
         "name": "Parametric MST",
         "tags": [
+          "binary search",
           "constructive algorithms",
           "graphs",
           "greedy",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1656/problem/F"
       },
@@ -126,6 +129,7 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
+          "implementation",
           "math",
           "number theory"
         ],
@@ -151,6 +155,7 @@
         "id": "1656C",
         "name": "Make Equal With Mod",
         "tags": [
+          "constructive algorithms",
           "math",
           "number theory",
           "sortings"
@@ -177,7 +182,6 @@
         "id": "1656B",
         "name": "Subtract Operation",
         "tags": [
-          "constructive algorithms",
           "data structures",
           "math",
           "two pointers"
@@ -204,7 +208,7 @@
         "id": "1656A",
         "name": "Good Pairs",
         "tags": [
-          "constructive algorithms",
+          "2-sat",
           "math",
           "sortings"
         ],
