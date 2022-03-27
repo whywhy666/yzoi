@@ -126,7 +126,6 @@
         "id": "1656A",
         "name": "Good Pairs",
         "tags": [
-          "2-sat",
           "math",
           "sortings"
         ],
@@ -342,7 +341,6 @@
         "name": "XY Sequence",
         "rating": 800,
         "tags": [
-          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/B"

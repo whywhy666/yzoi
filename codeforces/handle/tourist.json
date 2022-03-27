@@ -6,6 +6,213 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 151133167,
+      "creationTime": 1648394462,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658D2",
+        "name": "388535 (Hard Version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151133167"
+    },
+    {
+      "type": "codeforces",
+      "id": 151124901,
+      "creationTime": 1648393422,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658E",
+        "name": "Gojou and Matrix Game",
+        "tags": [
+          "data structures",
+          "dp",
+          "games",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151124901"
+    },
+    {
+      "type": "codeforces",
+      "id": 151119757,
+      "creationTime": 1648392904,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658F",
+        "name": "Juju and Binary String",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151119757"
+    },
+    {
+      "type": "codeforces",
+      "id": 151119619,
+      "creationTime": 1648392891,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658F",
+        "name": "Juju and Binary String",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151119619"
+    },
+    {
+      "type": "codeforces",
+      "id": 151111601,
+      "creationTime": 1648392260,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658D1",
+        "name": "388535 (Easy Version)",
+        "tags": [
+          "bitmasks",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151111601"
+    },
+    {
+      "type": "codeforces",
+      "id": 151108862,
+      "creationTime": 1648392008,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658C",
+        "name": "Shinju and the Lost Permutation",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151108862"
+    },
+    {
+      "type": "codeforces",
+      "id": 151108120,
+      "creationTime": 1648391871,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658B",
+        "name": "Marin and Anti-coprime Permutation",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151108120"
+    },
+    {
+      "type": "codeforces",
+      "id": 151108013,
+      "creationTime": 1648391792,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1648391700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658A",
+        "name": "Marin and Photoshoot",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/151108013"
+    },
+    {
+      "type": "codeforces",
       "id": 150784328,
       "creationTime": 1648137520,
       "language": "GNU C++20 (64)",
@@ -208,7 +415,6 @@
         "id": "1656A",
         "name": "Good Pairs",
         "tags": [
-          "2-sat",
           "math",
           "sortings"
         ],

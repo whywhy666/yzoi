@@ -14064,6 +14064,16 @@
     "standingsUrl": "https://codeforces.com/gym/103608/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "新手赛",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103620,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103620",
+    "standingsUrl": "https://codeforces.com/gym/103620/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Индивидуальная олимпиада школьников по информатике и программированию 2022",
     "duration": 18000,
@@ -14094,5 +14104,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103625",
     "standingsUrl": "https://codeforces.com/gym/103625/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "XXII Open Cup. Grand Prix of Daejeon",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103627,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103627",
+    "standingsUrl": "https://codeforces.com/gym/103627/standings"
   }
 ]

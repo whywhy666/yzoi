@@ -6,6 +6,87 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 151049869,
+      "creationTime": 1648347677,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499135970
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "545E",
+        "name": "Paths and Trees",
+        "rating": 2000,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/545/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/545/submission/151049869"
+    },
+    {
+      "type": "codeforces",
+      "id": 151049859,
+      "creationTime": 1648347649,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499135998
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "545E",
+        "name": "Paths and Trees",
+        "rating": 2000,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/545/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/545/submission/151049859"
+    },
+    {
+      "type": "codeforces",
+      "id": 151049665,
+      "creationTime": 1648347256,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499136391
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "545E",
+        "name": "Paths and Trees",
+        "rating": 2000,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/545/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/545/submission/151049665"
+    },
+    {
+      "type": "codeforces",
       "id": 150953672,
       "creationTime": 1648265151,
       "language": "GNU C++14",
@@ -798,7 +879,6 @@
         "id": "1656A",
         "name": "Good Pairs",
         "tags": [
-          "2-sat",
           "math",
           "sortings"
         ],
@@ -824,7 +904,6 @@
         "id": "1656A",
         "name": "Good Pairs",
         "tags": [
-          "2-sat",
           "math",
           "sortings"
         ],
@@ -2193,7 +2272,6 @@
         "name": "XY Sequence",
         "rating": 800,
         "tags": [
-          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1657/problem/B"
