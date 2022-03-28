@@ -6,6 +6,111 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 151207997,
+      "creationTime": 1648447640,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499036007
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1336C",
+        "name": "Kaavi and Magic Spell",
+        "rating": 2200,
+        "tags": [
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1336/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1336/submission/151207997"
+    },
+    {
+      "type": "codeforces",
+      "id": 151207626,
+      "creationTime": 1648447297,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499036350
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1336C",
+        "name": "Kaavi and Magic Spell",
+        "rating": 2200,
+        "tags": [
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1336/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1336/submission/151207626"
+    },
+    {
+      "type": "codeforces",
+      "id": 151198241,
+      "creationTime": 1648436641,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499047006
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "933B",
+        "name": "A Determined Cleanup",
+        "rating": 2000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/933/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/933/submission/151198241"
+    },
+    {
+      "type": "codeforces",
+      "id": 151191128,
+      "creationTime": 1648423596,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -499060051
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1005F",
+        "name": "Berland and the Shortest Paths",
+        "rating": 2100,
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1005/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1005/submission/151191128"
+    },
+    {
+      "type": "codeforces",
       "id": 151049869,
       "creationTime": 1648347677,
       "language": "GNU C++14",
@@ -530,7 +635,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -557,7 +661,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -584,7 +687,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -611,7 +713,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -638,7 +739,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -665,7 +765,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -692,7 +791,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -719,7 +817,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -746,7 +843,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -773,7 +869,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -854,6 +949,7 @@
         "name": "Subtract Operation",
         "tags": [
           "data structures",
+          "greedy",
           "math",
           "two pointers"
         ],

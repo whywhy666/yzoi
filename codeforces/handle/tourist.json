@@ -25,7 +25,8 @@
           "bitmasks",
           "brute force",
           "data structures",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/D2"
       },
@@ -52,9 +53,11 @@
           "data structures",
           "dp",
           "games",
+          "hashing",
           "implementation",
           "math",
-          "number theory"
+          "number theory",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/E"
       },
@@ -131,6 +134,7 @@
         "name": "388535 (Easy Version)",
         "tags": [
           "bitmasks",
+          "data structures",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/D1"
@@ -180,6 +184,7 @@
         "id": "1658B",
         "name": "Marin and Anti-coprime Permutation",
         "tags": [
+          "combinatorics",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/B"
@@ -282,6 +287,7 @@
         "tags": [
           "constructive algorithms",
           "dfs and similar",
+          "math",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1656/problem/E"
@@ -336,7 +342,6 @@
         "name": "K-good",
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math",
           "number theory"
         ],
@@ -390,6 +395,7 @@
         "name": "Subtract Operation",
         "tags": [
           "data structures",
+          "greedy",
           "math",
           "two pointers"
         ],
