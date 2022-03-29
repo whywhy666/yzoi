@@ -13616,6 +13616,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "XXII OpenCup GP of IMO",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103469,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103469",
+    "standingsUrl": "https://codeforces.com/gym/103469/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2021 ICPC Asia Nanjing Regional Contest (XXII Open Cup, Grand Prix of Nanjing)",
     "startTime": 1638586800,
     "duration": 18000,
@@ -14064,16 +14074,6 @@
     "standingsUrl": "https://codeforces.com/gym/103608/standings"
   },
   {
-    "type": "codeforces/gym/icpc",
-    "name": "新手赛",
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 103620,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/103620",
-    "standingsUrl": "https://codeforces.com/gym/103620/standings"
-  },
-  {
     "type": "codeforces/gym/ioi",
     "name": "Индивидуальная олимпиада школьников по информатике и программированию 2022",
     "duration": 18000,
@@ -14124,5 +14124,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103630",
     "standingsUrl": "https://codeforces.com/gym/103630/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Тридцать четвертая всероссийская олимпиада школьников по информатике, первый тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103631,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103631",
+    "standingsUrl": "https://codeforces.com/gym/103631/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Тридцать четвертая всероссийская олимпиада школьников по информатике, второй тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103632,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103632",
+    "standingsUrl": "https://codeforces.com/gym/103632/standings"
   }
 ]

@@ -21,10 +21,10 @@
         "type": "codeforces",
         "id": "1658D2",
         "name": "388535 (Hard Version)",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "brute force",
-          "data structures",
           "math",
           "sortings"
         ],
@@ -49,6 +49,7 @@
         "type": "codeforces",
         "id": "1658E",
         "name": "Gojou and Matrix Game",
+        "rating": 2500,
         "tags": [
           "data structures",
           "dp",
@@ -80,9 +81,11 @@
         "type": "codeforces",
         "id": "1658F",
         "name": "Juju and Binary String",
+        "rating": 2700,
         "tags": [
           "brute force",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/F"
@@ -106,9 +109,11 @@
         "type": "codeforces",
         "id": "1658F",
         "name": "Juju and Binary String",
+        "rating": 2700,
         "tags": [
           "brute force",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/F"
@@ -132,9 +137,9 @@
         "type": "codeforces",
         "id": "1658D1",
         "name": "388535 (Easy Version)",
+        "rating": 1600,
         "tags": [
           "bitmasks",
-          "data structures",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/D1"
@@ -158,6 +163,7 @@
         "type": "codeforces",
         "id": "1658C",
         "name": "Shinju and the Lost Permutation",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "math"
@@ -183,9 +189,11 @@
         "type": "codeforces",
         "id": "1658B",
         "name": "Marin and Anti-coprime Permutation",
+        "rating": 800,
         "tags": [
           "combinatorics",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/B"
       },
@@ -208,8 +216,10 @@
         "type": "codeforces",
         "id": "1658A",
         "name": "Marin and Photoshoot",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1658/problem/A"
@@ -233,6 +243,7 @@
         "type": "codeforces",
         "id": "1656H",
         "name": "Equal LCM Subsets",
+        "rating": 3200,
         "tags": [
           "data structures",
           "math",
@@ -259,6 +270,7 @@
         "type": "codeforces",
         "id": "1656G",
         "name": "Cycle Palindrome",
+        "rating": 3200,
         "tags": [
           "constructive algorithms",
           "math"
@@ -284,6 +296,7 @@
         "type": "codeforces",
         "id": "1656E",
         "name": "Equal Tree Sums",
+        "rating": 2200,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -311,6 +324,7 @@
         "type": "codeforces",
         "id": "1656F",
         "name": "Parametric MST",
+        "rating": 2600,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -340,6 +354,7 @@
         "type": "codeforces",
         "id": "1656D",
         "name": "K-good",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "math",
@@ -366,6 +381,7 @@
         "type": "codeforces",
         "id": "1656C",
         "name": "Make Equal With Mod",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "math",
@@ -393,6 +409,7 @@
         "type": "codeforces",
         "id": "1656B",
         "name": "Subtract Operation",
+        "rating": 1100,
         "tags": [
           "data structures",
           "greedy",
@@ -420,6 +437,7 @@
         "type": "codeforces",
         "id": "1656A",
         "name": "Good Pairs",
+        "rating": 800,
         "tags": [
           "math",
           "sortings"

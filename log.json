@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1648501823,
+  "updateTime": 1648588236,
   "history": {
     "user": [
       {
@@ -8,35 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 151207997,
-            "pid": "1336C",
-            "name": "Kaavi and Magic Spell",
+            "id": 151310345,
+            "pid": "22E",
+            "name": "Scheme",
             "verdict": "OK",
-            "creationTime": 1648447640
+            "creationTime": 1648543985
           },
           {
             "platform": "codeforces",
-            "id": 151207626,
-            "pid": "1336C",
-            "name": "Kaavi and Magic Spell",
+            "id": 151310323,
+            "pid": "22E",
+            "name": "Scheme",
+            "verdict": "OK",
+            "creationTime": 1648543969
+          },
+          {
+            "platform": "codeforces",
+            "id": 151310258,
+            "pid": "22E",
+            "name": "Scheme",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648447297
+            "creationTime": 1648543906
           },
           {
             "platform": "codeforces",
-            "id": 151198241,
-            "pid": "933B",
-            "name": "A Determined Cleanup",
-            "verdict": "OK",
-            "creationTime": 1648436641
+            "id": 151309880,
+            "pid": "22E",
+            "name": "Scheme",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648543643
           },
           {
             "platform": "codeforces",
-            "id": 151191128,
-            "pid": "1005F",
-            "name": "Berland and the Shortest Paths",
+            "id": 151309826,
+            "pid": "22E",
+            "name": "Scheme",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648543601
+          },
+          {
+            "platform": "codeforces",
+            "id": 151309670,
+            "pid": "22E",
+            "name": "Scheme",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1648543533
+          },
+          {
+            "platform": "codeforces",
+            "id": 151302703,
+            "pid": "28C",
+            "name": "Bath Queue",
             "verdict": "OK",
-            "creationTime": 1648423596
+            "creationTime": 1648537189
+          },
+          {
+            "platform": "codeforces",
+            "id": 151302639,
+            "pid": "28C",
+            "name": "Bath Queue",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648537142
+          },
+          {
+            "platform": "codeforces",
+            "id": 151302469,
+            "pid": "28C",
+            "name": "Bath Queue",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648536990
+          },
+          {
+            "platform": "codeforces",
+            "id": 151287604,
+            "pid": "1637E",
+            "name": "Best Pair",
+            "verdict": "OK",
+            "creationTime": 1648517000
           }
         ],
         "newContests": []
@@ -44,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "31fef93a809313e7d8ace1e0c80b9e1af4d2cc70"
+  "ref": "969fb0bfe1e14306a70beee13ca843f52740606e"
 }
