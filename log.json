@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1648588236,
+  "updateTime": 1648674633,
   "history": {
     "user": [
       {
@@ -8,83 +8,59 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 151310345,
-            "pid": "22E",
-            "name": "Scheme",
+            "id": 151418935,
+            "pid": "1492C",
+            "name": "Maximum width",
             "verdict": "OK",
-            "creationTime": 1648543985
+            "creationTime": 1648646493
           },
           {
             "platform": "codeforces",
-            "id": 151310323,
-            "pid": "22E",
-            "name": "Scheme",
+            "id": 151399162,
+            "pid": "1622D",
+            "name": "Shuffle",
             "verdict": "OK",
-            "creationTime": 1648543969
+            "creationTime": 1648632894
           },
           {
             "platform": "codeforces",
-            "id": 151310258,
-            "pid": "22E",
-            "name": "Scheme",
+            "id": 151399108,
+            "pid": "1622D",
+            "name": "Shuffle",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648543906
+            "creationTime": 1648632855
           },
           {
             "platform": "codeforces",
-            "id": 151309880,
-            "pid": "22E",
-            "name": "Scheme",
+            "id": 151398698,
+            "pid": "1622D",
+            "name": "Shuffle",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648543643
+            "creationTime": 1648632525
           },
           {
             "platform": "codeforces",
-            "id": 151309826,
-            "pid": "22E",
-            "name": "Scheme",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648543601
-          },
-          {
-            "platform": "codeforces",
-            "id": 151309670,
-            "pid": "22E",
-            "name": "Scheme",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1648543533
-          },
-          {
-            "platform": "codeforces",
-            "id": 151302703,
-            "pid": "28C",
-            "name": "Bath Queue",
+            "id": 151376228,
+            "pid": "70C",
+            "name": "Lucky Tickets",
             "verdict": "OK",
-            "creationTime": 1648537189
+            "creationTime": 1648609331
           },
           {
             "platform": "codeforces",
-            "id": 151302639,
-            "pid": "28C",
-            "name": "Bath Queue",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648537142
-          },
-          {
-            "platform": "codeforces",
-            "id": 151302469,
-            "pid": "28C",
-            "name": "Bath Queue",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648536990
-          },
-          {
-            "platform": "codeforces",
-            "id": 151287604,
-            "pid": "1637E",
-            "name": "Best Pair",
+            "id": 151376223,
+            "pid": "70C",
+            "name": "Lucky Tickets",
             "verdict": "OK",
-            "creationTime": 1648517000
+            "creationTime": 1648609319
+          },
+          {
+            "platform": "codeforces",
+            "id": 151375961,
+            "pid": "70C",
+            "name": "Lucky Tickets",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648608775
           }
         ],
         "newContests": []
@@ -92,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "969fb0bfe1e14306a70beee13ca843f52740606e"
+  "ref": "779f757a79b4a5e99eacf1de7549c17dcd111161"
 }

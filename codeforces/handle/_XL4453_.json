@@ -6,6 +6,200 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 151418935,
+      "creationTime": 1648646493,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498837154
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1492C",
+        "name": "Maximum width",
+        "rating": 1500,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1492/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1492/submission/151418935"
+    },
+    {
+      "type": "codeforces",
+      "id": 151399162,
+      "creationTime": 1648632894,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498850753
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622D",
+        "name": "Shuffle",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/151399162"
+    },
+    {
+      "type": "codeforces",
+      "id": 151399108,
+      "creationTime": 1648632855,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498850792
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622D",
+        "name": "Shuffle",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/151399108"
+    },
+    {
+      "type": "codeforces",
+      "id": 151398698,
+      "creationTime": 1648632525,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498851122
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1622D",
+        "name": "Shuffle",
+        "rating": 2000,
+        "tags": [
+          "combinatorics",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1622/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1622/submission/151398698"
+    },
+    {
+      "type": "codeforces",
+      "id": 151376228,
+      "creationTime": 1648609331,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498874316
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "70C",
+        "name": "Lucky Tickets",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/70/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/70/submission/151376228"
+    },
+    {
+      "type": "codeforces",
+      "id": 151376223,
+      "creationTime": 1648609319,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498874328
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "70C",
+        "name": "Lucky Tickets",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/70/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/70/submission/151376223"
+    },
+    {
+      "type": "codeforces",
+      "id": 151375961,
+      "creationTime": 1648608775,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498874872
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "70C",
+        "name": "Lucky Tickets",
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "data structures",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/70/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/70/submission/151375961"
+    },
+    {
+      "type": "codeforces",
       "id": 151310345,
       "creationTime": 1648543985,
       "language": "GNU C++14",
