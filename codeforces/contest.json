@@ -1,5 +1,16 @@
 [
   {
+    "type": "codeforces/icpc",
+    "name": "April Fools Day Contest 2022",
+    "startTime": 1648823700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1663,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1663",
+    "standingsUrl": "https://codeforces.com/contest/1663/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round #780 (Div. 3)",
     "startTime": 1648737300,
