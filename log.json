@@ -1,352 +1,138 @@
 {
   "version": "0.1.16",
-  "updateTime": 1648847418,
+  "updateTime": 1648933829,
   "history": {
     "user": [
-      {
-        "name": "然然",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 152412812,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "OK",
-            "creationTime": 1648831197
-          },
-          {
-            "platform": "codeforces",
-            "id": 152411771,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830858
-          },
-          {
-            "platform": "codeforces",
-            "id": 152411347,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830814
-          },
-          {
-            "platform": "codeforces",
-            "id": 152410068,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830688
-          },
-          {
-            "platform": "codeforces",
-            "id": 152409903,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830669
-          },
-          {
-            "platform": "codeforces",
-            "id": 152409466,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830619
-          },
-          {
-            "platform": "codeforces",
-            "id": 152409137,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830583
-          },
-          {
-            "platform": "codeforces",
-            "id": 152408775,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830544
-          },
-          {
-            "platform": "codeforces",
-            "id": 152408289,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830494
-          },
-          {
-            "platform": "codeforces",
-            "id": 152407811,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830442
-          },
-          {
-            "platform": "codeforces",
-            "id": 152407453,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830404
-          },
-          {
-            "platform": "codeforces",
-            "id": 152406827,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830339
-          },
-          {
-            "platform": "codeforces",
-            "id": 152406414,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830297
-          },
-          {
-            "platform": "codeforces",
-            "id": 152405468,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830199
-          },
-          {
-            "platform": "codeforces",
-            "id": 152405277,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830180
-          },
-          {
-            "platform": "codeforces",
-            "id": 152404432,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830094
-          },
-          {
-            "platform": "codeforces",
-            "id": 152404274,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648830076
-          },
-          {
-            "platform": "codeforces",
-            "id": 152402666,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829910
-          },
-          {
-            "platform": "codeforces",
-            "id": 152402399,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829885
-          },
-          {
-            "platform": "codeforces",
-            "id": 152401789,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829823
-          },
-          {
-            "platform": "codeforces",
-            "id": 152401007,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829741
-          },
-          {
-            "platform": "codeforces",
-            "id": 152400061,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829639
-          },
-          {
-            "platform": "codeforces",
-            "id": 152398284,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829446
-          },
-          {
-            "platform": "codeforces",
-            "id": 152397712,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829385
-          },
-          {
-            "platform": "codeforces",
-            "id": 152397277,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829338
-          },
-          {
-            "platform": "codeforces",
-            "id": 152397122,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648829320
-          },
-          {
-            "platform": "codeforces",
-            "id": 152394579,
-            "pid": "1663H",
-            "name": "Cross-Language Program",
-            "verdict": "OK",
-            "creationTime": 1648829069
-          },
-          {
-            "platform": "codeforces",
-            "id": 152392674,
-            "pid": "1663D",
-            "name": "Is it rated - 3",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648828885
-          },
-          {
-            "platform": "codeforces",
-            "id": 152390784,
-            "pid": "1663B",
-            "name": "Mike's Sequence",
-            "verdict": "OK",
-            "creationTime": 1648828693
-          },
-          {
-            "platform": "codeforces",
-            "id": 152383827,
-            "pid": "1663B",
-            "name": "Mike's Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648828022
-          },
-          {
-            "platform": "codeforces",
-            "id": 152382292,
-            "pid": "1663B",
-            "name": "Mike's Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648827888
-          },
-          {
-            "platform": "codeforces",
-            "id": 152381254,
-            "pid": "1663B",
-            "name": "Mike's Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648827802
-          },
-          {
-            "platform": "codeforces",
-            "id": 152379329,
-            "pid": "1663C",
-            "name": "Pōja Verdon",
-            "verdict": "OK",
-            "creationTime": 1648827648
-          },
-          {
-            "platform": "codeforces",
-            "id": 152378197,
-            "pid": "1663C",
-            "name": "Pōja Verdon",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648827556
-          },
-          {
-            "platform": "codeforces",
-            "id": 152377517,
-            "pid": "1663C",
-            "name": "Pōja Verdon",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648827501
-          },
-          {
-            "platform": "codeforces",
-            "id": 152374727,
-            "pid": "1663A",
-            "name": "Who Tested?",
-            "verdict": "OK",
-            "creationTime": 1648827285
-          },
-          {
-            "platform": "codeforces",
-            "id": 152373918,
-            "pid": "1663B",
-            "name": "Mike's Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648827227
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152298513,
-            "pid": "196C",
-            "name": "Paint Tree",
+            "id": 152504992,
+            "pid": "1618F",
+            "name": "Reverse",
             "verdict": "OK",
-            "creationTime": 1648821119
+            "creationTime": 1648913387
           },
           {
             "platform": "codeforces",
-            "id": 152297539,
-            "pid": "196C",
-            "name": "Paint Tree",
+            "id": 152504976,
+            "pid": "1618F",
+            "name": "Reverse",
+            "verdict": "OK",
+            "creationTime": 1648913374
+          },
+          {
+            "platform": "codeforces",
+            "id": 152504928,
+            "pid": "1618F",
+            "name": "Reverse",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648820508
+            "creationTime": 1648913335
           },
           {
             "platform": "codeforces",
-            "id": 152296809,
-            "pid": "196C",
-            "name": "Paint Tree",
+            "id": 152504119,
+            "pid": "1618F",
+            "name": "Reverse",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1648820078
+            "creationTime": 1648912667
           },
           {
             "platform": "codeforces",
-            "id": 151614144,
-            "pid": "1627D",
-            "name": "Not Adding",
-            "verdict": "OK",
-            "creationTime": 1648769329
+            "id": 152503997,
+            "pid": "1618F",
+            "name": "Reverse",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1648912566
           },
           {
             "platform": "codeforces",
-            "id": 151614137,
-            "pid": "1627D",
-            "name": "Not Adding",
+            "id": 152503776,
+            "pid": "1618F",
+            "name": "Reverse",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1648912399
+          },
+          {
+            "platform": "codeforces",
+            "id": 152503685,
+            "pid": "1618F",
+            "name": "Reverse",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648912320
+          },
+          {
+            "platform": "codeforces",
+            "id": 152470908,
+            "pid": "1628C",
+            "name": "Grid Xor",
             "verdict": "OK",
-            "creationTime": 1648769313
+            "creationTime": 1648890309
+          },
+          {
+            "platform": "codeforces",
+            "id": 152464351,
+            "pid": "1619F",
+            "name": "Let's Play the Hat?",
+            "verdict": "OK",
+            "creationTime": 1648885658
+          },
+          {
+            "platform": "codeforces",
+            "id": 152463007,
+            "pid": "1622E",
+            "name": "Math Test",
+            "verdict": "OK",
+            "creationTime": 1648884588
+          },
+          {
+            "platform": "codeforces",
+            "id": 152462580,
+            "pid": "1622E",
+            "name": "Math Test",
+            "verdict": "OK",
+            "creationTime": 1648884246
+          },
+          {
+            "platform": "codeforces",
+            "id": 152462428,
+            "pid": "1622E",
+            "name": "Math Test",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648884126
+          },
+          {
+            "platform": "codeforces",
+            "id": 152461906,
+            "pid": "1622E",
+            "name": "Math Test",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648883763
+          },
+          {
+            "platform": "codeforces",
+            "id": 152449310,
+            "pid": "1626D",
+            "name": "Martial Arts Tournament",
+            "verdict": "OK",
+            "creationTime": 1648872998
+          },
+          {
+            "platform": "codeforces",
+            "id": 152440784,
+            "pid": "31E",
+            "name": "TV Game",
+            "verdict": "OK",
+            "creationTime": 1648858836
+          },
+          {
+            "platform": "codeforces",
+            "id": 152440696,
+            "pid": "31E",
+            "name": "TV Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1648858638
           }
         ],
         "newContests": []
@@ -354,5 +140,5 @@
     ],
     "contest": []
   },
-  "ref": "26de964790d0a35156b2c985d7b7bc3f509a60f5"
+  "ref": "55946785fa8e0c9d7512b302a292278e499e4e3f"
 }
