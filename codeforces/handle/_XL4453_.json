@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 152532082,
+      "creationTime": 1648947457,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498536190
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1324F",
+        "name": "Maximum White Subtree",
+        "rating": 1800,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1324/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1324/submission/152532082"
+    },
+    {
+      "type": "codeforces",
       "id": 152504992,
       "creationTime": 1648913387,
       "language": "GNU C++14",

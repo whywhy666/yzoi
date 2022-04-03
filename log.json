@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1648933829,
+  "updateTime": 1649020311,
   "history": {
     "user": [
       {
@@ -8,131 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152504992,
-            "pid": "1618F",
-            "name": "Reverse",
+            "id": 152532082,
+            "pid": "1324F",
+            "name": "Maximum White Subtree",
             "verdict": "OK",
-            "creationTime": 1648913387
-          },
-          {
-            "platform": "codeforces",
-            "id": 152504976,
-            "pid": "1618F",
-            "name": "Reverse",
-            "verdict": "OK",
-            "creationTime": 1648913374
-          },
-          {
-            "platform": "codeforces",
-            "id": 152504928,
-            "pid": "1618F",
-            "name": "Reverse",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648913335
-          },
-          {
-            "platform": "codeforces",
-            "id": 152504119,
-            "pid": "1618F",
-            "name": "Reverse",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648912667
-          },
-          {
-            "platform": "codeforces",
-            "id": 152503997,
-            "pid": "1618F",
-            "name": "Reverse",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1648912566
-          },
-          {
-            "platform": "codeforces",
-            "id": 152503776,
-            "pid": "1618F",
-            "name": "Reverse",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1648912399
-          },
-          {
-            "platform": "codeforces",
-            "id": 152503685,
-            "pid": "1618F",
-            "name": "Reverse",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648912320
-          },
-          {
-            "platform": "codeforces",
-            "id": 152470908,
-            "pid": "1628C",
-            "name": "Grid Xor",
-            "verdict": "OK",
-            "creationTime": 1648890309
-          },
-          {
-            "platform": "codeforces",
-            "id": 152464351,
-            "pid": "1619F",
-            "name": "Let's Play the Hat?",
-            "verdict": "OK",
-            "creationTime": 1648885658
-          },
-          {
-            "platform": "codeforces",
-            "id": 152463007,
-            "pid": "1622E",
-            "name": "Math Test",
-            "verdict": "OK",
-            "creationTime": 1648884588
-          },
-          {
-            "platform": "codeforces",
-            "id": 152462580,
-            "pid": "1622E",
-            "name": "Math Test",
-            "verdict": "OK",
-            "creationTime": 1648884246
-          },
-          {
-            "platform": "codeforces",
-            "id": 152462428,
-            "pid": "1622E",
-            "name": "Math Test",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648884126
-          },
-          {
-            "platform": "codeforces",
-            "id": 152461906,
-            "pid": "1622E",
-            "name": "Math Test",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648883763
-          },
-          {
-            "platform": "codeforces",
-            "id": 152449310,
-            "pid": "1626D",
-            "name": "Martial Arts Tournament",
-            "verdict": "OK",
-            "creationTime": 1648872998
-          },
-          {
-            "platform": "codeforces",
-            "id": 152440784,
-            "pid": "31E",
-            "name": "TV Game",
-            "verdict": "OK",
-            "creationTime": 1648858836
-          },
-          {
-            "platform": "codeforces",
-            "id": 152440696,
-            "pid": "31E",
-            "name": "TV Game",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1648858638
+            "creationTime": 1648947457
           }
         ],
         "newContests": []
@@ -140,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "55946785fa8e0c9d7512b302a292278e499e4e3f"
+  "ref": "59edeb9b1e9e3de693719e50304adf7c2186cda7"
 }
