@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649020311,
+  "updateTime": 1649106616,
   "history": {
     "user": [
       {
@@ -8,11 +8,59 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152532082,
-            "pid": "1324F",
-            "name": "Maximum White Subtree",
+            "id": 152682374,
+            "pid": "1657C",
+            "name": "Bracket Sequence Deletion",
             "verdict": "OK",
-            "creationTime": 1648947457
+            "creationTime": 1649085725
+          },
+          {
+            "platform": "codeforces",
+            "id": 152682349,
+            "pid": "1657B",
+            "name": "XY Sequence",
+            "verdict": "OK",
+            "creationTime": 1649085710
+          },
+          {
+            "platform": "codeforces",
+            "id": 152682335,
+            "pid": "1657A",
+            "name": "Integer Moves",
+            "verdict": "OK",
+            "creationTime": 1649085703
+          },
+          {
+            "platform": "codeforces",
+            "id": 152682331,
+            "pid": "1656D",
+            "name": "K-good",
+            "verdict": "OK",
+            "creationTime": 1649085696
+          },
+          {
+            "platform": "codeforces",
+            "id": 152682315,
+            "pid": "1656C",
+            "name": "Make Equal With Mod",
+            "verdict": "OK",
+            "creationTime": 1649085687
+          },
+          {
+            "platform": "codeforces",
+            "id": 152682306,
+            "pid": "1656B",
+            "name": "Subtract Operation",
+            "verdict": "OK",
+            "creationTime": 1649085680
+          },
+          {
+            "platform": "codeforces",
+            "id": 152682299,
+            "pid": "1656A",
+            "name": "Good Pairs",
+            "verdict": "OK",
+            "creationTime": 1649085675
           }
         ],
         "newContests": []
@@ -20,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "59edeb9b1e9e3de693719e50304adf7c2186cda7"
+  "ref": "bb23bd593abcd3341d0d79a3a4a943e0265e9b27"
 }

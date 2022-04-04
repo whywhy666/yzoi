@@ -6,6 +6,192 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 152682374,
+      "creationTime": 1649085725,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498397922
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657C",
+        "name": "Bracket Sequence Deletion",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/152682374"
+    },
+    {
+      "type": "codeforces",
+      "id": 152682349,
+      "creationTime": 1649085710,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498397937
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657B",
+        "name": "XY Sequence",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/152682349"
+    },
+    {
+      "type": "codeforces",
+      "id": 152682335,
+      "creationTime": 1649085703,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498397944
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1657A",
+        "name": "Integer Moves",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1657/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1657/submission/152682335"
+    },
+    {
+      "type": "codeforces",
+      "id": 152682331,
+      "creationTime": 1649085696,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498397951
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656D",
+        "name": "K-good",
+        "rating": 1900,
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/152682331"
+    },
+    {
+      "type": "codeforces",
+      "id": 152682315,
+      "creationTime": 1649085687,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498397960
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656C",
+        "name": "Make Equal With Mod",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/152682315"
+    },
+    {
+      "type": "codeforces",
+      "id": 152682306,
+      "creationTime": 1649085680,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498397967
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656B",
+        "name": "Subtract Operation",
+        "rating": 1100,
+        "tags": [
+          "data structures",
+          "greedy",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/152682306"
+    },
+    {
+      "type": "codeforces",
+      "id": 152682299,
+      "creationTime": 1649085675,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498397972
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1656A",
+        "name": "Good Pairs",
+        "rating": 800,
+        "tags": [
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1656/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1656/submission/152682299"
+    },
+    {
+      "type": "codeforces",
       "id": 152532082,
       "creationTime": 1648947457,
       "language": "GNU C++14",

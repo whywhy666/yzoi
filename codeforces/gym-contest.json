@@ -14176,5 +14176,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103637",
     "standingsUrl": "https://codeforces.com/gym/103637/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 ACM-ICPC Latin American Regional Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103640,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103640",
+    "standingsUrl": "https://codeforces.com/gym/103640/standings"
   }
 ]
