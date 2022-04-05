@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649106616,
+  "updateTime": 1649192983,
   "history": {
     "user": [
       {
@@ -8,59 +8,97 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152682374,
-            "pid": "1657C",
-            "name": "Bracket Sequence Deletion",
+            "id": 152755400,
+            "pid": "1660F1",
+            "name": "Promising String (easy version)",
             "verdict": "OK",
-            "creationTime": 1649085725
+            "creationTime": 1649158914
           },
           {
             "platform": "codeforces",
-            "id": 152682349,
-            "pid": "1657B",
-            "name": "XY Sequence",
+            "id": 152754104,
+            "pid": "1660E",
+            "name": "Matrix and Shifts",
             "verdict": "OK",
-            "creationTime": 1649085710
+            "creationTime": 1649158092
           },
           {
             "platform": "codeforces",
-            "id": 152682335,
-            "pid": "1657A",
-            "name": "Integer Moves",
+            "id": 152751728,
+            "pid": "1660D",
+            "name": "Maximum Product Strikes Back",
             "verdict": "OK",
-            "creationTime": 1649085703
+            "creationTime": 1649156487
           },
           {
             "platform": "codeforces",
-            "id": 152682331,
-            "pid": "1656D",
-            "name": "K-good",
+            "id": 152749723,
+            "pid": "1660C",
+            "name": "Get an Even String",
             "verdict": "OK",
-            "creationTime": 1649085696
+            "creationTime": 1649155172
           },
           {
             "platform": "codeforces",
-            "id": 152682315,
-            "pid": "1656C",
-            "name": "Make Equal With Mod",
+            "id": 152748755,
+            "pid": "1660B",
+            "name": "Vlad and Candies",
             "verdict": "OK",
-            "creationTime": 1649085687
+            "creationTime": 1649154549
           },
           {
             "platform": "codeforces",
-            "id": 152682306,
-            "pid": "1656B",
-            "name": "Subtract Operation",
+            "id": 152748165,
+            "pid": "1660A",
+            "name": "Vasya and Coins",
             "verdict": "OK",
-            "creationTime": 1649085680
+            "creationTime": 1649154165
           },
           {
             "platform": "codeforces",
-            "id": 152682299,
-            "pid": "1656A",
-            "name": "Good Pairs",
+            "id": 152738734,
+            "pid": "578A",
+            "name": "A Problem about Polyline",
             "verdict": "OK",
-            "creationTime": 1649085675
+            "creationTime": 1649147674
+          },
+          {
+            "platform": "codeforces",
+            "id": 152717928,
+            "pid": "1626E",
+            "name": "Black and White Tree",
+            "verdict": "OK",
+            "creationTime": 1649128613
+          },
+          {
+            "platform": "codeforces",
+            "id": 152717749,
+            "pid": "1626E",
+            "name": "Black and White Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1649128346
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Primo Pan",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 152763165,
+            "pid": "1660F2",
+            "name": "Promising String (hard version)",
+            "verdict": "OK",
+            "creationTime": 1649164034
+          },
+          {
+            "platform": "codeforces",
+            "id": 152758121,
+            "pid": "1660E",
+            "name": "Matrix and Shifts",
+            "verdict": "OK",
+            "creationTime": 1649160604
           }
         ],
         "newContests": []
@@ -68,5 +106,5 @@
     ],
     "contest": []
   },
-  "ref": "bb23bd593abcd3341d0d79a3a4a943e0265e9b27"
+  "ref": "6815e1f16fff1514a043773fcd9d697cbe7b7a80"
 }

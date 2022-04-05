@@ -5097,7 +5097,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "IX OpenCup Onsite Finals, II Yandex Summer School",
+    "name": "IX Open Cup Onsite Finals, II Yandex Summer School",
     "duration": 18000,
     "participantNumber": 0,
     "id": 100920,
@@ -5591,7 +5591,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2016-2017 CT S03E02: Codeforces Trainings Season 3 Episode 2 - 2004-2005 OpenCup, Volga Grand Prix",
+    "name": "2016-2017 CT S03E02: Codeforces Trainings Season 3 Episode 2 - 2004-2005 Open Cup, Volga Grand Prix",
     "startTime": 1473858600,
     "duration": 16200,
     "participantNumber": 0,
@@ -11059,7 +11059,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "XX Opencup, Grand Prix of Tokyo",
+    "name": "XX Open Cup, Grand Prix of Tokyo",
     "duration": 18000,
     "participantNumber": 0,
     "id": 102586,
@@ -12222,7 +12222,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "XXI Opencup, Grand Prix of Tokyo",
+    "name": "XXI Open Cup, Grand Prix of Tokyo",
     "duration": 18000,
     "participantNumber": 0,
     "id": 102978,
@@ -12892,7 +12892,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Opencup, Grand Prix of Nizhny Novgorod)",
+    "name": "2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod)",
     "duration": 18000,
     "participantNumber": 0,
     "id": 103260,
@@ -14186,5 +14186,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103640",
     "standingsUrl": "https://codeforces.com/gym/103640/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "TeamsCode Spring 2022 Contest",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103643,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103643",
+    "standingsUrl": "https://codeforces.com/gym/103643/standings"
   }
 ]

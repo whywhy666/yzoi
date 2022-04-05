@@ -6,6 +6,248 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 152755400,
+      "creationTime": 1649158914,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1649154000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660F1",
+        "name": "Promising String (easy version)",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152755400"
+    },
+    {
+      "type": "codeforces",
+      "id": 152754104,
+      "creationTime": 1649158092,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1649154000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660E",
+        "name": "Matrix and Shifts",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152754104"
+    },
+    {
+      "type": "codeforces",
+      "id": 152751728,
+      "creationTime": 1649156487,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1649154000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660D",
+        "name": "Maximum Product Strikes Back",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152751728"
+    },
+    {
+      "type": "codeforces",
+      "id": 152749723,
+      "creationTime": 1649155172,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1649154000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660C",
+        "name": "Get an Even String",
+        "rating": 1300,
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152749723"
+    },
+    {
+      "type": "codeforces",
+      "id": 152748755,
+      "creationTime": 1649154549,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1649154000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660B",
+        "name": "Vlad and Candies",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152748755"
+    },
+    {
+      "type": "codeforces",
+      "id": 152748165,
+      "creationTime": 1649154165,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1649154000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660A",
+        "name": "Vasya and Coins",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152748165"
+    },
+    {
+      "type": "codeforces",
+      "id": 152738734,
+      "creationTime": 1649147674,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498335973
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "578A",
+        "name": "A Problem about Polyline",
+        "rating": 1700,
+        "tags": [
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/578/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/578/submission/152738734"
+    },
+    {
+      "type": "codeforces",
+      "id": 152717928,
+      "creationTime": 1649128613,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498355034
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1626E",
+        "name": "Black and White Tree",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1626/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1626/submission/152717928"
+    },
+    {
+      "type": "codeforces",
+      "id": 152717749,
+      "creationTime": 1649128346,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498355301
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1626E",
+        "name": "Black and White Tree",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1626/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1626/submission/152717749"
+    },
+    {
+      "type": "codeforces",
       "id": 152682374,
       "creationTime": 1649085725,
       "language": "GNU C++14",

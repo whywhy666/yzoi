@@ -6,6 +6,62 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 152763165,
+      "creationTime": 1649164034,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498319613
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660F2",
+        "name": "Promising String (hard version)",
+        "rating": 2100,
+        "tags": [
+          "data structures",
+          "implementation",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152763165"
+    },
+    {
+      "type": "codeforces",
+      "id": 152758121,
+      "creationTime": 1649160604,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498323043
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660E",
+        "name": "Matrix and Shifts",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152758121"
+    },
+    {
+      "type": "codeforces",
       "id": 150121804,
       "creationTime": 1647684175,
       "language": "GNU C++17",
