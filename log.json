@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649192983,
+  "updateTime": 1649279446,
   "history": {
     "user": [
       {
@@ -8,75 +8,139 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152755400,
+            "id": 152820877,
+            "pid": "154C",
+            "name": "Double Profiles",
+            "verdict": "OK",
+            "creationTime": 1649226956
+          },
+          {
+            "platform": "codeforces",
+            "id": 152820817,
+            "pid": "154C",
+            "name": "Double Profiles",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1649226898
+          },
+          {
+            "platform": "codeforces",
+            "id": 152811195,
+            "pid": "9E",
+            "name": "Interestring graph and Apples",
+            "verdict": "OK",
+            "creationTime": 1649216660
+          },
+          {
+            "platform": "codeforces",
+            "id": 152811183,
+            "pid": "9E",
+            "name": "Interestring graph and Apples",
+            "verdict": "OK",
+            "creationTime": 1649216647
+          },
+          {
+            "platform": "codeforces",
+            "id": 152811149,
+            "pid": "9E",
+            "name": "Interestring graph and Apples",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1649216599
+          },
+          {
+            "platform": "codeforces",
+            "id": 152811084,
+            "pid": "9E",
+            "name": "Interestring graph and Apples",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1649216523
+          },
+          {
+            "platform": "codeforces",
+            "id": 152808413,
+            "pid": "16E",
+            "name": "Fish",
+            "verdict": "OK",
+            "creationTime": 1649212223
+          },
+          {
+            "platform": "codeforces",
+            "id": 152807505,
+            "pid": "1660F2",
+            "name": "Promising String (hard version)",
+            "verdict": "OK",
+            "creationTime": 1649210616
+          },
+          {
+            "platform": "codeforces",
+            "id": 152807491,
+            "pid": "1660F2",
+            "name": "Promising String (hard version)",
+            "verdict": "OK",
+            "creationTime": 1649210600
+          },
+          {
+            "platform": "codeforces",
+            "id": 152807397,
+            "pid": "1660F2",
+            "name": "Promising String (hard version)",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1649210440
+          },
+          {
+            "platform": "codeforces",
+            "id": 152802487,
             "pid": "1660F1",
             "name": "Promising String (easy version)",
             "verdict": "OK",
-            "creationTime": 1649158914
+            "creationTime": 1649200164
           },
           {
             "platform": "codeforces",
-            "id": 152754104,
+            "id": 152801698,
+            "pid": "1660F1",
+            "name": "Promising String (easy version)",
+            "verdict": "OK",
+            "creationTime": 1649198666
+          },
+          {
+            "platform": "codeforces",
+            "id": 152801691,
             "pid": "1660E",
             "name": "Matrix and Shifts",
             "verdict": "OK",
-            "creationTime": 1649158092
+            "creationTime": 1649198658
           },
           {
             "platform": "codeforces",
-            "id": 152751728,
+            "id": 152801689,
             "pid": "1660D",
             "name": "Maximum Product Strikes Back",
             "verdict": "OK",
-            "creationTime": 1649156487
+            "creationTime": 1649198651
           },
           {
             "platform": "codeforces",
-            "id": 152749723,
+            "id": 152801684,
             "pid": "1660C",
             "name": "Get an Even String",
             "verdict": "OK",
-            "creationTime": 1649155172
+            "creationTime": 1649198644
           },
           {
             "platform": "codeforces",
-            "id": 152748755,
+            "id": 152801682,
             "pid": "1660B",
             "name": "Vlad and Candies",
             "verdict": "OK",
-            "creationTime": 1649154549
+            "creationTime": 1649198637
           },
           {
             "platform": "codeforces",
-            "id": 152748165,
+            "id": 152801668,
             "pid": "1660A",
             "name": "Vasya and Coins",
             "verdict": "OK",
-            "creationTime": 1649154165
-          },
-          {
-            "platform": "codeforces",
-            "id": 152738734,
-            "pid": "578A",
-            "name": "A Problem about Polyline",
-            "verdict": "OK",
-            "creationTime": 1649147674
-          },
-          {
-            "platform": "codeforces",
-            "id": 152717928,
-            "pid": "1626E",
-            "name": "Black and White Tree",
-            "verdict": "OK",
-            "creationTime": 1649128613
-          },
-          {
-            "platform": "codeforces",
-            "id": 152717749,
-            "pid": "1626E",
-            "name": "Black and White Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1649128346
+            "creationTime": 1649198608
           }
         ],
         "newContests": []
@@ -86,19 +150,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152763165,
-            "pid": "1660F2",
-            "name": "Promising String (hard version)",
-            "verdict": "OK",
-            "creationTime": 1649164034
+            "id": 152815905,
+            "pid": "1660D",
+            "name": "Maximum Product Strikes Back",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1649222438
           },
           {
             "platform": "codeforces",
-            "id": 152758121,
-            "pid": "1660E",
-            "name": "Matrix and Shifts",
-            "verdict": "OK",
-            "creationTime": 1649160604
+            "id": 152815487,
+            "pid": "1660D",
+            "name": "Maximum Product Strikes Back",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1649222002
           }
         ],
         "newContests": []
@@ -106,5 +170,5 @@
     ],
     "contest": []
   },
-  "ref": "6815e1f16fff1514a043773fcd9d697cbe7b7a80"
+  "ref": "0ebde4e0267fd71262b258ec072e37589a72e128"
 }

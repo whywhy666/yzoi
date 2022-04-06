@@ -6,6 +6,62 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 152815905,
+      "creationTime": 1649222438,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498261209
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660D",
+        "name": "Maximum Product Strikes Back",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152815905"
+    },
+    {
+      "type": "codeforces",
+      "id": 152815487,
+      "creationTime": 1649222002,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498261645
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1660D",
+        "name": "Maximum Product Strikes Back",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1660/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1660/submission/152815487"
+    },
+    {
+      "type": "codeforces",
       "id": 152763165,
       "creationTime": 1649164034,
       "language": "GNU C++17",
