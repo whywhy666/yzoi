@@ -6,6 +6,146 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 152923549,
+      "creationTime": 1649332372,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498151275
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "67A",
+        "name": "Partial Teacher",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/67/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/67/submission/152923549"
+    },
+    {
+      "type": "codeforces",
+      "id": 152923407,
+      "creationTime": 1649332252,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498151395
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "67A",
+        "name": "Partial Teacher",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/67/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/67/submission/152923407"
+    },
+    {
+      "type": "codeforces",
+      "id": 152913770,
+      "creationTime": 1649324088,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498159559
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "67A",
+        "name": "Partial Teacher",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/67/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/67/submission/152913770"
+    },
+    {
+      "type": "codeforces",
+      "id": 152913456,
+      "creationTime": 1649323785,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498159862
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "67A",
+        "name": "Partial Teacher",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/67/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/67/submission/152913456"
+    },
+    {
+      "type": "codeforces",
+      "id": 152913186,
+      "creationTime": 1649323532,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -498160115
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "67A",
+        "name": "Partial Teacher",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/67/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/67/submission/152913186"
+    },
+    {
+      "type": "codeforces",
       "id": 152820877,
       "creationTime": 1649226956,
       "language": "GNU C++14",

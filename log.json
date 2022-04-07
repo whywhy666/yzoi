@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649279446,
+  "updateTime": 1649365810,
   "history": {
     "user": [
       {
@@ -8,161 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152820877,
-            "pid": "154C",
-            "name": "Double Profiles",
+            "id": 152923549,
+            "pid": "67A",
+            "name": "Partial Teacher",
             "verdict": "OK",
-            "creationTime": 1649226956
+            "creationTime": 1649332372
           },
           {
             "platform": "codeforces",
-            "id": 152820817,
-            "pid": "154C",
-            "name": "Double Profiles",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1649226898
-          },
-          {
-            "platform": "codeforces",
-            "id": 152811195,
-            "pid": "9E",
-            "name": "Interestring graph and Apples",
-            "verdict": "OK",
-            "creationTime": 1649216660
-          },
-          {
-            "platform": "codeforces",
-            "id": 152811183,
-            "pid": "9E",
-            "name": "Interestring graph and Apples",
-            "verdict": "OK",
-            "creationTime": 1649216647
-          },
-          {
-            "platform": "codeforces",
-            "id": 152811149,
-            "pid": "9E",
-            "name": "Interestring graph and Apples",
+            "id": 152923407,
+            "pid": "67A",
+            "name": "Partial Teacher",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649216599
+            "creationTime": 1649332252
           },
           {
             "platform": "codeforces",
-            "id": 152811084,
-            "pid": "9E",
-            "name": "Interestring graph and Apples",
+            "id": 152913770,
+            "pid": "67A",
+            "name": "Partial Teacher",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649216523
+            "creationTime": 1649324088
           },
           {
             "platform": "codeforces",
-            "id": 152808413,
-            "pid": "16E",
-            "name": "Fish",
-            "verdict": "OK",
-            "creationTime": 1649212223
-          },
-          {
-            "platform": "codeforces",
-            "id": 152807505,
-            "pid": "1660F2",
-            "name": "Promising String (hard version)",
-            "verdict": "OK",
-            "creationTime": 1649210616
-          },
-          {
-            "platform": "codeforces",
-            "id": 152807491,
-            "pid": "1660F2",
-            "name": "Promising String (hard version)",
-            "verdict": "OK",
-            "creationTime": 1649210600
-          },
-          {
-            "platform": "codeforces",
-            "id": 152807397,
-            "pid": "1660F2",
-            "name": "Promising String (hard version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1649210440
-          },
-          {
-            "platform": "codeforces",
-            "id": 152802487,
-            "pid": "1660F1",
-            "name": "Promising String (easy version)",
-            "verdict": "OK",
-            "creationTime": 1649200164
-          },
-          {
-            "platform": "codeforces",
-            "id": 152801698,
-            "pid": "1660F1",
-            "name": "Promising String (easy version)",
-            "verdict": "OK",
-            "creationTime": 1649198666
-          },
-          {
-            "platform": "codeforces",
-            "id": 152801691,
-            "pid": "1660E",
-            "name": "Matrix and Shifts",
-            "verdict": "OK",
-            "creationTime": 1649198658
-          },
-          {
-            "platform": "codeforces",
-            "id": 152801689,
-            "pid": "1660D",
-            "name": "Maximum Product Strikes Back",
-            "verdict": "OK",
-            "creationTime": 1649198651
-          },
-          {
-            "platform": "codeforces",
-            "id": 152801684,
-            "pid": "1660C",
-            "name": "Get an Even String",
-            "verdict": "OK",
-            "creationTime": 1649198644
-          },
-          {
-            "platform": "codeforces",
-            "id": 152801682,
-            "pid": "1660B",
-            "name": "Vlad and Candies",
-            "verdict": "OK",
-            "creationTime": 1649198637
-          },
-          {
-            "platform": "codeforces",
-            "id": 152801668,
-            "pid": "1660A",
-            "name": "Vasya and Coins",
-            "verdict": "OK",
-            "creationTime": 1649198608
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "Primo Pan",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 152815905,
-            "pid": "1660D",
-            "name": "Maximum Product Strikes Back",
+            "id": 152913456,
+            "pid": "67A",
+            "name": "Partial Teacher",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649222438
+            "creationTime": 1649323785
           },
           {
             "platform": "codeforces",
-            "id": 152815487,
-            "pid": "1660D",
-            "name": "Maximum Product Strikes Back",
+            "id": 152913186,
+            "pid": "67A",
+            "name": "Partial Teacher",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649222002
+            "creationTime": 1649323532
           }
         ],
         "newContests": []
@@ -170,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "0ebde4e0267fd71262b258ec072e37589a72e128"
+  "ref": "bcb462e66ae21c865ad5d1712bd1e09f85264ce8"
 }
