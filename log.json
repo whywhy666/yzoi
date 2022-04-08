@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649365810,
+  "updateTime": 1649452214,
   "history": {
     "user": [
       {
@@ -8,43 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 152923549,
-            "pid": "67A",
-            "name": "Partial Teacher",
+            "id": 152970108,
+            "pid": "4A",
+            "name": "Watermelon",
             "verdict": "OK",
-            "creationTime": 1649332372
+            "creationTime": 1649377632
           },
           {
             "platform": "codeforces",
-            "id": 152923407,
-            "pid": "67A",
-            "name": "Partial Teacher",
+            "id": 152970096,
+            "pid": "4A",
+            "name": "Watermelon",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649332252
+            "creationTime": 1649377603
           },
           {
             "platform": "codeforces",
-            "id": 152913770,
-            "pid": "67A",
-            "name": "Partial Teacher",
+            "id": 152970079,
+            "pid": "4A",
+            "name": "Watermelon",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649324088
+            "creationTime": 1649377559
           },
           {
             "platform": "codeforces",
-            "id": 152913456,
-            "pid": "67A",
-            "name": "Partial Teacher",
+            "id": 152969662,
+            "pid": "4A",
+            "name": "Watermelon",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649323785
-          },
-          {
-            "platform": "codeforces",
-            "id": 152913186,
-            "pid": "67A",
-            "name": "Partial Teacher",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1649323532
+            "creationTime": 1649376591
           }
         ],
         "newContests": []
@@ -52,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "bcb462e66ae21c865ad5d1712bd1e09f85264ce8"
+  "ref": "ea18da09446180da53bf60dd6506f028bfe852f8"
 }
