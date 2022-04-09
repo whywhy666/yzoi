@@ -6,6 +6,187 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 153213237,
+      "creationTime": 1649521216,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1649514900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661B",
+        "name": "Getting Zero",
+        "tags": [
+          "brute force",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153213237"
+    },
+    {
+      "type": "codeforces",
+      "id": 153205845,
+      "creationTime": 1649520095,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1649514900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661C",
+        "name": "Water the Trees",
+        "tags": [
+          "binary search",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153205845"
+    },
+    {
+      "type": "codeforces",
+      "id": 153199080,
+      "creationTime": 1649519170,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1649514900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661C",
+        "name": "Water the Trees",
+        "tags": [
+          "binary search",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153199080"
+    },
+    {
+      "type": "codeforces",
+      "id": 153197837,
+      "creationTime": 1649519007,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1649514900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661C",
+        "name": "Water the Trees",
+        "tags": [
+          "binary search",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153197837"
+    },
+    {
+      "type": "codeforces",
+      "id": 153190647,
+      "creationTime": 1649518093,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1649514900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661A",
+        "name": "Array Balancing",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153190647"
+    },
+    {
+      "type": "codeforces",
+      "id": 153189660,
+      "creationTime": 1649517985,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1649514900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661A",
+        "name": "Array Balancing",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153189660"
+    },
+    {
+      "type": "codeforces",
+      "id": 153171872,
+      "creationTime": 1649516023,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1649514900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661D",
+        "name": "Progressions Covering",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153171872"
+    },
+    {
+      "type": "codeforces",
       "id": 152970108,
       "creationTime": 1649377632,
       "language": "GNU C++14",

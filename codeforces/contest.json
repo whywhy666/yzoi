@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Educational Codeforces Round 126 (Rated for Div. 2)",
+    "startTime": 1649514900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1661,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1661",
+    "standingsUrl": "https://codeforces.com/contest/1661/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round #781 (Div. 2)",
     "startTime": 1649428500,
     "duration": 7200,
