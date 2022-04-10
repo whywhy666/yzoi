@@ -6,6 +6,114 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 153254616,
+      "creationTime": 1649561947,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497921700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1257E",
+        "name": "The Contest",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1257/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1257/submission/153254616"
+    },
+    {
+      "type": "codeforces",
+      "id": 153246594,
+      "creationTime": 1649547836,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497935811
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1257E",
+        "name": "The Contest",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1257/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1257/submission/153246594"
+    },
+    {
+      "type": "codeforces",
+      "id": 153245993,
+      "creationTime": 1649546534,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497937113
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1257E",
+        "name": "The Contest",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1257/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1257/submission/153245993"
+    },
+    {
+      "type": "codeforces",
+      "id": 153245890,
+      "creationTime": 1649546318,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497937329
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1257E",
+        "name": "The Contest",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1257/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1257/submission/153245890"
+    },
+    {
+      "type": "codeforces",
       "id": 153213237,
       "creationTime": 1649521216,
       "language": "GNU C++14",
@@ -21,8 +129,11 @@
         "type": "codeforces",
         "id": "1661B",
         "name": "Getting Zero",
+        "rating": 1300,
         "tags": [
           "brute force",
+          "dfs and similar",
+          "dp",
           "graphs",
           "greedy",
           "shortest paths"
@@ -48,6 +159,7 @@
         "type": "codeforces",
         "id": "1661C",
         "name": "Water the Trees",
+        "rating": 1700,
         "tags": [
           "binary search",
           "greedy",
@@ -74,6 +186,7 @@
         "type": "codeforces",
         "id": "1661C",
         "name": "Water the Trees",
+        "rating": 1700,
         "tags": [
           "binary search",
           "greedy",
@@ -100,6 +213,7 @@
         "type": "codeforces",
         "id": "1661C",
         "name": "Water the Trees",
+        "rating": 1700,
         "tags": [
           "binary search",
           "greedy",
@@ -126,6 +240,7 @@
         "type": "codeforces",
         "id": "1661A",
         "name": "Array Balancing",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -151,6 +266,7 @@
         "type": "codeforces",
         "id": "1661A",
         "name": "Array Balancing",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -176,10 +292,9 @@
         "type": "codeforces",
         "id": "1661D",
         "name": "Progressions Covering",
+        "rating": 1900,
         "tags": [
-          "data structures",
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1661/problem/D"
       },
@@ -39975,7 +40090,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1729,
+    "rating": 1764,
     "maxRank": "expert",
     "maxRating": 1772
   }

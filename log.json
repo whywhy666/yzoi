@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649538582,
+  "updateTime": 1649624985,
   "history": {
     "user": [
       {
@@ -8,59 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 153213237,
-            "pid": "1661B",
-            "name": "Getting Zero",
+            "id": 153254616,
+            "pid": "1257E",
+            "name": "The Contest",
             "verdict": "OK",
-            "creationTime": 1649521216
+            "creationTime": 1649561947
           },
           {
             "platform": "codeforces",
-            "id": 153205845,
-            "pid": "1661C",
-            "name": "Water the Trees",
+            "id": 153246594,
+            "pid": "1257E",
+            "name": "The Contest",
             "verdict": "OK",
-            "creationTime": 1649520095
+            "creationTime": 1649547836
           },
           {
             "platform": "codeforces",
-            "id": 153199080,
-            "pid": "1661C",
-            "name": "Water the Trees",
+            "id": 153245993,
+            "pid": "1257E",
+            "name": "The Contest",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649519170
+            "creationTime": 1649546534
           },
           {
             "platform": "codeforces",
-            "id": 153197837,
-            "pid": "1661C",
-            "name": "Water the Trees",
+            "id": 153245890,
+            "pid": "1257E",
+            "name": "The Contest",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649519007
-          },
-          {
-            "platform": "codeforces",
-            "id": 153190647,
-            "pid": "1661A",
-            "name": "Array Balancing",
-            "verdict": "OK",
-            "creationTime": 1649518093
-          },
-          {
-            "platform": "codeforces",
-            "id": 153189660,
-            "pid": "1661A",
-            "name": "Array Balancing",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1649517985
-          },
-          {
-            "platform": "codeforces",
-            "id": 153171872,
-            "pid": "1661D",
-            "name": "Progressions Covering",
-            "verdict": "OK",
-            "creationTime": 1649516023
+            "creationTime": 1649546318
           }
         ],
         "newContests": []
@@ -68,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "49d120effc0087b4b9f0b6c8d5f9eae447d85b10"
+  "ref": "3fdfbe16b2ec5a844fbeb5ce9303114b6230feac"
 }
