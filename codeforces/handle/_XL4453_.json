@@ -6,6 +6,279 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 153383990,
+      "creationTime": 1649683628,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497800019
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1352G",
+        "name": "Special Permutation",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1352/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1352/submission/153383990"
+    },
+    {
+      "type": "codeforces",
+      "id": 153383907,
+      "creationTime": 1649683584,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497800063
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1352G",
+        "name": "Special Permutation",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1352/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1352/submission/153383907"
+    },
+    {
+      "type": "codeforces",
+      "id": 153383753,
+      "creationTime": 1649683494,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497800153
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1352E",
+        "name": "Special Elements",
+        "rating": 1500,
+        "tags": [
+          "brute force",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1352/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1352/submission/153383753"
+    },
+    {
+      "type": "codeforces",
+      "id": 153367842,
+      "creationTime": 1649671296,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497812351
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661E",
+        "name": "Narrow Components",
+        "rating": 2500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153367842"
+    },
+    {
+      "type": "codeforces",
+      "id": 153367810,
+      "creationTime": 1649671273,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497812374
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661E",
+        "name": "Narrow Components",
+        "rating": 2500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153367810"
+    },
+    {
+      "type": "codeforces",
+      "id": 153367006,
+      "creationTime": 1649670633,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497813014
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661E",
+        "name": "Narrow Components",
+        "rating": 2500,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153367006"
+    },
+    {
+      "type": "codeforces",
+      "id": 153341000,
+      "creationTime": 1649639440,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497844207
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661D",
+        "name": "Progressions Covering",
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153341000"
+    },
+    {
+      "type": "codeforces",
+      "id": 153340994,
+      "creationTime": 1649639433,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497844214
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661C",
+        "name": "Water the Trees",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153340994"
+    },
+    {
+      "type": "codeforces",
+      "id": 153340991,
+      "creationTime": 1649639426,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497844221
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661B",
+        "name": "Getting Zero",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153340991"
+    },
+    {
+      "type": "codeforces",
+      "id": 153340982,
+      "creationTime": 1649639410,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497844237
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1661A",
+        "name": "Array Balancing",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1661/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1661/submission/153340982"
+    },
+    {
+      "type": "codeforces",
       "id": 153254616,
       "creationTime": 1649561947,
       "language": "GNU C++14",
@@ -294,6 +567,7 @@
         "name": "Progressions Covering",
         "rating": 1900,
         "tags": [
+          "data structures",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1661/problem/D"
