@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649711449,
+  "updateTime": 1649797822,
   "history": {
     "user": [
       {
@@ -8,83 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 153383990,
-            "pid": "1352G",
-            "name": "Special Permutation",
+            "id": 153462843,
+            "pid": "76D",
+            "name": "Plus and xor",
             "verdict": "OK",
-            "creationTime": 1649683628
+            "creationTime": 1649770116
           },
           {
             "platform": "codeforces",
-            "id": 153383907,
-            "pid": "1352G",
-            "name": "Special Permutation",
-            "verdict": "OK",
-            "creationTime": 1649683584
-          },
-          {
-            "platform": "codeforces",
-            "id": 153383753,
-            "pid": "1352E",
-            "name": "Special Elements",
+            "id": 153462333,
+            "pid": "76D",
+            "name": "Plus and xor",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649683494
+            "creationTime": 1649769771
           },
           {
             "platform": "codeforces",
-            "id": 153367842,
-            "pid": "1661E",
-            "name": "Narrow Components",
+            "id": 153418177,
+            "pid": "1415D",
+            "name": "XOR-gun",
             "verdict": "OK",
-            "creationTime": 1649671296
+            "creationTime": 1649726432
           },
           {
             "platform": "codeforces",
-            "id": 153367810,
-            "pid": "1661E",
-            "name": "Narrow Components",
-            "verdict": "OK",
-            "creationTime": 1649671273
-          },
-          {
-            "platform": "codeforces",
-            "id": 153367006,
-            "pid": "1661E",
-            "name": "Narrow Components",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1649670633
-          },
-          {
-            "platform": "codeforces",
-            "id": 153341000,
-            "pid": "1661D",
-            "name": "Progressions Covering",
-            "verdict": "OK",
-            "creationTime": 1649639440
-          },
-          {
-            "platform": "codeforces",
-            "id": 153340994,
-            "pid": "1661C",
-            "name": "Water the Trees",
-            "verdict": "OK",
-            "creationTime": 1649639433
-          },
-          {
-            "platform": "codeforces",
-            "id": 153340991,
-            "pid": "1661B",
-            "name": "Getting Zero",
-            "verdict": "OK",
-            "creationTime": 1649639426
-          },
-          {
-            "platform": "codeforces",
-            "id": 153340982,
-            "pid": "1661A",
-            "name": "Array Balancing",
-            "verdict": "OK",
-            "creationTime": 1649639410
+            "id": 153418063,
+            "pid": "1415D",
+            "name": "XOR-gun",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1649726224
           }
         ],
         "newContests": []
@@ -92,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "e0333d88436f36f174ec60d420e40df0444d52e3"
+  "ref": "5924c3b3df2d24ce50bc23be4d8938c6cef0c7a5"
 }

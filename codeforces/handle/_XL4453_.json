@@ -6,6 +6,114 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 153462843,
+      "creationTime": 1649770116,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497713531
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "76D",
+        "name": "Plus and xor",
+        "rating": 1700,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/76/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/76/submission/153462843"
+    },
+    {
+      "type": "codeforces",
+      "id": 153462333,
+      "creationTime": 1649769771,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497713876
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "76D",
+        "name": "Plus and xor",
+        "rating": 1700,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/76/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/76/submission/153462333"
+    },
+    {
+      "type": "codeforces",
+      "id": 153418177,
+      "creationTime": 1649726432,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497757215
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1415D",
+        "name": "XOR-gun",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1415/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1415/submission/153418177"
+    },
+    {
+      "type": "codeforces",
+      "id": 153418063,
+      "creationTime": 1649726224,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497757423
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1415D",
+        "name": "XOR-gun",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1415/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1415/submission/153418063"
+    },
+    {
+      "type": "codeforces",
       "id": 153383990,
       "creationTime": 1649683628,
       "language": "GNU C++14",
@@ -100,7 +208,6 @@
         "name": "Narrow Components",
         "rating": 2500,
         "tags": [
-          "brute force",
           "data structures",
           "dp",
           "dsu",
@@ -129,7 +236,6 @@
         "name": "Narrow Components",
         "rating": 2500,
         "tags": [
-          "brute force",
           "data structures",
           "dp",
           "dsu",
@@ -158,7 +264,6 @@
         "name": "Narrow Components",
         "rating": 2500,
         "tags": [
-          "brute force",
           "data structures",
           "dp",
           "dsu",
@@ -240,6 +345,7 @@
         "name": "Getting Zero",
         "rating": 1300,
         "tags": [
+          "bitmasks",
           "brute force",
           "dfs and similar",
           "dp",
@@ -404,6 +510,7 @@
         "name": "Getting Zero",
         "rating": 1300,
         "tags": [
+          "bitmasks",
           "brute force",
           "dfs and similar",
           "dp",
