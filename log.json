@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649797822,
+  "updateTime": 1649884238,
   "history": {
     "user": [
       {
@@ -8,35 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 153462843,
-            "pid": "76D",
-            "name": "Plus and xor",
+            "id": 153508605,
+            "pid": "1665A",
+            "name": "GCD vs LCM",
             "verdict": "OK",
-            "creationTime": 1649770116
+            "creationTime": 1649817660
           },
           {
             "platform": "codeforces",
-            "id": 153462333,
-            "pid": "76D",
-            "name": "Plus and xor",
+            "id": 153508276,
+            "pid": "1034A",
+            "name": "Enlarge GCD",
+            "verdict": "OK",
+            "creationTime": 1649817063
+          },
+          {
+            "platform": "codeforces",
+            "id": 153506482,
+            "pid": "757B",
+            "name": "Bash's Big Day",
+            "verdict": "OK",
+            "creationTime": 1649815304
+          },
+          {
+            "platform": "codeforces",
+            "id": 153506468,
+            "pid": "757B",
+            "name": "Bash's Big Day",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649769771
+            "creationTime": 1649815267
           },
           {
             "platform": "codeforces",
-            "id": 153418177,
-            "pid": "1415D",
-            "name": "XOR-gun",
-            "verdict": "OK",
-            "creationTime": 1649726432
-          },
-          {
-            "platform": "codeforces",
-            "id": 153418063,
-            "pid": "1415D",
-            "name": "XOR-gun",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1649726224
+            "id": 153506446,
+            "pid": "757B",
+            "name": "Bash's Big Day",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1649815214
           }
         ],
         "newContests": []
@@ -44,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "5924c3b3df2d24ce50bc23be4d8938c6cef0c7a5"
+  "ref": "40f78c23a95d157a3cb8b370dcc73c44c5c9cf0b"
 }
