@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1649884238,
+  "updateTime": 1649970628,
   "history": {
     "user": [
       {
@@ -8,43 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 153508605,
-            "pid": "1665A",
-            "name": "GCD vs LCM",
+            "id": 153598499,
+            "pid": "1352F",
+            "name": "Binary String Reconstruction",
             "verdict": "OK",
-            "creationTime": 1649817660
+            "creationTime": 1649897525
           },
           {
             "platform": "codeforces",
-            "id": 153508276,
-            "pid": "1034A",
-            "name": "Enlarge GCD",
+            "id": 153598483,
+            "pid": "1352F",
+            "name": "Binary String Reconstruction",
             "verdict": "OK",
-            "creationTime": 1649817063
+            "creationTime": 1649897494
           },
           {
             "platform": "codeforces",
-            "id": 153506482,
-            "pid": "757B",
-            "name": "Bash's Big Day",
-            "verdict": "OK",
-            "creationTime": 1649815304
-          },
-          {
-            "platform": "codeforces",
-            "id": 153506468,
-            "pid": "757B",
-            "name": "Bash's Big Day",
+            "id": 153598402,
+            "pid": "1352F",
+            "name": "Binary String Reconstruction",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1649815267
-          },
-          {
-            "platform": "codeforces",
-            "id": 153506446,
-            "pid": "757B",
-            "name": "Bash's Big Day",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1649815214
+            "creationTime": 1649897346
           }
         ],
         "newContests": []
@@ -52,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "40f78c23a95d157a3cb8b370dcc73c44c5c9cf0b"
+  "ref": "351089c6f21accbd24855b384a819f1df97f2323"
 }

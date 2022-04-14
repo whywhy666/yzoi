@@ -6,6 +6,87 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 153598499,
+      "creationTime": 1649897525,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497586122
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1352F",
+        "name": "Binary String Reconstruction",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1352/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1352/submission/153598499"
+    },
+    {
+      "type": "codeforces",
+      "id": 153598483,
+      "creationTime": 1649897494,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497586153
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1352F",
+        "name": "Binary String Reconstruction",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1352/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1352/submission/153598483"
+    },
+    {
+      "type": "codeforces",
+      "id": 153598402,
+      "creationTime": 1649897346,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497586301
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1352F",
+        "name": "Binary String Reconstruction",
+        "rating": 1500,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1352/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1352/submission/153598402"
+    },
+    {
+      "type": "codeforces",
       "id": 153508605,
       "creationTime": 1649817660,
       "language": "GNU C++14",
