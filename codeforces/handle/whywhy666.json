@@ -6,6 +6,233 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 153740184,
+      "creationTime": 1650039738,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497443909
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665D",
+        "name": "GCD Guess",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "games",
+          "interactive",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153740184"
+    },
+    {
+      "type": "codeforces",
+      "id": 153740116,
+      "creationTime": 1650039689,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497443958
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665D",
+        "name": "GCD Guess",
+        "rating": 2000,
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "games",
+          "interactive",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153740116"
+    },
+    {
+      "type": "codeforces",
+      "id": 153736347,
+      "creationTime": 1650036888,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497446759
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665C",
+        "name": "Tree Infection",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153736347"
+    },
+    {
+      "type": "codeforces",
+      "id": 153735976,
+      "creationTime": 1650036602,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497447045
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665C",
+        "name": "Tree Infection",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153735976"
+    },
+    {
+      "type": "codeforces",
+      "id": 153734521,
+      "creationTime": 1650035388,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497448259
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665C",
+        "name": "Tree Infection",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153734521"
+    },
+    {
+      "type": "codeforces",
+      "id": 153734444,
+      "creationTime": 1650035325,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497448322
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665C",
+        "name": "Tree Infection",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153734444"
+    },
+    {
+      "type": "codeforces",
+      "id": 153732325,
+      "creationTime": 1650033751,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497449896
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665B",
+        "name": "Array Cloning Technique",
+        "rating": 900,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153732325"
+    },
+    {
+      "type": "codeforces",
+      "id": 153731714,
+      "creationTime": 1650033302,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -497450345
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665A",
+        "name": "GCD vs LCM",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/153731714"
+    },
+    {
+      "type": "codeforces",
       "id": 152412812,
       "creationTime": 1648831197,
       "language": "GNU C++20 (64)",
@@ -3105,7 +3332,7 @@
       "problem": {
         "type": "codeforces",
         "id": "103428G",
-        "name": "Desserts",
+        "name": "Shinyruo and KFC",
         "tags": [],
         "problemUrl": "https://codeforces.com/gym/103428/problem/G"
       },
@@ -3130,7 +3357,7 @@
       "problem": {
         "type": "codeforces",
         "id": "103428G",
-        "name": "Desserts",
+        "name": "Shinyruo and KFC",
         "tags": [],
         "problemUrl": "https://codeforces.com/gym/103428/problem/G"
       },
