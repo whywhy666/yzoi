@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1650057022,
+  "updateTime": 1650143407,
   "history": {
-    "user": [
-      {
-        "name": "然然",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 153740184,
-            "pid": "1665D",
-            "name": "GCD Guess",
-            "verdict": "OK",
-            "creationTime": 1650039738
-          },
-          {
-            "platform": "codeforces",
-            "id": 153740116,
-            "pid": "1665D",
-            "name": "GCD Guess",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650039689
-          },
-          {
-            "platform": "codeforces",
-            "id": 153736347,
-            "pid": "1665C",
-            "name": "Tree Infection",
-            "verdict": "OK",
-            "creationTime": 1650036888
-          },
-          {
-            "platform": "codeforces",
-            "id": 153735976,
-            "pid": "1665C",
-            "name": "Tree Infection",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650036602
-          },
-          {
-            "platform": "codeforces",
-            "id": 153734521,
-            "pid": "1665C",
-            "name": "Tree Infection",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650035388
-          },
-          {
-            "platform": "codeforces",
-            "id": 153734444,
-            "pid": "1665C",
-            "name": "Tree Infection",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650035325
-          },
-          {
-            "platform": "codeforces",
-            "id": 153732325,
-            "pid": "1665B",
-            "name": "Array Cloning Technique",
-            "verdict": "OK",
-            "creationTime": 1650033751
-          },
-          {
-            "platform": "codeforces",
-            "id": 153731714,
-            "pid": "1665A",
-            "name": "GCD vs LCM",
-            "verdict": "OK",
-            "creationTime": 1650033302
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9a7514597e0d893c02525120d9a299bae15a585c"
+  "ref": "53c1bbdb43ac93f3ad1643c276041bd94ec5bf39"
 }
