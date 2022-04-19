@@ -1,9 +1,56 @@
 {
   "version": "0.1.16",
-  "updateTime": 1650316238,
+  "updateTime": 1650402653,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 154112243,
+            "pid": "1667E",
+            "name": "Centroid Probabilities",
+            "verdict": "OK",
+            "creationTime": 1650383143
+          },
+          {
+            "platform": "codeforces",
+            "id": 154103852,
+            "pid": "1667D",
+            "name": "Edge Elimination",
+            "verdict": "OK",
+            "creationTime": 1650381959
+          },
+          {
+            "platform": "codeforces",
+            "id": 154089336,
+            "pid": "1667A",
+            "name": "Make it Increasing",
+            "verdict": "OK",
+            "creationTime": 1650380403
+          },
+          {
+            "platform": "codeforces",
+            "id": 154086351,
+            "pid": "1667C",
+            "name": "Half Queen Cover",
+            "verdict": "OK",
+            "creationTime": 1650380107
+          },
+          {
+            "platform": "codeforces",
+            "id": 154079749,
+            "pid": "1667B",
+            "name": "Optimal Partition",
+            "verdict": "OK",
+            "creationTime": 1650379329
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "4bbbd4031121733042892dd91309ccc21269235d"
+  "ref": "577cd6a5dcae1b315737b7a92862f4bb4b7a5e7d"
 }

@@ -6,6 +6,136 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 154112243,
+      "creationTime": 1650383143,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650378900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1667E",
+        "name": "Centroid Probabilities",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1667/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1667/submission/154112243"
+    },
+    {
+      "type": "codeforces",
+      "id": 154103852,
+      "creationTime": 1650381959,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650378900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1667D",
+        "name": "Edge Elimination",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1667/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1667/submission/154103852"
+    },
+    {
+      "type": "codeforces",
+      "id": 154089336,
+      "creationTime": 1650380403,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650378902
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1667A",
+        "name": "Make it Increasing",
+        "tags": [
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1667/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1667/submission/154089336"
+    },
+    {
+      "type": "codeforces",
+      "id": 154086351,
+      "creationTime": 1650380107,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650378900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1667C",
+        "name": "Half Queen Cover",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1667/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1667/submission/154086351"
+    },
+    {
+      "type": "codeforces",
+      "id": 154079749,
+      "creationTime": 1650379329,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650378900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1667B",
+        "name": "Optimal Partition",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1667/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1667/submission/154079749"
+    },
+    {
+      "type": "codeforces",
       "id": 151133167,
       "creationTime": 1648394462,
       "language": "GNU C++20 (64)",
@@ -101711,7 +101841,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3796,
+    "rating": 3801,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
