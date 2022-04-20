@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1667E",
         "name": "Centroid Probabilities",
+        "rating": 3000,
         "tags": [
           "combinatorics",
           "dp",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1667D",
         "name": "Edge Elimination",
+        "rating": 2900,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1667A",
         "name": "Make it Increasing",
+        "rating": 1300,
         "tags": [
           "brute force",
           "greedy",
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "1667C",
         "name": "Half Queen Cover",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
           "math"
@@ -126,9 +130,11 @@
         "type": "codeforces",
         "id": "1667B",
         "name": "Optimal Partition",
+        "rating": 2100,
         "tags": [
           "data structures",
-          "dp"
+          "dp",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1667/problem/B"
       },
