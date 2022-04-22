@@ -14228,5 +14228,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103652",
     "standingsUrl": "https://codeforces.com/gym/103652/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 19th Zhejiang University City College Programming Contest",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103660,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103660",
+    "standingsUrl": "https://codeforces.com/gym/103660/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Турнир Архимеда 2019",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103664,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103664",
+    "standingsUrl": "https://codeforces.com/gym/103664/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Турнир Архимеда 2018",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103665,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103665",
+    "standingsUrl": "https://codeforces.com/gym/103665/standings"
   }
 ]

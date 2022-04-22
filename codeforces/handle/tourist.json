@@ -6,6 +6,160 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 154542143,
+      "creationTime": 1650640676,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650638100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1671F",
+        "name": "Permutation Counting",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1671/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1671/submission/154542143"
+    },
+    {
+      "type": "codeforces",
+      "id": 154528618,
+      "creationTime": 1650639506,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650638100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1671E",
+        "name": "Preorder",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "hashing",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1671/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1671/submission/154528618"
+    },
+    {
+      "type": "codeforces",
+      "id": 154515283,
+      "creationTime": 1650638601,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650638100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1671D",
+        "name": "Insert a Progression",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1671/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1671/submission/154515283"
+    },
+    {
+      "type": "codeforces",
+      "id": 154510946,
+      "creationTime": 1650638364,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650638100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1671C",
+        "name": "Dolce Vita",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1671/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1671/submission/154510946"
+    },
+    {
+      "type": "codeforces",
+      "id": 154508972,
+      "creationTime": 1650638250,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650638100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1671B",
+        "name": "Consecutive Points Segment",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1671/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1671/submission/154508972"
+    },
+    {
+      "type": "codeforces",
+      "id": 154508532,
+      "creationTime": 1650638174,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650638100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1671A",
+        "name": "String Building",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1671/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1671/submission/154508532"
+    },
+    {
+      "type": "codeforces",
       "id": 154112243,
       "creationTime": 1650383143,
       "language": "GNU C++20 (64)",
@@ -133,8 +287,7 @@
         "rating": 2100,
         "tags": [
           "data structures",
-          "dp",
-          "sortings"
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1667/problem/B"
       },
