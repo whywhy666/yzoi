@@ -6,6 +6,383 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 154771692,
+      "creationTime": 1650733411,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672E",
+        "name": "notepad.exe",
+        "tags": [
+          "binary search",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154771692"
+    },
+    {
+      "type": "codeforces",
+      "id": 154768764,
+      "creationTime": 1650732892,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672I",
+        "name": "PermutationForces",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154768764"
+    },
+    {
+      "type": "codeforces",
+      "id": 154752071,
+      "creationTime": 1650729246,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672G",
+        "name": "Cross Xor",
+        "tags": [
+          "graphs",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154752071"
+    },
+    {
+      "type": "codeforces",
+      "id": 154745916,
+      "creationTime": 1650728096,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672D",
+        "name": "Cyclic Rotation",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154745916"
+    },
+    {
+      "type": "codeforces",
+      "id": 154740812,
+      "creationTime": 1650727236,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672F2",
+        "name": "Checker for Array Shuffling",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154740812"
+    },
+    {
+      "type": "codeforces",
+      "id": 154738533,
+      "creationTime": 1650726884,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672F1",
+        "name": "Array Shuffling",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154738533"
+    },
+    {
+      "type": "codeforces",
+      "id": 154738009,
+      "creationTime": 1650726803,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672F1",
+        "name": "Array Shuffling",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154738009"
+    },
+    {
+      "type": "codeforces",
+      "id": 154737175,
+      "creationTime": 1650726682,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672F1",
+        "name": "Array Shuffling",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154737175"
+    },
+    {
+      "type": "codeforces",
+      "id": 154735576,
+      "creationTime": 1650726444,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672E",
+        "name": "notepad.exe",
+        "tags": [
+          "binary search",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154735576"
+    },
+    {
+      "type": "codeforces",
+      "id": 154734868,
+      "creationTime": 1650726353,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672E",
+        "name": "notepad.exe",
+        "tags": [
+          "binary search",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154734868"
+    },
+    {
+      "type": "codeforces",
+      "id": 154729430,
+      "creationTime": 1650725639,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672H",
+        "name": "Zigu Zagu",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154729430"
+    },
+    {
+      "type": "codeforces",
+      "id": 154710717,
+      "creationTime": 1650723840,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672D",
+        "name": "Cyclic Rotation",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154710717"
+    },
+    {
+      "type": "codeforces",
+      "id": 154696976,
+      "creationTime": 1650722985,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672C",
+        "name": "Unequal Array",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154696976"
+    },
+    {
+      "type": "codeforces",
+      "id": 154694776,
+      "creationTime": 1650722831,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722701
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672B",
+        "name": "I love AAAB",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154694776"
+    },
+    {
+      "type": "codeforces",
+      "id": 154694219,
+      "creationTime": 1650722762,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650722700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1672A",
+        "name": "Log Chopping",
+        "tags": [
+          "games",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1672/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1672/submission/154694219"
+    },
+    {
+      "type": "codeforces",
       "id": 154542143,
       "creationTime": 1650640676,
       "language": "GNU C++20 (64)",
@@ -22,7 +399,10 @@
         "id": "1671F",
         "name": "Permutation Counting",
         "tags": [
+          "brute force",
+          "combinatorics",
           "dp",
+          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1671/problem/F"
@@ -48,6 +428,7 @@
         "name": "Preorder",
         "tags": [
           "combinatorics",
+          "divide and conquer",
           "dp",
           "hashing",
           "trees"
@@ -128,7 +509,8 @@
         "name": "Consecutive Points Segment",
         "tags": [
           "brute force",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1671/problem/B"
       },
@@ -102000,7 +102382,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3801,
+    "rating": 3813,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

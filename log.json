@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1650661843,
+  "updateTime": 1650748212,
   "history": {
     "user": [
       {
@@ -8,51 +8,123 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 154542143,
-            "pid": "1671F",
-            "name": "Permutation Counting",
-            "verdict": "OK",
-            "creationTime": 1650640676
+            "id": 154771692,
+            "pid": "1672E",
+            "name": "notepad.exe",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1650733411
           },
           {
             "platform": "codeforces",
-            "id": 154528618,
-            "pid": "1671E",
-            "name": "Preorder",
+            "id": 154768764,
+            "pid": "1672I",
+            "name": "PermutationForces",
             "verdict": "OK",
-            "creationTime": 1650639506
+            "creationTime": 1650732892
           },
           {
             "platform": "codeforces",
-            "id": 154515283,
-            "pid": "1671D",
-            "name": "Insert a Progression",
+            "id": 154752071,
+            "pid": "1672G",
+            "name": "Cross Xor",
             "verdict": "OK",
-            "creationTime": 1650638601
+            "creationTime": 1650729246
           },
           {
             "platform": "codeforces",
-            "id": 154510946,
-            "pid": "1671C",
-            "name": "Dolce Vita",
+            "id": 154745916,
+            "pid": "1672D",
+            "name": "Cyclic Rotation",
             "verdict": "OK",
-            "creationTime": 1650638364
+            "creationTime": 1650728096
           },
           {
             "platform": "codeforces",
-            "id": 154508972,
-            "pid": "1671B",
-            "name": "Consecutive Points Segment",
+            "id": 154740812,
+            "pid": "1672F2",
+            "name": "Checker for Array Shuffling",
             "verdict": "OK",
-            "creationTime": 1650638250
+            "creationTime": 1650727236
           },
           {
             "platform": "codeforces",
-            "id": 154508532,
-            "pid": "1671A",
-            "name": "String Building",
+            "id": 154738533,
+            "pid": "1672F1",
+            "name": "Array Shuffling",
             "verdict": "OK",
-            "creationTime": 1650638174
+            "creationTime": 1650726884
+          },
+          {
+            "platform": "codeforces",
+            "id": 154738009,
+            "pid": "1672F1",
+            "name": "Array Shuffling",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1650726803
+          },
+          {
+            "platform": "codeforces",
+            "id": 154737175,
+            "pid": "1672F1",
+            "name": "Array Shuffling",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1650726682
+          },
+          {
+            "platform": "codeforces",
+            "id": 154735576,
+            "pid": "1672E",
+            "name": "notepad.exe",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1650726444
+          },
+          {
+            "platform": "codeforces",
+            "id": 154734868,
+            "pid": "1672E",
+            "name": "notepad.exe",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1650726353
+          },
+          {
+            "platform": "codeforces",
+            "id": 154729430,
+            "pid": "1672H",
+            "name": "Zigu Zagu",
+            "verdict": "OK",
+            "creationTime": 1650725639
+          },
+          {
+            "platform": "codeforces",
+            "id": 154710717,
+            "pid": "1672D",
+            "name": "Cyclic Rotation",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1650723840
+          },
+          {
+            "platform": "codeforces",
+            "id": 154696976,
+            "pid": "1672C",
+            "name": "Unequal Array",
+            "verdict": "OK",
+            "creationTime": 1650722985
+          },
+          {
+            "platform": "codeforces",
+            "id": 154694776,
+            "pid": "1672B",
+            "name": "I love AAAB",
+            "verdict": "OK",
+            "creationTime": 1650722831
+          },
+          {
+            "platform": "codeforces",
+            "id": 154694219,
+            "pid": "1672A",
+            "name": "Log Chopping",
+            "verdict": "OK",
+            "creationTime": 1650722762
           }
         ],
         "newContests": []
@@ -60,5 +132,5 @@
     ],
     "contest": []
   },
-  "ref": "ea3b0dfcbbe1a82e5e29979618f48c6bf80724ba"
+  "ref": "3de6669e9a736aa745488df731d12e08e243f614"
 }
