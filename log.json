@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1650748212,
+  "updateTime": 1650834605,
   "history": {
     "user": [
       {
@@ -8,123 +8,131 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 154771692,
-            "pid": "1672E",
-            "name": "notepad.exe",
+            "id": 154863985,
+            "pid": "1662J",
+            "name": "Training Camp",
+            "verdict": "OK",
+            "creationTime": 1650811589
+          },
+          {
+            "platform": "codeforces",
+            "id": 154861075,
+            "pid": "1662K",
+            "name": "Pandemic Restrictions",
+            "verdict": "OK",
+            "creationTime": 1650809644
+          },
+          {
+            "platform": "codeforces",
+            "id": 154856883,
+            "pid": "1662C",
+            "name": "European Trip",
+            "verdict": "OK",
+            "creationTime": 1650807228
+          },
+          {
+            "platform": "codeforces",
+            "id": 154853293,
+            "pid": "1662E",
+            "name": "Round Table",
+            "verdict": "OK",
+            "creationTime": 1650805051
+          },
+          {
+            "platform": "codeforces",
+            "id": 154849426,
+            "pid": "1662N",
+            "name": "Drone Photo",
+            "verdict": "OK",
+            "creationTime": 1650802881
+          },
+          {
+            "platform": "codeforces",
+            "id": 154849199,
+            "pid": "1662B",
+            "name": "Toys",
+            "verdict": "OK",
+            "creationTime": 1650802754
+          },
+          {
+            "platform": "codeforces",
+            "id": 154846836,
+            "pid": "1662G",
+            "name": "Gastronomic Event",
+            "verdict": "OK",
+            "creationTime": 1650801484
+          },
+          {
+            "platform": "codeforces",
+            "id": 154844750,
+            "pid": "1662L",
+            "name": "Il Derby della Madonnina",
+            "verdict": "OK",
+            "creationTime": 1650800485
+          },
+          {
+            "platform": "codeforces",
+            "id": 154843494,
+            "pid": "1662D",
+            "name": "Evolution of Weasels",
+            "verdict": "OK",
+            "creationTime": 1650799883
+          },
+          {
+            "platform": "codeforces",
+            "id": 154843254,
+            "pid": "1662O",
+            "name": "Circular Maze",
+            "verdict": "OK",
+            "creationTime": 1650799769
+          },
+          {
+            "platform": "codeforces",
+            "id": 154842332,
+            "pid": "1662I",
+            "name": "Ice Cream Shop",
+            "verdict": "OK",
+            "creationTime": 1650799352
+          },
+          {
+            "platform": "codeforces",
+            "id": 154842036,
+            "pid": "1662F",
+            "name": "Antennas",
+            "verdict": "OK",
+            "creationTime": 1650799207
+          },
+          {
+            "platform": "codeforces",
+            "id": 154841986,
+            "pid": "1662H",
+            "name": "Boundary",
+            "verdict": "OK",
+            "creationTime": 1650799179
+          },
+          {
+            "platform": "codeforces",
+            "id": 154841595,
+            "pid": "1662F",
+            "name": "Antennas",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1650733411
+            "creationTime": 1650798983
           },
           {
             "platform": "codeforces",
-            "id": 154768764,
-            "pid": "1672I",
-            "name": "PermutationForces",
+            "id": 154840757,
+            "pid": "1662M",
+            "name": "Bottle Arrangements",
             "verdict": "OK",
-            "creationTime": 1650732892
+            "creationTime": 1650798586
           },
           {
             "platform": "codeforces",
-            "id": 154752071,
-            "pid": "1672G",
-            "name": "Cross Xor",
+            "id": 154840370,
+            "pid": "1662A",
+            "name": "Organizing SWERC",
             "verdict": "OK",
-            "creationTime": 1650729246
-          },
-          {
-            "platform": "codeforces",
-            "id": 154745916,
-            "pid": "1672D",
-            "name": "Cyclic Rotation",
-            "verdict": "OK",
-            "creationTime": 1650728096
-          },
-          {
-            "platform": "codeforces",
-            "id": 154740812,
-            "pid": "1672F2",
-            "name": "Checker for Array Shuffling",
-            "verdict": "OK",
-            "creationTime": 1650727236
-          },
-          {
-            "platform": "codeforces",
-            "id": 154738533,
-            "pid": "1672F1",
-            "name": "Array Shuffling",
-            "verdict": "OK",
-            "creationTime": 1650726884
-          },
-          {
-            "platform": "codeforces",
-            "id": 154738009,
-            "pid": "1672F1",
-            "name": "Array Shuffling",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650726803
-          },
-          {
-            "platform": "codeforces",
-            "id": 154737175,
-            "pid": "1672F1",
-            "name": "Array Shuffling",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650726682
-          },
-          {
-            "platform": "codeforces",
-            "id": 154735576,
-            "pid": "1672E",
-            "name": "notepad.exe",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650726444
-          },
-          {
-            "platform": "codeforces",
-            "id": 154734868,
-            "pid": "1672E",
-            "name": "notepad.exe",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650726353
-          },
-          {
-            "platform": "codeforces",
-            "id": 154729430,
-            "pid": "1672H",
-            "name": "Zigu Zagu",
-            "verdict": "OK",
-            "creationTime": 1650725639
-          },
-          {
-            "platform": "codeforces",
-            "id": 154710717,
-            "pid": "1672D",
-            "name": "Cyclic Rotation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1650723840
-          },
-          {
-            "platform": "codeforces",
-            "id": 154696976,
-            "pid": "1672C",
-            "name": "Unequal Array",
-            "verdict": "OK",
-            "creationTime": 1650722985
-          },
-          {
-            "platform": "codeforces",
-            "id": 154694776,
-            "pid": "1672B",
-            "name": "I love AAAB",
-            "verdict": "OK",
-            "creationTime": 1650722831
-          },
-          {
-            "platform": "codeforces",
-            "id": 154694219,
-            "pid": "1672A",
-            "name": "Log Chopping",
-            "verdict": "OK",
-            "creationTime": 1650722762
+            "creationTime": 1650798397
           }
         ],
         "newContests": []
@@ -132,5 +140,5 @@
     ],
     "contest": []
   },
-  "ref": "3de6669e9a736aa745488df731d12e08e243f614"
+  "ref": "f43059433d475979e1598f445a05f49407d1f769"
 }

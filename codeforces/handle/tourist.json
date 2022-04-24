@@ -6,6 +6,441 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 154863985,
+      "creationTime": 1650811589,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662J",
+        "name": "Training Camp",
+        "tags": [
+          "flows",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154863985"
+    },
+    {
+      "type": "codeforces",
+      "id": 154861075,
+      "creationTime": 1650809644,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662K",
+        "name": "Pandemic Restrictions",
+        "tags": [
+          "geometry",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154861075"
+    },
+    {
+      "type": "codeforces",
+      "id": 154856883,
+      "creationTime": 1650807228,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662C",
+        "name": "European Trip",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154856883"
+    },
+    {
+      "type": "codeforces",
+      "id": 154853293,
+      "creationTime": 1650805051,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662E",
+        "name": "Round Table",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154853293"
+    },
+    {
+      "type": "codeforces",
+      "id": 154849426,
+      "creationTime": 1650802881,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662N",
+        "name": "Drone Photo",
+        "tags": [
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/N"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154849426"
+    },
+    {
+      "type": "codeforces",
+      "id": 154849199,
+      "creationTime": 1650802754,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662B",
+        "name": "Toys",
+        "tags": [
+          "greedy",
+          "greedy",
+          "strings",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154849199"
+    },
+    {
+      "type": "codeforces",
+      "id": 154846836,
+      "creationTime": 1650801484,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662G",
+        "name": "Gastronomic Event",
+        "tags": [
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154846836"
+    },
+    {
+      "type": "codeforces",
+      "id": 154844750,
+      "creationTime": 1650800485,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662L",
+        "name": "Il Derby della Madonnina",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/L"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154844750"
+    },
+    {
+      "type": "codeforces",
+      "id": 154843494,
+      "creationTime": 1650799883,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662D",
+        "name": "Evolution of Weasels",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154843494"
+    },
+    {
+      "type": "codeforces",
+      "id": 154843254,
+      "creationTime": 1650799769,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662O",
+        "name": "Circular Maze",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/O"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154843254"
+    },
+    {
+      "type": "codeforces",
+      "id": 154842332,
+      "creationTime": 1650799352,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662I",
+        "name": "Ice Cream Shop",
+        "tags": [
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154842332"
+    },
+    {
+      "type": "codeforces",
+      "id": 154842036,
+      "creationTime": 1650799207,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662F",
+        "name": "Antennas",
+        "tags": [
+          "data structures",
+          "data structures",
+          "graphs",
+          "graphs",
+          "implementation",
+          "implementation",
+          "shortest paths",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154842036"
+    },
+    {
+      "type": "codeforces",
+      "id": 154841986,
+      "creationTime": 1650799179,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662H",
+        "name": "Boundary",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154841986"
+    },
+    {
+      "type": "codeforces",
+      "id": 154841595,
+      "creationTime": 1650798983,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662F",
+        "name": "Antennas",
+        "tags": [
+          "data structures",
+          "data structures",
+          "graphs",
+          "graphs",
+          "implementation",
+          "implementation",
+          "shortest paths",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154841595"
+    },
+    {
+      "type": "codeforces",
+      "id": 154840757,
+      "creationTime": 1650798586,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662M",
+        "name": "Bottle Arrangements",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/M"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154840757"
+    },
+    {
+      "type": "codeforces",
+      "id": 154840370,
+      "creationTime": 1650798397,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ksun48"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1650798300,
+        "teamName": "team..."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1662A",
+        "name": "Organizing SWERC",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1662/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1662/submission/154840370"
+    },
+    {
+      "type": "codeforces",
       "id": 154771692,
       "creationTime": 1650733411,
       "language": "GNU C++20 (64)",
@@ -21,8 +456,10 @@
         "type": "codeforces",
         "id": "1672E",
         "name": "notepad.exe",
+        "rating": 2200,
         "tags": [
           "binary search",
+          "constructive algorithms",
           "greedy",
           "interactive"
         ],
@@ -47,6 +484,7 @@
         "type": "codeforces",
         "id": "1672I",
         "name": "PermutationForces",
+        "rating": 3000,
         "tags": [
           "data structures",
           "greedy"
@@ -72,8 +510,9 @@
         "type": "codeforces",
         "id": "1672G",
         "name": "Cross Xor",
+        "rating": 3200,
         "tags": [
-          "graphs",
+          "constructive algorithms",
           "graphs",
           "math"
         ],
@@ -98,8 +537,12 @@
         "type": "codeforces",
         "id": "1672D",
         "name": "Cyclic Rotation",
+        "rating": 1700,
         "tags": [
-          "greedy"
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1672/problem/D"
       },
@@ -122,7 +565,10 @@
         "type": "codeforces",
         "id": "1672F2",
         "name": "Checker for Array Shuffling",
+        "rating": 2800,
         "tags": [
+          "constructive algorithms",
+          "dfs and similar",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1672/problem/F2"
@@ -146,6 +592,7 @@
         "type": "codeforces",
         "id": "1672F1",
         "name": "Array Shuffling",
+        "rating": 2000,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -172,6 +619,7 @@
         "type": "codeforces",
         "id": "1672F1",
         "name": "Array Shuffling",
+        "rating": 2000,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -198,6 +646,7 @@
         "type": "codeforces",
         "id": "1672F1",
         "name": "Array Shuffling",
+        "rating": 2000,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -224,8 +673,10 @@
         "type": "codeforces",
         "id": "1672E",
         "name": "notepad.exe",
+        "rating": 2200,
         "tags": [
           "binary search",
+          "constructive algorithms",
           "greedy",
           "interactive"
         ],
@@ -250,8 +701,10 @@
         "type": "codeforces",
         "id": "1672E",
         "name": "notepad.exe",
+        "rating": 2200,
         "tags": [
           "binary search",
+          "constructive algorithms",
           "greedy",
           "interactive"
         ],
@@ -276,7 +729,9 @@
         "type": "codeforces",
         "id": "1672H",
         "name": "Zigu Zagu",
+        "rating": 2700,
         "tags": [
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1672/problem/H"
@@ -300,8 +755,12 @@
         "type": "codeforces",
         "id": "1672D",
         "name": "Cyclic Rotation",
+        "rating": 1700,
         "tags": [
-          "greedy"
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1672/problem/D"
       },
@@ -324,7 +783,9 @@
         "type": "codeforces",
         "id": "1672C",
         "name": "Unequal Array",
+        "rating": 1100,
         "tags": [
+          "constructive algorithms",
           "greedy",
           "implementation"
         ],
@@ -349,7 +810,9 @@
         "type": "codeforces",
         "id": "1672B",
         "name": "I love AAAB",
+        "rating": 800,
         "tags": [
+          "constructive algorithms",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1672/problem/B"
@@ -373,9 +836,12 @@
         "type": "codeforces",
         "id": "1672A",
         "name": "Log Chopping",
+        "rating": 800,
         "tags": [
+          "constructive algorithms",
           "games",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1672/problem/A"
       },
@@ -430,6 +896,7 @@
           "combinatorics",
           "divide and conquer",
           "dp",
+          "dsu",
           "hashing",
           "trees"
         ],
