@@ -78,7 +78,9 @@
         "id": "1662C",
         "name": "European Trip",
         "tags": [
-          "graphs"
+          "graphs",
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/C"
       },
@@ -158,8 +160,6 @@
         "name": "Toys",
         "tags": [
           "greedy",
-          "greedy",
-          "strings",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/B"
@@ -213,7 +213,8 @@
         "name": "Il Derby della Madonnina",
         "tags": [
           "data structures",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/L"
       },
@@ -239,6 +240,8 @@
         "id": "1662D",
         "name": "Evolution of Weasels",
         "tags": [
+          "greedy",
+          "implementation",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/D"
@@ -265,7 +268,10 @@
         "id": "1662O",
         "name": "Circular Maze",
         "tags": [
-          "graphs"
+          "brute force",
+          "dfs and similar",
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/O"
       },
@@ -291,6 +297,8 @@
         "id": "1662I",
         "name": "Ice Cream Shop",
         "tags": [
+          "brute force",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/I"
@@ -318,7 +326,7 @@
         "name": "Antennas",
         "tags": [
           "data structures",
-          "data structures",
+          "dfs and similar",
           "graphs",
           "graphs",
           "implementation",
@@ -350,6 +358,7 @@
         "id": "1662H",
         "name": "Boundary",
         "tags": [
+          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/H"
@@ -377,7 +386,7 @@
         "name": "Antennas",
         "tags": [
           "data structures",
-          "data structures",
+          "dfs and similar",
           "graphs",
           "graphs",
           "implementation",
@@ -434,7 +443,10 @@
         "type": "codeforces",
         "id": "1662A",
         "name": "Organizing SWERC",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/1662/submission/154840370"
@@ -512,7 +524,6 @@
         "name": "Cross Xor",
         "rating": 3200,
         "tags": [
-          "constructive algorithms",
           "graphs",
           "math"
         ],
@@ -864,6 +875,7 @@
         "type": "codeforces",
         "id": "1671F",
         "name": "Permutation Counting",
+        "rating": 2700,
         "tags": [
           "brute force",
           "combinatorics",
@@ -892,6 +904,7 @@
         "type": "codeforces",
         "id": "1671E",
         "name": "Preorder",
+        "rating": 2100,
         "tags": [
           "combinatorics",
           "divide and conquer",
@@ -921,6 +934,7 @@
         "type": "codeforces",
         "id": "1671D",
         "name": "Insert a Progression",
+        "rating": 1600,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -947,6 +961,7 @@
         "type": "codeforces",
         "id": "1671C",
         "name": "Dolce Vita",
+        "rating": 1200,
         "tags": [
           "binary search",
           "brute force",
@@ -974,6 +989,7 @@
         "type": "codeforces",
         "id": "1671B",
         "name": "Consecutive Points Segment",
+        "rating": 1000,
         "tags": [
           "brute force",
           "math",
@@ -1000,6 +1016,7 @@
         "type": "codeforces",
         "id": "1671A",
         "name": "String Building",
+        "rating": 800,
         "tags": [
           "implementation"
         ],

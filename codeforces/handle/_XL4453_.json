@@ -6,6 +6,59 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 154931783,
+      "creationTime": 1650886036,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -496597611
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "4C",
+        "name": "Registration System",
+        "rating": 1300,
+        "tags": [
+          "data structures",
+          "hashing",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/4/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/4/submission/154931783"
+    },
+    {
+      "type": "codeforces",
+      "id": 154931018,
+      "creationTime": 1650885488,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -496598159
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "4B",
+        "name": "Before an Exam",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/4/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/4/submission/154931018"
+    },
+    {
+      "type": "codeforces",
       "id": 153598499,
       "creationTime": 1649897525,
       "language": "GNU C++14",
