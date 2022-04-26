@@ -1,32 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1650921016,
+  "updateTime": 1651007501,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 154931783,
-            "pid": "4C",
-            "name": "Registration System",
-            "verdict": "OK",
-            "creationTime": 1650886036
-          },
-          {
-            "platform": "codeforces",
-            "id": 154931018,
-            "pid": "4B",
-            "name": "Before an Exam",
-            "verdict": "OK",
-            "creationTime": 1650885488
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "98440d75e6b4a87bc77ae07f3249ff6b6a485db9"
+  "ref": "ba2a33217c8f93fe1411087c65eac21864ed2ada"
 }

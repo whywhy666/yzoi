@@ -78,6 +78,7 @@
         "id": "1662C",
         "name": "European Trip",
         "tags": [
+          "dp",
           "graphs",
           "math",
           "matrices"
@@ -132,6 +133,7 @@
         "id": "1662N",
         "name": "Drone Photo",
         "tags": [
+          "combinatorics",
           "math",
           "sortings"
         ],
@@ -186,6 +188,8 @@
         "id": "1662G",
         "name": "Gastronomic Event",
         "tags": [
+          "dp",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/G"
@@ -524,6 +528,7 @@
         "name": "Cross Xor",
         "rating": 3200,
         "tags": [
+          "constructive algorithms",
           "graphs",
           "math"
         ],
@@ -743,6 +748,7 @@
         "rating": 2700,
         "tags": [
           "constructive algorithms",
+          "data structures",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1672/problem/H"
