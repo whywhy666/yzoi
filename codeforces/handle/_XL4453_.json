@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 155205477,
+      "creationTime": 1651149846,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -496333801
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "78D",
+        "name": "Archer's Shot",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "geometry",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/78/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/78/submission/155205477"
+    },
+    {
+      "type": "codeforces",
       "id": 154931783,
       "creationTime": 1650886036,
       "language": "GNU C++14",

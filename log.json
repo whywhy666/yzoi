@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1651093872,
+  "updateTime": 1651180221,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 155205477,
+            "pid": "78D",
+            "name": "Archer's Shot",
+            "verdict": "OK",
+            "creationTime": 1651149846
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e4ddeee846b2cab7318f183e1322bf52e203bdc4"
+  "ref": "22cd036cd5a45bdb8ba64d3dd2ceda0b7492ee53"
 }
