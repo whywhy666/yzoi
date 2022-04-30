@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 155336861,
+      "creationTime": 1651278375,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -496205272
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665B",
+        "name": "Array Cloning Technique",
+        "rating": 900,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/155336861"
+    },
+    {
+      "type": "codeforces",
+      "id": 155336854,
+      "creationTime": 1651278364,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -496205283
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665B",
+        "name": "Array Cloning Technique",
+        "rating": 900,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/155336854"
+    },
+    {
+      "type": "codeforces",
       "id": 155205477,
       "creationTime": 1651149846,
       "language": "GNU C++14",

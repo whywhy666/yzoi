@@ -1,9 +1,32 @@
 {
   "version": "0.1.16",
-  "updateTime": 1651266680,
+  "updateTime": 1651353045,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 155336861,
+            "pid": "1665B",
+            "name": "Array Cloning Technique",
+            "verdict": "OK",
+            "creationTime": 1651278375
+          },
+          {
+            "platform": "codeforces",
+            "id": 155336854,
+            "pid": "1665B",
+            "name": "Array Cloning Technique",
+            "verdict": "OK",
+            "creationTime": 1651278364
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "02a4cfded348e836ee5b6ab8f67fd6a7ad24e865"
+  "ref": "4a04c05946857631f1247e4a44df1ba7deb46f94"
 }
