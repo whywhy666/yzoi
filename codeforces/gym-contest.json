@@ -14278,5 +14278,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103671",
     "standingsUrl": "https://codeforces.com/gym/103671/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Spring 2022 Open Contest",
+    "startTime": 1651338900,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103677,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103677",
+    "standingsUrl": "https://codeforces.com/gym/103677/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2022 VII Интеллектуальная олимпиада ПФО среди школьников",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103678,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103678",
+    "standingsUrl": "https://codeforces.com/gym/103678/standings"
   }
 ]
