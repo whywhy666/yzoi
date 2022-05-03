@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1651525755,
+  "updateTime": 1651612277,
   "history": {
     "user": [
       {
@@ -8,91 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 155635415,
-            "pid": "1637F",
-            "name": "Towers",
+            "id": 155779059,
+            "pid": "1629A",
+            "name": "Download More RAM",
             "verdict": "OK",
-            "creationTime": 1651504456
+            "creationTime": 1651591994
           },
           {
             "platform": "codeforces",
-            "id": 155634421,
-            "pid": "1637F",
-            "name": "Towers",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1651504387
-          },
-          {
-            "platform": "codeforces",
-            "id": 155567180,
-            "pid": "487C",
-            "name": "Prefix Product Sequence",
+            "id": 155778985,
+            "pid": "1629A",
+            "name": "Download More RAM",
             "verdict": "OK",
-            "creationTime": 1651479816
-          },
-          {
-            "platform": "codeforces",
-            "id": 155567151,
-            "pid": "487C",
-            "name": "Prefix Product Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1651479783
-          },
-          {
-            "platform": "codeforces",
-            "id": 155567080,
-            "pid": "487C",
-            "name": "Prefix Product Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1651479700
-          },
-          {
-            "platform": "codeforces",
-            "id": 155522551,
-            "pid": "1665D",
-            "name": "GCD Guess",
-            "verdict": "OK",
-            "creationTime": 1651420669
-          },
-          {
-            "platform": "codeforces",
-            "id": 155522481,
-            "pid": "1665D",
-            "name": "GCD Guess",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1651420607
-          },
-          {
-            "platform": "codeforces",
-            "id": 155522207,
-            "pid": "1665D",
-            "name": "GCD Guess",
-            "verdict": "IDLENESS_LIMIT_EXCEEDED",
-            "creationTime": 1651420342
-          },
-          {
-            "platform": "codeforces",
-            "id": 155506527,
-            "pid": "1665C",
-            "name": "Tree Infection",
-            "verdict": "OK",
-            "creationTime": 1651406729
-          },
-          {
-            "platform": "codeforces",
-            "id": 155506490,
-            "pid": "1665C",
-            "name": "Tree Infection",
-            "verdict": "OK",
-            "creationTime": 1651406694
-          },
-          {
-            "platform": "codeforces",
-            "id": 155506426,
-            "pid": "1665C",
-            "name": "Tree Infection",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1651406648
+            "creationTime": 1651591940
           }
         ],
         "newContests": []
@@ -100,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "f29e89b63bd7d139f4f6e834a3e79c608577d72e"
+  "ref": "48a26c62dbd148e3dbd1ae9f73e61d9d777cebc9"
 }
