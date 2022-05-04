@@ -1,32 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1651612277,
+  "updateTime": 1651698712,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 155779059,
-            "pid": "1629A",
-            "name": "Download More RAM",
-            "verdict": "OK",
-            "creationTime": 1651591994
-          },
-          {
-            "platform": "codeforces",
-            "id": 155778985,
-            "pid": "1629A",
-            "name": "Download More RAM",
-            "verdict": "OK",
-            "creationTime": 1651591940
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "48a26c62dbd148e3dbd1ae9f73e61d9d777cebc9"
+  "ref": "7361acd62922f0e55db63671624abb0c6cffb344"
 }
