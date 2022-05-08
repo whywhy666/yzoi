@@ -6,6 +6,133 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 156323238,
+      "creationTime": 1652023201,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652020500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1677D",
+        "name": "Tokitsukaze and Permutations",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1677/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1677/submission/156323238"
+    },
+    {
+      "type": "codeforces",
+      "id": 156318644,
+      "creationTime": 1652022591,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652020500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1677E",
+        "name": "Tokitsukaze and Beautiful Subsegments",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1677/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1677/submission/156318644"
+    },
+    {
+      "type": "codeforces",
+      "id": 156302984,
+      "creationTime": 1652021132,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652020500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1677C",
+        "name": "Tokitsukaze and Two Colorful Tapes",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1677/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1677/submission/156302984"
+    },
+    {
+      "type": "codeforces",
+      "id": 156299817,
+      "creationTime": 1652020930,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652020500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1677B",
+        "name": "Tokitsukaze and Meeting",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1677/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1677/submission/156299817"
+    },
+    {
+      "type": "codeforces",
+      "id": 156295896,
+      "creationTime": 1652020617,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652020500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1677A",
+        "name": "Tokitsukaze and Strange Inequality",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1677/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1677/submission/156295896"
+    },
+    {
+      "type": "codeforces",
       "id": 154863985,
       "creationTime": 1650811589,
       "language": "GNU C++20 (64)",
@@ -102873,7 +103000,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3814,
+    "rating": 3805,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
