@@ -22,6 +22,7 @@
         "id": "1677D",
         "name": "Tokitsukaze and Permutations",
         "tags": [
+          "combinatorics",
           "dp",
           "math"
         ],
@@ -73,7 +74,6 @@
         "tags": [
           "constructive algorithms",
           "dfs and similar",
-          "dsu",
           "graphs",
           "greedy"
         ],
