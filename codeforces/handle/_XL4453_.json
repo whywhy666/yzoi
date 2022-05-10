@@ -6,6 +6,93 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 156667809,
+      "creationTime": 1652195483,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -495288164
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "959E",
+        "name": "Mahmoud and Ehab and the xor-MST",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/959/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/959/submission/156667809"
+    },
+    {
+      "type": "codeforces",
+      "id": 156663695,
+      "creationTime": 1652195266,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -495288381
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "959E",
+        "name": "Mahmoud and Ehab and the xor-MST",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/959/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/959/submission/156663695"
+    },
+    {
+      "type": "codeforces",
+      "id": 156629413,
+      "creationTime": 1652194145,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -495289502
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "959E",
+        "name": "Mahmoud and Ehab and the xor-MST",
+        "rating": 1900,
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/959/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/959/submission/156629413"
+    },
+    {
+      "type": "codeforces",
       "id": 155779059,
       "creationTime": 1651591994,
       "language": "GNU C++14",
