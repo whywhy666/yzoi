@@ -21,11 +21,11 @@
         "type": "codeforces",
         "id": "1677D",
         "name": "Tokitsukaze and Permutations",
+        "rating": 2500,
         "tags": [
+          "combinatorics",
           "dp",
-          "implementation",
-          "math",
-          "sortings"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1677/problem/D"
       },
@@ -48,6 +48,7 @@
         "type": "codeforces",
         "id": "1677E",
         "name": "Tokitsukaze and Beautiful Subsegments",
+        "rating": 2900,
         "tags": [
           "data structures"
         ],
@@ -72,6 +73,7 @@
         "type": "codeforces",
         "id": "1677C",
         "name": "Tokitsukaze and Two Colorful Tapes",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -99,6 +101,7 @@
         "type": "codeforces",
         "id": "1677B",
         "name": "Tokitsukaze and Meeting",
+        "rating": 1700,
         "tags": [
           "implementation",
           "math"
@@ -124,6 +127,7 @@
         "type": "codeforces",
         "id": "1677A",
         "name": "Tokitsukaze and Strange Inequality",
+        "rating": 1600,
         "tags": [
           "brute force",
           "data structures",

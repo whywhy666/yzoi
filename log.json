@@ -1,40 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1652217062,
+  "updateTime": 1652303467,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 156667809,
-            "pid": "959E",
-            "name": "Mahmoud and Ehab and the xor-MST",
-            "verdict": "OK",
-            "creationTime": 1652195483
-          },
-          {
-            "platform": "codeforces",
-            "id": 156663695,
-            "pid": "959E",
-            "name": "Mahmoud and Ehab and the xor-MST",
-            "verdict": "OK",
-            "creationTime": 1652195266
-          },
-          {
-            "platform": "codeforces",
-            "id": 156629413,
-            "pid": "959E",
-            "name": "Mahmoud and Ehab and the xor-MST",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1652194145
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "aea4e5c420e6bcc949ba9e1fcb5d3f3fcae04ef8"
+  "ref": "cdcb91025012c686e8262f77f3a227b4b3be9171"
 }

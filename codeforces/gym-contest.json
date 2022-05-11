@@ -13040,6 +13040,17 @@
     "standingsUrl": "https://codeforces.com/gym/103317/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "OPEI 2021 - Junior",
+    "startTime": 1635616800,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 103324,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103324",
+    "standingsUrl": "https://codeforces.com/gym/103324/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Сириус.2021.Ноябрь.Очный отбор",
     "duration": 14400,
@@ -13068,6 +13079,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103329",
     "standingsUrl": "https://codeforces.com/gym/103329/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OPEI 2021 - Senior",
+    "startTime": 1635616800,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 103336,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103336",
+    "standingsUrl": "https://codeforces.com/gym/103336/standings"
   },
   {
     "type": "codeforces/gym/icpc",
