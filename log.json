@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1652389800,
+  "updateTime": 1652476262,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 156999612,
+            "pid": "1553E",
+            "name": "Permutation Shift",
+            "verdict": "OK",
+            "creationTime": 1652440103
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fe7f9335a8fbe32991f323dd103a93f5311e842d"
+  "ref": "f214041fc1209d5beab91097f63e0837bcad41a9"
 }

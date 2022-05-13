@@ -6,6 +6,37 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 156999612,
+      "creationTime": 1652440103,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -495043544
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1553E",
+        "name": "Permutation Shift",
+        "rating": 2100,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1553/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1553/submission/156999612"
+    },
+    {
+      "type": "codeforces",
       "id": 156667809,
       "creationTime": 1652195483,
       "language": "GNU C++14",
