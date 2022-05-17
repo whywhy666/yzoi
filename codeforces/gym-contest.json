@@ -14342,5 +14342,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103698",
     "standingsUrl": "https://codeforces.com/gym/103698/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Software Engineering Cup 2022",
+    "startTime": 1652601600,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103714,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103714",
+    "standingsUrl": "https://codeforces.com/gym/103714/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Сурские таланты 2022",
+    "startTime": 1647759600,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103715,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103715",
+    "standingsUrl": "https://codeforces.com/gym/103715/standings"
   }
 ]
