@@ -14334,6 +14334,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 17th Heilongjiang Provincial Collegiate Programming Contest",
+    "startTime": 1652576400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103688,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103688",
+    "standingsUrl": "https://codeforces.com/gym/103688/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 4th Turing Cup",
     "startTime": 1652576400,
     "duration": 14400,
@@ -14342,6 +14353,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103698",
     "standingsUrl": "https://codeforces.com/gym/103698/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 ICPC Gran Premio de Mexico 1ra Fecha",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103708,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103708",
+    "standingsUrl": "https://codeforces.com/gym/103708/standings"
   },
   {
     "type": "codeforces/gym/icpc",
