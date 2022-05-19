@@ -6,6 +6,216 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 157720671,
+      "creationTime": 1652976738,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684H",
+        "name": "Hard Cut",
+        "tags": [
+          "constructive algorithms",
+          "divide and conquer",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157720671"
+    },
+    {
+      "type": "codeforces",
+      "id": 157708800,
+      "creationTime": 1652974759,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684G",
+        "name": "Euclid Guess",
+        "tags": [
+          "flows",
+          "graph matchings",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157708800"
+    },
+    {
+      "type": "codeforces",
+      "id": 157703000,
+      "creationTime": 1652973898,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684F",
+        "name": "Diverse Segments",
+        "tags": [
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157703000"
+    },
+    {
+      "type": "codeforces",
+      "id": 157687824,
+      "creationTime": 1652972185,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684E",
+        "name": "MEX vs DIFF",
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "hashing",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157687824"
+    },
+    {
+      "type": "codeforces",
+      "id": 157681158,
+      "creationTime": 1652971653,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684D",
+        "name": "Traps",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157681158"
+    },
+    {
+      "type": "codeforces",
+      "id": 157676125,
+      "creationTime": 1652971361,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684C",
+        "name": "Column Swapping",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157676125"
+    },
+    {
+      "type": "codeforces",
+      "id": 157669712,
+      "creationTime": 1652971052,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684B",
+        "name": "Z mod X = C",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157669712"
+    },
+    {
+      "type": "codeforces",
+      "id": 157669088,
+      "creationTime": 1652970964,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1652970900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1684A",
+        "name": "Digit Minimization",
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1684/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1684/submission/157669088"
+    },
+    {
+      "type": "codeforces",
       "id": 156323238,
       "creationTime": 1652023201,
       "language": "GNU C++20 (64)",
@@ -103006,7 +103216,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3805,
+    "rating": 3882,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
