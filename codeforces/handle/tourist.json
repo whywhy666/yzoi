@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1684H",
         "name": "Hard Cut",
+        "rating": 3400,
         "tags": [
           "constructive algorithms",
           "divide and conquer",
@@ -47,7 +48,9 @@
         "type": "codeforces",
         "id": "1684G",
         "name": "Euclid Guess",
+        "rating": 2800,
         "tags": [
+          "constructive algorithms",
           "flows",
           "graph matchings",
           "math",
@@ -74,7 +77,10 @@
         "type": "codeforces",
         "id": "1684F",
         "name": "Diverse Segments",
+        "rating": 2600,
         "tags": [
+          "binary search",
+          "data structures",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1684/problem/F"
@@ -98,13 +104,13 @@
         "type": "codeforces",
         "id": "1684E",
         "name": "MEX vs DIFF",
+        "rating": 2100,
         "tags": [
           "binary search",
           "brute force",
           "constructive algorithms",
           "data structures",
           "greedy",
-          "hashing",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1684/problem/E"
@@ -128,6 +134,7 @@
         "type": "codeforces",
         "id": "1684D",
         "name": "Traps",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -154,6 +161,7 @@
         "type": "codeforces",
         "id": "1684C",
         "name": "Column Swapping",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -180,6 +188,7 @@
         "type": "codeforces",
         "id": "1684B",
         "name": "Z mod X = C",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -205,6 +214,7 @@
         "type": "codeforces",
         "id": "1684A",
         "name": "Digit Minimization",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "games",
@@ -103216,7 +103226,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3882,
+    "rating": 3805,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

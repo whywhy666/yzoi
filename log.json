@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1652994675,
+  "updateTime": 1653081107,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 157720671,
-            "pid": "1684H",
-            "name": "Hard Cut",
-            "verdict": "OK",
-            "creationTime": 1652976738
-          },
-          {
-            "platform": "codeforces",
-            "id": 157708800,
-            "pid": "1684G",
-            "name": "Euclid Guess",
-            "verdict": "OK",
-            "creationTime": 1652974759
-          },
-          {
-            "platform": "codeforces",
-            "id": 157703000,
-            "pid": "1684F",
-            "name": "Diverse Segments",
-            "verdict": "OK",
-            "creationTime": 1652973898
-          },
-          {
-            "platform": "codeforces",
-            "id": 157687824,
-            "pid": "1684E",
-            "name": "MEX vs DIFF",
-            "verdict": "OK",
-            "creationTime": 1652972185
-          },
-          {
-            "platform": "codeforces",
-            "id": 157681158,
-            "pid": "1684D",
-            "name": "Traps",
-            "verdict": "OK",
-            "creationTime": 1652971653
-          },
-          {
-            "platform": "codeforces",
-            "id": 157676125,
-            "pid": "1684C",
-            "name": "Column Swapping",
-            "verdict": "OK",
-            "creationTime": 1652971361
-          },
-          {
-            "platform": "codeforces",
-            "id": 157669712,
-            "pid": "1684B",
-            "name": "Z mod X = C",
-            "verdict": "OK",
-            "creationTime": 1652971052
-          },
-          {
-            "platform": "codeforces",
-            "id": 157669088,
-            "pid": "1684A",
-            "name": "Digit Minimization",
-            "verdict": "OK",
-            "creationTime": 1652970964
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7e415c7d62b4a1676b36c18d80d8639a04d99cb8"
+  "ref": "18236609a9f9e77c30a3ab83292ef6a62def2ba6"
 }

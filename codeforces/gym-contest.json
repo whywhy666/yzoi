@@ -14385,5 +14385,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103715",
     "standingsUrl": "https://codeforces.com/gym/103715/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "VII Липецкая командная олимпиада школьников по программированию. Финал. 8-11 классы",
+    "startTime": 1652511900,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103719,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103719",
+    "standingsUrl": "https://codeforces.com/gym/103719/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "VII Липецкая командная олимпиада школьников по программированию. Финал. 3-7 классы",
+    "startTime": 1652511900,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103720,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103720",
+    "standingsUrl": "https://codeforces.com/gym/103720/standings"
   }
 ]
