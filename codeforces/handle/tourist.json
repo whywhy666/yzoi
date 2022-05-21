@@ -79,7 +79,6 @@
         "name": "Diverse Segments",
         "rating": 2600,
         "tags": [
-          "binary search",
           "data structures",
           "two pointers"
         ],
@@ -218,7 +217,8 @@
         "tags": [
           "constructive algorithms",
           "games",
-          "math"
+          "math",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1684/problem/A"
       },
@@ -103226,7 +103226,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3805,
+    "rating": 3882,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
