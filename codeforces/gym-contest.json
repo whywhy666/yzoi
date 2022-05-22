@@ -14407,5 +14407,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103720",
     "standingsUrl": "https://codeforces.com/gym/103720/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Hubei Provincial Collegiate Programming Contest",
+    "startTime": 1653188400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103729,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103729",
+    "standingsUrl": "https://codeforces.com/gym/103729/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Modern Art 4",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103731,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103731",
+    "standingsUrl": "https://codeforces.com/gym/103731/standings"
   }
 ]
