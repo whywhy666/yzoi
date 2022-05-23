@@ -6,6 +6,163 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 158182756,
+      "creationTime": 1653318567,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653316500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1681E",
+        "name": "Labyrinth Adventures",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1681/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1681/submission/158182756"
+    },
+    {
+      "type": "codeforces",
+      "id": 158169620,
+      "creationTime": 1653317566,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653316500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1681D",
+        "name": "Required Length",
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "hashing",
+          "number theory",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1681/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1681/submission/158169620"
+    },
+    {
+      "type": "codeforces",
+      "id": 158163420,
+      "creationTime": 1653317212,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653316500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1681F",
+        "name": "Unique Occurrences",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1681/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1681/submission/158163420"
+    },
+    {
+      "type": "codeforces",
+      "id": 158154298,
+      "creationTime": 1653316739,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653316500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1681C",
+        "name": "Double Sort",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1681/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1681/submission/158154298"
+    },
+    {
+      "type": "codeforces",
+      "id": 158153598,
+      "creationTime": 1653316619,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653316500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1681B",
+        "name": "Card Trick",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1681/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1681/submission/158153598"
+    },
+    {
+      "type": "codeforces",
+      "id": 158153541,
+      "creationTime": 1653316572,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653316500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1681A",
+        "name": "Game with Cards",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1681/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1681/submission/158153541"
+    },
+    {
+      "type": "codeforces",
       "id": 157720671,
       "creationTime": 1652976738,
       "language": "GNU C++20 (64)",
@@ -162,7 +319,9 @@
         "name": "Column Swapping",
         "rating": 1400,
         "tags": [
+          "brute force",
           "constructive algorithms",
+          "greedy",
           "implementation",
           "sortings"
         ],
