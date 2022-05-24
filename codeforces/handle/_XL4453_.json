@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 158281707,
+      "creationTime": 1653383394,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -494100253
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "12C",
+        "name": "Fruits",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/12/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/12/submission/158281707"
+    },
+    {
+      "type": "codeforces",
       "id": 156999612,
       "creationTime": 1652440103,
       "language": "GNU C++14",

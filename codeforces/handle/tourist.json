@@ -21,9 +21,12 @@
         "type": "codeforces",
         "id": "1681E",
         "name": "Labyrinth Adventures",
+        "rating": 2600,
         "tags": [
           "data structures",
-          "dp"
+          "dp",
+          "greedy",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1681/problem/E"
       },
@@ -46,12 +49,12 @@
         "type": "codeforces",
         "id": "1681D",
         "name": "Required Length",
+        "rating": 1700,
         "tags": [
           "brute force",
           "dfs and similar",
           "dp",
           "hashing",
-          "number theory",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1681/problem/D"
@@ -75,6 +78,7 @@
         "type": "codeforces",
         "id": "1681F",
         "name": "Unique Occurrences",
+        "rating": 2300,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -104,6 +108,7 @@
         "type": "codeforces",
         "id": "1681C",
         "name": "Double Sort",
+        "rating": 1200,
         "tags": [
           "implementation",
           "sortings"
@@ -129,6 +134,7 @@
         "type": "codeforces",
         "id": "1681B",
         "name": "Card Trick",
+        "rating": 800,
         "tags": [
           "implementation",
           "math"
@@ -154,8 +160,10 @@
         "type": "codeforces",
         "id": "1681A",
         "name": "Game with Cards",
+        "rating": 800,
         "tags": [
-          "games"
+          "games",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1681/problem/A"
       },
@@ -181,6 +189,7 @@
         "rating": 3400,
         "tags": [
           "constructive algorithms",
+          "dfs and similar",
           "divide and conquer",
           "math"
         ],
