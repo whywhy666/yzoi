@@ -6,6 +6,158 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 158458494,
+      "creationTime": 1653505741,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653500100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1685D2",
+        "name": "Permutation Weight (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1685/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1685/submission/158458494"
+    },
+    {
+      "type": "codeforces",
+      "id": 158447907,
+      "creationTime": 1653503644,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653500100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1685D2",
+        "name": "Permutation Weight (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1685/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1685/submission/158447907"
+    },
+    {
+      "type": "codeforces",
+      "id": 158437819,
+      "creationTime": 1653502243,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653500100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1685D1",
+        "name": "Permutation Weight (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1685/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1685/submission/158437819"
+    },
+    {
+      "type": "codeforces",
+      "id": 158430630,
+      "creationTime": 1653501489,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653500100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1685C",
+        "name": "Bring Balance",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1685/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1685/submission/158430630"
+    },
+    {
+      "type": "codeforces",
+      "id": 158419568,
+      "creationTime": 1653500627,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653500100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1685B",
+        "name": "Linguistics",
+        "tags": [
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1685/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1685/submission/158419568"
+    },
+    {
+      "type": "codeforces",
+      "id": 158414483,
+      "creationTime": 1653500275,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1653500100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1685A",
+        "name": "Circular Local MiniMax",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1685/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1685/submission/158414483"
+    },
+    {
+      "type": "codeforces",
       "id": 158182756,
       "creationTime": 1653318567,
       "language": "GNU C++20 (64)",
@@ -26,7 +178,8 @@
           "data structures",
           "dp",
           "greedy",
-          "matrices"
+          "matrices",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1681/problem/E"
       },
@@ -103394,7 +103547,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3882,
+    "rating": 3764,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

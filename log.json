@@ -1,18 +1,58 @@
 {
   "version": "0.1.16",
-  "updateTime": 1653426673,
+  "updateTime": 1653513089,
   "history": {
     "user": [
       {
-        "name": "陈陆洋",
+        "name": "tourist",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 158281707,
-            "pid": "12C",
-            "name": "Fruits",
+            "id": 158458494,
+            "pid": "1685D2",
+            "name": "Permutation Weight (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1653505741
+          },
+          {
+            "platform": "codeforces",
+            "id": 158447907,
+            "pid": "1685D2",
+            "name": "Permutation Weight (Hard Version)",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1653503644
+          },
+          {
+            "platform": "codeforces",
+            "id": 158437819,
+            "pid": "1685D1",
+            "name": "Permutation Weight (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1653383394
+            "creationTime": 1653502243
+          },
+          {
+            "platform": "codeforces",
+            "id": 158430630,
+            "pid": "1685C",
+            "name": "Bring Balance",
+            "verdict": "OK",
+            "creationTime": 1653501489
+          },
+          {
+            "platform": "codeforces",
+            "id": 158419568,
+            "pid": "1685B",
+            "name": "Linguistics",
+            "verdict": "OK",
+            "creationTime": 1653500627
+          },
+          {
+            "platform": "codeforces",
+            "id": 158414483,
+            "pid": "1685A",
+            "name": "Circular Local MiniMax",
+            "verdict": "OK",
+            "creationTime": 1653500275
           }
         ],
         "newContests": []
@@ -20,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "20c0daeff7b29342ca048b5261a253a6ee38394f"
+  "ref": "94523059453c3d84ed8a21af5037fa258175b4fe"
 }
