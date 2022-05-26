@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1685D2",
         "name": "Permutation Weight (Hard Version)",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1685D2",
         "name": "Permutation Weight (Hard Version)",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -71,6 +73,7 @@
         "type": "codeforces",
         "id": "1685D1",
         "name": "Permutation Weight (Easy Version)",
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -97,8 +100,10 @@
         "type": "codeforces",
         "id": "1685C",
         "name": "Bring Balance",
+        "rating": 2600,
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1685/problem/C"
       },
@@ -121,6 +126,7 @@
         "type": "codeforces",
         "id": "1685B",
         "name": "Linguistics",
+        "rating": 2000,
         "tags": [
           "greedy",
           "implementation",
@@ -147,6 +153,7 @@
         "type": "codeforces",
         "id": "1685A",
         "name": "Circular Local MiniMax",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy",

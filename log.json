@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1653513089,
+  "updateTime": 1653599530,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 158458494,
-            "pid": "1685D2",
-            "name": "Permutation Weight (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1653505741
-          },
-          {
-            "platform": "codeforces",
-            "id": 158447907,
-            "pid": "1685D2",
-            "name": "Permutation Weight (Hard Version)",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1653503644
-          },
-          {
-            "platform": "codeforces",
-            "id": 158437819,
-            "pid": "1685D1",
-            "name": "Permutation Weight (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1653502243
-          },
-          {
-            "platform": "codeforces",
-            "id": 158430630,
-            "pid": "1685C",
-            "name": "Bring Balance",
-            "verdict": "OK",
-            "creationTime": 1653501489
-          },
-          {
-            "platform": "codeforces",
-            "id": 158419568,
-            "pid": "1685B",
-            "name": "Linguistics",
-            "verdict": "OK",
-            "creationTime": 1653500627
-          },
-          {
-            "platform": "codeforces",
-            "id": 158414483,
-            "pid": "1685A",
-            "name": "Circular Local MiniMax",
-            "verdict": "OK",
-            "creationTime": 1653500275
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "94523059453c3d84ed8a21af5037fa258175b4fe"
+  "ref": "66642a40c4a32e695d74366abace4f4574d2fbe4"
 }
