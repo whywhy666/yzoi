@@ -102,6 +102,7 @@
         "name": "Bring Balance",
         "rating": 2600,
         "tags": [
+          "brute force",
           "constructive algorithms",
           "greedy"
         ],
@@ -130,7 +131,8 @@
         "tags": [
           "greedy",
           "implementation",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1685/problem/B"
       },
@@ -183,6 +185,7 @@
         "rating": 2600,
         "tags": [
           "data structures",
+          "divide and conquer",
           "dp",
           "greedy",
           "matrices",
