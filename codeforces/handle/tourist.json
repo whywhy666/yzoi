@@ -131,8 +131,7 @@
         "tags": [
           "greedy",
           "implementation",
-          "strings",
-          "two pointers"
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1685/problem/B"
       },
@@ -185,9 +184,7 @@
         "rating": 2600,
         "tags": [
           "data structures",
-          "divide and conquer",
           "dp",
-          "greedy",
           "matrices",
           "shortest paths"
         ],

@@ -14429,5 +14429,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103736",
     "standingsUrl": "https://codeforces.com/gym/103736/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HUSTPC 2022",
+    "startTime": 1653712200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103741,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103741",
+    "standingsUrl": "https://codeforces.com/gym/103741/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Jiangsu Collegiate Programming Contest",
+    "startTime": 1646017200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103743,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103743",
+    "standingsUrl": "https://codeforces.com/gym/103743/standings"
   }
 ]
