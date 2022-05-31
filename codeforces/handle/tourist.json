@@ -6,6 +6,164 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 159012769,
+      "creationTime": 1654009043,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1654007700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1691F",
+        "name": "K-Set Tree",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1691/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1691/submission/159012769"
+    },
+    {
+      "type": "codeforces",
+      "id": 159003111,
+      "creationTime": 1654008512,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1654007700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1691C",
+        "name": "Sum of Substrings",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1691/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1691/submission/159003111"
+    },
+    {
+      "type": "codeforces",
+      "id": 158999255,
+      "creationTime": 1654008336,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1654007700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1691E",
+        "name": "Number of Groups",
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1691/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1691/submission/158999255"
+    },
+    {
+      "type": "codeforces",
+      "id": 158999055,
+      "creationTime": 1654008329,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1654007700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1691D",
+        "name": "Max GEQ Sum",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1691/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1691/submission/158999055"
+    },
+    {
+      "type": "codeforces",
+      "id": 158998895,
+      "creationTime": 1654008323,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1654007700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1691A",
+        "name": "Beat The Odds",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1691/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1691/submission/158998895"
+    },
+    {
+      "type": "codeforces",
+      "id": 158998666,
+      "creationTime": 1654008315,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1654007700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1691B",
+        "name": "Shoe Shuffling",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1691/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1691/submission/158998666"
+    },
+    {
+      "type": "codeforces",
       "id": 158458494,
       "creationTime": 1653505741,
       "language": "GNU C++20 (64)",
@@ -131,6 +289,7 @@
         "tags": [
           "greedy",
           "implementation",
+          "sortings",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1685/problem/B"
