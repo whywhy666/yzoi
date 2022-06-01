@@ -2,7 +2,7 @@
   "type": "codeforces",
   "handle": "tourist",
   "handleUrl": "https://codeforces.com/profile/tourist",
-  "avatar": "https://cdn-userpic.codeforces.com/422/title/50a270ed4a722867.jpg",
+  "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
   "submissions": [
     {
       "type": "codeforces",
@@ -23,7 +23,9 @@
         "name": "K-Set Tree",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dp",
+          "math",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1691/problem/F"
@@ -48,6 +50,7 @@
         "id": "1691C",
         "name": "Sum of Substrings",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "greedy",
           "math",
@@ -78,6 +81,7 @@
           "data structures",
           "dsu",
           "graphs",
+          "greedy",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1691/problem/E"
@@ -105,7 +109,10 @@
           "binary search",
           "constructive algorithms",
           "data structures",
-          "divide and conquer"
+          "divide and conquer",
+          "implementation",
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1691/problem/D"
       },
@@ -129,6 +136,7 @@
         "id": "1691A",
         "name": "Beat The Odds",
         "tags": [
+          "constructive algorithms",
           "greedy",
           "math"
         ],
@@ -155,8 +163,9 @@
         "name": "Shoe Shuffling",
         "tags": [
           "constructive algorithms",
-          "graphs",
-          "implementation"
+          "greedy",
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1691/problem/B"
       },
