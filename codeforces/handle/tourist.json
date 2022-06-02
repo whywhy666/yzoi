@@ -79,6 +79,7 @@
         "name": "Number of Groups",
         "tags": [
           "data structures",
+          "dfs and similar",
           "dsu",
           "graphs",
           "greedy",
@@ -111,7 +112,6 @@
           "data structures",
           "divide and conquer",
           "implementation",
-          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1691/problem/D"
@@ -136,6 +136,7 @@
         "id": "1691A",
         "name": "Beat The Odds",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "greedy",
           "math"
