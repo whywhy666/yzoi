@@ -6,6 +6,285 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 159412243,
+      "creationTime": 1654274028,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687E",
+        "name": "Become Big For Me",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159412243"
+    },
+    {
+      "type": "codeforces",
+      "id": 159407951,
+      "creationTime": 1654273328,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687E",
+        "name": "Become Big For Me",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159407951"
+    },
+    {
+      "type": "codeforces",
+      "id": 159407335,
+      "creationTime": 1654273212,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687E",
+        "name": "Become Big For Me",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159407335"
+    },
+    {
+      "type": "codeforces",
+      "id": 159406940,
+      "creationTime": 1654273136,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687E",
+        "name": "Become Big For Me",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159406940"
+    },
+    {
+      "type": "codeforces",
+      "id": 159387507,
+      "creationTime": 1654270045,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687D",
+        "name": "Cute number",
+        "tags": [
+          "binary search",
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159387507"
+    },
+    {
+      "type": "codeforces",
+      "id": 159367127,
+      "creationTime": 1654268123,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687C",
+        "name": "Sanae and Giant Robot",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "dfs and similar",
+          "dsu"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159367127"
+    },
+    {
+      "type": "codeforces",
+      "id": 159356648,
+      "creationTime": 1654267430,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687B",
+        "name": "Railway System",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dsu",
+          "graphs",
+          "greedy",
+          "interactive",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159356648"
+    },
+    {
+      "type": "codeforces",
+      "id": 159355694,
+      "creationTime": 1654267370,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687B",
+        "name": "Railway System",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dsu",
+          "graphs",
+          "greedy",
+          "interactive",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159355694"
+    },
+    {
+      "type": "codeforces",
+      "id": 159355420,
+      "creationTime": 1654267351,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687B",
+        "name": "Railway System",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dsu",
+          "graphs",
+          "greedy",
+          "interactive",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159355420"
+    },
+    {
+      "type": "codeforces",
+      "id": 159352807,
+      "creationTime": 1654267121,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1654266900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1687A",
+        "name": "The Enchanted Forest",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1687/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1687/submission/159352807"
+    },
+    {
+      "type": "codeforces",
       "id": 159012769,
       "creationTime": 1654009043,
       "language": "GNU C++20 (64)",
@@ -21,10 +300,10 @@
         "type": "codeforces",
         "id": "1691F",
         "name": "K-Set Tree",
+        "rating": 2500,
         "tags": [
           "combinatorics",
           "dfs and similar",
-          "dp",
           "math",
           "trees"
         ],
@@ -49,6 +328,7 @@
         "type": "codeforces",
         "id": "1691C",
         "name": "Sum of Substrings",
+        "rating": 1400,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -77,6 +357,7 @@
         "type": "codeforces",
         "id": "1691E",
         "name": "Number of Groups",
+        "rating": 2300,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -106,6 +387,7 @@
         "type": "codeforces",
         "id": "1691D",
         "name": "Max GEQ Sum",
+        "rating": 1800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -135,6 +417,7 @@
         "type": "codeforces",
         "id": "1691A",
         "name": "Beat The Odds",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -162,6 +445,7 @@
         "type": "codeforces",
         "id": "1691B",
         "name": "Shoe Shuffling",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -103723,7 +104007,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3764,
+    "rating": 3732,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
