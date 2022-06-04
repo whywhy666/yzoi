@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1654290582,
+  "updateTime": 1654377101,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 159412243,
-            "pid": "1687E",
-            "name": "Become Big For Me",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1654274028
-          },
-          {
-            "platform": "codeforces",
-            "id": 159407951,
-            "pid": "1687E",
-            "name": "Become Big For Me",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1654273328
-          },
-          {
-            "platform": "codeforces",
-            "id": 159407335,
-            "pid": "1687E",
-            "name": "Become Big For Me",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1654273212
-          },
-          {
-            "platform": "codeforces",
-            "id": 159406940,
-            "pid": "1687E",
-            "name": "Become Big For Me",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1654273136
-          },
-          {
-            "platform": "codeforces",
-            "id": 159387507,
-            "pid": "1687D",
-            "name": "Cute number",
-            "verdict": "OK",
-            "creationTime": 1654270045
-          },
-          {
-            "platform": "codeforces",
-            "id": 159367127,
-            "pid": "1687C",
-            "name": "Sanae and Giant Robot",
-            "verdict": "OK",
-            "creationTime": 1654268123
-          },
-          {
-            "platform": "codeforces",
-            "id": 159356648,
-            "pid": "1687B",
-            "name": "Railway System",
-            "verdict": "OK",
-            "creationTime": 1654267430
-          },
-          {
-            "platform": "codeforces",
-            "id": 159355694,
-            "pid": "1687B",
-            "name": "Railway System",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1654267370
-          },
-          {
-            "platform": "codeforces",
-            "id": 159355420,
-            "pid": "1687B",
-            "name": "Railway System",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1654267351
-          },
-          {
-            "platform": "codeforces",
-            "id": 159352807,
-            "pid": "1687A",
-            "name": "The Enchanted Forest",
-            "verdict": "OK",
-            "creationTime": 1654267121
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "da646ab285c195347a472c9fd079b8e921e660dc"
+  "ref": "615aa417e1b7d890be7ee1eadbcbfd2dd188fa00"
 }
