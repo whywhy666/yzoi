@@ -164,10 +164,10 @@
         "rating": 2500,
         "tags": [
           "brute force",
-          "constructive algorithms",
           "data structures",
           "dfs and similar",
           "dsu",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1687/problem/C"
@@ -197,6 +197,7 @@
           "dsu",
           "graphs",
           "greedy",
+          "implementation",
           "interactive",
           "sortings",
           "trees"
@@ -228,6 +229,7 @@
           "dsu",
           "graphs",
           "greedy",
+          "implementation",
           "interactive",
           "sortings",
           "trees"
@@ -259,6 +261,7 @@
           "dsu",
           "graphs",
           "greedy",
+          "implementation",
           "interactive",
           "sortings",
           "trees"
@@ -286,7 +289,6 @@
         "name": "The Enchanted Forest",
         "rating": 1600,
         "tags": [
-          "constructive algorithms",
           "greedy",
           "math"
         ],
@@ -315,6 +317,7 @@
         "tags": [
           "combinatorics",
           "dfs and similar",
+          "dp",
           "math",
           "trees"
         ],
@@ -431,7 +434,6 @@
         "rating": 800,
         "tags": [
           "brute force",
-          "constructive algorithms",
           "greedy",
           "math"
         ],
