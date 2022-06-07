@@ -25,6 +25,7 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
+          "greedy",
           "math",
           "number theory"
         ],
@@ -53,6 +54,7 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
+          "greedy",
           "math",
           "number theory"
         ],
@@ -81,6 +83,7 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
+          "greedy",
           "math",
           "number theory"
         ],
@@ -109,6 +112,7 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
+          "greedy",
           "math",
           "number theory"
         ],
@@ -137,6 +141,8 @@
         "tags": [
           "binary search",
           "brute force",
+          "data structures",
+          "dsu",
           "implementation",
           "math"
         ],
@@ -163,12 +169,12 @@
         "name": "Sanae and Giant Robot",
         "rating": 2500,
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
-          "dfs and similar",
           "dsu",
           "greedy",
-          "implementation"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1687/problem/C"
       },
@@ -194,13 +200,10 @@
         "rating": 1700,
         "tags": [
           "constructive algorithms",
-          "dsu",
           "graphs",
           "greedy",
-          "implementation",
           "interactive",
-          "sortings",
-          "trees"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1687/problem/B"
       },
@@ -226,13 +229,10 @@
         "rating": 1700,
         "tags": [
           "constructive algorithms",
-          "dsu",
           "graphs",
           "greedy",
-          "implementation",
           "interactive",
-          "sortings",
-          "trees"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1687/problem/B"
       },
@@ -258,13 +258,10 @@
         "rating": 1700,
         "tags": [
           "constructive algorithms",
-          "dsu",
           "graphs",
           "greedy",
-          "implementation",
           "interactive",
-          "sortings",
-          "trees"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1687/problem/B"
       },
@@ -289,8 +286,8 @@
         "name": "The Enchanted Forest",
         "rating": 1600,
         "tags": [
-          "greedy",
-          "math"
+          "brute force",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1687/problem/A"
       },
