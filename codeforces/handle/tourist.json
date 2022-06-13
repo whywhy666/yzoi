@@ -22,7 +22,8 @@
         "id": "1697F",
         "name": "Too Many Constraints",
         "tags": [
-          "2-sat"
+          "2-sat",
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1697/problem/F"
       },
@@ -48,10 +49,13 @@
         "tags": [
           "brute force",
           "combinatorics",
+          "constructive algorithms",
+          "dfs and similar",
           "dp",
           "dsu",
           "geometry",
           "graphs",
+          "greedy",
           "implementation",
           "math"
         ],
@@ -79,6 +83,8 @@
         "tags": [
           "binary search",
           "constructive algorithms",
+          "data structures",
+          "dfs and similar",
           "dsu",
           "interactive"
         ],
