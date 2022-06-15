@@ -21,10 +21,12 @@
         "type": "codeforces",
         "id": "1697F",
         "name": "Too Many Constraints",
+        "rating": 2800,
         "tags": [
           "2-sat",
           "constructive algorithms",
-          "graphs"
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1697/problem/F"
       },
@@ -47,6 +49,7 @@
         "type": "codeforces",
         "id": "1697E",
         "name": "Coloring",
+        "rating": 2400,
         "tags": [
           "brute force",
           "combinatorics",
@@ -78,13 +81,11 @@
         "type": "codeforces",
         "id": "1697D",
         "name": "Guess The String",
+        "rating": 1900,
         "tags": [
           "binary search",
           "constructive algorithms",
-          "data structures",
-          "dfs and similar",
-          "interactive",
-          "strings"
+          "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1697/problem/D"
       },
@@ -107,6 +108,7 @@
         "type": "codeforces",
         "id": "1697C",
         "name": "awoo's Favorite Problem",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -137,6 +139,7 @@
         "type": "codeforces",
         "id": "1697B",
         "name": "Promo",
+        "rating": 900,
         "tags": [
           "greedy",
           "sortings"
@@ -162,6 +165,7 @@
         "type": "codeforces",
         "id": "1697A",
         "name": "Parkway Walk",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
