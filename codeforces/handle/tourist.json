@@ -6,6 +6,193 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 160880702,
+      "creationTime": 1655396632,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1693D",
+        "name": "Decinc Dividing",
+        "rating": 2800,
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1693/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1693/submission/160880702"
+    },
+    {
+      "type": "codeforces",
+      "id": 160876978,
+      "creationTime": 1655396081,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1693E",
+        "name": "Outermost Maximums",
+        "rating": 3400,
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1693/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1693/submission/160876978"
+    },
+    {
+      "type": "codeforces",
+      "id": 160861674,
+      "creationTime": 1655393894,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1693F",
+        "name": "I Might Be Wrong",
+        "rating": 3400,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1693/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1693/submission/160861674"
+    },
+    {
+      "type": "codeforces",
+      "id": 160831750,
+      "creationTime": 1655390696,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1693C",
+        "name": "Keshi in Search of AmShZ",
+        "rating": 2300,
+        "tags": [
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1693/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1693/submission/160831750"
+    },
+    {
+      "type": "codeforces",
+      "id": 160828393,
+      "creationTime": 1655390502,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1693B",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1693/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1693/submission/160828393"
+    },
+    {
+      "type": "codeforces",
+      "id": 160827170,
+      "creationTime": 1655390438,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1693B",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1693/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1693/submission/160827170"
+    },
+    {
+      "type": "codeforces",
+      "id": 160824181,
+      "creationTime": 1655390235,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1655390100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1693A",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1693/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1693/submission/160824181"
+    },
+    {
+      "type": "codeforces",
       "id": 160316028,
       "creationTime": 1655046762,
       "language": "GNU C++20 (64)",
@@ -54,6 +241,7 @@
           "brute force",
           "combinatorics",
           "constructive algorithms",
+          "dp",
           "geometry",
           "graphs",
           "greedy",
@@ -104187,7 +104375,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3732,
+    "rating": 3727,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
