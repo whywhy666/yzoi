@@ -1,66 +1,50 @@
 {
   "version": "0.1.16",
-  "updateTime": 1655413799,
+  "updateTime": 1655500328,
   "history": {
     "user": [
       {
-        "name": "tourist",
+        "name": "然然",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 160880702,
-            "pid": "1693D",
-            "name": "Decinc Dividing",
-            "verdict": "OK",
-            "creationTime": 1655396632
-          },
-          {
-            "platform": "codeforces",
-            "id": 160876978,
-            "pid": "1693E",
-            "name": "Outermost Maximums",
-            "verdict": "OK",
-            "creationTime": 1655396081
-          },
-          {
-            "platform": "codeforces",
-            "id": 160861674,
-            "pid": "1693F",
-            "name": "I Might Be Wrong",
-            "verdict": "OK",
-            "creationTime": 1655393894
-          },
-          {
-            "platform": "codeforces",
-            "id": 160831750,
-            "pid": "1693C",
-            "name": "Keshi in Search of AmShZ",
-            "verdict": "OK",
-            "creationTime": 1655390696
-          },
-          {
-            "platform": "codeforces",
-            "id": 160828393,
-            "pid": "1693B",
+            "id": 160934662,
+            "pid": "1694D",
             "name": "Fake Plastic Trees",
             "verdict": "OK",
-            "creationTime": 1655390502
+            "creationTime": 1655452984
           },
           {
             "platform": "codeforces",
-            "id": 160827170,
-            "pid": "1693B",
+            "id": 160934556,
+            "pid": "1694D",
             "name": "Fake Plastic Trees",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1655390438
+            "creationTime": 1655452892
           },
           {
             "platform": "codeforces",
-            "id": 160824181,
-            "pid": "1693A",
+            "id": 160929554,
+            "pid": "1694C",
             "name": "Directional Increase",
             "verdict": "OK",
-            "creationTime": 1655390235
+            "creationTime": 1655449148
+          },
+          {
+            "platform": "codeforces",
+            "id": 160929026,
+            "pid": "1694B",
+            "name": "Paranoid String",
+            "verdict": "OK",
+            "creationTime": 1655448772
+          },
+          {
+            "platform": "codeforces",
+            "id": 160927812,
+            "pid": "1694A",
+            "name": "Creep",
+            "verdict": "OK",
+            "creationTime": 1655447934
           }
         ],
         "newContests": []
@@ -68,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "8bc71e41b55daa170b5a01a2c852ed9a35643590"
+  "ref": "fdfcf1a3e6dc652f86f55001e80b924d59b823ed"
 }

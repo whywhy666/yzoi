@@ -6,6 +6,137 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 160934662,
+      "creationTime": 1655452984,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -492030663
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694D",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160934662"
+    },
+    {
+      "type": "codeforces",
+      "id": 160934556,
+      "creationTime": 1655452892,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -492030755
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694D",
+        "name": "Fake Plastic Trees",
+        "rating": 1700,
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160934556"
+    },
+    {
+      "type": "codeforces",
+      "id": 160929554,
+      "creationTime": 1655449148,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -492034499
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694C",
+        "name": "Directional Increase",
+        "rating": 1300,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160929554"
+    },
+    {
+      "type": "codeforces",
+      "id": 160929026,
+      "creationTime": 1655448772,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -492034875
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694B",
+        "name": "Paranoid String",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160929026"
+    },
+    {
+      "type": "codeforces",
+      "id": 160927812,
+      "creationTime": 1655447934,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -492035713
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1694A",
+        "name": "Creep",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1694/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1694/submission/160927812"
+    },
+    {
+      "type": "codeforces",
       "id": 153740184,
       "creationTime": 1650039738,
       "language": "GNU C++20 (64)",

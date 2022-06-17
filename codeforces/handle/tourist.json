@@ -23,7 +23,10 @@
         "name": "Decinc Dividing",
         "rating": 2800,
         "tags": [
+          "brute force",
           "data structures",
+          "divide and conquer",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1693/problem/D"
@@ -100,6 +103,7 @@
         "name": "Keshi in Search of AmShZ",
         "rating": 2300,
         "tags": [
+          "brute force",
           "graphs",
           "greedy",
           "shortest paths"
@@ -183,9 +187,7 @@
         "name": "Directional Increase",
         "rating": 1300,
         "tags": [
-          "constructive algorithms",
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1693/problem/A"
       },
@@ -298,9 +300,9 @@
         "name": "awoo's Favorite Problem",
         "rating": 1400,
         "tags": [
+          "binary search",
           "constructive algorithms",
           "data structures",
-          "dp",
           "greedy",
           "implementation",
           "strings",
