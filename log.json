@@ -1,56 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1655500328,
+  "updateTime": 1655586666,
   "history": {
-    "user": [
-      {
-        "name": "然然",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 160934662,
-            "pid": "1694D",
-            "name": "Fake Plastic Trees",
-            "verdict": "OK",
-            "creationTime": 1655452984
-          },
-          {
-            "platform": "codeforces",
-            "id": 160934556,
-            "pid": "1694D",
-            "name": "Fake Plastic Trees",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1655452892
-          },
-          {
-            "platform": "codeforces",
-            "id": 160929554,
-            "pid": "1694C",
-            "name": "Directional Increase",
-            "verdict": "OK",
-            "creationTime": 1655449148
-          },
-          {
-            "platform": "codeforces",
-            "id": 160929026,
-            "pid": "1694B",
-            "name": "Paranoid String",
-            "verdict": "OK",
-            "creationTime": 1655448772
-          },
-          {
-            "platform": "codeforces",
-            "id": 160927812,
-            "pid": "1694A",
-            "name": "Creep",
-            "verdict": "OK",
-            "creationTime": 1655447934
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "fdfcf1a3e6dc652f86f55001e80b924d59b823ed"
+  "ref": "482a62eec48ec337e2724275590686a80b3097b0"
 }
