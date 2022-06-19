@@ -6,6 +6,245 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 161190791,
+      "creationTime": 1655632255,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851392
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692H",
+        "name": "Gambling",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161190791"
+    },
+    {
+      "type": "codeforces",
+      "id": 161190681,
+      "creationTime": 1655632238,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851409
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692H",
+        "name": "Gambling",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161190681"
+    },
+    {
+      "type": "codeforces",
+      "id": 161190568,
+      "creationTime": 1655632222,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851425
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692G",
+        "name": "2^Sort",
+        "rating": 1400,
+        "tags": [
+          "data structures",
+          "dp",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161190568"
+    },
+    {
+      "type": "codeforces",
+      "id": 161190420,
+      "creationTime": 1655632201,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851446
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692F",
+        "name": "3SUM",
+        "rating": 1300,
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161190420"
+    },
+    {
+      "type": "codeforces",
+      "id": 161190328,
+      "creationTime": 1655632187,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851460
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692E",
+        "name": "Binary Deque",
+        "rating": 1200,
+        "tags": [
+          "binary search",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161190328"
+    },
+    {
+      "type": "codeforces",
+      "id": 161189589,
+      "creationTime": 1655632083,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851564
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692D",
+        "name": "The Clock",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161189589"
+    },
+    {
+      "type": "codeforces",
+      "id": 161187053,
+      "creationTime": 1655631746,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851901
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692C",
+        "name": "Where's the Bishop?",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161187053"
+    },
+    {
+      "type": "codeforces",
+      "id": 161186929,
+      "creationTime": 1655631728,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851919
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692B",
+        "name": "All Distinct",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161186929"
+    },
+    {
+      "type": "codeforces",
+      "id": 161186780,
+      "creationTime": 1655631707,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491851940
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1692A",
+        "name": "Marathon",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1692/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1692/submission/161186780"
+    },
+    {
+      "type": "codeforces",
       "id": 160934662,
       "creationTime": 1655452984,
       "language": "GNU C++20 (64)",
