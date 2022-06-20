@@ -14475,6 +14475,16 @@
     "standingsUrl": "https://codeforces.com/gym/103785/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2022 SDUT Summer Trials",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103800,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103800",
+    "standingsUrl": "https://codeforces.com/gym/103800/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "XXVI Spain Olympiad in Informatics, Day 1",
     "duration": 14400,
@@ -14503,5 +14513,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103809",
     "standingsUrl": "https://codeforces.com/gym/103809/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "La Salle-Pui Ching Programming Challenge 培正喇沙編程挑戰賽 2021",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103811,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103811",
+    "standingsUrl": "https://codeforces.com/gym/103811/standings"
   }
 ]

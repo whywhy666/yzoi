@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1655673031,
+  "updateTime": 1655759417,
   "history": {
-    "user": [
-      {
-        "name": "然然",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 161190791,
-            "pid": "1692H",
-            "name": "Gambling",
-            "verdict": "OK",
-            "creationTime": 1655632255
-          },
-          {
-            "platform": "codeforces",
-            "id": 161190681,
-            "pid": "1692H",
-            "name": "Gambling",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1655632238
-          },
-          {
-            "platform": "codeforces",
-            "id": 161190568,
-            "pid": "1692G",
-            "name": "2^Sort",
-            "verdict": "OK",
-            "creationTime": 1655632222
-          },
-          {
-            "platform": "codeforces",
-            "id": 161190420,
-            "pid": "1692F",
-            "name": "3SUM",
-            "verdict": "OK",
-            "creationTime": 1655632201
-          },
-          {
-            "platform": "codeforces",
-            "id": 161190328,
-            "pid": "1692E",
-            "name": "Binary Deque",
-            "verdict": "OK",
-            "creationTime": 1655632187
-          },
-          {
-            "platform": "codeforces",
-            "id": 161189589,
-            "pid": "1692D",
-            "name": "The Clock",
-            "verdict": "OK",
-            "creationTime": 1655632083
-          },
-          {
-            "platform": "codeforces",
-            "id": 161187053,
-            "pid": "1692C",
-            "name": "Where's the Bishop?",
-            "verdict": "OK",
-            "creationTime": 1655631746
-          },
-          {
-            "platform": "codeforces",
-            "id": 161186929,
-            "pid": "1692B",
-            "name": "All Distinct",
-            "verdict": "OK",
-            "creationTime": 1655631728
-          },
-          {
-            "platform": "codeforces",
-            "id": 161186780,
-            "pid": "1692A",
-            "name": "Marathon",
-            "verdict": "OK",
-            "creationTime": 1655631707
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "bacbe13641947e7abdf93be20d7827a749640b10"
+  "ref": "caa13e515db760a16b62af5a3de3a00140081f97"
 }
