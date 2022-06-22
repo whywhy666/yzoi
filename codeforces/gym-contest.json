@@ -14515,6 +14515,16 @@
     "standingsUrl": "https://codeforces.com/gym/103809/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Всероссийская олимпиада школьников по информатике 2021—2022, Муниципальный этап, Челябинская область",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103810,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103810",
+    "standingsUrl": "https://codeforces.com/gym/103810/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "La Salle-Pui Ching Programming Challenge 培正喇沙編程挑戰賽 2021",
     "duration": 14400,
