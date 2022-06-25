@@ -6,6 +6,273 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 161803705,
+      "creationTime": 1656180686,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -491302961
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696D",
+        "name": "Permutation Graph",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161803705"
+    },
+    {
+      "type": "codeforces",
+      "id": 161791355,
+      "creationTime": 1656174596,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696F",
+        "name": "Tree Recovery",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161791355"
+    },
+    {
+      "type": "codeforces",
+      "id": 161788723,
+      "creationTime": 1656174000,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696H",
+        "name": "Maximum Product?",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "dp",
+          "dp",
+          "greedy",
+          "math",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161788723"
+    },
+    {
+      "type": "codeforces",
+      "id": 161757647,
+      "creationTime": 1656169352,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696D",
+        "name": "Permutation Graph",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161757647"
+    },
+    {
+      "type": "codeforces",
+      "id": 161755178,
+      "creationTime": 1656169140,
+      "language": "GNU C++20 (64)",
+      "verdict": "SKIPPED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696D",
+        "name": "Permutation Graph",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161755178"
+    },
+    {
+      "type": "codeforces",
+      "id": 161745235,
+      "creationTime": 1656168474,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696E",
+        "name": "Placing Jinas",
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161745235"
+    },
+    {
+      "type": "codeforces",
+      "id": 161736565,
+      "creationTime": 1656168038,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696C",
+        "name": "Fishingprince Plays With Array",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "dfs and similar",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161736565"
+    },
+    {
+      "type": "codeforces",
+      "id": 161733637,
+      "creationTime": 1656167869,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696B",
+        "name": "NIT Destroys the Universe",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161733637"
+    },
+    {
+      "type": "codeforces",
+      "id": 161733082,
+      "creationTime": 1656167822,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696B",
+        "name": "NIT Destroys the Universe",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161733082"
+    },
+    {
+      "type": "codeforces",
+      "id": 161732856,
+      "creationTime": 1656167762,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1656167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1696A",
+        "name": "NIT orz!",
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1696/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1696/submission/161732856"
+    },
+    {
+      "type": "codeforces",
       "id": 160880702,
       "creationTime": 1655396632,
       "language": "GNU C++20 (64)",
@@ -104378,7 +104645,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3727,
+    "rating": 3671,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
