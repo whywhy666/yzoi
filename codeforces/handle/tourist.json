@@ -22,10 +22,11 @@
         "id": "1696D",
         "name": "Permutation Graph",
         "tags": [
-          "binary search",
           "constructive algorithms",
           "data structures",
-          "greedy"
+          "divide and conquer",
+          "greedy",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1696/problem/D"
       },
@@ -53,6 +54,7 @@
           "constructive algorithms",
           "dfs and similar",
           "graphs",
+          "shortest paths",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1696/problem/F"
@@ -77,12 +79,11 @@
         "id": "1696H",
         "name": "Maximum Product?",
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
-          "dp",
-          "dp",
           "greedy",
-          "math",
+          "implementation",
           "math",
           "two pointers"
         ],
@@ -108,10 +109,11 @@
         "id": "1696D",
         "name": "Permutation Graph",
         "tags": [
-          "binary search",
           "constructive algorithms",
           "data structures",
-          "greedy"
+          "divide and conquer",
+          "greedy",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1696/problem/D"
       },
@@ -135,10 +137,11 @@
         "id": "1696D",
         "name": "Permutation Graph",
         "tags": [
-          "binary search",
           "constructive algorithms",
           "data structures",
-          "greedy"
+          "divide and conquer",
+          "greedy",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1696/problem/D"
       },
@@ -188,9 +191,8 @@
         "name": "Fishingprince Plays With Array",
         "tags": [
           "constructive algorithms",
-          "data structures",
-          "dfs and similar",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1696/problem/C"
       },
@@ -214,8 +216,7 @@
         "id": "1696B",
         "name": "NIT Destroys the Universe",
         "tags": [
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1696/problem/B"
       },
@@ -239,8 +240,7 @@
         "id": "1696B",
         "name": "NIT Destroys the Universe",
         "tags": [
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1696/problem/B"
       },

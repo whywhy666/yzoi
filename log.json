@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1656191388,
+  "updateTime": 1656277772,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 161803705,
-            "pid": "1696D",
-            "name": "Permutation Graph",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1656180686
-          },
-          {
-            "platform": "codeforces",
-            "id": 161791355,
-            "pid": "1696F",
-            "name": "Tree Recovery",
-            "verdict": "OK",
-            "creationTime": 1656174596
-          },
-          {
-            "platform": "codeforces",
-            "id": 161788723,
-            "pid": "1696H",
-            "name": "Maximum Product?",
-            "verdict": "OK",
-            "creationTime": 1656174000
-          },
-          {
-            "platform": "codeforces",
-            "id": 161757647,
-            "pid": "1696D",
-            "name": "Permutation Graph",
-            "verdict": "OK",
-            "creationTime": 1656169352
-          },
-          {
-            "platform": "codeforces",
-            "id": 161755178,
-            "pid": "1696D",
-            "name": "Permutation Graph",
-            "verdict": "SKIPPED",
-            "creationTime": 1656169140
-          },
-          {
-            "platform": "codeforces",
-            "id": 161745235,
-            "pid": "1696E",
-            "name": "Placing Jinas",
-            "verdict": "OK",
-            "creationTime": 1656168474
-          },
-          {
-            "platform": "codeforces",
-            "id": 161736565,
-            "pid": "1696C",
-            "name": "Fishingprince Plays With Array",
-            "verdict": "OK",
-            "creationTime": 1656168038
-          },
-          {
-            "platform": "codeforces",
-            "id": 161733637,
-            "pid": "1696B",
-            "name": "NIT Destroys the Universe",
-            "verdict": "OK",
-            "creationTime": 1656167869
-          },
-          {
-            "platform": "codeforces",
-            "id": 161733082,
-            "pid": "1696B",
-            "name": "NIT Destroys the Universe",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1656167822
-          },
-          {
-            "platform": "codeforces",
-            "id": 161732856,
-            "pid": "1696A",
-            "name": "NIT orz!",
-            "verdict": "OK",
-            "creationTime": 1656167762
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5b97c7f7f1d8af6d969c3622e58a352d90189ce1"
+  "ref": "afdd4c48e30838147a8299e8877bae6c05bba13c"
 }
