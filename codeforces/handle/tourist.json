@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1696D",
         "name": "Permutation Graph",
+        "rating": 1900,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -50,6 +51,7 @@
         "type": "codeforces",
         "id": "1696F",
         "name": "Tree Recovery",
+        "rating": 2600,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -78,6 +80,7 @@
         "type": "codeforces",
         "id": "1696H",
         "name": "Maximum Product?",
+        "rating": 3500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -108,6 +111,7 @@
         "type": "codeforces",
         "id": "1696D",
         "name": "Permutation Graph",
+        "rating": 1900,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -137,6 +141,7 @@
         "type": "codeforces",
         "id": "1696D",
         "name": "Permutation Graph",
+        "rating": 1900,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -166,6 +171,7 @@
         "type": "codeforces",
         "id": "1696E",
         "name": "Placing Jinas",
+        "rating": 2000,
         "tags": [
           "combinatorics",
           "math"
@@ -191,6 +197,7 @@
         "type": "codeforces",
         "id": "1696C",
         "name": "Fishingprince Plays With Array",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -217,6 +224,7 @@
         "type": "codeforces",
         "id": "1696B",
         "name": "NIT Destroys the Universe",
+        "rating": 900,
         "tags": [
           "greedy"
         ],
@@ -241,6 +249,7 @@
         "type": "codeforces",
         "id": "1696B",
         "name": "NIT Destroys the Universe",
+        "rating": 900,
         "tags": [
           "greedy"
         ],
@@ -265,6 +274,7 @@
         "type": "codeforces",
         "id": "1696A",
         "name": "NIT orz!",
+        "rating": 800,
         "tags": [
           "bitmasks",
           "greedy"
