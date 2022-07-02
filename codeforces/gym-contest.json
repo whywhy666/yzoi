@@ -14544,5 +14544,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103821",
     "standingsUrl": "https://codeforces.com/gym/103821/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Summer Camp of XTU Qualifying Round",
+    "startTime": 1656738000,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103824,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103824",
+    "standingsUrl": "https://codeforces.com/gym/103824/standings"
   }
 ]
