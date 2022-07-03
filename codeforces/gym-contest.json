@@ -14555,5 +14555,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103824",
     "standingsUrl": "https://codeforces.com/gym/103824/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "(DCPC + TCPC + BCPC) 2022",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103828,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103828",
+    "standingsUrl": "https://codeforces.com/gym/103828/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2017 International olympiad Tuymaada",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103831,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103831",
+    "standingsUrl": "https://codeforces.com/gym/103831/standings"
   }
 ]
