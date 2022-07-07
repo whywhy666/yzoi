@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1657141828,
+  "updateTime": 1657228212,
   "history": {
     "user": [
       {
@@ -8,59 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 162961476,
-            "pid": "17E",
-            "name": "Palisection",
+            "id": 163113910,
+            "pid": "73C",
+            "name": "LionAge II",
             "verdict": "OK",
-            "creationTime": 1657085426
+            "creationTime": 1657201766
           },
           {
             "platform": "codeforces",
-            "id": 162961429,
-            "pid": "17E",
-            "name": "Palisection",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657085386
-          },
-          {
-            "platform": "codeforces",
-            "id": 162961244,
-            "pid": "17E",
-            "name": "Palisection",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657085251
-          },
-          {
-            "platform": "codeforces",
-            "id": 162948279,
-            "pid": "592D",
-            "name": "Super M",
+            "id": 163096476,
+            "pid": "546D",
+            "name": "Soldier and Number Game",
             "verdict": "OK",
-            "creationTime": 1657071953
+            "creationTime": 1657191308
           },
           {
             "platform": "codeforces",
-            "id": 162948188,
-            "pid": "592D",
-            "name": "Super M",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657071824
+            "id": 163096438,
+            "pid": "546D",
+            "name": "Soldier and Number Game",
+            "verdict": "OK",
+            "creationTime": 1657191288
           },
           {
             "platform": "codeforces",
-            "id": 162948143,
-            "pid": "592D",
-            "name": "Super M",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657071771
-          },
-          {
-            "platform": "codeforces",
-            "id": 162948056,
-            "pid": "592D",
-            "name": "Super M",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657071664
+            "id": 163096216,
+            "pid": "546D",
+            "name": "Soldier and Number Game",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1657191179
           }
         ],
         "newContests": []
@@ -68,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "69ad64386913dc466803c4204d4491c41673712f"
+  "ref": "ccf7946a2e3011afb55fbdf6da5342958ab08352"
 }

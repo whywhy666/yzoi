@@ -6,6 +6,115 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 163113910,
+      "creationTime": 1657201766,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490281881
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "73C",
+        "name": "LionAge II",
+        "rating": 1800,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/73/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/73/submission/163113910"
+    },
+    {
+      "type": "codeforces",
+      "id": 163096476,
+      "creationTime": 1657191308,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490292339
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "546D",
+        "name": "Soldier and Number Game",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/546/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/546/submission/163096476"
+    },
+    {
+      "type": "codeforces",
+      "id": 163096438,
+      "creationTime": 1657191288,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490292359
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "546D",
+        "name": "Soldier and Number Game",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/546/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/546/submission/163096438"
+    },
+    {
+      "type": "codeforces",
+      "id": 163096216,
+      "creationTime": 1657191179,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490292468
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "546D",
+        "name": "Soldier and Number Game",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/546/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/546/submission/163096216"
+    },
+    {
+      "type": "codeforces",
       "id": 162961476,
       "creationTime": 1657085426,
       "language": "GNU C++14",
