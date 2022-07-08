@@ -11078,26 +11078,6 @@
     "standingsUrl": "https://codeforces.com/gym/102591/standings"
   },
   {
-    "type": "codeforces/gym/ioi",
-    "name": "Вседомашняя олимпиада по программированию 2020, первый тур",
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 102595,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/102595",
-    "standingsUrl": "https://codeforces.com/gym/102595/standings"
-  },
-  {
-    "type": "codeforces/gym/ioi",
-    "name": "Вседомашняя олимпиада по программированию 2020, второй тур",
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 102596,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/102596",
-    "standingsUrl": "https://codeforces.com/gym/102596/standings"
-  },
-  {
     "type": "codeforces/gym/icpc",
     "name": "The fifth Lipetsk collegiate programming contest. Finals. 8-11 form",
     "startTime": 1589617800,

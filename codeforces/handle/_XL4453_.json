@@ -6,6 +6,371 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 163277284,
+      "creationTime": 1657295122,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163277284"
+    },
+    {
+      "type": "codeforces",
+      "id": 163276829,
+      "creationTime": 1657295068,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163276829"
+    },
+    {
+      "type": "codeforces",
+      "id": 163275347,
+      "creationTime": 1657294889,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163275347"
+    },
+    {
+      "type": "codeforces",
+      "id": 163272453,
+      "creationTime": 1657294550,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163272453"
+    },
+    {
+      "type": "codeforces",
+      "id": 163271843,
+      "creationTime": 1657294481,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163271843"
+    },
+    {
+      "type": "codeforces",
+      "id": 163268814,
+      "creationTime": 1657294155,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163268814"
+    },
+    {
+      "type": "codeforces",
+      "id": 163263396,
+      "creationTime": 1657293613,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701B",
+        "name": "Permutation",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163263396"
+    },
+    {
+      "type": "codeforces",
+      "id": 163258550,
+      "creationTime": 1657293161,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701A",
+        "name": "Grass Field",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163258550"
+    },
+    {
+      "type": "codeforces",
+      "id": 163252089,
+      "creationTime": 1657292638,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701D",
+        "name": "Permutation Restoration",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163252089"
+    },
+    {
+      "type": "codeforces",
+      "id": 163249473,
+      "creationTime": 1657292453,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701D",
+        "name": "Permutation Restoration",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163249473"
+    },
+    {
+      "type": "codeforces",
+      "id": 163249038,
+      "creationTime": 1657292425,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701D",
+        "name": "Permutation Restoration",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163249038"
+    },
+    {
+      "type": "codeforces",
+      "id": 163245318,
+      "creationTime": 1657292199,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701D",
+        "name": "Permutation Restoration",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163245318"
+    },
+    {
+      "type": "codeforces",
+      "id": 163231298,
+      "creationTime": 1657291524,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657290900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701D",
+        "name": "Permutation Restoration",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163231298"
+    },
+    {
+      "type": "codeforces",
+      "id": 163162750,
+      "creationTime": 1657249765,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490233882
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "388C",
+        "name": "Fox and Card Game",
+        "rating": 2000,
+        "tags": [
+          "games",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/388/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/388/submission/163162750"
+    },
+    {
+      "type": "codeforces",
       "id": 163113910,
       "creationTime": 1657201766,
       "language": "GNU C++14",
