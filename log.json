@@ -1,184 +1,18 @@
 {
   "version": "0.1.16",
-  "updateTime": 1657314649,
+  "updateTime": 1657401018,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 163251511,
-            "pid": "1701F",
-            "name": "Points",
-            "verdict": "OK",
-            "creationTime": 1657292596
-          },
-          {
-            "platform": "codeforces",
-            "id": 163251026,
-            "pid": "1701F",
-            "name": "Points",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1657292564
-          },
-          {
-            "platform": "codeforces",
-            "id": 163244868,
-            "pid": "1701E",
-            "name": "Text Editor",
-            "verdict": "OK",
-            "creationTime": 1657292171
-          },
-          {
-            "platform": "codeforces",
-            "id": 163228805,
-            "pid": "1701D",
-            "name": "Permutation Restoration",
-            "verdict": "OK",
-            "creationTime": 1657291430
-          },
-          {
-            "platform": "codeforces",
-            "id": 163221033,
-            "pid": "1701C",
-            "name": "Schedule Management",
-            "verdict": "OK",
-            "creationTime": 1657291174
-          },
-          {
-            "platform": "codeforces",
-            "id": 163216526,
-            "pid": "1701B",
-            "name": "Permutation",
-            "verdict": "OK",
-            "creationTime": 1657291032
-          },
-          {
-            "platform": "codeforces",
-            "id": 163216029,
-            "pid": "1701A",
-            "name": "Grass Field",
-            "verdict": "OK",
-            "creationTime": 1657290961
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 163277284,
-            "pid": "1701C",
-            "name": "Schedule Management",
+            "id": 163357668,
+            "pid": "609D",
+            "name": "Gadgets for dollars and pounds",
             "verdict": "OK",
-            "creationTime": 1657295122
-          },
-          {
-            "platform": "codeforces",
-            "id": 163276829,
-            "pid": "1701C",
-            "name": "Schedule Management",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657295068
-          },
-          {
-            "platform": "codeforces",
-            "id": 163275347,
-            "pid": "1701C",
-            "name": "Schedule Management",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657294889
-          },
-          {
-            "platform": "codeforces",
-            "id": 163272453,
-            "pid": "1701C",
-            "name": "Schedule Management",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657294550
-          },
-          {
-            "platform": "codeforces",
-            "id": 163271843,
-            "pid": "1701C",
-            "name": "Schedule Management",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657294481
-          },
-          {
-            "platform": "codeforces",
-            "id": 163268814,
-            "pid": "1701C",
-            "name": "Schedule Management",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657294155
-          },
-          {
-            "platform": "codeforces",
-            "id": 163263396,
-            "pid": "1701B",
-            "name": "Permutation",
-            "verdict": "OK",
-            "creationTime": 1657293613
-          },
-          {
-            "platform": "codeforces",
-            "id": 163258550,
-            "pid": "1701A",
-            "name": "Grass Field",
-            "verdict": "OK",
-            "creationTime": 1657293161
-          },
-          {
-            "platform": "codeforces",
-            "id": 163252089,
-            "pid": "1701D",
-            "name": "Permutation Restoration",
-            "verdict": "OK",
-            "creationTime": 1657292638
-          },
-          {
-            "platform": "codeforces",
-            "id": 163249473,
-            "pid": "1701D",
-            "name": "Permutation Restoration",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657292453
-          },
-          {
-            "platform": "codeforces",
-            "id": 163249038,
-            "pid": "1701D",
-            "name": "Permutation Restoration",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657292425
-          },
-          {
-            "platform": "codeforces",
-            "id": 163245318,
-            "pid": "1701D",
-            "name": "Permutation Restoration",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1657292199
-          },
-          {
-            "platform": "codeforces",
-            "id": 163231298,
-            "pid": "1701D",
-            "name": "Permutation Restoration",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1657291524
-          },
-          {
-            "platform": "codeforces",
-            "id": 163162750,
-            "pid": "388C",
-            "name": "Fox and Card Game",
-            "verdict": "OK",
-            "creationTime": 1657249765
+            "creationTime": 1657354547
           }
         ],
         "newContests": []
@@ -186,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "200fc0e63965ee5b24c42506e8af186b7cbd0f7b"
+  "ref": "5c13a612ce8039dd4ac67f566c86e5dab0a35d64"
 }

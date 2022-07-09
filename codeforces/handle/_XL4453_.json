@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 163357668,
+      "creationTime": 1657354547,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490129100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "609D",
+        "name": "Gadgets for dollars and pounds",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/609/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/609/submission/163357668"
+    },
+    {
+      "type": "codeforces",
       "id": 163277284,
       "creationTime": 1657295122,
       "language": "GNU C++14",
@@ -23,7 +50,8 @@
         "name": "Schedule Management",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
       },
@@ -48,7 +76,8 @@
         "name": "Schedule Management",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
       },
@@ -73,7 +102,8 @@
         "name": "Schedule Management",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
       },
@@ -98,7 +128,8 @@
         "name": "Schedule Management",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
       },
@@ -123,7 +154,8 @@
         "name": "Schedule Management",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
       },
@@ -148,7 +180,8 @@
         "name": "Schedule Management",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
       },
@@ -224,7 +257,8 @@
           "data structures",
           "greedy",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/D"
       },
@@ -252,7 +286,8 @@
           "data structures",
           "greedy",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/D"
       },
@@ -280,7 +315,8 @@
           "data structures",
           "greedy",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/D"
       },
@@ -308,7 +344,8 @@
           "data structures",
           "greedy",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/D"
       },
@@ -336,7 +373,8 @@
           "data structures",
           "greedy",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/D"
       },
@@ -43013,8 +43051,8 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1767,
+    "rating": 1783,
     "maxRank": "expert",
-    "maxRating": 1772
+    "maxRating": 1783
   }
 }

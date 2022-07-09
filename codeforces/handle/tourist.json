@@ -24,6 +24,7 @@
         "tags": [
           "combinatorics",
           "data structures",
+          "implementation",
           "math",
           "matrices"
         ],
@@ -51,6 +52,7 @@
         "tags": [
           "combinatorics",
           "data structures",
+          "implementation",
           "math",
           "matrices"
         ],
@@ -106,7 +108,8 @@
           "data structures",
           "greedy",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/D"
       },
@@ -131,7 +134,8 @@
         "name": "Schedule Management",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
       },
