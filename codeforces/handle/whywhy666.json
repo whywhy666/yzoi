@@ -6,6 +6,273 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 163462767,
+      "creationTime": 1657459329,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490024318
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700F",
+        "name": "Puzzle",
+        "rating": 2600,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/163462767"
+    },
+    {
+      "type": "codeforces",
+      "id": 163462735,
+      "creationTime": 1657459302,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490024345
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700D",
+        "name": "River Locks",
+        "rating": 1900,
+        "tags": [
+          "binary search",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/163462735"
+    },
+    {
+      "type": "codeforces",
+      "id": 163451468,
+      "creationTime": 1657450511,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490033136
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700C",
+        "name": "Helping the Nature",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/163451468"
+    },
+    {
+      "type": "codeforces",
+      "id": 163450958,
+      "creationTime": 1657450113,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490033534
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700B",
+        "name": "Palindromic Numbers ",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/163450958"
+    },
+    {
+      "type": "codeforces",
+      "id": 163450933,
+      "creationTime": 1657450091,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490033556
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1700A",
+        "name": "Optimal Path",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1700/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1700/submission/163450933"
+    },
+    {
+      "type": "codeforces",
+      "id": 163429812,
+      "creationTime": 1657433323,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490050324
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701F",
+        "name": "Points",
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "implementation",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163429812"
+    },
+    {
+      "type": "codeforces",
+      "id": 163426725,
+      "creationTime": 1657429837,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490053810
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701D",
+        "name": "Permutation Restoration",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163426725"
+    },
+    {
+      "type": "codeforces",
+      "id": 163425669,
+      "creationTime": 1657428583,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490055064
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163425669"
+    },
+    {
+      "type": "codeforces",
+      "id": 163425503,
+      "creationTime": 1657428391,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490055256
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701B",
+        "name": "Permutation",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163425503"
+    },
+    {
+      "type": "codeforces",
+      "id": 163425481,
+      "creationTime": 1657428374,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -490055273
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701A",
+        "name": "Grass Field",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163425481"
+    },
+    {
+      "type": "codeforces",
       "id": 161190791,
       "creationTime": 1655632255,
       "language": "GNU C++20 (64)",

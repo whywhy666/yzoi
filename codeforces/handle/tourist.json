@@ -6,6 +6,215 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 163493902,
+      "creationTime": 1657464770,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702G1",
+        "name": "Passable Paths (easy version)",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/G1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163493902"
+    },
+    {
+      "type": "codeforces",
+      "id": 163493236,
+      "creationTime": 1657464738,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702G2",
+        "name": "Passable Paths (hard version)",
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163493236"
+    },
+    {
+      "type": "codeforces",
+      "id": 163488568,
+      "creationTime": 1657464525,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702F",
+        "name": "Equate Multisets",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "graph matchings",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163488568"
+    },
+    {
+      "type": "codeforces",
+      "id": 163478635,
+      "creationTime": 1657464130,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702E",
+        "name": "Split Into Two Sets",
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "graph matchings",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163478635"
+    },
+    {
+      "type": "codeforces",
+      "id": 163475506,
+      "creationTime": 1657464029,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702D",
+        "name": "Not a Cheap String",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163475506"
+    },
+    {
+      "type": "codeforces",
+      "id": 163471823,
+      "creationTime": 1657463923,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702C",
+        "name": "Train and Queries",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163471823"
+    },
+    {
+      "type": "codeforces",
+      "id": 163468956,
+      "creationTime": 1657463832,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702B",
+        "name": "Polycarp Writes a String from Memory",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163468956"
+    },
+    {
+      "type": "codeforces",
+      "id": 163468219,
+      "creationTime": 1657463751,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1657463700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702A",
+        "name": "Round Down the Price",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163468219"
+    },
+    {
+      "type": "codeforces",
       "id": 163251511,
       "creationTime": 1657292596,
       "language": "GNU C++20 (64)",
@@ -78,6 +287,7 @@
         "id": "1701E",
         "name": "Text Editor",
         "tags": [
+          "brute force",
           "dp",
           "greedy",
           "strings"
