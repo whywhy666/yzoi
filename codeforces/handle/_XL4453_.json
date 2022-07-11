@@ -6,6 +6,134 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 163611764,
+      "creationTime": 1657504939,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -489978708
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701C",
+        "name": "Schedule Management",
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163611764"
+    },
+    {
+      "type": "codeforces",
+      "id": 163611734,
+      "creationTime": 1657504914,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -489978733
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701D",
+        "name": "Permutation Restoration",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163611734"
+    },
+    {
+      "type": "codeforces",
+      "id": 163611719,
+      "creationTime": 1657504900,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -489978747
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701B",
+        "name": "Permutation",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163611719"
+    },
+    {
+      "type": "codeforces",
+      "id": 163611711,
+      "creationTime": 1657504895,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -489978752
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1701A",
+        "name": "Grass Field",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1701/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1701/submission/163611711"
+    },
+    {
+      "type": "codeforces",
+      "id": 163611618,
+      "creationTime": 1657504794,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -489978853
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1702C",
+        "name": "Train and Queries",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1702/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1702/submission/163611618"
+    },
+    {
+      "type": "codeforces",
       "id": 163357668,
       "creationTime": 1657354547,
       "language": "GNU C++14",

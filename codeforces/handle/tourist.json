@@ -49,10 +49,8 @@
         "id": "1702G2",
         "name": "Passable Paths (hard version)",
         "tags": [
-          "bitmasks",
           "data structures",
           "dfs and similar",
-          "dp",
           "sortings",
           "trees"
         ],
@@ -80,7 +78,6 @@
         "tags": [
           "constructive algorithms",
           "data structures",
-          "graph matchings",
           "greedy",
           "math",
           "number theory"
@@ -108,8 +105,6 @@
         "name": "Split Into Two Sets",
         "tags": [
           "dfs and similar",
-          "dsu",
-          "graph matchings",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1702/problem/E"
