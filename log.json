@@ -1,56 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1657573838,
+  "updateTime": 1657660239,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 163611764,
-            "pid": "1701C",
-            "name": "Schedule Management",
-            "verdict": "OK",
-            "creationTime": 1657504939
-          },
-          {
-            "platform": "codeforces",
-            "id": 163611734,
-            "pid": "1701D",
-            "name": "Permutation Restoration",
-            "verdict": "OK",
-            "creationTime": 1657504914
-          },
-          {
-            "platform": "codeforces",
-            "id": 163611719,
-            "pid": "1701B",
-            "name": "Permutation",
-            "verdict": "OK",
-            "creationTime": 1657504900
-          },
-          {
-            "platform": "codeforces",
-            "id": 163611711,
-            "pid": "1701A",
-            "name": "Grass Field",
-            "verdict": "OK",
-            "creationTime": 1657504895
-          },
-          {
-            "platform": "codeforces",
-            "id": 163611618,
-            "pid": "1702C",
-            "name": "Train and Queries",
-            "verdict": "OK",
-            "creationTime": 1657504794
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "cf72f4b6214a2c56991b6856712a68d7aead3bfb"
+  "ref": "ec1cced09eb0e08aa1b1288c73b9ca6bb8ee436e"
 }

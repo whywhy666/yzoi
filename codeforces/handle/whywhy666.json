@@ -157,6 +157,7 @@
         "type": "codeforces",
         "id": "1701F",
         "name": "Points",
+        "rating": 2500,
         "tags": [
           "combinatorics",
           "data structures",
@@ -185,6 +186,7 @@
         "type": "codeforces",
         "id": "1701D",
         "name": "Permutation Restoration",
+        "rating": 1900,
         "tags": [
           "binary search",
           "data structures",
@@ -214,6 +216,7 @@
         "type": "codeforces",
         "id": "1701C",
         "name": "Schedule Management",
+        "rating": 1400,
         "tags": [
           "binary search",
           "greedy",
@@ -240,6 +243,7 @@
         "type": "codeforces",
         "id": "1701B",
         "name": "Permutation",
+        "rating": 800,
         "tags": [
           "greedy"
         ],
@@ -264,6 +268,7 @@
         "type": "codeforces",
         "id": "1701A",
         "name": "Grass Field",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
