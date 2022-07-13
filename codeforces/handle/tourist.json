@@ -49,6 +49,7 @@
         "name": "Passable Paths (hard version)",
         "rating": 2000,
         "tags": [
+          "data structures",
           "dfs and similar",
           "trees"
         ],
@@ -349,6 +350,7 @@
         "tags": [
           "binary search",
           "greedy",
+          "implementation",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1701/problem/C"
