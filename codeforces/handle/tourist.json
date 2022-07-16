@@ -6,6 +6,171 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 164530227,
+      "creationTime": 1657992014,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -489491633
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1707F",
+        "name": "Bugaboo",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1707/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1707/submission/164530227"
+    },
+    {
+      "type": "codeforces",
+      "id": 164493571,
+      "creationTime": 1657984901,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1707D",
+        "name": "Partial Virtual Trees",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1707/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1707/submission/164493571"
+    },
+    {
+      "type": "codeforces",
+      "id": 164482780,
+      "creationTime": 1657983964,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1707C",
+        "name": "DFS Trees",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1707/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1707/submission/164482780"
+    },
+    {
+      "type": "codeforces",
+      "id": 164477693,
+      "creationTime": 1657983582,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1707C",
+        "name": "DFS Trees",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1707/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1707/submission/164477693"
+    },
+    {
+      "type": "codeforces",
+      "id": 164467918,
+      "creationTime": 1657982944,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1707B",
+        "name": "Difference Array",
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1707/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1707/submission/164467918"
+    },
+    {
+      "type": "codeforces",
+      "id": 164464634,
+      "creationTime": 1657982762,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1657982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1707A",
+        "name": "Doremy's IQ",
+        "tags": [
+          "binary search",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1707/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1707/submission/164464634"
+    },
+    {
+      "type": "codeforces",
       "id": 164314622,
       "creationTime": 1657896430,
       "language": "GNU C++20 (64)",
@@ -51,6 +216,8 @@
         "name": "Mark and Lightbulbs",
         "tags": [
           "combinatorics",
+          "constructive algorithms",
+          "greedy",
           "math",
           "sortings"
         ],
@@ -76,9 +243,12 @@
         "id": "1705E",
         "name": "Mark and Professor Koro",
         "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
           "combinatorics",
           "data structures",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/E"
       },
@@ -127,6 +297,8 @@
         "id": "1705B",
         "name": "Mark the Dust Sweeper",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/B"
@@ -151,7 +323,8 @@
         "id": "1705A",
         "name": "Mark the Photographer",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/A"
       },
@@ -105215,7 +105388,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3671,
+    "rating": 3678,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

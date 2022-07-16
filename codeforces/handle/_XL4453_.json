@@ -47,6 +47,8 @@
         "id": "1705B",
         "name": "Mark the Dust Sweeper",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/B"
@@ -71,6 +73,8 @@
         "id": "1705B",
         "name": "Mark the Dust Sweeper",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/B"
@@ -95,6 +99,8 @@
         "id": "1705B",
         "name": "Mark the Dust Sweeper",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/B"
@@ -119,7 +125,8 @@
         "id": "1705A",
         "name": "Mark the Photographer",
         "tags": [
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/A"
       },
@@ -144,6 +151,8 @@
         "name": "Mark and Lightbulbs",
         "tags": [
           "combinatorics",
+          "constructive algorithms",
+          "greedy",
           "math",
           "sortings"
         ],
