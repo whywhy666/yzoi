@@ -50,6 +50,7 @@
         "name": "Partial Virtual Trees",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dp",
           "math",
           "trees"
@@ -135,8 +136,8 @@
         "name": "Difference Array",
         "tags": [
           "brute force",
+          "data structures",
           "implementation",
-          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1707/problem/B"
@@ -162,6 +163,7 @@
         "name": "Doremy's IQ",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "greedy",
           "implementation"
         ],
@@ -432,6 +434,7 @@
         "rating": 1600,
         "tags": [
           "dfs and similar",
+          "dsu",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1702/problem/E"

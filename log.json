@@ -1,58 +1,42 @@
 {
   "version": "0.1.16",
-  "updateTime": 1658005794,
+  "updateTime": 1658092226,
   "history": {
     "user": [
       {
-        "name": "tourist",
+        "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 164530227,
-            "pid": "1707F",
-            "name": "Bugaboo",
+            "id": 164612563,
+            "pid": "1657D",
+            "name": "For Gamers. By Gamers.",
             "verdict": "OK",
-            "creationTime": 1657992014
+            "creationTime": 1658060594
           },
           {
             "platform": "codeforces",
-            "id": 164493571,
-            "pid": "1707D",
-            "name": "Partial Virtual Trees",
+            "id": 164603117,
+            "pid": "1657D",
+            "name": "For Gamers. By Gamers.",
             "verdict": "OK",
-            "creationTime": 1657984901
+            "creationTime": 1658054426
           },
           {
             "platform": "codeforces",
-            "id": 164482780,
-            "pid": "1707C",
-            "name": "DFS Trees",
-            "verdict": "OK",
-            "creationTime": 1657983964
-          },
-          {
-            "platform": "codeforces",
-            "id": 164477693,
-            "pid": "1707C",
-            "name": "DFS Trees",
+            "id": 164602185,
+            "pid": "1657D",
+            "name": "For Gamers. By Gamers.",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1657983582
+            "creationTime": 1658053772
           },
           {
             "platform": "codeforces",
-            "id": 164467918,
-            "pid": "1707B",
-            "name": "Difference Array",
-            "verdict": "OK",
-            "creationTime": 1657982944
-          },
-          {
-            "platform": "codeforces",
-            "id": 164464634,
-            "pid": "1707A",
-            "name": "Doremy's IQ",
-            "verdict": "OK",
-            "creationTime": 1657982762
+            "id": 164602048,
+            "pid": "1657D",
+            "name": "For Gamers. By Gamers.",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1658053673
           }
         ],
         "newContests": []
@@ -60,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "32beffc9469146f5878e426358a999691fb5816a"
+  "ref": "4a8da97b1cf694ce5886e511472e12576940957f"
 }
