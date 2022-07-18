@@ -6,6 +6,295 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 164777045,
+      "creationTime": 1658159689,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706D1",
+        "name": "Chopping Carrots (Easy Version)",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164777045"
+    },
+    {
+      "type": "codeforces",
+      "id": 164775054,
+      "creationTime": 1658159390,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706D1",
+        "name": "Chopping Carrots (Easy Version)",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164775054"
+    },
+    {
+      "type": "codeforces",
+      "id": 164762685,
+      "creationTime": 1658157764,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706C",
+        "name": "Qpwoeirut And The City",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164762685"
+    },
+    {
+      "type": "codeforces",
+      "id": 164759575,
+      "creationTime": 1658157377,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706C",
+        "name": "Qpwoeirut And The City",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164759575"
+    },
+    {
+      "type": "codeforces",
+      "id": 164757074,
+      "creationTime": 1658157084,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706C",
+        "name": "Qpwoeirut And The City",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164757074"
+    },
+    {
+      "type": "codeforces",
+      "id": 164743486,
+      "creationTime": 1658155711,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706B",
+        "name": "Making Towers",
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164743486"
+    },
+    {
+      "type": "codeforces",
+      "id": 164734551,
+      "creationTime": 1658155085,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706A",
+        "name": "Another String Minimization Problem",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164734551"
+    },
+    {
+      "type": "codeforces",
+      "id": 164680978,
+      "creationTime": 1658122414,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1658120700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658C",
+        "name": "Shinju and the Lost Permutation",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/164680978"
+    },
+    {
+      "type": "codeforces",
+      "id": 164680733,
+      "creationTime": 1658122182,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1658120700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658C",
+        "name": "Shinju and the Lost Permutation",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/164680733"
+    },
+    {
+      "type": "codeforces",
+      "id": 164680039,
+      "creationTime": 1658121515,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1658120700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658B",
+        "name": "Marin and Anti-coprime Permutation",
+        "rating": 800,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/164680039"
+    },
+    {
+      "type": "codeforces",
+      "id": 164679504,
+      "creationTime": 1658120985,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1658120700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1658A",
+        "name": "Marin and Photoshoot",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1658/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1658/submission/164679504"
+    },
+    {
+      "type": "codeforces",
       "id": 164612563,
       "creationTime": 1658060594,
       "language": "GNU C++14",
@@ -43476,8 +43765,8 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1790,
+    "rating": 1792,
     "maxRank": "expert",
-    "maxRating": 1790
+    "maxRating": 1792
   }
 }

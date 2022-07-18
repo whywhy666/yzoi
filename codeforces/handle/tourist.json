@@ -6,6 +6,163 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 164749937,
+      "creationTime": 1658156304,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706E",
+        "name": "Qpwoeirut and Vertices",
+        "tags": [
+          "data structures",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164749937"
+    },
+    {
+      "type": "codeforces",
+      "id": 164745184,
+      "creationTime": 1658155855,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706D1",
+        "name": "Chopping Carrots (Easy Version)",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164745184"
+    },
+    {
+      "type": "codeforces",
+      "id": 164744921,
+      "creationTime": 1658155834,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706D2",
+        "name": "Chopping Carrots (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164744921"
+    },
+    {
+      "type": "codeforces",
+      "id": 164739928,
+      "creationTime": 1658155460,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706C",
+        "name": "Qpwoeirut And The City",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164739928"
+    },
+    {
+      "type": "codeforces",
+      "id": 164735196,
+      "creationTime": 1658155155,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706B",
+        "name": "Making Towers",
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164735196"
+    },
+    {
+      "type": "codeforces",
+      "id": 164734231,
+      "creationTime": 1658154985,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1658154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706A",
+        "name": "Another String Minimization Problem",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/164734231"
+    },
+    {
+      "type": "codeforces",
       "id": 164530227,
       "creationTime": 1657992014,
       "language": "GNU C++20 (64)",
@@ -52,6 +209,7 @@
           "combinatorics",
           "dfs and similar",
           "dp",
+          "implementation",
           "math",
           "trees"
         ],
@@ -77,11 +235,11 @@
         "id": "1707C",
         "name": "DFS Trees",
         "tags": [
-          "data structures",
           "dfs and similar",
           "dsu",
           "graphs",
           "greedy",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1707/problem/C"
@@ -106,11 +264,11 @@
         "id": "1707C",
         "name": "DFS Trees",
         "tags": [
-          "data structures",
           "dfs and similar",
           "dsu",
           "graphs",
           "greedy",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1707/problem/C"
