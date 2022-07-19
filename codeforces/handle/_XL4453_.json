@@ -23,8 +23,10 @@
         "name": "Chopping Carrots (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
           "constructive algorithms",
           "dp",
+          "greedy",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1706/problem/D1"
@@ -50,8 +52,10 @@
         "name": "Chopping Carrots (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
           "constructive algorithms",
           "dp",
+          "greedy",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1706/problem/D1"
@@ -77,6 +81,7 @@
         "name": "Qpwoeirut And The City",
         "tags": [
           "dp",
+          "flows",
           "greedy",
           "implementation"
         ],
@@ -103,6 +108,7 @@
         "name": "Qpwoeirut And The City",
         "tags": [
           "dp",
+          "flows",
           "greedy",
           "implementation"
         ],
@@ -129,6 +135,7 @@
         "name": "Qpwoeirut And The City",
         "tags": [
           "dp",
+          "flows",
           "greedy",
           "implementation"
         ],
@@ -180,7 +187,11 @@
         "id": "1706A",
         "name": "Another String Minimization Problem",
         "tags": [
+          "2-sat",
+          "binary search",
+          "bitmasks",
           "greedy",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1706/problem/A"
@@ -43765,8 +43776,8 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1792,
+    "rating": 1783,
     "maxRank": "expert",
-    "maxRating": 1792
+    "maxRating": 1783
   }
 }
