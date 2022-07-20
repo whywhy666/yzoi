@@ -21,9 +21,11 @@
         "type": "codeforces",
         "id": "1706E",
         "name": "Qpwoeirut and Vertices",
+        "rating": 2300,
         "tags": [
           "binary search",
           "data structures",
+          "divide and conquer",
           "dsu",
           "greedy",
           "trees"
@@ -49,11 +51,11 @@
         "type": "codeforces",
         "id": "1706D1",
         "name": "Chopping Carrots (Easy Version)",
+        "rating": 1700,
         "tags": [
           "binary search",
           "brute force",
           "constructive algorithms",
-          "dp",
           "greedy",
           "number theory"
         ],
@@ -78,9 +80,14 @@
         "type": "codeforces",
         "id": "1706D2",
         "name": "Chopping Carrots (Hard Version)",
+        "rating": 2400,
         "tags": [
+          "brute force",
           "constructive algorithms",
+          "data structures",
+          "divide and conquer",
           "dp",
+          "greedy",
           "math",
           "number theory",
           "two pointers"
@@ -106,6 +113,7 @@
         "type": "codeforces",
         "id": "1706C",
         "name": "Qpwoeirut And The City",
+        "rating": 1400,
         "tags": [
           "dp",
           "flows",
@@ -133,6 +141,7 @@
         "type": "codeforces",
         "id": "1706B",
         "name": "Making Towers",
+        "rating": 1100,
         "tags": [
           "dp",
           "greedy",
@@ -159,12 +168,10 @@
         "type": "codeforces",
         "id": "1706A",
         "name": "Another String Minimization Problem",
+        "rating": 800,
         "tags": [
-          "2-sat",
-          "binary search",
           "bitmasks",
           "greedy",
-          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1706/problem/A"
@@ -188,6 +195,7 @@
         "type": "codeforces",
         "id": "1707F",
         "name": "Bugaboo",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -215,6 +223,7 @@
         "type": "codeforces",
         "id": "1707D",
         "name": "Partial Virtual Trees",
+        "rating": 3000,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -243,6 +252,7 @@
         "type": "codeforces",
         "id": "1707C",
         "name": "DFS Trees",
+        "rating": 2400,
         "tags": [
           "dfs and similar",
           "dsu",
@@ -272,6 +282,7 @@
         "type": "codeforces",
         "id": "1707C",
         "name": "DFS Trees",
+        "rating": 2400,
         "tags": [
           "dfs and similar",
           "dsu",
@@ -301,6 +312,7 @@
         "type": "codeforces",
         "id": "1707B",
         "name": "Difference Array",
+        "rating": 1900,
         "tags": [
           "brute force",
           "data structures",
@@ -328,6 +340,7 @@
         "type": "codeforces",
         "id": "1707A",
         "name": "Doremy's IQ",
+        "rating": 1600,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -355,11 +368,11 @@
         "type": "codeforces",
         "id": "1705F",
         "name": "Mark and the Online Exam",
+        "rating": 2900,
         "tags": [
           "bitmasks",
           "constructive algorithms",
           "interactive",
-          "math",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1705/problem/F"
@@ -383,6 +396,7 @@
         "type": "codeforces",
         "id": "1705D",
         "name": "Mark and Lightbulbs",
+        "rating": 1800,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -411,6 +425,7 @@
         "type": "codeforces",
         "id": "1705E",
         "name": "Mark and Professor Koro",
+        "rating": 2300,
         "tags": [
           "binary search",
           "bitmasks",
@@ -440,6 +455,7 @@
         "type": "codeforces",
         "id": "1705C",
         "name": "Mark and His Unfinished Essay",
+        "rating": 1400,
         "tags": [
           "brute force",
           "implementation"
@@ -465,6 +481,7 @@
         "type": "codeforces",
         "id": "1705B",
         "name": "Mark the Dust Sweeper",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -491,6 +508,7 @@
         "type": "codeforces",
         "id": "1705A",
         "name": "Mark the Photographer",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"
@@ -82246,7 +82264,7 @@
       "id": 4936696,
       "creationTime": 1383148628,
       "language": "GNU C++",
-      "verdict": "OK",
+      "verdict": "SKIPPED",
       "author": {
         "members": [
           "tourist"
@@ -105558,7 +105576,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3671,
+    "rating": 3678,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
