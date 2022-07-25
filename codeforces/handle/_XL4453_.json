@@ -192,8 +192,10 @@
         "name": "Another String Minimization Problem",
         "rating": 800,
         "tags": [
+          "2-sat",
           "constructive algorithms",
           "greedy",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1706/problem/A"
