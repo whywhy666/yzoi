@@ -6,6 +6,105 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166384986,
+      "creationTime": 1659281188,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659276300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704B",
+        "name": "Luke is a Foodie",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166384986"
+    },
+    {
+      "type": "codeforces",
+      "id": 166383928,
+      "creationTime": 1659280948,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659276300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704C",
+        "name": "Virus",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166383928"
+    },
+    {
+      "type": "codeforces",
+      "id": 166378887,
+      "creationTime": 1659279917,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659276300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704A",
+        "name": "Two 0-1 Sequences",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166378887"
+    },
+    {
+      "type": "codeforces",
+      "id": 166374039,
+      "creationTime": 1659279113,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1659276300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "tags": [
+          "constructive algorithms",
+          "hashing"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166374039"
+    },
+    {
+      "type": "codeforces",
       "id": 164777045,
       "creationTime": 1658159689,
       "language": "GNU C++14",
@@ -43786,7 +43885,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1793,
+    "rating": 1680,
     "maxRank": "expert",
     "maxRating": 1793
   }

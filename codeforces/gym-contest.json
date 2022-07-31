@@ -14575,5 +14575,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103855",
     "standingsUrl": "https://codeforces.com/gym/103855/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 7th China Collegiate Programming Contest, Finals (CCPC Finals 2021)",
+    "startTime": 1658883600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103860,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103860",
+    "standingsUrl": "https://codeforces.com/gym/103860/standings"
   }
 ]

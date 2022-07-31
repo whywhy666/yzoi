@@ -1,9 +1,118 @@
 {
   "version": "0.1.16",
-  "updateTime": 1659215401,
+  "updateTime": 1659301828,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 166399832,
+            "pid": "1704G",
+            "name": "Mio and Lucky Array",
+            "verdict": "OK",
+            "creationTime": 1659285255
+          },
+          {
+            "platform": "codeforces",
+            "id": 166382413,
+            "pid": "1704H1",
+            "name": "Game of AI (easy version)",
+            "verdict": "OK",
+            "creationTime": 1659280613
+          },
+          {
+            "platform": "codeforces",
+            "id": 166375942,
+            "pid": "1704F",
+            "name": "Colouring Game",
+            "verdict": "OK",
+            "creationTime": 1659279417
+          },
+          {
+            "platform": "codeforces",
+            "id": 166364243,
+            "pid": "1704E",
+            "name": "Count Seconds",
+            "verdict": "OK",
+            "creationTime": 1659277829
+          },
+          {
+            "platform": "codeforces",
+            "id": 166356732,
+            "pid": "1704D",
+            "name": "Magical Array",
+            "verdict": "OK",
+            "creationTime": 1659277084
+          },
+          {
+            "platform": "codeforces",
+            "id": 166354884,
+            "pid": "1704C",
+            "name": "Virus",
+            "verdict": "OK",
+            "creationTime": 1659276931
+          },
+          {
+            "platform": "codeforces",
+            "id": 166350601,
+            "pid": "1704B",
+            "name": "Luke is a Foodie",
+            "verdict": "OK",
+            "creationTime": 1659276491
+          },
+          {
+            "platform": "codeforces",
+            "id": 166350367,
+            "pid": "1704A",
+            "name": "Two 0-1 Sequences",
+            "verdict": "OK",
+            "creationTime": 1659276403
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 166384986,
+            "pid": "1704B",
+            "name": "Luke is a Foodie",
+            "verdict": "OK",
+            "creationTime": 1659281188
+          },
+          {
+            "platform": "codeforces",
+            "id": 166383928,
+            "pid": "1704C",
+            "name": "Virus",
+            "verdict": "OK",
+            "creationTime": 1659280948
+          },
+          {
+            "platform": "codeforces",
+            "id": 166378887,
+            "pid": "1704A",
+            "name": "Two 0-1 Sequences",
+            "verdict": "OK",
+            "creationTime": 1659279917
+          },
+          {
+            "platform": "codeforces",
+            "id": 166374039,
+            "pid": "1704D",
+            "name": "Magical Array",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659279113
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "8c8fdc2f4a4e61927208c2984e147cfd24ddde66"
+  "ref": "22bb7b7daf910dae203cf42278783b939ab0f3ab"
 }
