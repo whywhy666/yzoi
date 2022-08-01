@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1659301828,
+  "updateTime": 1659388255,
   "history": {
     "user": [
       {
@@ -8,67 +8,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166399832,
-            "pid": "1704G",
-            "name": "Mio and Lucky Array",
+            "id": 166530403,
+            "pid": "1714F",
+            "name": "Build a Tree and That Is It",
             "verdict": "OK",
-            "creationTime": 1659285255
+            "creationTime": 1659366099
           },
           {
             "platform": "codeforces",
-            "id": 166382413,
-            "pid": "1704H1",
-            "name": "Game of AI (easy version)",
+            "id": 166525077,
+            "pid": "1714G",
+            "name": "Path Prefixes",
             "verdict": "OK",
-            "creationTime": 1659280613
+            "creationTime": 1659365811
           },
           {
             "platform": "codeforces",
-            "id": 166375942,
-            "pid": "1704F",
-            "name": "Colouring Game",
-            "verdict": "OK",
-            "creationTime": 1659279417
+            "id": 166518644,
+            "pid": "1714F",
+            "name": "Build a Tree and That Is It",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1659365483
           },
           {
             "platform": "codeforces",
-            "id": 166364243,
-            "pid": "1704E",
-            "name": "Count Seconds",
+            "id": 166511191,
+            "pid": "1714E",
+            "name": "Add Modulo 10",
             "verdict": "OK",
-            "creationTime": 1659277829
+            "creationTime": 1659365095
           },
           {
             "platform": "codeforces",
-            "id": 166356732,
-            "pid": "1704D",
-            "name": "Magical Array",
+            "id": 166508060,
+            "pid": "1714D",
+            "name": "Color with Occurrences",
             "verdict": "OK",
-            "creationTime": 1659277084
+            "creationTime": 1659364875
           },
           {
             "platform": "codeforces",
-            "id": 166354884,
-            "pid": "1704C",
-            "name": "Virus",
+            "id": 166506685,
+            "pid": "1714C",
+            "name": "Minimum  Varied Number",
             "verdict": "OK",
-            "creationTime": 1659276931
+            "creationTime": 1659364673
           },
           {
             "platform": "codeforces",
-            "id": 166350601,
-            "pid": "1704B",
-            "name": "Luke is a Foodie",
+            "id": 166506547,
+            "pid": "1714B",
+            "name": "Remove Prefix",
             "verdict": "OK",
-            "creationTime": 1659276491
+            "creationTime": 1659364605
           },
           {
             "platform": "codeforces",
-            "id": 166350367,
-            "pid": "1704A",
-            "name": "Two 0-1 Sequences",
+            "id": 166506473,
+            "pid": "1714A",
+            "name": "Everyone Loves to Sleep",
             "verdict": "OK",
-            "creationTime": 1659276403
+            "creationTime": 1659364558
           }
         ],
         "newContests": []
@@ -78,35 +78,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166384986,
-            "pid": "1704B",
-            "name": "Luke is a Foodie",
+            "id": 166474330,
+            "pid": "1706D1",
+            "name": "Chopping Carrots (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1659281188
+            "creationTime": 1659354515
           },
           {
             "platform": "codeforces",
-            "id": 166383928,
-            "pid": "1704C",
-            "name": "Virus",
+            "id": 166474310,
+            "pid": "1706C",
+            "name": "Qpwoeirut And The City",
             "verdict": "OK",
-            "creationTime": 1659280948
+            "creationTime": 1659354504
           },
           {
             "platform": "codeforces",
-            "id": 166378887,
-            "pid": "1704A",
-            "name": "Two 0-1 Sequences",
+            "id": 166474294,
+            "pid": "1706B",
+            "name": "Making Towers",
             "verdict": "OK",
-            "creationTime": 1659279917
+            "creationTime": 1659354495
           },
           {
             "platform": "codeforces",
-            "id": 166374039,
+            "id": 166474289,
+            "pid": "1706A",
+            "name": "Another String Minimization Problem",
+            "verdict": "OK",
+            "creationTime": 1659354489
+          },
+          {
+            "platform": "codeforces",
+            "id": 166423614,
             "pid": "1704D",
             "name": "Magical Array",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659279113
+            "verdict": "OK",
+            "creationTime": 1659310490
           }
         ],
         "newContests": []
@@ -114,5 +122,5 @@
     ],
     "contest": []
   },
-  "ref": "22bb7b7daf910dae203cf42278783b939ab0f3ab"
+  "ref": "be7e137e21a1b37dbc166463b09b1a82292f2c27"
 }

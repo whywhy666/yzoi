@@ -6,6 +6,146 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166474330,
+      "creationTime": 1659354515,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488129132
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706D1",
+        "name": "Chopping Carrots (Easy Version)",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/166474330"
+    },
+    {
+      "type": "codeforces",
+      "id": 166474310,
+      "creationTime": 1659354504,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488129143
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706C",
+        "name": "Qpwoeirut And The City",
+        "rating": 1400,
+        "tags": [
+          "dp",
+          "flows",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/166474310"
+    },
+    {
+      "type": "codeforces",
+      "id": 166474294,
+      "creationTime": 1659354495,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488129152
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706B",
+        "name": "Making Towers",
+        "rating": 1100,
+        "tags": [
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/166474294"
+    },
+    {
+      "type": "codeforces",
+      "id": 166474289,
+      "creationTime": 1659354489,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488129158
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1706A",
+        "name": "Another String Minimization Problem",
+        "rating": 800,
+        "tags": [
+          "2-sat",
+          "constructive algorithms",
+          "greedy",
+          "string suffix structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1706/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1706/submission/166474289"
+    },
+    {
+      "type": "codeforces",
+      "id": 166423614,
+      "creationTime": 1659310490,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -488173157
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1704D",
+        "name": "Magical Array",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "hashing",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1704/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1704/submission/166423614"
+    },
+    {
+      "type": "codeforces",
       "id": 166384986,
       "creationTime": 1659281188,
       "language": "GNU C++14",
@@ -96,8 +236,10 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
-          "hashing"
+          "hashing",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/D"
       },

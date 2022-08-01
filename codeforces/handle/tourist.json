@@ -6,6 +6,214 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 166530403,
+      "creationTime": 1659366099,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714F",
+        "name": "Build a Tree and That Is It",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166530403"
+    },
+    {
+      "type": "codeforces",
+      "id": 166525077,
+      "creationTime": 1659365811,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714G",
+        "name": "Path Prefixes",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dfs and similar",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166525077"
+    },
+    {
+      "type": "codeforces",
+      "id": 166518644,
+      "creationTime": 1659365483,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714F",
+        "name": "Build a Tree and That Is It",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166518644"
+    },
+    {
+      "type": "codeforces",
+      "id": 166511191,
+      "creationTime": 1659365095,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714E",
+        "name": "Add Modulo 10",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166511191"
+    },
+    {
+      "type": "codeforces",
+      "id": 166508060,
+      "creationTime": 1659364875,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714D",
+        "name": "Color with Occurrences",
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166508060"
+    },
+    {
+      "type": "codeforces",
+      "id": 166506685,
+      "creationTime": 1659364673,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714C",
+        "name": "Minimum  Varied Number",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166506685"
+    },
+    {
+      "type": "codeforces",
+      "id": 166506547,
+      "creationTime": 1659364605,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714B",
+        "name": "Remove Prefix",
+        "tags": [
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166506547"
+    },
+    {
+      "type": "codeforces",
+      "id": 166506473,
+      "creationTime": 1659364558,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1659364500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714A",
+        "name": "Everyone Loves to Sleep",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/166506473"
+    },
+    {
+      "type": "codeforces",
       "id": 166399832,
       "creationTime": 1659285255,
       "language": "GNU C++20 (64)",
@@ -50,6 +258,8 @@
         "name": "Game of AI (easy version)",
         "tags": [
           "combinatorics",
+          "constructive algorithms",
+          "dp",
           "fft",
           "math"
         ],
@@ -127,8 +337,10 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
-          "hashing"
+          "hashing",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/D"
       },
