@@ -1,120 +1,42 @@
 {
   "version": "0.1.16",
-  "updateTime": 1659388255,
+  "updateTime": 1659474666,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166530403,
-            "pid": "1714F",
-            "name": "Build a Tree and That Is It",
-            "verdict": "OK",
-            "creationTime": 1659366099
-          },
-          {
-            "platform": "codeforces",
-            "id": 166525077,
-            "pid": "1714G",
-            "name": "Path Prefixes",
-            "verdict": "OK",
-            "creationTime": 1659365811
-          },
-          {
-            "platform": "codeforces",
-            "id": 166518644,
-            "pid": "1714F",
-            "name": "Build a Tree and That Is It",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1659365483
-          },
-          {
-            "platform": "codeforces",
-            "id": 166511191,
-            "pid": "1714E",
-            "name": "Add Modulo 10",
-            "verdict": "OK",
-            "creationTime": 1659365095
-          },
-          {
-            "platform": "codeforces",
-            "id": 166508060,
-            "pid": "1714D",
-            "name": "Color with Occurrences",
-            "verdict": "OK",
-            "creationTime": 1659364875
-          },
-          {
-            "platform": "codeforces",
-            "id": 166506685,
-            "pid": "1714C",
-            "name": "Minimum  Varied Number",
-            "verdict": "OK",
-            "creationTime": 1659364673
-          },
-          {
-            "platform": "codeforces",
-            "id": 166506547,
-            "pid": "1714B",
-            "name": "Remove Prefix",
-            "verdict": "OK",
-            "creationTime": 1659364605
-          },
-          {
-            "platform": "codeforces",
-            "id": 166506473,
-            "pid": "1714A",
-            "name": "Everyone Loves to Sleep",
-            "verdict": "OK",
-            "creationTime": 1659364558
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 166474330,
-            "pid": "1706D1",
-            "name": "Chopping Carrots (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1659354515
-          },
-          {
-            "platform": "codeforces",
-            "id": 166474310,
-            "pid": "1706C",
-            "name": "Qpwoeirut And The City",
-            "verdict": "OK",
-            "creationTime": 1659354504
-          },
-          {
-            "platform": "codeforces",
-            "id": 166474294,
-            "pid": "1706B",
-            "name": "Making Towers",
-            "verdict": "OK",
-            "creationTime": 1659354495
-          },
-          {
-            "platform": "codeforces",
-            "id": 166474289,
-            "pid": "1706A",
-            "name": "Another String Minimization Problem",
-            "verdict": "OK",
-            "creationTime": 1659354489
-          },
-          {
-            "platform": "codeforces",
-            "id": 166423614,
+            "id": 166713070,
             "pid": "1704D",
             "name": "Magical Array",
             "verdict": "OK",
-            "creationTime": 1659310490
+            "creationTime": 1659454856
+          },
+          {
+            "platform": "codeforces",
+            "id": 166713055,
+            "pid": "1704C",
+            "name": "Virus",
+            "verdict": "OK",
+            "creationTime": 1659454848
+          },
+          {
+            "platform": "codeforces",
+            "id": 166713047,
+            "pid": "1704B",
+            "name": "Luke is a Foodie",
+            "verdict": "OK",
+            "creationTime": 1659454842
+          },
+          {
+            "platform": "codeforces",
+            "id": 166713036,
+            "pid": "1704A",
+            "name": "Two 0-1 Sequences",
+            "verdict": "OK",
+            "creationTime": 1659454836
           }
         ],
         "newContests": []
@@ -122,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "be7e137e21a1b37dbc166463b09b1a82292f2c27"
+  "ref": "c6cf2df67dafede78d27cb7f92571dae928f722c"
 }

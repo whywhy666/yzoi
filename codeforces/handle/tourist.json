@@ -21,9 +21,9 @@
         "type": "codeforces",
         "id": "1714F",
         "name": "Build a Tree and That Is It",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
-          "greedy",
           "implementation",
           "trees"
         ],
@@ -48,6 +48,7 @@
         "type": "codeforces",
         "id": "1714G",
         "name": "Path Prefixes",
+        "rating": 1700,
         "tags": [
           "binary search",
           "data structures",
@@ -75,9 +76,9 @@
         "type": "codeforces",
         "id": "1714F",
         "name": "Build a Tree and That Is It",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
-          "greedy",
           "implementation",
           "trees"
         ],
@@ -102,6 +103,7 @@
         "type": "codeforces",
         "id": "1714E",
         "name": "Add Modulo 10",
+        "rating": 1400,
         "tags": [
           "math",
           "number theory"
@@ -127,6 +129,7 @@
         "type": "codeforces",
         "id": "1714D",
         "name": "Color with Occurrences",
+        "rating": 1600,
         "tags": [
           "dp",
           "greedy",
@@ -153,9 +156,8 @@
         "type": "codeforces",
         "id": "1714C",
         "name": "Minimum  Varied Number",
+        "rating": 800,
         "tags": [
-          "bitmasks",
-          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1714/problem/C"
@@ -179,8 +181,10 @@
         "type": "codeforces",
         "id": "1714B",
         "name": "Remove Prefix",
+        "rating": 800,
         "tags": [
           "data structures",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1714/problem/B"
@@ -204,6 +208,7 @@
         "type": "codeforces",
         "id": "1714A",
         "name": "Everyone Loves to Sleep",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -313,7 +318,9 @@
           "brute force",
           "constructive algorithms",
           "dp",
-          "graphs"
+          "graphs",
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/E"
       },
@@ -337,7 +344,6 @@
         "id": "1704D",
         "name": "Magical Array",
         "tags": [
-          "combinatorics",
           "constructive algorithms",
           "hashing",
           "math"
@@ -365,6 +371,7 @@
         "name": "Virus",
         "tags": [
           "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/C"
@@ -389,7 +396,9 @@
         "id": "1704B",
         "name": "Luke is a Foodie",
         "tags": [
-          "greedy"
+          "brute force",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/B"
       },
