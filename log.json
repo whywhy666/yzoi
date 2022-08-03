@@ -1,48 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1659474666,
+  "updateTime": 1659561045,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 166713070,
-            "pid": "1704D",
-            "name": "Magical Array",
-            "verdict": "OK",
-            "creationTime": 1659454856
-          },
-          {
-            "platform": "codeforces",
-            "id": 166713055,
-            "pid": "1704C",
-            "name": "Virus",
-            "verdict": "OK",
-            "creationTime": 1659454848
-          },
-          {
-            "platform": "codeforces",
-            "id": 166713047,
-            "pid": "1704B",
-            "name": "Luke is a Foodie",
-            "verdict": "OK",
-            "creationTime": 1659454842
-          },
-          {
-            "platform": "codeforces",
-            "id": 166713036,
-            "pid": "1704A",
-            "name": "Two 0-1 Sequences",
-            "verdict": "OK",
-            "creationTime": 1659454836
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c6cf2df67dafede78d27cb7f92571dae928f722c"
+  "ref": "83674d60d2caf679e2f0a52a28076dbcfbce452e"
 }

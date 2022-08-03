@@ -105,6 +105,7 @@
         "name": "Add Modulo 10",
         "rating": 1400,
         "tags": [
+          "brute force",
           "math",
           "number theory"
         ],
@@ -131,6 +132,8 @@
         "name": "Color with Occurrences",
         "rating": 1600,
         "tags": [
+          "brute force",
+          "data structures",
           "dp",
           "greedy",
           "strings"
@@ -291,6 +294,7 @@
         "name": "Colouring Game",
         "tags": [
           "constructive algorithms",
+          "dp",
           "games"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/F"
@@ -346,6 +350,7 @@
         "tags": [
           "constructive algorithms",
           "hashing",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1704/problem/D"
