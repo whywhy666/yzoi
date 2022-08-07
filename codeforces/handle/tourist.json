@@ -237,6 +237,7 @@
         "type": "codeforces",
         "id": "1704G",
         "name": "Mio and Lucky Array",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "fft",
@@ -264,6 +265,7 @@
         "type": "codeforces",
         "id": "1704H1",
         "name": "Game of AI (easy version)",
+        "rating": 3200,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -292,6 +294,7 @@
         "type": "codeforces",
         "id": "1704F",
         "name": "Colouring Game",
+        "rating": 2600,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -318,6 +321,7 @@
         "type": "codeforces",
         "id": "1704E",
         "name": "Count Seconds",
+        "rating": 2200,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -347,6 +351,7 @@
         "type": "codeforces",
         "id": "1704D",
         "name": "Magical Array",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "hashing",
@@ -374,6 +379,7 @@
         "type": "codeforces",
         "id": "1704C",
         "name": "Virus",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation",
@@ -400,6 +406,7 @@
         "type": "codeforces",
         "id": "1704B",
         "name": "Luke is a Foodie",
+        "rating": 1000,
         "tags": [
           "brute force",
           "greedy",
@@ -426,6 +433,7 @@
         "type": "codeforces",
         "id": "1704A",
         "name": "Two 0-1 Sequences",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"
