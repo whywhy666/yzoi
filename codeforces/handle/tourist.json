@@ -6,6 +6,239 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168158904,
+      "creationTime": 1660406269,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712F",
+        "name": "Triameter",
+        "tags": [
+          "dfs and similar",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168158904"
+    },
+    {
+      "type": "codeforces",
+      "id": 168157157,
+      "creationTime": 1660406027,
+      "language": "GNU C++20 (64)",
+      "verdict": "SKIPPED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712F",
+        "name": "Triameter",
+        "tags": [
+          "dfs and similar",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168157157"
+    },
+    {
+      "type": "codeforces",
+      "id": 168138361,
+      "creationTime": 1660403925,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712F",
+        "name": "Triameter",
+        "tags": [
+          "dfs and similar",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168138361"
+    },
+    {
+      "type": "codeforces",
+      "id": 168123445,
+      "creationTime": 1660402845,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712E2",
+        "name": "LCM Sum (hard version)",
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168123445"
+    },
+    {
+      "type": "codeforces",
+      "id": 168117063,
+      "creationTime": 1660402490,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712E1",
+        "name": "LCM Sum (easy version)",
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168117063"
+    },
+    {
+      "type": "codeforces",
+      "id": 168111028,
+      "creationTime": 1660402198,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712D",
+        "name": "Empty Graph",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168111028"
+    },
+    {
+      "type": "codeforces",
+      "id": 168096767,
+      "creationTime": 1660401651,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712C",
+        "name": "Sort Zero",
+        "tags": [
+          "dp",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168096767"
+    },
+    {
+      "type": "codeforces",
+      "id": 168090109,
+      "creationTime": 1660401441,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712B",
+        "name": "Woeful Permutation",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168090109"
+    },
+    {
+      "type": "codeforces",
+      "id": 168088917,
+      "creationTime": 1660401355,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1660401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712A",
+        "name": "Wonderful Permutation",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/168088917"
+    },
+    {
+      "type": "codeforces",
       "id": 166530403,
       "creationTime": 1659366099,
       "language": "GNU C++20 (64)",
