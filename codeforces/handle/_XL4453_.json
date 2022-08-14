@@ -6,6 +6,110 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168264652,
+      "creationTime": 1660478688,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487004959
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1365E",
+        "name": "Maximum Subsequence Value",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1365/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1365/submission/168264652"
+    },
+    {
+      "type": "codeforces",
+      "id": 168264633,
+      "creationTime": 1660478678,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487004969
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1365E",
+        "name": "Maximum Subsequence Value",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1365/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1365/submission/168264633"
+    },
+    {
+      "type": "codeforces",
+      "id": 168263472,
+      "creationTime": 1660477951,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487005696
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1353F",
+        "name": "Decreasing Heights",
+        "rating": 2200,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1353/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1353/submission/168263472"
+    },
+    {
+      "type": "codeforces",
+      "id": 168263428,
+      "creationTime": 1660477918,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -487005729
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1353F",
+        "name": "Decreasing Heights",
+        "rating": 2200,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1353/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1353/submission/168263428"
+    },
+    {
+      "type": "codeforces",
       "id": 166713070,
       "creationTime": 1659454856,
       "language": "GNU C++14",

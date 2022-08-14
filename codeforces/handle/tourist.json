@@ -22,6 +22,7 @@
         "id": "1712F",
         "name": "Triameter",
         "tags": [
+          "data structures",
           "dfs and similar",
           "trees"
         ],
@@ -47,6 +48,7 @@
         "id": "1712F",
         "name": "Triameter",
         "tags": [
+          "data structures",
           "dfs and similar",
           "trees"
         ],
@@ -72,6 +74,7 @@
         "id": "1712F",
         "name": "Triameter",
         "tags": [
+          "data structures",
           "dfs and similar",
           "trees"
         ],
@@ -97,10 +100,12 @@
         "id": "1712E2",
         "name": "LCM Sum (hard version)",
         "tags": [
+          "brute force",
           "combinatorics",
           "data structures",
           "math",
-          "number theory"
+          "number theory",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/E2"
       },
@@ -125,6 +130,7 @@
         "name": "LCM Sum (easy version)",
         "tags": [
           "binary search",
+          "brute force",
           "combinatorics",
           "math",
           "number theory",
@@ -153,8 +159,10 @@
         "name": "Empty Graph",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
-          "greedy"
+          "greedy",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/D"
       },
@@ -178,10 +186,8 @@
         "id": "1712C",
         "name": "Sort Zero",
         "tags": [
-          "dp",
           "greedy",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/C"
       },
@@ -231,6 +237,7 @@
         "id": "1712A",
         "name": "Wonderful Permutation",
         "tags": [
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1712/problem/A"
