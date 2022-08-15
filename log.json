@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1660511434,
+  "updateTime": 1660597859,
   "history": {
     "user": [
       {
@@ -8,35 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168264652,
-            "pid": "1365E",
-            "name": "Maximum Subsequence Value",
-            "verdict": "OK",
-            "creationTime": 1660478688
+            "id": 168323731,
+            "pid": "1354F",
+            "name": "Summoning Minions",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660521794
           },
           {
             "platform": "codeforces",
-            "id": 168264633,
-            "pid": "1365E",
-            "name": "Maximum Subsequence Value",
-            "verdict": "OK",
-            "creationTime": 1660478678
+            "id": 168323679,
+            "pid": "1354F",
+            "name": "Summoning Minions",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660521673
           },
           {
             "platform": "codeforces",
-            "id": 168263472,
-            "pid": "1353F",
-            "name": "Decreasing Heights",
+            "id": 168322469,
+            "pid": "1344B",
+            "name": "Monopole Magnets",
             "verdict": "OK",
-            "creationTime": 1660477951
+            "creationTime": 1660519419
           },
           {
             "platform": "codeforces",
-            "id": 168263428,
-            "pid": "1353F",
-            "name": "Decreasing Heights",
+            "id": 168322449,
+            "pid": "1344B",
+            "name": "Monopole Magnets",
             "verdict": "OK",
-            "creationTime": 1660477918
+            "creationTime": 1660519390
           }
         ],
         "newContests": []
@@ -44,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "71ff30b5b3f38cf3690f58554465d46381f32d0c"
+  "ref": "e7a8867dc2b672151d042a83c776511f85a25dde"
 }
