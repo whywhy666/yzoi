@@ -6,6 +6,294 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 168597010,
+      "creationTime": 1660667342,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718F",
+        "name": "Burenka, an Array and Queries",
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168597010"
+    },
+    {
+      "type": "codeforces",
+      "id": 168594423,
+      "creationTime": 1660667073,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718F",
+        "name": "Burenka, an Array and Queries",
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168594423"
+    },
+    {
+      "type": "codeforces",
+      "id": 168565469,
+      "creationTime": 1660664061,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718D",
+        "name": "Permutation for Burenka",
+        "tags": [
+          "greedy",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168565469"
+    },
+    {
+      "type": "codeforces",
+      "id": 168541281,
+      "creationTime": 1660662116,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718C",
+        "name": "Tonya and Burenka-179",
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168541281"
+    },
+    {
+      "type": "codeforces",
+      "id": 168539471,
+      "creationTime": 1660661991,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718C",
+        "name": "Tonya and Burenka-179",
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168539471"
+    },
+    {
+      "type": "codeforces",
+      "id": 168533942,
+      "creationTime": 1660661631,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718B",
+        "name": "Fibonacci Strings",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168533942"
+    },
+    {
+      "type": "codeforces",
+      "id": 168527669,
+      "creationTime": 1660661318,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718B",
+        "name": "Fibonacci Strings",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168527669"
+    },
+    {
+      "type": "codeforces",
+      "id": 168523059,
+      "creationTime": 1660661053,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718B",
+        "name": "Fibonacci Strings",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168523059"
+    },
+    {
+      "type": "codeforces",
+      "id": 168516853,
+      "creationTime": 1660660724,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718A2",
+        "name": "Burenka and Traditions (hard version)",
+        "tags": [
+          "data structures",
+          "dp",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/A2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168516853"
+    },
+    {
+      "type": "codeforces",
+      "id": 168516745,
+      "creationTime": 1660660717,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718A1",
+        "name": "Burenka and Traditions (easy version)",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/A1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168516745"
+    },
+    {
+      "type": "codeforces",
+      "id": 168515566,
+      "creationTime": 1660660622,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1660660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718A1",
+        "name": "Burenka and Traditions (easy version)",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/A1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/168515566"
+    },
+    {
+      "type": "codeforces",
       "id": 168158904,
       "creationTime": 1660406269,
       "language": "GNU C++20 (64)",
@@ -21,7 +309,9 @@
         "type": "codeforces",
         "id": "1712F",
         "name": "Triameter",
+        "rating": 3200,
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "trees"
@@ -47,7 +337,9 @@
         "type": "codeforces",
         "id": "1712F",
         "name": "Triameter",
+        "rating": 3200,
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "trees"
@@ -73,7 +365,9 @@
         "type": "codeforces",
         "id": "1712F",
         "name": "Triameter",
+        "rating": 3200,
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "trees"
@@ -99,6 +393,7 @@
         "type": "codeforces",
         "id": "1712E2",
         "name": "LCM Sum (hard version)",
+        "rating": 2500,
         "tags": [
           "brute force",
           "data structures",
@@ -127,6 +422,7 @@
         "type": "codeforces",
         "id": "1712E1",
         "name": "LCM Sum (easy version)",
+        "rating": 2300,
         "tags": [
           "binary search",
           "brute force",
@@ -156,6 +452,7 @@
         "type": "codeforces",
         "id": "1712D",
         "name": "Empty Graph",
+        "rating": 2000,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -184,6 +481,7 @@
         "type": "codeforces",
         "id": "1712C",
         "name": "Sort Zero",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -209,6 +507,7 @@
         "type": "codeforces",
         "id": "1712B",
         "name": "Woeful Permutation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -235,6 +534,7 @@
         "type": "codeforces",
         "id": "1712A",
         "name": "Wonderful Permutation",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -106255,7 +106555,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3771,
+    "rating": 3851,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

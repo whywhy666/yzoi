@@ -1,42 +1,136 @@
 {
   "version": "0.1.16",
-  "updateTime": 1660597859,
+  "updateTime": 1660684248,
   "history": {
     "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 168597010,
+            "pid": "1718F",
+            "name": "Burenka, an Array and Queries",
+            "verdict": "OK",
+            "creationTime": 1660667342
+          },
+          {
+            "platform": "codeforces",
+            "id": 168594423,
+            "pid": "1718F",
+            "name": "Burenka, an Array and Queries",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1660667073
+          },
+          {
+            "platform": "codeforces",
+            "id": 168565469,
+            "pid": "1718D",
+            "name": "Permutation for Burenka",
+            "verdict": "OK",
+            "creationTime": 1660664061
+          },
+          {
+            "platform": "codeforces",
+            "id": 168541281,
+            "pid": "1718C",
+            "name": "Tonya and Burenka-179",
+            "verdict": "OK",
+            "creationTime": 1660662116
+          },
+          {
+            "platform": "codeforces",
+            "id": 168539471,
+            "pid": "1718C",
+            "name": "Tonya and Burenka-179",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1660661991
+          },
+          {
+            "platform": "codeforces",
+            "id": 168533942,
+            "pid": "1718B",
+            "name": "Fibonacci Strings",
+            "verdict": "OK",
+            "creationTime": 1660661631
+          },
+          {
+            "platform": "codeforces",
+            "id": 168527669,
+            "pid": "1718B",
+            "name": "Fibonacci Strings",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660661318
+          },
+          {
+            "platform": "codeforces",
+            "id": 168523059,
+            "pid": "1718B",
+            "name": "Fibonacci Strings",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660661053
+          },
+          {
+            "platform": "codeforces",
+            "id": 168516853,
+            "pid": "1718A2",
+            "name": "Burenka and Traditions (hard version)",
+            "verdict": "OK",
+            "creationTime": 1660660724
+          },
+          {
+            "platform": "codeforces",
+            "id": 168516745,
+            "pid": "1718A1",
+            "name": "Burenka and Traditions (easy version)",
+            "verdict": "OK",
+            "creationTime": 1660660717
+          },
+          {
+            "platform": "codeforces",
+            "id": 168515566,
+            "pid": "1718A1",
+            "name": "Burenka and Traditions (easy version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660660622
+          }
+        ],
+        "newContests": []
+      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 168323731,
+            "id": 168495141,
+            "pid": "1354F",
+            "name": "Summoning Minions",
+            "verdict": "OK",
+            "creationTime": 1660648970
+          },
+          {
+            "platform": "codeforces",
+            "id": 168495100,
+            "pid": "1354F",
+            "name": "Summoning Minions",
+            "verdict": "OK",
+            "creationTime": 1660648940
+          },
+          {
+            "platform": "codeforces",
+            "id": 168494769,
             "pid": "1354F",
             "name": "Summoning Minions",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1660521794
+            "creationTime": 1660648734
           },
           {
             "platform": "codeforces",
-            "id": 168323679,
+            "id": 168494676,
             "pid": "1354F",
             "name": "Summoning Minions",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1660521673
-          },
-          {
-            "platform": "codeforces",
-            "id": 168322469,
-            "pid": "1344B",
-            "name": "Monopole Magnets",
-            "verdict": "OK",
-            "creationTime": 1660519419
-          },
-          {
-            "platform": "codeforces",
-            "id": 168322449,
-            "pid": "1344B",
-            "name": "Monopole Magnets",
-            "verdict": "OK",
-            "creationTime": 1660519390
+            "creationTime": 1660648666
           }
         ],
         "newContests": []
@@ -44,5 +138,5 @@
     ],
     "contest": []
   },
-  "ref": "e7a8867dc2b672151d042a83c776511f85a25dde"
+  "ref": "695763c12d7d0d8de406e61da89baf927914a949"
 }
