@@ -74,6 +74,7 @@
         "id": "1718D",
         "name": "Permutation for Burenka",
         "tags": [
+          "graph matchings",
           "greedy",
           "math",
           "trees"
@@ -100,6 +101,7 @@
         "id": "1718C",
         "name": "Tonya and Burenka-179",
         "tags": [
+          "brute force",
           "data structures",
           "math",
           "number theory"
@@ -126,6 +128,7 @@
         "id": "1718C",
         "name": "Tonya and Burenka-179",
         "tags": [
+          "brute force",
           "data structures",
           "math",
           "number theory"
@@ -152,9 +155,10 @@
         "id": "1718B",
         "name": "Fibonacci Strings",
         "tags": [
-          "data structures",
+          "brute force",
           "greedy",
           "implementation",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/B"
@@ -179,9 +183,10 @@
         "id": "1718B",
         "name": "Fibonacci Strings",
         "tags": [
-          "data structures",
+          "brute force",
           "greedy",
           "implementation",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/B"
@@ -206,9 +211,10 @@
         "id": "1718B",
         "name": "Fibonacci Strings",
         "tags": [
-          "data structures",
+          "brute force",
           "greedy",
           "implementation",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/B"
@@ -235,7 +241,7 @@
         "tags": [
           "data structures",
           "dp",
-          "math",
+          "greedy",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/A2"
@@ -261,7 +267,7 @@
         "name": "Burenka and Traditions (easy version)",
         "tags": [
           "dp",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/A1"
       },
@@ -286,7 +292,7 @@
         "name": "Burenka and Traditions (easy version)",
         "tags": [
           "dp",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1718/problem/A1"
       },
