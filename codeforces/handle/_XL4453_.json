@@ -6,6 +6,199 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169053194,
+      "creationTime": 1660983002,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486500645
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1360H",
+        "name": "Binary Median",
+        "rating": 2100,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1360/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1360/submission/169053194"
+    },
+    {
+      "type": "codeforces",
+      "id": 169052773,
+      "creationTime": 1660982719,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486500928
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1360H",
+        "name": "Binary Median",
+        "rating": 2100,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1360/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1360/submission/169052773"
+    },
+    {
+      "type": "codeforces",
+      "id": 169052385,
+      "creationTime": 1660982464,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486501183
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1360H",
+        "name": "Binary Median",
+        "rating": 2100,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1360/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1360/submission/169052385"
+    },
+    {
+      "type": "codeforces",
+      "id": 169052051,
+      "creationTime": 1660982256,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486501391
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1360H",
+        "name": "Binary Median",
+        "rating": 2100,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1360/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1360/submission/169052051"
+    },
+    {
+      "type": "codeforces",
+      "id": 169023712,
+      "creationTime": 1660955270,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486528377
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1354E",
+        "name": "Graph Coloring",
+        "rating": 2100,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1354/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1354/submission/169023712"
+    },
+    {
+      "type": "codeforces",
+      "id": 169023703,
+      "creationTime": 1660955251,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486528396
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1354E",
+        "name": "Graph Coloring",
+        "rating": 2100,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1354/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1354/submission/169023703"
+    },
+    {
+      "type": "codeforces",
+      "id": 169023670,
+      "creationTime": 1660955177,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486528470
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1354E",
+        "name": "Graph Coloring",
+        "rating": 2100,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1354/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1354/submission/169023670"
+    },
+    {
+      "type": "codeforces",
       "id": 168495141,
       "creationTime": 1660648970,
       "language": "GNU C++14",

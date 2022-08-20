@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1660943446,
+  "updateTime": 1661029856,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 169053194,
+            "pid": "1360H",
+            "name": "Binary Median",
+            "verdict": "OK",
+            "creationTime": 1660983002
+          },
+          {
+            "platform": "codeforces",
+            "id": 169052773,
+            "pid": "1360H",
+            "name": "Binary Median",
+            "verdict": "OK",
+            "creationTime": 1660982719
+          },
+          {
+            "platform": "codeforces",
+            "id": 169052385,
+            "pid": "1360H",
+            "name": "Binary Median",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660982464
+          },
+          {
+            "platform": "codeforces",
+            "id": 169052051,
+            "pid": "1360H",
+            "name": "Binary Median",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1660982256
+          },
+          {
+            "platform": "codeforces",
+            "id": 169023712,
+            "pid": "1354E",
+            "name": "Graph Coloring",
+            "verdict": "OK",
+            "creationTime": 1660955270
+          },
+          {
+            "platform": "codeforces",
+            "id": 169023703,
+            "pid": "1354E",
+            "name": "Graph Coloring",
+            "verdict": "OK",
+            "creationTime": 1660955251
+          },
+          {
+            "platform": "codeforces",
+            "id": 169023670,
+            "pid": "1354E",
+            "name": "Graph Coloring",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1660955177
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "95dc1c21fcf626be5432fde858e43e6a31980eba"
+  "ref": "e43f0bbfea8f3baec996f97681b6e46ac23b482c"
 }
