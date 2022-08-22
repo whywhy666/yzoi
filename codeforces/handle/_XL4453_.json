@@ -6,6 +6,340 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169311850,
+      "creationTime": 1661157842,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486325805
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1354G",
+        "name": "Find a Gift",
+        "rating": 2600,
+        "tags": [
+          "binary search",
+          "interactive",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1354/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1354/submission/169311850"
+    },
+    {
+      "type": "codeforces",
+      "id": 169311555,
+      "creationTime": 1661157641,
+      "language": "GNU C++14",
+      "verdict": "IDLENESS_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486326006
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1354G",
+        "name": "Find a Gift",
+        "rating": 2600,
+        "tags": [
+          "binary search",
+          "interactive",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1354/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1354/submission/169311555"
+    },
+    {
+      "type": "codeforces",
+      "id": 169289898,
+      "creationTime": 1661135713,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486347934
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169289898"
+    },
+    {
+      "type": "codeforces",
+      "id": 169286758,
+      "creationTime": 1661131313,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486352334
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169286758"
+    },
+    {
+      "type": "codeforces",
+      "id": 169286701,
+      "creationTime": 1661131220,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486352427
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169286701"
+    },
+    {
+      "type": "codeforces",
+      "id": 169286677,
+      "creationTime": 1661131171,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486352476
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169286677"
+    },
+    {
+      "type": "codeforces",
+      "id": 169286621,
+      "creationTime": 1661131103,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486352544
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169286621"
+    },
+    {
+      "type": "codeforces",
+      "id": 169286297,
+      "creationTime": 1661130624,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486353023
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169286297"
+    },
+    {
+      "type": "codeforces",
+      "id": 169194874,
+      "creationTime": 1661053701,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486429946
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169194874"
+    },
+    {
+      "type": "codeforces",
+      "id": 169194806,
+      "creationTime": 1661053585,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486430062
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169194806"
+    },
+    {
+      "type": "codeforces",
+      "id": 169194745,
+      "creationTime": 1661053506,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486430141
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169194745"
+    },
+    {
+      "type": "codeforces",
+      "id": 169194501,
+      "creationTime": 1661053193,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486430454
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1358E",
+        "name": "Are You Fired?",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1358/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1358/submission/169194501"
+    },
+    {
+      "type": "codeforces",
       "id": 169053194,
       "creationTime": 1660983002,
       "language": "GNU C++14",
