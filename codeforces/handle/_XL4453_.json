@@ -6,6 +6,63 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 169405152,
+      "creationTime": 1661249990,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486233657
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1367F1",
+        "name": "Flying Sort (Easy Version)",
+        "rating": 2100,
+        "tags": [
+          "dp",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1367/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1367/submission/169405152"
+    },
+    {
+      "type": "codeforces",
+      "id": 169392145,
+      "creationTime": 1661238552,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -486245095
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1367F2",
+        "name": "Flying Sort (Hard Version)",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1367/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1367/submission/169392145"
+    },
+    {
+      "type": "codeforces",
       "id": 169311850,
       "creationTime": 1661157842,
       "language": "GNU C++14",

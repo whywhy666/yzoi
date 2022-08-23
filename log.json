@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1661202639,
+  "updateTime": 1661289068,
   "history": {
     "user": [
       {
@@ -8,99 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 169311850,
-            "pid": "1354G",
-            "name": "Find a Gift",
+            "id": 169405152,
+            "pid": "1367F1",
+            "name": "Flying Sort (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1661157842
+            "creationTime": 1661249990
           },
           {
             "platform": "codeforces",
-            "id": 169311555,
-            "pid": "1354G",
-            "name": "Find a Gift",
-            "verdict": "IDLENESS_LIMIT_EXCEEDED",
-            "creationTime": 1661157641
-          },
-          {
-            "platform": "codeforces",
-            "id": 169289898,
-            "pid": "1358E",
-            "name": "Are You Fired?",
+            "id": 169392145,
+            "pid": "1367F2",
+            "name": "Flying Sort (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1661135713
-          },
-          {
-            "platform": "codeforces",
-            "id": 169286758,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "OK",
-            "creationTime": 1661131313
-          },
-          {
-            "platform": "codeforces",
-            "id": 169286701,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "OK",
-            "creationTime": 1661131220
-          },
-          {
-            "platform": "codeforces",
-            "id": 169286677,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "OK",
-            "creationTime": 1661131171
-          },
-          {
-            "platform": "codeforces",
-            "id": 169286621,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661131103
-          },
-          {
-            "platform": "codeforces",
-            "id": 169286297,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661130624
-          },
-          {
-            "platform": "codeforces",
-            "id": 169194874,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661053701
-          },
-          {
-            "platform": "codeforces",
-            "id": 169194806,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661053585
-          },
-          {
-            "platform": "codeforces",
-            "id": 169194745,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661053506
-          },
-          {
-            "platform": "codeforces",
-            "id": 169194501,
-            "pid": "1358E",
-            "name": "Are You Fired?",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661053193
+            "creationTime": 1661238552
           }
         ],
         "newContests": []
@@ -108,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "cfec1b0e3553f877eefcf3260b8d32fd7c4faf83"
+  "ref": "b9c9a36f1ce35edc1ad069f7063e38088ca70ca8"
 }
