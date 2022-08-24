@@ -1,32 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1661289068,
+  "updateTime": 1661375450,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 169405152,
-            "pid": "1367F1",
-            "name": "Flying Sort (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1661249990
-          },
-          {
-            "platform": "codeforces",
-            "id": 169392145,
-            "pid": "1367F2",
-            "name": "Flying Sort (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1661238552
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b9c9a36f1ce35edc1ad069f7063e38088ca70ca8"
+  "ref": "49351334c4c8106a5b42ed1f4e04fbf473e079db"
 }
