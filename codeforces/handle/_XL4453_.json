@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 170148981,
+      "creationTime": 1661857847,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -485625800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "786C",
+        "name": "Till I Collapse",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/786/submission/170148981"
+    },
+    {
+      "type": "codeforces",
       "id": 169405152,
       "creationTime": 1661249990,
       "language": "GNU C++14",

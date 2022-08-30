@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1661807494,
+  "updateTime": 1661893895,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 170148981,
+            "pid": "786C",
+            "name": "Till I Collapse",
+            "verdict": "OK",
+            "creationTime": 1661857847
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c374403c3a92d37789e013870a44f7241e6d6c39"
+  "ref": "5778db215f61e59ab08d797e3dfafe80caeb142c"
 }
