@@ -1,56 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1661980297,
+  "updateTime": 1662066720,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 170338158,
-            "pid": "449D",
-            "name": "Jzzhu and Numbers",
-            "verdict": "OK",
-            "creationTime": 1661912949
-          },
-          {
-            "platform": "codeforces",
-            "id": 170332143,
-            "pid": "883D",
-            "name": "Packmen Strike Back",
-            "verdict": "OK",
-            "creationTime": 1661908752
-          },
-          {
-            "platform": "codeforces",
-            "id": 170332091,
-            "pid": "883D",
-            "name": "Packmen Strike Back",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661908660
-          },
-          {
-            "platform": "codeforces",
-            "id": 170331977,
-            "pid": "883D",
-            "name": "Packmen Strike Back",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661908460
-          },
-          {
-            "platform": "codeforces",
-            "id": 170331861,
-            "pid": "883D",
-            "name": "Packmen Strike Back",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1661908309
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f883fcd2f33fba5ffb3127506aa5c1ed98d641dd"
+  "ref": "ebfb18d3542e774b524e8bf6615ae1f4d5a51f0a"
 }
