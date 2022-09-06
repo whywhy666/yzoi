@@ -6,6 +6,243 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171123945,
+      "creationTime": 1662479352,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726G",
+        "name": "A Certain Magical Party",
+        "tags": [
+          "combinatorics",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171123945"
+    },
+    {
+      "type": "codeforces",
+      "id": 171111157,
+      "creationTime": 1662478069,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726F",
+        "name": "Late For Work",
+        "tags": [
+          "data structures",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171111157"
+    },
+    {
+      "type": "codeforces",
+      "id": 171109828,
+      "creationTime": 1662477949,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726F",
+        "name": "Late For Work",
+        "tags": [
+          "data structures",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171109828"
+    },
+    {
+      "type": "codeforces",
+      "id": 171094193,
+      "creationTime": 1662476743,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726D",
+        "name": "Edge Split",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171094193"
+    },
+    {
+      "type": "codeforces",
+      "id": 171093140,
+      "creationTime": 1662476672,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726D",
+        "name": "Edge Split",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171093140"
+    },
+    {
+      "type": "codeforces",
+      "id": 171082776,
+      "creationTime": 1662476026,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726E",
+        "name": "Almost Perfect",
+        "tags": [
+          "combinatorics",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171082776"
+    },
+    {
+      "type": "codeforces",
+      "id": 171073174,
+      "creationTime": 1662475486,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726C",
+        "name": "Jatayu's Balanced Bracket Sequence",
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171073174"
+    },
+    {
+      "type": "codeforces",
+      "id": 171066055,
+      "creationTime": 1662475096,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726B",
+        "name": "Mainak and Interesting Sequence",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171066055"
+    },
+    {
+      "type": "codeforces",
+      "id": 171064612,
+      "creationTime": 1662474979,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1662474900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1726A",
+        "name": "Mainak and Array",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1726/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1726/submission/171064612"
+    },
+    {
+      "type": "codeforces",
       "id": 168597010,
       "creationTime": 1660667342,
       "language": "GNU C++20 (64)",
@@ -106569,7 +106806,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3851,
+    "rating": 3847,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
