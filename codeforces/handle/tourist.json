@@ -50,6 +50,7 @@
         "tags": [
           "data structures",
           "greedy",
+          "schedules",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1726/problem/F"
@@ -76,6 +77,7 @@
         "tags": [
           "data structures",
           "greedy",
+          "schedules",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1726/problem/F"
@@ -100,8 +102,10 @@
         "id": "1726D",
         "name": "Edge Split",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "dfs and similar",
+          "dsu",
           "graphs",
           "probabilities",
           "trees"
@@ -128,8 +132,10 @@
         "id": "1726D",
         "name": "Edge Split",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "dfs and similar",
+          "dsu",
           "graphs",
           "probabilities",
           "trees"
@@ -184,7 +190,8 @@
         "tags": [
           "data structures",
           "dsu",
-          "graphs"
+          "graphs",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1726/problem/C"
       },
@@ -106806,7 +106813,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3847,
+    "rating": 3851,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

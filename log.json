@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1662498685,
+  "updateTime": 1662585122,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 171123945,
-            "pid": "1726G",
-            "name": "A Certain Magical Party",
-            "verdict": "OK",
-            "creationTime": 1662479352
-          },
-          {
-            "platform": "codeforces",
-            "id": 171111157,
-            "pid": "1726F",
-            "name": "Late For Work",
-            "verdict": "OK",
-            "creationTime": 1662478069
-          },
-          {
-            "platform": "codeforces",
-            "id": 171109828,
-            "pid": "1726F",
-            "name": "Late For Work",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1662477949
-          },
-          {
-            "platform": "codeforces",
-            "id": 171094193,
-            "pid": "1726D",
-            "name": "Edge Split",
-            "verdict": "OK",
-            "creationTime": 1662476743
-          },
-          {
-            "platform": "codeforces",
-            "id": 171093140,
-            "pid": "1726D",
-            "name": "Edge Split",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1662476672
-          },
-          {
-            "platform": "codeforces",
-            "id": 171082776,
-            "pid": "1726E",
-            "name": "Almost Perfect",
-            "verdict": "OK",
-            "creationTime": 1662476026
-          },
-          {
-            "platform": "codeforces",
-            "id": 171073174,
-            "pid": "1726C",
-            "name": "Jatayu's Balanced Bracket Sequence",
-            "verdict": "OK",
-            "creationTime": 1662475486
-          },
-          {
-            "platform": "codeforces",
-            "id": 171066055,
-            "pid": "1726B",
-            "name": "Mainak and Interesting Sequence",
-            "verdict": "OK",
-            "creationTime": 1662475096
-          },
-          {
-            "platform": "codeforces",
-            "id": 171064612,
-            "pid": "1726A",
-            "name": "Mainak and Array",
-            "verdict": "OK",
-            "creationTime": 1662474979
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "e759c8e711012a30b9914f70df5990d50486d115"
+  "ref": "7b6090998cb57f46bfba6b8b60da9295e427becb"
 }
