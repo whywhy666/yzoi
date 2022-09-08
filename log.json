@@ -1,9 +1,56 @@
 {
   "version": "0.1.16",
-  "updateTime": 1662585122,
+  "updateTime": 1662671526,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "然然",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 171307495,
+            "pid": "1714C",
+            "name": "Minimum  Varied Number",
+            "verdict": "OK",
+            "creationTime": 1662622303
+          },
+          {
+            "platform": "codeforces",
+            "id": 171307243,
+            "pid": "1714B",
+            "name": "Remove Prefix",
+            "verdict": "OK",
+            "creationTime": 1662622087
+          },
+          {
+            "platform": "codeforces",
+            "id": 171307172,
+            "pid": "1714B",
+            "name": "Remove Prefix",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1662622023
+          },
+          {
+            "platform": "codeforces",
+            "id": 171307098,
+            "pid": "1714B",
+            "name": "Remove Prefix",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1662621968
+          },
+          {
+            "platform": "codeforces",
+            "id": 171306781,
+            "pid": "1714A",
+            "name": "Everyone Loves to Sleep",
+            "verdict": "OK",
+            "creationTime": 1662621726
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "7b6090998cb57f46bfba6b8b60da9295e427becb"
+  "ref": "a0f84f625cd5b8f8be67bd58f6d2eb7a8c5c9d61"
 }

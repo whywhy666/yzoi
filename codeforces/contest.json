@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Educational Codeforces Round 135 (Rated for Div. 2)",
+    "startTime": 1662647700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1728,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1728",
+    "standingsUrl": "https://codeforces.com/contest/1728/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round #819 (Div. 1 + Div. 2) and Grimoire of Code Annual Contest 2022",
     "startTime": 1662474900,
     "duration": 8100,

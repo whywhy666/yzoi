@@ -6,6 +6,138 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 171307495,
+      "creationTime": 1662622303,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484861344
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714C",
+        "name": "Minimum  Varied Number",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/171307495"
+    },
+    {
+      "type": "codeforces",
+      "id": 171307243,
+      "creationTime": 1662622087,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484861560
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714B",
+        "name": "Remove Prefix",
+        "rating": 800,
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/171307243"
+    },
+    {
+      "type": "codeforces",
+      "id": 171307172,
+      "creationTime": 1662622023,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484861624
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714B",
+        "name": "Remove Prefix",
+        "rating": 800,
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/171307172"
+    },
+    {
+      "type": "codeforces",
+      "id": 171307098,
+      "creationTime": 1662621968,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484861679
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714B",
+        "name": "Remove Prefix",
+        "rating": 800,
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/171307098"
+    },
+    {
+      "type": "codeforces",
+      "id": 171306781,
+      "creationTime": 1662621726,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484861921
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1714A",
+        "name": "Everyone Loves to Sleep",
+        "rating": 900,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1714/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1714/submission/171306781"
+    },
+    {
+      "type": "codeforces",
       "id": 163462767,
       "creationTime": 1657459329,
       "language": "GNU C++20 (64)",
