@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 172152553,
+      "creationTime": 1663165351,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -484318296
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1354G",
+        "name": "Find a Gift",
+        "rating": 2600,
+        "tags": [
+          "binary search",
+          "interactive",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1354/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1354/submission/172152553"
+    },
+    {
+      "type": "codeforces",
       "id": 170338158,
       "creationTime": 1661912949,
       "language": "GNU C++14",

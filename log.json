@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1663103517,
+  "updateTime": 1663189868,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 172152553,
+            "pid": "1354G",
+            "name": "Find a Gift",
+            "verdict": "OK",
+            "creationTime": 1663165351
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "aad8af52b2a9231332dfe22f76a1cc93a83172a6"
+  "ref": "0f8ad2f105241c92096fab45a6c59cf5d7d9e383"
 }
