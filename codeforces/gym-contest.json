@@ -14660,5 +14660,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103914",
     "standingsUrl": "https://codeforces.com/gym/103914/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-16-22 Div. 1 (Advanced)",
+    "startTime": 1663369200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103921,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103921",
+    "standingsUrl": "https://codeforces.com/gym/103921/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-16-22 Div. 2 (Beginner)",
+    "startTime": 1663369200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103920,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103920",
+    "standingsUrl": "https://codeforces.com/gym/103920/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Shanghai Collegiate Programming Contest",
+    "startTime": 1663992000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103931,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103931",
+    "standingsUrl": "https://codeforces.com/gym/103931/standings"
   }
 ]
