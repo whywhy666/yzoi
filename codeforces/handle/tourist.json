@@ -99,7 +99,8 @@
         "tags": [
           "constructive algorithms",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/G"
       },
@@ -184,6 +185,7 @@
           "constructive algorithms",
           "dfs and similar",
           "dsu",
+          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/D"
@@ -210,8 +212,7 @@
         "tags": [
           "dp",
           "games",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/C"
       },
@@ -236,6 +237,8 @@
         "name": "Prefix Sum Addicts",
         "tags": [
           "constructive algorithms",
+          "greedy",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/B"
@@ -260,7 +263,9 @@
         "id": "1738A",
         "name": "Glory Addicts",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/A"
       },
@@ -107399,7 +107404,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3756,
+    "rating": 3757,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
