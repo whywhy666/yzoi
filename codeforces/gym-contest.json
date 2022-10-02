@@ -14696,6 +14696,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2022 USP Try-outs",
+    "startTime": 1664643600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103934,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103934",
+    "standingsUrl": "https://codeforces.com/gym/103934/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "UTPC Contest 09-30-22 Div. 2 (Beginner)",
     "startTime": 1664579400,
     "duration": 7800,
@@ -14715,5 +14726,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103938",
     "standingsUrl": "https://codeforces.com/gym/103938/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Henan Provincial Collegiate Programming Contest",
+    "startTime": 1664683200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103941,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103941",
+    "standingsUrl": "https://codeforces.com/gym/103941/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 ICPC Gran Premio de Mexico 2da Fecha",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103940,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103940",
+    "standingsUrl": "https://codeforces.com/gym/103940/standings"
   }
 ]
