@@ -2,7 +2,7 @@
   "type": "codeforces",
   "handle": "tourist",
   "handleUrl": "https://codeforces.com/profile/tourist",
-  "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
+  "avatar": "//userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
   "submissions": [
     {
       "type": "codeforces",
@@ -183,6 +183,7 @@
         "name": "Permutation Addicts",
         "tags": [
           "constructive algorithms",
+          "data structures",
           "dfs and similar",
           "dsu",
           "graphs",
@@ -212,7 +213,8 @@
         "tags": [
           "dp",
           "games",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/C"
       },
