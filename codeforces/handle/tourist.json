@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1738H",
         "name": "Palindrome Addicts",
+        "rating": 3300,
         "tags": [
           "data structures",
           "strings"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1738H",
         "name": "Palindrome Addicts",
+        "rating": 3300,
         "tags": [
           "data structures",
           "strings"
@@ -71,6 +73,7 @@
         "type": "codeforces",
         "id": "1738H",
         "name": "Palindrome Addicts",
+        "rating": 3300,
         "tags": [
           "data structures",
           "strings"
@@ -96,6 +99,7 @@
         "type": "codeforces",
         "id": "1738G",
         "name": "Anti-Increasing Addicts",
+        "rating": 2900,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -123,15 +127,13 @@
         "type": "codeforces",
         "id": "1738F",
         "name": "Connectivity Addicts",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
-          "dsu",
           "graphs",
           "greedy",
           "interactive",
-          "shortest paths",
-          "sortings",
-          "trees"
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/F"
       },
@@ -154,6 +156,7 @@
         "type": "codeforces",
         "id": "1738E",
         "name": "Balance Addicts",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "dp",
@@ -181,6 +184,7 @@
         "type": "codeforces",
         "id": "1738D",
         "name": "Permutation Addicts",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -210,6 +214,7 @@
         "type": "codeforces",
         "id": "1738C",
         "name": "Even Number Addicts",
+        "rating": 1500,
         "tags": [
           "dp",
           "games",
@@ -237,6 +242,7 @@
         "type": "codeforces",
         "id": "1738B",
         "name": "Prefix Sum Addicts",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -264,6 +270,7 @@
         "type": "codeforces",
         "id": "1738A",
         "name": "Glory Addicts",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation",
