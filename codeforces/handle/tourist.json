@@ -130,10 +130,12 @@
         "rating": 2400,
         "tags": [
           "constructive algorithms",
+          "dsu",
           "graphs",
           "greedy",
           "interactive",
-          "shortest paths"
+          "shortest paths",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1738/problem/F"
       },
