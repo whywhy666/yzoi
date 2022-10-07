@@ -2,8 +2,456 @@
   "type": "codeforces",
   "handle": "tourist",
   "handleUrl": "https://codeforces.com/profile/tourist",
-  "avatar": "//userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
+  "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 175043607,
+      "creationTime": 1665169414,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482314233
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175043607"
+    },
+    {
+      "type": "codeforces",
+      "id": 175043108,
+      "creationTime": 1665169077,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482314570
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175043108"
+    },
+    {
+      "type": "codeforces",
+      "id": 175043033,
+      "creationTime": 1665169027,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482314620
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175043033"
+    },
+    {
+      "type": "codeforces",
+      "id": 175042779,
+      "creationTime": 1665168871,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482314776
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175042779"
+    },
+    {
+      "type": "codeforces",
+      "id": 175042716,
+      "creationTime": 1665168829,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482314818
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175042716"
+    },
+    {
+      "type": "codeforces",
+      "id": 175042371,
+      "creationTime": 1665168614,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482315033
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175042371"
+    },
+    {
+      "type": "codeforces",
+      "id": 175042300,
+      "creationTime": 1665168579,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482315068
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175042300"
+    },
+    {
+      "type": "codeforces",
+      "id": 175041448,
+      "creationTime": 1665168115,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482315532
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175041448"
+    },
+    {
+      "type": "codeforces",
+      "id": 175041196,
+      "creationTime": 1665167985,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482315662
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175041196"
+    },
+    {
+      "type": "codeforces",
+      "id": 175025650,
+      "creationTime": 1665161529,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737G",
+        "name": "Ela Takes Dancing Class",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175025650"
+    },
+    {
+      "type": "codeforces",
+      "id": 175017871,
+      "creationTime": 1665159759,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737F",
+        "name": "Ela and Prime GCD",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/175017871"
+    },
+    {
+      "type": "codeforces",
+      "id": 174999142,
+      "creationTime": 1665156064,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737D",
+        "name": "Ela and the Wiring Wizard",
+        "tags": [
+          "flows",
+          "graphs",
+          "greedy",
+          "meet-in-the-middle",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/174999142"
+    },
+    {
+      "type": "codeforces",
+      "id": 174996069,
+      "creationTime": 1665155556,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737D",
+        "name": "Ela and the Wiring Wizard",
+        "tags": [
+          "flows",
+          "graphs",
+          "greedy",
+          "meet-in-the-middle",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/174996069"
+    },
+    {
+      "type": "codeforces",
+      "id": 174994588,
+      "creationTime": 1665155323,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737E",
+        "name": "Ela Goes Hiking",
+        "tags": [
+          "dp",
+          "number theory",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/174994588"
+    },
+    {
+      "type": "codeforces",
+      "id": 174985949,
+      "creationTime": 1665154009,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737C",
+        "name": "Ela and Crickets",
+        "tags": [
+          "games",
+          "implementation",
+          "math",
+          "math",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/174985949"
+    },
+    {
+      "type": "codeforces",
+      "id": 174983221,
+      "creationTime": 1665153559,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737A",
+        "name": "Ela Sorting Books",
+        "tags": [
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/174983221"
+    },
+    {
+      "type": "codeforces",
+      "id": 174982896,
+      "creationTime": 1665153448,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665153300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1737B",
+        "name": "Ela's Fitness and the Luxury Number",
+        "tags": [
+          "binary search",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1737/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1737/submission/174982896"
+    },
     {
       "type": "codeforces",
       "id": 174161462,

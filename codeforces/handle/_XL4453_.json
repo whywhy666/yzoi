@@ -2,8 +2,142 @@
   "type": "codeforces",
   "handle": "_XL4453_",
   "handleUrl": "https://codeforces.com/profile/_XL4453_",
-  "avatar": "//userpic.codeforces.org/1592942/title/3651777ed5437892.jpg",
+  "avatar": "https://userpic.codeforces.org/1592942/title/3651777ed5437892.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 174989376,
+      "creationTime": 1665154519,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482329128
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484C",
+        "name": "Strange Sorting",
+        "rating": 2600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/174989376"
+    },
+    {
+      "type": "codeforces",
+      "id": 174988164,
+      "creationTime": 1665154336,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482329311
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484C",
+        "name": "Strange Sorting",
+        "rating": 2600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/174988164"
+    },
+    {
+      "type": "codeforces",
+      "id": 174987247,
+      "creationTime": 1665154198,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482329449
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484C",
+        "name": "Strange Sorting",
+        "rating": 2600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/174987247"
+    },
+    {
+      "type": "codeforces",
+      "id": 174986702,
+      "creationTime": 1665154119,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482329528
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484C",
+        "name": "Strange Sorting",
+        "rating": 2600,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/174986702"
+    },
+    {
+      "type": "codeforces",
+      "id": 174918873,
+      "creationTime": 1665106909,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482376738
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1712E1",
+        "name": "LCM Sum (easy version)",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "brute force",
+          "combinatorics",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1712/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1712/submission/174918873"
+    },
     {
       "type": "codeforces",
       "id": 173931720,
