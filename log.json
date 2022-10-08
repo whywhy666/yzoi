@@ -1,192 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1665177162,
+  "updateTime": 1665263530,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 175043607,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665169414
-          },
-          {
-            "platform": "codeforces",
-            "id": 175043108,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665169077
-          },
-          {
-            "platform": "codeforces",
-            "id": 175043033,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665169027
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042779,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168871
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042716,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1665168829
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042371,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168614
-          },
-          {
-            "platform": "codeforces",
-            "id": 175042300,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168579
-          },
-          {
-            "platform": "codeforces",
-            "id": 175041448,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665168115
-          },
-          {
-            "platform": "codeforces",
-            "id": 175041196,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665167985
-          },
-          {
-            "platform": "codeforces",
-            "id": 175025650,
-            "pid": "1737G",
-            "name": "Ela Takes Dancing Class",
-            "verdict": "OK",
-            "creationTime": 1665161529
-          },
-          {
-            "platform": "codeforces",
-            "id": 175017871,
-            "pid": "1737F",
-            "name": "Ela and Prime GCD",
-            "verdict": "OK",
-            "creationTime": 1665159759
-          },
-          {
-            "platform": "codeforces",
-            "id": 174999142,
-            "pid": "1737D",
-            "name": "Ela and the Wiring Wizard",
-            "verdict": "OK",
-            "creationTime": 1665156064
-          },
-          {
-            "platform": "codeforces",
-            "id": 174996069,
-            "pid": "1737D",
-            "name": "Ela and the Wiring Wizard",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665155556
-          },
-          {
-            "platform": "codeforces",
-            "id": 174994588,
-            "pid": "1737E",
-            "name": "Ela Goes Hiking",
-            "verdict": "OK",
-            "creationTime": 1665155323
-          },
-          {
-            "platform": "codeforces",
-            "id": 174985949,
-            "pid": "1737C",
-            "name": "Ela and Crickets",
-            "verdict": "OK",
-            "creationTime": 1665154009
-          },
-          {
-            "platform": "codeforces",
-            "id": 174983221,
-            "pid": "1737A",
-            "name": "Ela Sorting Books",
-            "verdict": "OK",
-            "creationTime": 1665153559
-          },
-          {
-            "platform": "codeforces",
-            "id": 174982896,
-            "pid": "1737B",
-            "name": "Ela's Fitness and the Luxury Number",
-            "verdict": "OK",
-            "creationTime": 1665153448
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 174989376,
-            "pid": "484C",
-            "name": "Strange Sorting",
+            "id": 175083774,
+            "pid": "1548C",
+            "name": "The Three Little Pigs",
             "verdict": "OK",
-            "creationTime": 1665154519
+            "creationTime": 1665212747
           },
           {
             "platform": "codeforces",
-            "id": 174988164,
-            "pid": "484C",
-            "name": "Strange Sorting",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1665154336
-          },
-          {
-            "platform": "codeforces",
-            "id": 174987247,
-            "pid": "484C",
-            "name": "Strange Sorting",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1665154198
-          },
-          {
-            "platform": "codeforces",
-            "id": 174986702,
-            "pid": "484C",
-            "name": "Strange Sorting",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1665154119
-          },
-          {
-            "platform": "codeforces",
-            "id": 174918873,
-            "pid": "1712E1",
-            "name": "LCM Sum (easy version)",
+            "id": 175061785,
+            "pid": "534E",
+            "name": "Berland Local Positioning System",
             "verdict": "OK",
-            "creationTime": 1665106909
+            "creationTime": 1665191271
+          },
+          {
+            "platform": "codeforces",
+            "id": 175059664,
+            "pid": "508D",
+            "name": "Tanya and Password",
+            "verdict": "OK",
+            "creationTime": 1665186837
+          },
+          {
+            "platform": "codeforces",
+            "id": 175059597,
+            "pid": "508D",
+            "name": "Tanya and Password",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665186623
+          },
+          {
+            "platform": "codeforces",
+            "id": 175059318,
+            "pid": "508D",
+            "name": "Tanya and Password",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665185932
+          },
+          {
+            "platform": "codeforces",
+            "id": 175059111,
+            "pid": "508D",
+            "name": "Tanya and Password",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665185503
+          },
+          {
+            "platform": "codeforces",
+            "id": 175058945,
+            "pid": "508D",
+            "name": "Tanya and Password",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665185189
+          },
+          {
+            "platform": "codeforces",
+            "id": 175058927,
+            "pid": "508D",
+            "name": "Tanya and Password",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665185156
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "Primo Pan",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 175112118,
+            "pid": "103373G",
+            "name": "Garden Park",
+            "verdict": "OK",
+            "creationTime": 1665220632
           }
         ],
         "newContests": []
@@ -194,5 +90,5 @@
     ],
     "contest": []
   },
-  "ref": "3b46b66305f9128f67323d94d7629b6e9a69cbed"
+  "ref": "a48ab82109e5a479cc3baf3998fd3219b343cd53"
 }

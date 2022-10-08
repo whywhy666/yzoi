@@ -2,8 +2,220 @@
   "type": "codeforces",
   "handle": "_XL4453_",
   "handleUrl": "https://codeforces.com/profile/_XL4453_",
-  "avatar": "https://userpic.codeforces.org/1592942/title/3651777ed5437892.jpg",
+  "avatar": "//userpic.codeforces.org/1592942/title/3651777ed5437892.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 175083774,
+      "creationTime": 1665212747,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482270900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1548C",
+        "name": "The Three Little Pigs",
+        "rating": 2500,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1548/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1548/submission/175083774"
+    },
+    {
+      "type": "codeforces",
+      "id": 175061785,
+      "creationTime": 1665191271,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482292376
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "534E",
+        "name": "Berland Local Positioning System",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "hashing",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/534/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/534/submission/175061785"
+    },
+    {
+      "type": "codeforces",
+      "id": 175059664,
+      "creationTime": 1665186837,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482296810
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "508D",
+        "name": "Tanya and Password",
+        "rating": 2500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/508/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/508/submission/175059664"
+    },
+    {
+      "type": "codeforces",
+      "id": 175059597,
+      "creationTime": 1665186623,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482297024
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "508D",
+        "name": "Tanya and Password",
+        "rating": 2500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/508/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/508/submission/175059597"
+    },
+    {
+      "type": "codeforces",
+      "id": 175059318,
+      "creationTime": 1665185932,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482297715
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "508D",
+        "name": "Tanya and Password",
+        "rating": 2500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/508/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/508/submission/175059318"
+    },
+    {
+      "type": "codeforces",
+      "id": 175059111,
+      "creationTime": 1665185503,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482298144
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "508D",
+        "name": "Tanya and Password",
+        "rating": 2500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/508/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/508/submission/175059111"
+    },
+    {
+      "type": "codeforces",
+      "id": 175058945,
+      "creationTime": 1665185189,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482298458
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "508D",
+        "name": "Tanya and Password",
+        "rating": 2500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/508/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/508/submission/175058945"
+    },
+    {
+      "type": "codeforces",
+      "id": 175058927,
+      "creationTime": 1665185156,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482298491
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "508D",
+        "name": "Tanya and Password",
+        "rating": 2500,
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/508/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/508/submission/175058927"
+    },
     {
       "type": "codeforces",
       "id": 174989376,

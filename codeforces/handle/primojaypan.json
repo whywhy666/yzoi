@@ -2,8 +2,30 @@
   "type": "codeforces",
   "handle": "primojaypan",
   "handleUrl": "https://codeforces.com/profile/primojaypan",
-  "avatar": "https://userpic.codeforces.org/702671/title/7afd468ec0ea645e.jpg",
+  "avatar": "//userpic.codeforces.org/702671/title/7afd468ec0ea645e.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 175112118,
+      "creationTime": 1665220632,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482263015
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103373G",
+        "name": "Garden Park",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103373/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103373/submission/175112118"
+    },
     {
       "type": "codeforces",
       "id": 159225541,
