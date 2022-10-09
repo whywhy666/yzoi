@@ -1,88 +1,82 @@
 {
   "version": "0.1.16",
-  "updateTime": 1665263530,
+  "updateTime": 1665349929,
   "history": {
     "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 175083774,
-            "pid": "1548C",
-            "name": "The Three Little Pigs",
-            "verdict": "OK",
-            "creationTime": 1665212747
-          },
-          {
-            "platform": "codeforces",
-            "id": 175061785,
-            "pid": "534E",
-            "name": "Berland Local Positioning System",
-            "verdict": "OK",
-            "creationTime": 1665191271
-          },
-          {
-            "platform": "codeforces",
-            "id": 175059664,
-            "pid": "508D",
-            "name": "Tanya and Password",
-            "verdict": "OK",
-            "creationTime": 1665186837
-          },
-          {
-            "platform": "codeforces",
-            "id": 175059597,
-            "pid": "508D",
-            "name": "Tanya and Password",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665186623
-          },
-          {
-            "platform": "codeforces",
-            "id": 175059318,
-            "pid": "508D",
-            "name": "Tanya and Password",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665185932
-          },
-          {
-            "platform": "codeforces",
-            "id": 175059111,
-            "pid": "508D",
-            "name": "Tanya and Password",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665185503
-          },
-          {
-            "platform": "codeforces",
-            "id": 175058945,
-            "pid": "508D",
-            "name": "Tanya and Password",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665185189
-          },
-          {
-            "platform": "codeforces",
-            "id": 175058927,
-            "pid": "508D",
-            "name": "Tanya and Password",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665185156
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "Primo Pan",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 175112118,
-            "pid": "103373G",
-            "name": "Garden Park",
+            "id": 175219789,
+            "pid": "103470J",
+            "name": "Xingqiu's Joke",
             "verdict": "OK",
-            "creationTime": 1665220632
+            "creationTime": 1665304775
+          },
+          {
+            "platform": "codeforces",
+            "id": 175209423,
+            "pid": "103470C",
+            "name": "Klee in Solitary Confinement",
+            "verdict": "OK",
+            "creationTime": 1665297995
+          },
+          {
+            "platform": "codeforces",
+            "id": 175207905,
+            "pid": "103470C",
+            "name": "Klee in Solitary Confinement",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665296846
+          },
+          {
+            "platform": "codeforces",
+            "id": 175207825,
+            "pid": "103470C",
+            "name": "Klee in Solitary Confinement",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1665296790
+          },
+          {
+            "platform": "codeforces",
+            "id": 175207615,
+            "pid": "103470C",
+            "name": "Klee in Solitary Confinement",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1665296651
+          },
+          {
+            "platform": "codeforces",
+            "id": 175204469,
+            "pid": "103470M",
+            "name": "Windblume Festival",
+            "verdict": "OK",
+            "creationTime": 1665294224
+          },
+          {
+            "platform": "codeforces",
+            "id": 175203417,
+            "pid": "103470A",
+            "name": "Oops, It's Yesterday Twice More",
+            "verdict": "OK",
+            "creationTime": 1665293279
+          },
+          {
+            "platform": "codeforces",
+            "id": 175203191,
+            "pid": "103470A",
+            "name": "Oops, It's Yesterday Twice More",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665293107
+          },
+          {
+            "platform": "codeforces",
+            "id": 175202875,
+            "pid": "103470A",
+            "name": "Oops, It's Yesterday Twice More",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1665292806
           }
         ],
         "newContests": []
@@ -90,5 +84,5 @@
     ],
     "contest": []
   },
-  "ref": "a48ab82109e5a479cc3baf3998fd3219b343cd53"
+  "ref": "87cb0c90fc63385ba44638606d4c8d85637e8589"
 }
