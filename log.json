@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1665349929,
+  "updateTime": 1665436368,
   "history": {
-    "user": [
-      {
-        "name": "Primo Pan",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 175219789,
-            "pid": "103470J",
-            "name": "Xingqiu's Joke",
-            "verdict": "OK",
-            "creationTime": 1665304775
-          },
-          {
-            "platform": "codeforces",
-            "id": 175209423,
-            "pid": "103470C",
-            "name": "Klee in Solitary Confinement",
-            "verdict": "OK",
-            "creationTime": 1665297995
-          },
-          {
-            "platform": "codeforces",
-            "id": 175207905,
-            "pid": "103470C",
-            "name": "Klee in Solitary Confinement",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665296846
-          },
-          {
-            "platform": "codeforces",
-            "id": 175207825,
-            "pid": "103470C",
-            "name": "Klee in Solitary Confinement",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1665296790
-          },
-          {
-            "platform": "codeforces",
-            "id": 175207615,
-            "pid": "103470C",
-            "name": "Klee in Solitary Confinement",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1665296651
-          },
-          {
-            "platform": "codeforces",
-            "id": 175204469,
-            "pid": "103470M",
-            "name": "Windblume Festival",
-            "verdict": "OK",
-            "creationTime": 1665294224
-          },
-          {
-            "platform": "codeforces",
-            "id": 175203417,
-            "pid": "103470A",
-            "name": "Oops, It's Yesterday Twice More",
-            "verdict": "OK",
-            "creationTime": 1665293279
-          },
-          {
-            "platform": "codeforces",
-            "id": 175203191,
-            "pid": "103470A",
-            "name": "Oops, It's Yesterday Twice More",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665293107
-          },
-          {
-            "platform": "codeforces",
-            "id": 175202875,
-            "pid": "103470A",
-            "name": "Oops, It's Yesterday Twice More",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665292806
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "87cb0c90fc63385ba44638606d4c8d85637e8589"
+  "ref": "a500223c2d8c3113612944bfb2b2071e4541f117"
 }
