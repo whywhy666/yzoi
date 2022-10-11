@@ -2,8 +2,400 @@
   "type": "codeforces",
   "handle": "_XL4453_",
   "handleUrl": "https://codeforces.com/profile/_XL4453_",
-  "avatar": "//userpic.codeforces.org/1592942/title/3651777ed5437892.jpg",
+  "avatar": "https://userpic.codeforces.org/1592942/title/3651777ed5437892.jpg",
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 175491691,
+      "creationTime": 1665456152,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482027495
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175491691"
+    },
+    {
+      "type": "codeforces",
+      "id": 175491666,
+      "creationTime": 1665456130,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482027517
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175491666"
+    },
+    {
+      "type": "codeforces",
+      "id": 175491620,
+      "creationTime": 1665456082,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482027565
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175491620"
+    },
+    {
+      "type": "codeforces",
+      "id": 175491592,
+      "creationTime": 1665456050,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482027597
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175491592"
+    },
+    {
+      "type": "codeforces",
+      "id": 175491480,
+      "creationTime": 1665455927,
+      "language": "GNU C++14",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482027720
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175491480"
+    },
+    {
+      "type": "codeforces",
+      "id": 175491331,
+      "creationTime": 1665455772,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482027875
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175491331"
+    },
+    {
+      "type": "codeforces",
+      "id": 175490931,
+      "creationTime": 1665455323,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482028324
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175490931"
+    },
+    {
+      "type": "codeforces",
+      "id": 175490556,
+      "creationTime": 1665454934,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482028713
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175490556"
+    },
+    {
+      "type": "codeforces",
+      "id": 175490274,
+      "creationTime": 1665454607,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482029040
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175490274"
+    },
+    {
+      "type": "codeforces",
+      "id": 175490170,
+      "creationTime": 1665454500,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482029147
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175490170"
+    },
+    {
+      "type": "codeforces",
+      "id": 175490116,
+      "creationTime": 1665454452,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482029195
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175490116"
+    },
+    {
+      "type": "codeforces",
+      "id": 175490053,
+      "creationTime": 1665454365,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482029282
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175490053"
+    },
+    {
+      "type": "codeforces",
+      "id": 175489929,
+      "creationTime": 1665454222,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482029425
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175489929"
+    },
+    {
+      "type": "codeforces",
+      "id": 175489264,
+      "creationTime": 1665453372,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -482030275
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442C",
+        "name": "Graph Transpositions",
+        "rating": 2400,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/175489264"
+    },
     {
       "type": "codeforces",
       "id": 175083774,

@@ -2,7 +2,7 @@
   "type": "codeforces",
   "handle": "tourist",
   "handleUrl": "https://codeforces.com/profile/tourist",
-  "avatar": "//userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
+  "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
   "submissions": [
     {
       "type": "codeforces",
@@ -310,8 +310,11 @@
         "name": "Ela and the Wiring Wizard",
         "rating": 2200,
         "tags": [
+          "brute force",
+          "dp",
           "graphs",
           "greedy",
+          "implementation",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1737/problem/D"
@@ -337,8 +340,11 @@
         "name": "Ela and the Wiring Wizard",
         "rating": 2200,
         "tags": [
+          "brute force",
+          "dp",
           "graphs",
           "greedy",
+          "implementation",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1737/problem/D"
