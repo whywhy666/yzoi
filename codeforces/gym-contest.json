@@ -14767,5 +14767,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103960",
     "standingsUrl": "https://codeforces.com/gym/103960/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2022-2023, Первая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103965,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103965",
+    "standingsUrl": "https://codeforces.com/gym/103965/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2022-2023, Вторая командная олимпиада (продвинутая версия)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103967,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103967",
+    "standingsUrl": "https://codeforces.com/gym/103967/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2022-2023, Вторая командная олимпиада (базовая версия)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103966,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103966",
+    "standingsUrl": "https://codeforces.com/gym/103966/standings"
   }
 ]

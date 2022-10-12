@@ -1,122 +1,18 @@
 {
   "version": "0.1.16",
-  "updateTime": 1665522872,
+  "updateTime": 1665609249,
   "history": {
     "user": [
       {
-        "name": "陈陆洋",
+        "name": "Primo Pan",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 175491691,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "OK",
-            "creationTime": 1665456152
-          },
-          {
-            "platform": "codeforces",
-            "id": 175491666,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "OK",
-            "creationTime": 1665456130
-          },
-          {
-            "platform": "codeforces",
-            "id": 175491620,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665456082
-          },
-          {
-            "platform": "codeforces",
-            "id": 175491592,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665456050
-          },
-          {
-            "platform": "codeforces",
-            "id": 175491480,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1665455927
-          },
-          {
-            "platform": "codeforces",
-            "id": 175491331,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665455772
-          },
-          {
-            "platform": "codeforces",
-            "id": 175490931,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665455323
-          },
-          {
-            "platform": "codeforces",
-            "id": 175490556,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665454934
-          },
-          {
-            "platform": "codeforces",
-            "id": 175490274,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665454607
-          },
-          {
-            "platform": "codeforces",
-            "id": 175490170,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665454500
-          },
-          {
-            "platform": "codeforces",
-            "id": 175490116,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665454452
-          },
-          {
-            "platform": "codeforces",
-            "id": 175490053,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665454365
-          },
-          {
-            "platform": "codeforces",
-            "id": 175489929,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665454222
-          },
-          {
-            "platform": "codeforces",
-            "id": 175489264,
-            "pid": "1442C",
-            "name": "Graph Transpositions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1665453372
+            "id": 175726636,
+            "pid": "103470H",
+            "name": "Crystalfly",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1665560490
           }
         ],
         "newContests": []
@@ -124,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "cd1dbaf1e0af1ab4b4835c20c1e7418ead2089b7"
+  "ref": "86e2ee352fc9bf0319484bba6c6c49ca31bc59e4"
 }
