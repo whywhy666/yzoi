@@ -1,24 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1665609249,
+  "updateTime": 1665695695,
   "history": {
-    "user": [
-      {
-        "name": "Primo Pan",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 175726636,
-            "pid": "103470H",
-            "name": "Crystalfly",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1665560490
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "86e2ee352fc9bf0319484bba6c6c49ca31bc59e4"
+  "ref": "b6e4fcd9d9c0dfce7e730a5bda351b314805f85b"
 }
