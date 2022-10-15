@@ -6,6 +6,212 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 176363168,
+      "creationTime": 1665850240,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746E2",
+        "name": "Joking (Hard Version)",
+        "tags": [
+          "dp",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176363168"
+    },
+    {
+      "type": "codeforces",
+      "id": 176341144,
+      "creationTime": 1665847142,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746F",
+        "name": "Kazaee",
+        "tags": [
+          "data structures",
+          "hashing",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176341144"
+    },
+    {
+      "type": "codeforces",
+      "id": 176334872,
+      "creationTime": 1665846469,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746E1",
+        "name": "Joking (Easy Version)",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "interactive",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176334872"
+    },
+    {
+      "type": "codeforces",
+      "id": 176323295,
+      "creationTime": 1665845467,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746D",
+        "name": "Paths on the Tree",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176323295"
+    },
+    {
+      "type": "codeforces",
+      "id": 176317664,
+      "creationTime": 1665845078,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746B",
+        "name": "Rebellion",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176317664"
+    },
+    {
+      "type": "codeforces",
+      "id": 176315843,
+      "creationTime": 1665844958,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746C",
+        "name": "Permutation Operations",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176315843"
+    },
+    {
+      "type": "codeforces",
+      "id": 176315181,
+      "creationTime": 1665844919,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746C",
+        "name": "Permutation Operations",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176315181"
+    },
+    {
+      "type": "codeforces",
+      "id": 176309893,
+      "creationTime": 1665844642,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1665844500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1746A",
+        "name": "Maxmina",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1746/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1746/submission/176309893"
+    },
+    {
+      "type": "codeforces",
       "id": 175043607,
       "creationTime": 1665169414,
       "language": "GNU C++20 (64)",
@@ -107872,7 +108078,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3834,
+    "rating": 3912,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
