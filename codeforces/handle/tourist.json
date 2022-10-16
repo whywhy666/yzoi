@@ -74,6 +74,7 @@
         "name": "Joking (Easy Version)",
         "tags": [
           "binary search",
+          "bitmasks",
           "constructive algorithms",
           "interactive",
           "ternary search"
@@ -103,6 +104,7 @@
           "dfs and similar",
           "dp",
           "greedy",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1746/problem/D"
@@ -127,7 +129,7 @@
         "id": "1746B",
         "name": "Rebellion",
         "tags": [
-          "binary search",
+          "brute force",
           "constructive algorithms",
           "greedy"
         ],
@@ -153,6 +155,8 @@
         "id": "1746C",
         "name": "Permutation Operations",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation",
           "math"
         ],
@@ -178,6 +182,8 @@
         "id": "1746C",
         "name": "Permutation Operations",
         "tags": [
+          "constructive algorithms",
+          "greedy",
           "implementation",
           "math"
         ],
