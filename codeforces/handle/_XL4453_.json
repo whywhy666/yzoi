@@ -6,6 +6,60 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 176633675,
+      "creationTime": 1665977790,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481505857
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "258D",
+        "name": "Little Elephant and Broken Sorting",
+        "rating": 2600,
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/258/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/258/submission/176633675"
+    },
+    {
+      "type": "codeforces",
+      "id": 176633654,
+      "creationTime": 1665977762,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -481505885
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "258D",
+        "name": "Little Elephant and Broken Sorting",
+        "rating": 2600,
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/258/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/258/submission/176633654"
+    },
+    {
+      "type": "codeforces",
       "id": 175491691,
       "creationTime": 1665456152,
       "language": "GNU C++14",

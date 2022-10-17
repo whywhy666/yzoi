@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1746E2",
         "name": "Joking (Hard Version)",
+        "rating": 3200,
         "tags": [
           "dp",
           "interactive"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1746F",
         "name": "Kazaee",
+        "rating": 2800,
         "tags": [
           "data structures",
           "hashing",
@@ -72,6 +74,7 @@
         "type": "codeforces",
         "id": "1746E1",
         "name": "Joking (Easy Version)",
+        "rating": 2500,
         "tags": [
           "binary search",
           "bitmasks",
@@ -100,6 +103,7 @@
         "type": "codeforces",
         "id": "1746D",
         "name": "Paths on the Tree",
+        "rating": 1900,
         "tags": [
           "dfs and similar",
           "dp",
@@ -128,10 +132,12 @@
         "type": "codeforces",
         "id": "1746B",
         "name": "Rebellion",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1746/problem/B"
       },
@@ -154,6 +160,7 @@
         "type": "codeforces",
         "id": "1746C",
         "name": "Permutation Operations",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -181,6 +188,7 @@
         "type": "codeforces",
         "id": "1746C",
         "name": "Permutation Operations",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -208,6 +216,7 @@
         "type": "codeforces",
         "id": "1746A",
         "name": "Maxmina",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"
