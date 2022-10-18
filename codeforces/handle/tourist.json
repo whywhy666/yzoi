@@ -78,7 +78,6 @@
         "tags": [
           "binary search",
           "bitmasks",
-          "constructive algorithms",
           "interactive",
           "ternary search"
         ],
@@ -101911,7 +101910,9 @@
         "rating": 1800,
         "tags": [
           "*special",
-          "brute force"
+          "brute force",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/64/problem/E"
       },

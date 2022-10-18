@@ -1,32 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1666041212,
+  "updateTime": 1666127573,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 176633675,
-            "pid": "258D",
-            "name": "Little Elephant and Broken Sorting",
-            "verdict": "OK",
-            "creationTime": 1665977790
-          },
-          {
-            "platform": "codeforces",
-            "id": 176633654,
-            "pid": "258D",
-            "name": "Little Elephant and Broken Sorting",
-            "verdict": "OK",
-            "creationTime": 1665977762
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "765b31ceeb4aaad8583c8b81bbbe097bc2766eb7"
+  "ref": "3e95328f5e98798291ed2c5d88ed8f2ddd8a6efe"
 }
