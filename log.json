@@ -1,9 +1,96 @@
 {
   "version": "0.1.16",
-  "updateTime": 1666300411,
+  "updateTime": 1666386787,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 177323097,
+            "pid": "1554E",
+            "name": "You",
+            "verdict": "OK",
+            "creationTime": 1666361794
+          },
+          {
+            "platform": "codeforces",
+            "id": 177323033,
+            "pid": "1554E",
+            "name": "You",
+            "verdict": "OK",
+            "creationTime": 1666361766
+          },
+          {
+            "platform": "codeforces",
+            "id": 177322882,
+            "pid": "1554E",
+            "name": "You",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666361706
+          },
+          {
+            "platform": "codeforces",
+            "id": 177311839,
+            "pid": "76F",
+            "name": "Tourist",
+            "verdict": "OK",
+            "creationTime": 1666358569
+          },
+          {
+            "platform": "codeforces",
+            "id": 177311626,
+            "pid": "76F",
+            "name": "Tourist",
+            "verdict": "OK",
+            "creationTime": 1666358474
+          },
+          {
+            "platform": "codeforces",
+            "id": 177309116,
+            "pid": "76F",
+            "name": "Tourist",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666357338
+          },
+          {
+            "platform": "codeforces",
+            "id": 177308589,
+            "pid": "76F",
+            "name": "Tourist",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666357121
+          },
+          {
+            "platform": "codeforces",
+            "id": 177308231,
+            "pid": "76F",
+            "name": "Tourist",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666356974
+          },
+          {
+            "platform": "codeforces",
+            "id": 177307871,
+            "pid": "76F",
+            "name": "Tourist",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666356829
+          },
+          {
+            "platform": "codeforces",
+            "id": 177307398,
+            "pid": "76F",
+            "name": "Tourist",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666356630
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "58f95c83d3f3fe613dc952130c1d7e44c1554e16"
+  "ref": "3314eaba2b1ade3c920692f80d6f9ca974c2c1ff"
 }
