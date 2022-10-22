@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1666386787,
+  "updateTime": 1666473145,
   "history": {
     "user": [
       {
@@ -8,83 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 177323097,
-            "pid": "1554E",
-            "name": "You",
+            "id": 177376426,
+            "pid": "1654E",
+            "name": "Arithmetic Operations",
             "verdict": "OK",
-            "creationTime": 1666361794
+            "creationTime": 1666397617
           },
           {
             "platform": "codeforces",
-            "id": 177323033,
-            "pid": "1554E",
-            "name": "You",
+            "id": 177376412,
+            "pid": "1654E",
+            "name": "Arithmetic Operations",
             "verdict": "OK",
-            "creationTime": 1666361766
+            "creationTime": 1666397574
           },
           {
             "platform": "codeforces",
-            "id": 177322882,
-            "pid": "1554E",
-            "name": "You",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1666361706
+            "id": 177376356,
+            "pid": "1654E",
+            "name": "Arithmetic Operations",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1666397444
           },
           {
             "platform": "codeforces",
-            "id": 177311839,
-            "pid": "76F",
-            "name": "Tourist",
-            "verdict": "OK",
-            "creationTime": 1666358569
+            "id": 177376207,
+            "pid": "1654E",
+            "name": "Arithmetic Operations",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1666397051
           },
           {
             "platform": "codeforces",
-            "id": 177311626,
-            "pid": "76F",
-            "name": "Tourist",
-            "verdict": "OK",
-            "creationTime": 1666358474
-          },
-          {
-            "platform": "codeforces",
-            "id": 177309116,
-            "pid": "76F",
-            "name": "Tourist",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1666357338
-          },
-          {
-            "platform": "codeforces",
-            "id": 177308589,
-            "pid": "76F",
-            "name": "Tourist",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1666357121
-          },
-          {
-            "platform": "codeforces",
-            "id": 177308231,
-            "pid": "76F",
-            "name": "Tourist",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1666356974
-          },
-          {
-            "platform": "codeforces",
-            "id": 177307871,
-            "pid": "76F",
-            "name": "Tourist",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1666356829
-          },
-          {
-            "platform": "codeforces",
-            "id": 177307398,
-            "pid": "76F",
-            "name": "Tourist",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1666356630
+            "id": 177376148,
+            "pid": "1654E",
+            "name": "Arithmetic Operations",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1666396936
           }
         ],
         "newContests": []
@@ -92,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "3314eaba2b1ade3c920692f80d6f9ca974c2c1ff"
+  "ref": "e5e6810861cbc4122c419d6207d008628272014b"
 }

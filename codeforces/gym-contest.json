@@ -14832,6 +14832,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2022 Huazhong University of Science and Technology Freshmen Cup",
+    "startTime": 1666413000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103973,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103973",
+    "standingsUrl": "https://codeforces.com/gym/103973/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Московская командная олимпиада (МКОШП) 2017, Лига А",
     "duration": 18000,
     "participantNumber": 0,
@@ -14850,5 +14861,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103984",
     "standingsUrl": "https://codeforces.com/gym/103984/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 Huazhong University of Science and Technology Freshmen Cup",
+    "startTime": 1634449200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103987,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103987",
+    "standingsUrl": "https://codeforces.com/gym/103987/standings"
   }
 ]
