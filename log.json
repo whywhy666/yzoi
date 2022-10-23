@@ -1,50 +1,82 @@
 {
   "version": "0.1.16",
-  "updateTime": 1666473145,
+  "updateTime": 1666559562,
   "history": {
     "user": [
       {
-        "name": "陈陆洋",
+        "name": "Primo Pan",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 177376426,
-            "pid": "1654E",
-            "name": "Arithmetic Operations",
+            "id": 177531943,
+            "pid": "102769F",
+            "name": "Friendly Group",
             "verdict": "OK",
-            "creationTime": 1666397617
+            "creationTime": 1666510858
           },
           {
             "platform": "codeforces",
-            "id": 177376412,
-            "pid": "1654E",
-            "name": "Arithmetic Operations",
-            "verdict": "OK",
-            "creationTime": 1666397574
+            "id": 177531840,
+            "pid": "102769F",
+            "name": "Friendly Group",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666510788
           },
           {
             "platform": "codeforces",
-            "id": 177376356,
-            "pid": "1654E",
-            "name": "Arithmetic Operations",
+            "id": 177529827,
+            "pid": "102769G",
+            "name": "Good Number",
+            "verdict": "OK",
+            "creationTime": 1666509620
+          },
+          {
+            "platform": "codeforces",
+            "id": 177528053,
+            "pid": "102769E",
+            "name": "Exam Results",
+            "verdict": "OK",
+            "creationTime": 1666508619
+          },
+          {
+            "platform": "codeforces",
+            "id": 177527657,
+            "pid": "102769E",
+            "name": "Exam Results",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666508379
+          },
+          {
+            "platform": "codeforces",
+            "id": 177527172,
+            "pid": "102769E",
+            "name": "Exam Results",
             "verdict": "RUNTIME_ERROR",
-            "creationTime": 1666397444
+            "creationTime": 1666508034
           },
           {
             "platform": "codeforces",
-            "id": 177376207,
-            "pid": "1654E",
-            "name": "Arithmetic Operations",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1666397051
+            "id": 177527078,
+            "pid": "102769E",
+            "name": "Exam Results",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1666507974
           },
           {
             "platform": "codeforces",
-            "id": 177376148,
-            "pid": "1654E",
-            "name": "Arithmetic Operations",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1666396936
+            "id": 177527010,
+            "pid": "102769E",
+            "name": "Exam Results",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1666507936
+          },
+          {
+            "platform": "codeforces",
+            "id": 177524965,
+            "pid": "102769A",
+            "name": "A Greeting from Qinhuangdao",
+            "verdict": "OK",
+            "creationTime": 1666506488
           }
         ],
         "newContests": []
@@ -52,5 +84,5 @@
     ],
     "contest": []
   },
-  "ref": "e5e6810861cbc4122c419d6207d008628272014b"
+  "ref": "15e36ab964df390c3afd16f8ac8d638e0eda9ce4"
 }

@@ -6,6 +6,231 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 177531943,
+      "creationTime": 1666510858,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769F",
+        "name": "Friendly Group",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177531943"
+    },
+    {
+      "type": "codeforces",
+      "id": 177531840,
+      "creationTime": 1666510788,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769F",
+        "name": "Friendly Group",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177531840"
+    },
+    {
+      "type": "codeforces",
+      "id": 177529827,
+      "creationTime": 1666509620,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769G",
+        "name": "Good Number",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177529827"
+    },
+    {
+      "type": "codeforces",
+      "id": 177528053,
+      "creationTime": 1666508619,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769E",
+        "name": "Exam Results",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177528053"
+    },
+    {
+      "type": "codeforces",
+      "id": 177527657,
+      "creationTime": 1666508379,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769E",
+        "name": "Exam Results",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177527657"
+    },
+    {
+      "type": "codeforces",
+      "id": 177527172,
+      "creationTime": 1666508034,
+      "language": "GNU C++17",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769E",
+        "name": "Exam Results",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177527172"
+    },
+    {
+      "type": "codeforces",
+      "id": 177527078,
+      "creationTime": 1666507974,
+      "language": "GNU C++17",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769E",
+        "name": "Exam Results",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177527078"
+    },
+    {
+      "type": "codeforces",
+      "id": 177527010,
+      "creationTime": 1666507936,
+      "language": "GNU C++17",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769E",
+        "name": "Exam Results",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177527010"
+    },
+    {
+      "type": "codeforces",
+      "id": 177524965,
+      "creationTime": 1666506488,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "primojaypan",
+          "Answer42",
+          "SGDBS"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1666506000,
+        "teamName": "Grass-Go-Ignore Inc."
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "102769A",
+        "name": "A Greeting from Qinhuangdao",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/102769/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/102769/submission/177524965"
+    },
+    {
+      "type": "codeforces",
       "id": 176976086,
       "creationTime": 1666165911,
       "language": "GNU C++17",
