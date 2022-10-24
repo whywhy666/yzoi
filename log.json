@@ -1,82 +1,66 @@
 {
   "version": "0.1.16",
-  "updateTime": 1666559562,
+  "updateTime": 1666646048,
   "history": {
     "user": [
       {
-        "name": "Primo Pan",
+        "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 177531943,
-            "pid": "102769F",
-            "name": "Friendly Group",
+            "id": 177704803,
+            "pid": "924C",
+            "name": "Riverside Curio",
             "verdict": "OK",
-            "creationTime": 1666510858
+            "creationTime": 1666570051
           },
           {
             "platform": "codeforces",
-            "id": 177531840,
-            "pid": "102769F",
-            "name": "Friendly Group",
+            "id": 177704794,
+            "pid": "924C",
+            "name": "Riverside Curio",
+            "verdict": "OK",
+            "creationTime": 1666570034
+          },
+          {
+            "platform": "codeforces",
+            "id": 177704727,
+            "pid": "924C",
+            "name": "Riverside Curio",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666510788
+            "creationTime": 1666569902
           },
           {
             "platform": "codeforces",
-            "id": 177529827,
-            "pid": "102769G",
-            "name": "Good Number",
-            "verdict": "OK",
-            "creationTime": 1666509620
-          },
-          {
-            "platform": "codeforces",
-            "id": 177528053,
-            "pid": "102769E",
-            "name": "Exam Results",
-            "verdict": "OK",
-            "creationTime": 1666508619
-          },
-          {
-            "platform": "codeforces",
-            "id": 177527657,
-            "pid": "102769E",
-            "name": "Exam Results",
+            "id": 177704702,
+            "pid": "924C",
+            "name": "Riverside Curio",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666508379
+            "creationTime": 1666569838
           },
           {
             "platform": "codeforces",
-            "id": 177527172,
-            "pid": "102769E",
-            "name": "Exam Results",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1666508034
+            "id": 177704669,
+            "pid": "924C",
+            "name": "Riverside Curio",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666569782
           },
           {
             "platform": "codeforces",
-            "id": 177527078,
-            "pid": "102769E",
-            "name": "Exam Results",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1666507974
-          },
-          {
-            "platform": "codeforces",
-            "id": 177527010,
-            "pid": "102769E",
-            "name": "Exam Results",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1666507936
-          },
-          {
-            "platform": "codeforces",
-            "id": 177524965,
-            "pid": "102769A",
-            "name": "A Greeting from Qinhuangdao",
+            "id": 177703428,
+            "pid": "901D",
+            "name": "Weighting a Tree",
             "verdict": "OK",
-            "creationTime": 1666506488
+            "creationTime": 1666567447
+          },
+          {
+            "platform": "codeforces",
+            "id": 177703402,
+            "pid": "901D",
+            "name": "Weighting a Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666567379
           }
         ],
         "newContests": []
@@ -84,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "15e36ab964df390c3afd16f8ac8d638e0eda9ce4"
+  "ref": "a97fde4ab2668a18d48bf535d8d1f792fa53901f"
 }

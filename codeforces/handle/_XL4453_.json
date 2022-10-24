@@ -6,6 +6,195 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 177704803,
+      "creationTime": 1666570051,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480913596
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "924C",
+        "name": "Riverside Curio",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/924/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/924/submission/177704803"
+    },
+    {
+      "type": "codeforces",
+      "id": 177704794,
+      "creationTime": 1666570034,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480913613
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "924C",
+        "name": "Riverside Curio",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/924/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/924/submission/177704794"
+    },
+    {
+      "type": "codeforces",
+      "id": 177704727,
+      "creationTime": 1666569902,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480913745
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "924C",
+        "name": "Riverside Curio",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/924/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/924/submission/177704727"
+    },
+    {
+      "type": "codeforces",
+      "id": 177704702,
+      "creationTime": 1666569838,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480913809
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "924C",
+        "name": "Riverside Curio",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/924/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/924/submission/177704702"
+    },
+    {
+      "type": "codeforces",
+      "id": 177704669,
+      "creationTime": 1666569782,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480913865
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "924C",
+        "name": "Riverside Curio",
+        "rating": 1700,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/924/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/924/submission/177704669"
+    },
+    {
+      "type": "codeforces",
+      "id": 177703428,
+      "creationTime": 1666567447,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480916200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "901D",
+        "name": "Weighting a Tree",
+        "rating": 2700,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/901/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/901/submission/177703428"
+    },
+    {
+      "type": "codeforces",
+      "id": 177703402,
+      "creationTime": 1666567379,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480916268
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "901D",
+        "name": "Weighting a Tree",
+        "rating": 2700,
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/901/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/901/submission/177703402"
+    },
+    {
+      "type": "codeforces",
       "id": 177376426,
       "creationTime": 1666397617,
       "language": "GNU C++14",
