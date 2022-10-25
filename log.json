@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1666646048,
+  "updateTime": 1666732425,
   "history": {
     "user": [
       {
@@ -8,59 +8,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 177704803,
-            "pid": "924C",
-            "name": "Riverside Curio",
+            "id": 177840659,
+            "pid": "383B",
+            "name": "Volcanoes",
             "verdict": "OK",
-            "creationTime": 1666570051
+            "creationTime": 1666683014
           },
           {
             "platform": "codeforces",
-            "id": 177704794,
-            "pid": "924C",
-            "name": "Riverside Curio",
+            "id": 177839793,
+            "pid": "383B",
+            "name": "Volcanoes",
             "verdict": "OK",
-            "creationTime": 1666570034
+            "creationTime": 1666682533
           },
           {
             "platform": "codeforces",
-            "id": 177704727,
-            "pid": "924C",
-            "name": "Riverside Curio",
+            "id": 177839148,
+            "pid": "383B",
+            "name": "Volcanoes",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666569902
+            "creationTime": 1666682152
           },
           {
             "platform": "codeforces",
-            "id": 177704702,
-            "pid": "924C",
-            "name": "Riverside Curio",
+            "id": 177838340,
+            "pid": "383B",
+            "name": "Volcanoes",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666569838
+            "creationTime": 1666681679
           },
           {
             "platform": "codeforces",
-            "id": 177704669,
-            "pid": "924C",
-            "name": "Riverside Curio",
+            "id": 177837809,
+            "pid": "383B",
+            "name": "Volcanoes",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666569782
+            "creationTime": 1666681367
           },
           {
             "platform": "codeforces",
-            "id": 177703428,
-            "pid": "901D",
-            "name": "Weighting a Tree",
-            "verdict": "OK",
-            "creationTime": 1666567447
-          },
-          {
-            "platform": "codeforces",
-            "id": 177703402,
-            "pid": "901D",
-            "name": "Weighting a Tree",
+            "id": 177837058,
+            "pid": "383B",
+            "name": "Volcanoes",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666567379
+            "creationTime": 1666680912
+          },
+          {
+            "platform": "codeforces",
+            "id": 177836720,
+            "pid": "383B",
+            "name": "Volcanoes",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666680722
+          },
+          {
+            "platform": "codeforces",
+            "id": 177835794,
+            "pid": "383B",
+            "name": "Volcanoes",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1666680165
           }
         ],
         "newContests": []
@@ -68,5 +76,5 @@
     ],
     "contest": []
   },
-  "ref": "a97fde4ab2668a18d48bf535d8d1f792fa53901f"
+  "ref": "28e21c3230813bea387a27010344ee47e3f9cc0c"
 }
