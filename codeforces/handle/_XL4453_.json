@@ -6,6 +6,110 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 178186031,
+      "creationTime": 1666941912,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480541735
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "598E",
+        "name": "Chocolate Bar",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/598/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/598/submission/178186031"
+    },
+    {
+      "type": "codeforces",
+      "id": 178186000,
+      "creationTime": 1666941899,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480541748
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "598E",
+        "name": "Chocolate Bar",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/598/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/598/submission/178186000"
+    },
+    {
+      "type": "codeforces",
+      "id": 178185140,
+      "creationTime": 1666941335,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480542312
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "598E",
+        "name": "Chocolate Bar",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/598/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/598/submission/178185140"
+    },
+    {
+      "type": "codeforces",
+      "id": 178185087,
+      "creationTime": 1666941301,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480542346
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "598E",
+        "name": "Chocolate Bar",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/598/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/598/submission/178185087"
+    },
+    {
+      "type": "codeforces",
       "id": 177997302,
       "creationTime": 1666791203,
       "language": "GNU C++14",

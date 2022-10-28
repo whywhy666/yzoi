@@ -6,6 +6,144 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 178223291,
+      "creationTime": 1666963082,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480520565
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "598E",
+        "name": "Chocolate Bar",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/598/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/598/submission/178223291"
+    },
+    {
+      "type": "codeforces",
+      "id": 178222961,
+      "creationTime": 1666962948,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480520699
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "538F",
+        "name": "A Heap of Heaps",
+        "rating": 2200,
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/538/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/538/submission/178222961"
+    },
+    {
+      "type": "codeforces",
+      "id": 178222497,
+      "creationTime": 1666962765,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480520882
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "538F",
+        "name": "A Heap of Heaps",
+        "rating": 2200,
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/538/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/538/submission/178222497"
+    },
+    {
+      "type": "codeforces",
+      "id": 178222388,
+      "creationTime": 1666962716,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480520931
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "538F",
+        "name": "A Heap of Heaps",
+        "rating": 2200,
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/538/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/538/submission/178222388"
+    },
+    {
+      "type": "codeforces",
+      "id": 178221975,
+      "creationTime": 1666962537,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480521110
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "538F",
+        "name": "A Heap of Heaps",
+        "rating": 2200,
+        "tags": [
+          "brute force",
+          "data structures",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/538/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/538/submission/178221975"
+    },
+    {
+      "type": "codeforces",
       "id": 147771761,
       "creationTime": 1645880710,
       "language": "GNU C++14",
