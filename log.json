@@ -1,88 +1,74 @@
 {
   "version": "0.1.16",
-  "updateTime": 1666991501,
+  "updateTime": 1667077895,
   "history": {
     "user": [
       {
-        "name": "陈陆洋",
+        "name": "Primo Pan",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 178186031,
-            "pid": "598E",
-            "name": "Chocolate Bar",
+            "id": 178317276,
+            "pid": "103447I",
+            "name": "Power and Zero",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667031553
+          },
+          {
+            "platform": "codeforces",
+            "id": 178314830,
+            "pid": "103447I",
+            "name": "Power and Zero",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667030147
+          },
+          {
+            "platform": "codeforces",
+            "id": 178310320,
+            "pid": "103447E",
+            "name": "Power and Modulo",
             "verdict": "OK",
-            "creationTime": 1666941912
+            "creationTime": 1667027367
           },
           {
             "platform": "codeforces",
-            "id": 178186000,
-            "pid": "598E",
-            "name": "Chocolate Bar",
+            "id": 178310049,
+            "pid": "103447E",
+            "name": "Power and Modulo",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667027197
+          },
+          {
+            "platform": "codeforces",
+            "id": 178307732,
+            "pid": "103447B",
+            "name": "Magical Subsequence",
             "verdict": "OK",
-            "creationTime": 1666941899
+            "creationTime": 1667025761
           },
           {
             "platform": "codeforces",
-            "id": 178185140,
-            "pid": "598E",
-            "name": "Chocolate Bar",
+            "id": 178305057,
+            "pid": "103447J",
+            "name": "Local Minimum",
+            "verdict": "OK",
+            "creationTime": 1667024014
+          },
+          {
+            "platform": "codeforces",
+            "id": 178305011,
+            "pid": "103447J",
+            "name": "Local Minimum",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666941335
+            "creationTime": 1667023987
           },
           {
             "platform": "codeforces",
-            "id": 178185087,
-            "pid": "598E",
-            "name": "Chocolate Bar",
+            "id": 178304672,
+            "pid": "103447J",
+            "name": "Local Minimum",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1666941301
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "陆重羽",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 178223291,
-            "pid": "598E",
-            "name": "Chocolate Bar",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1666963082
-          },
-          {
-            "platform": "codeforces",
-            "id": 178222961,
-            "pid": "538F",
-            "name": "A Heap of Heaps",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1666962948
-          },
-          {
-            "platform": "codeforces",
-            "id": 178222497,
-            "pid": "538F",
-            "name": "A Heap of Heaps",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1666962765
-          },
-          {
-            "platform": "codeforces",
-            "id": 178222388,
-            "pid": "538F",
-            "name": "A Heap of Heaps",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1666962716
-          },
-          {
-            "platform": "codeforces",
-            "id": 178221975,
-            "pid": "538F",
-            "name": "A Heap of Heaps",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1666962537
+            "creationTime": 1667023762
           }
         ],
         "newContests": []
@@ -90,5 +76,5 @@
     ],
     "contest": []
   },
-  "ref": "c8d1524e85a01798841864dfa9f074f559e6c3ea"
+  "ref": "0f121f93d7dfd324e78cc29f65f11beadd9660e8"
 }
