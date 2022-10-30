@@ -1,74 +1,42 @@
 {
   "version": "0.1.16",
-  "updateTime": 1667077895,
+  "updateTime": 1667164294,
   "history": {
     "user": [
       {
-        "name": "Primo Pan",
+        "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 178317276,
-            "pid": "103447I",
-            "name": "Power and Zero",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667031553
-          },
-          {
-            "platform": "codeforces",
-            "id": 178314830,
-            "pid": "103447I",
-            "name": "Power and Zero",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667030147
-          },
-          {
-            "platform": "codeforces",
-            "id": 178310320,
-            "pid": "103447E",
-            "name": "Power and Modulo",
+            "id": 178490930,
+            "pid": "1718C",
+            "name": "Tonya and Burenka-179",
             "verdict": "OK",
-            "creationTime": 1667027367
+            "creationTime": 1667120395
           },
           {
             "platform": "codeforces",
-            "id": 178310049,
-            "pid": "103447E",
-            "name": "Power and Modulo",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667027197
-          },
-          {
-            "platform": "codeforces",
-            "id": 178307732,
-            "pid": "103447B",
-            "name": "Magical Subsequence",
+            "id": 178490895,
+            "pid": "1718C",
+            "name": "Tonya and Burenka-179",
             "verdict": "OK",
-            "creationTime": 1667025761
+            "creationTime": 1667120376
           },
           {
             "platform": "codeforces",
-            "id": 178305057,
-            "pid": "103447J",
-            "name": "Local Minimum",
-            "verdict": "OK",
-            "creationTime": 1667024014
-          },
-          {
-            "platform": "codeforces",
-            "id": 178305011,
-            "pid": "103447J",
-            "name": "Local Minimum",
+            "id": 178486944,
+            "pid": "1718C",
+            "name": "Tonya and Burenka-179",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1667023987
+            "creationTime": 1667118153
           },
           {
             "platform": "codeforces",
-            "id": 178304672,
-            "pid": "103447J",
-            "name": "Local Minimum",
+            "id": 178486592,
+            "pid": "1718C",
+            "name": "Tonya and Burenka-179",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1667023762
+            "creationTime": 1667117968
           }
         ],
         "newContests": []
@@ -76,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "0f121f93d7dfd324e78cc29f65f11beadd9660e8"
+  "ref": "1e57425ef2266e7880f846bc7b6452a09c09e4bc"
 }

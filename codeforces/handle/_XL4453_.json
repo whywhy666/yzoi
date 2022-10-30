@@ -6,6 +6,118 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 178490930,
+      "creationTime": 1667120395,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480363252
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718C",
+        "name": "Tonya and Burenka-179",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/178490930"
+    },
+    {
+      "type": "codeforces",
+      "id": 178490895,
+      "creationTime": 1667120376,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480363271
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718C",
+        "name": "Tonya and Burenka-179",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/178490895"
+    },
+    {
+      "type": "codeforces",
+      "id": 178486944,
+      "creationTime": 1667118153,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480365494
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718C",
+        "name": "Tonya and Burenka-179",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/178486944"
+    },
+    {
+      "type": "codeforces",
+      "id": 178486592,
+      "creationTime": 1667117968,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -480365679
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1718C",
+        "name": "Tonya and Burenka-179",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1718/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1718/submission/178486592"
+    },
+    {
+      "type": "codeforces",
       "id": 178186031,
       "creationTime": 1666941912,
       "language": "GNU C++14",
