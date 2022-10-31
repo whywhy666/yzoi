@@ -1,48 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1667164294,
+  "updateTime": 1667250726,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 178490930,
-            "pid": "1718C",
-            "name": "Tonya and Burenka-179",
-            "verdict": "OK",
-            "creationTime": 1667120395
-          },
-          {
-            "platform": "codeforces",
-            "id": 178490895,
-            "pid": "1718C",
-            "name": "Tonya and Burenka-179",
-            "verdict": "OK",
-            "creationTime": 1667120376
-          },
-          {
-            "platform": "codeforces",
-            "id": 178486944,
-            "pid": "1718C",
-            "name": "Tonya and Burenka-179",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667118153
-          },
-          {
-            "platform": "codeforces",
-            "id": 178486592,
-            "pid": "1718C",
-            "name": "Tonya and Burenka-179",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667117968
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "1e57425ef2266e7880f846bc7b6452a09c09e4bc"
+  "ref": "72601a7acbe022d6cf3a1b591a3e07239e6d0590"
 }
