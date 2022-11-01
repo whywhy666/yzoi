@@ -10343,7 +10343,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Southern and Volga Russia Qualifier 2019-2020",
+    "name": "ICPC 2019-2020 NERC (NEERC), Southern and Volga Russia Qualifier",
     "startTime": 1568649600,
     "duration": 14400,
     "participantNumber": 0,
@@ -11533,7 +11533,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Southern and Volga Russia Qualifier 2020-2021",
+    "name": "ICPC 2020-2021 NERC (NEERC), Southern and Volga Russia Qualifier",
     "startTime": 1602399600,
     "duration": 14400,
     "participantNumber": 0,
@@ -14886,13 +14886,24 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Southern and Volga Russia Qualifier 2022-2023",
+    "name": "ICPC 2022-2023 NERC (NEERC), Southern and Volga Russia Qualifier",
     "duration": 14400,
     "participantNumber": 0,
     "id": 103993,
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103993",
     "standingsUrl": "https://codeforces.com/gym/103993/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 ICPC Southwestern European Regional Contest (SWERC 2021-2022)",
+    "startTime": 1666764000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103992,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103992",
+    "standingsUrl": "https://codeforces.com/gym/103992/standings"
   },
   {
     "type": "codeforces/gym/icpc",
@@ -14960,6 +14971,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2021-2022 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104011,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104011",
+    "standingsUrl": "https://codeforces.com/gym/104011/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2022-2023 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 21)",
     "duration": 18000,
     "participantNumber": 0,
@@ -14967,5 +14988,45 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104010",
     "standingsUrl": "https://codeforces.com/gym/104010/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020-2021 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104013,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104013",
+    "standingsUrl": "https://codeforces.com/gym/104013/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104012,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104012",
+    "standingsUrl": "https://codeforces.com/gym/104012/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC 2021-2022 NERC (NEERC), Southern and Volga Russia Qualifier",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104015,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104015",
+    "standingsUrl": "https://codeforces.com/gym/104015/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 ICPC NERC, квалификации Уральского региона и Северо-Запада России",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104014,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104014",
+    "standingsUrl": "https://codeforces.com/gym/104014/standings"
   }
 ]
