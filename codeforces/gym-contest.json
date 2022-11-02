@@ -14896,17 +14896,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2021-2022 ICPC Southwestern European Regional Contest (SWERC 2021-2022)",
-    "startTime": 1666764000,
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 103992,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/103992",
-    "standingsUrl": "https://codeforces.com/gym/103992/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "Московская командная олимпиада (МКОШП) 2022",
     "duration": 18000,
     "participantNumber": 0,
@@ -14981,7 +14970,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2022-2023 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 21)",
+    "name": "2022-2023 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 22)",
     "duration": 18000,
     "participantNumber": 0,
     "id": 104010,
@@ -15028,5 +15017,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104014",
     "standingsUrl": "https://codeforces.com/gym/104014/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 ICPC Southwestern European Regional Contest (SWERC 2021-2022)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104017,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104017",
+    "standingsUrl": "https://codeforces.com/gym/104017/standings"
   }
 ]
