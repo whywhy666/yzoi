@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1667509847,
+  "updateTime": 1667596262,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 179130029,
+            "pid": "1425B",
+            "name": "Blue and Red of Our Faculty!",
+            "verdict": "OK",
+            "creationTime": 1667524948
+          },
+          {
+            "platform": "codeforces",
+            "id": 179129826,
+            "pid": "1425B",
+            "name": "Blue and Red of Our Faculty!",
+            "verdict": "OK",
+            "creationTime": 1667524607
+          },
+          {
+            "platform": "codeforces",
+            "id": 179129814,
+            "pid": "1425B",
+            "name": "Blue and Red of Our Faculty!",
+            "verdict": "OK",
+            "creationTime": 1667524579
+          },
+          {
+            "platform": "codeforces",
+            "id": 179129765,
+            "pid": "1425B",
+            "name": "Blue and Red of Our Faculty!",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667524506
+          },
+          {
+            "platform": "codeforces",
+            "id": 179129631,
+            "pid": "1425B",
+            "name": "Blue and Red of Our Faculty!",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667524249
+          },
+          {
+            "platform": "codeforces",
+            "id": 179129394,
+            "pid": "1425B",
+            "name": "Blue and Red of Our Faculty!",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667523847
+          },
+          {
+            "platform": "codeforces",
+            "id": 179126657,
+            "pid": "1442D",
+            "name": "Sum",
+            "verdict": "OK",
+            "creationTime": 1667518228
+          },
+          {
+            "platform": "codeforces",
+            "id": 179126617,
+            "pid": "1442D",
+            "name": "Sum",
+            "verdict": "OK",
+            "creationTime": 1667518165
+          },
+          {
+            "platform": "codeforces",
+            "id": 179126553,
+            "pid": "1442D",
+            "name": "Sum",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667518046
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "94bb0116bb6718ce6148b9f10f26121938f8150a"
+  "ref": "61a914fd87a03ccd597e1747347bc308aedfb81e"
 }

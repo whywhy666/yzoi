@@ -5421,17 +5421,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2016, Личная олимпиада МИЭТ",
-    "startTime": 1463299200,
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 101009,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/101009",
-    "standingsUrl": "https://codeforces.com/gym/101009/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "2016 Russian Code Cup (RCC 16), 2nd qualification round",
     "duration": 7200,
     "participantNumber": 0,
@@ -15027,5 +15016,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104017",
     "standingsUrl": "https://codeforces.com/gym/104017/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 ICPC NERC (NEERC), Kyrgyzstan Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104018,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104018",
+    "standingsUrl": "https://codeforces.com/gym/104018/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Benelux Algorithm Programming Contest (BAPC 22)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104020,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104020",
+    "standingsUrl": "https://codeforces.com/gym/104020/standings"
   }
 ]

@@ -6,6 +6,246 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 179130029,
+      "creationTime": 1667524948,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479958699
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1425B",
+        "name": "Blue and Red of Our Faculty!",
+        "rating": 2600,
+        "tags": [
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1425/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1425/submission/179130029"
+    },
+    {
+      "type": "codeforces",
+      "id": 179129826,
+      "creationTime": 1667524607,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479959040
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1425B",
+        "name": "Blue and Red of Our Faculty!",
+        "rating": 2600,
+        "tags": [
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1425/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1425/submission/179129826"
+    },
+    {
+      "type": "codeforces",
+      "id": 179129814,
+      "creationTime": 1667524579,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479959068
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1425B",
+        "name": "Blue and Red of Our Faculty!",
+        "rating": 2600,
+        "tags": [
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1425/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1425/submission/179129814"
+    },
+    {
+      "type": "codeforces",
+      "id": 179129765,
+      "creationTime": 1667524506,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479959141
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1425B",
+        "name": "Blue and Red of Our Faculty!",
+        "rating": 2600,
+        "tags": [
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1425/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1425/submission/179129765"
+    },
+    {
+      "type": "codeforces",
+      "id": 179129631,
+      "creationTime": 1667524249,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479959398
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1425B",
+        "name": "Blue and Red of Our Faculty!",
+        "rating": 2600,
+        "tags": [
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1425/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1425/submission/179129631"
+    },
+    {
+      "type": "codeforces",
+      "id": 179129394,
+      "creationTime": 1667523847,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479959800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1425B",
+        "name": "Blue and Red of Our Faculty!",
+        "rating": 2600,
+        "tags": [
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1425/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1425/submission/179129394"
+    },
+    {
+      "type": "codeforces",
+      "id": 179126657,
+      "creationTime": 1667518228,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479965419
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442D",
+        "name": "Sum",
+        "rating": 2800,
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/179126657"
+    },
+    {
+      "type": "codeforces",
+      "id": 179126617,
+      "creationTime": 1667518165,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479965482
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442D",
+        "name": "Sum",
+        "rating": 2800,
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/179126617"
+    },
+    {
+      "type": "codeforces",
+      "id": 179126553,
+      "creationTime": 1667518046,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479965601
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1442D",
+        "name": "Sum",
+        "rating": 2800,
+        "tags": [
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1442/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1442/submission/179126553"
+    },
+    {
+      "type": "codeforces",
       "id": 178928149,
       "creationTime": 1667377885,
       "language": "GNU C++14",
