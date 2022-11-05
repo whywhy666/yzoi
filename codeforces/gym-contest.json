@@ -15029,6 +15029,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 2019 ICPC Asia Yinchuan Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104021,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104021",
+    "standingsUrl": "https://codeforces.com/gym/104021/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2022 Benelux Algorithm Programming Contest (BAPC 22)",
     "duration": 18000,
     "participantNumber": 0,
@@ -15036,5 +15046,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104020",
     "standingsUrl": "https://codeforces.com/gym/104020/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2020 ICPC Asia Yinchuan Regional Programming Contest",
+    "startTime": 1621126800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104022,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104022",
+    "standingsUrl": "https://codeforces.com/gym/104022/standings"
   }
 ]

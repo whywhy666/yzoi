@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1667596262,
+  "updateTime": 1667682634,
   "history": {
     "user": [
       {
@@ -8,75 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 179130029,
-            "pid": "1425B",
-            "name": "Blue and Red of Our Faculty!",
+            "id": 179377961,
+            "pid": "763D",
+            "name": "Timofey and a flat tree",
             "verdict": "OK",
-            "creationTime": 1667524948
+            "creationTime": 1667631594
           },
           {
             "platform": "codeforces",
-            "id": 179129826,
-            "pid": "1425B",
-            "name": "Blue and Red of Our Faculty!",
+            "id": 179377919,
+            "pid": "763D",
+            "name": "Timofey and a flat tree",
             "verdict": "OK",
-            "creationTime": 1667524607
+            "creationTime": 1667631575
           },
           {
             "platform": "codeforces",
-            "id": 179129814,
-            "pid": "1425B",
-            "name": "Blue and Red of Our Faculty!",
-            "verdict": "OK",
-            "creationTime": 1667524579
-          },
-          {
-            "platform": "codeforces",
-            "id": 179129765,
-            "pid": "1425B",
-            "name": "Blue and Red of Our Faculty!",
+            "id": 179377673,
+            "pid": "763D",
+            "name": "Timofey and a flat tree",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1667524506
+            "creationTime": 1667631462
           },
           {
             "platform": "codeforces",
-            "id": 179129631,
-            "pid": "1425B",
-            "name": "Blue and Red of Our Faculty!",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667524249
+            "id": 179377503,
+            "pid": "763D",
+            "name": "Timofey and a flat tree",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1667631378
           },
           {
             "platform": "codeforces",
-            "id": 179129394,
-            "pid": "1425B",
-            "name": "Blue and Red of Our Faculty!",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667523847
-          },
-          {
-            "platform": "codeforces",
-            "id": 179126657,
-            "pid": "1442D",
-            "name": "Sum",
+            "id": 179374188,
+            "pid": "763D",
+            "name": "Timofey and a flat tree",
             "verdict": "OK",
-            "creationTime": 1667518228
-          },
-          {
-            "platform": "codeforces",
-            "id": 179126617,
-            "pid": "1442D",
-            "name": "Sum",
-            "verdict": "OK",
-            "creationTime": 1667518165
-          },
-          {
-            "platform": "codeforces",
-            "id": 179126553,
-            "pid": "1442D",
-            "name": "Sum",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667518046
+            "creationTime": 1667629574
           }
         ],
         "newContests": []
@@ -84,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "61a914fd87a03ccd597e1747347bc308aedfb81e"
+  "ref": "3e39449164c4ecfbb21719a9726a939a961ad917"
 }
