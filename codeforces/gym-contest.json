@@ -15049,6 +15049,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2022 China Collegiate Programming Contest (CCPC) Weihai Site",
+    "startTime": 1667696400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104023,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104023",
+    "standingsUrl": "https://codeforces.com/gym/104023/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2020 ICPC Asia Yinchuan Regional Programming Contest",
     "startTime": 1621126800,
     "duration": 18000,
@@ -15057,5 +15068,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104022",
     "standingsUrl": "https://codeforces.com/gym/104022/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 16-th BIT Campus Programming Contest - Onsite Round",
+    "startTime": 1667698200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104025,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104025",
+    "standingsUrl": "https://codeforces.com/gym/104025/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 16-th BIT Campus Programming Contest - Online Round(2022)",
+    "startTime": 1667127600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104024,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104024",
+    "standingsUrl": "https://codeforces.com/gym/104024/standings"
   }
 ]

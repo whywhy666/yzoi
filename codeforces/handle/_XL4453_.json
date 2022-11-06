@@ -6,6 +6,131 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 179486559,
+      "creationTime": 1667701741,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479781906
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "513E2",
+        "name": "Subarray Cuts",
+        "rating": 2700,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/513/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/513/submission/179486559"
+    },
+    {
+      "type": "codeforces",
+      "id": 179486033,
+      "creationTime": 1667700922,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479782725
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "513E2",
+        "name": "Subarray Cuts",
+        "rating": 2700,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/513/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/513/submission/179486033"
+    },
+    {
+      "type": "codeforces",
+      "id": 179485002,
+      "creationTime": 1667699359,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479784288
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "513E2",
+        "name": "Subarray Cuts",
+        "rating": 2700,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/513/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/513/submission/179485002"
+    },
+    {
+      "type": "codeforces",
+      "id": 179484882,
+      "creationTime": 1667699155,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479784492
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "513E2",
+        "name": "Subarray Cuts",
+        "rating": 2700,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/513/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/513/submission/179484882"
+    },
+    {
+      "type": "codeforces",
+      "id": 179484442,
+      "creationTime": 1667698298,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479785349
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "513E2",
+        "name": "Subarray Cuts",
+        "rating": 2700,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/513/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/513/submission/179484442"
+    },
+    {
+      "type": "codeforces",
       "id": 179377961,
       "creationTime": 1667631594,
       "language": "GNU C++14",

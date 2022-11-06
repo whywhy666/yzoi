@@ -6,6 +6,158 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 179604949,
+      "creationTime": 1667748186,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1667745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750F",
+        "name": "Majority",
+        "tags": [
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/179604949"
+    },
+    {
+      "type": "codeforces",
+      "id": 179591449,
+      "creationTime": 1667747091,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1667745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750E",
+        "name": "Bracket Cost",
+        "tags": [
+          "data structures",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/179591449"
+    },
+    {
+      "type": "codeforces",
+      "id": 179569288,
+      "creationTime": 1667746093,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1667745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750D",
+        "name": "Count GCD",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/179569288"
+    },
+    {
+      "type": "codeforces",
+      "id": 179563887,
+      "creationTime": 1667745738,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1667745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750C",
+        "name": "Complementary XOR",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/179563887"
+    },
+    {
+      "type": "codeforces",
+      "id": 179559753,
+      "creationTime": 1667745479,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1667745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750B",
+        "name": "Maximum Substring",
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/179559753"
+    },
+    {
+      "type": "codeforces",
+      "id": 179559072,
+      "creationTime": 1667745391,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1667745300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750A",
+        "name": "Indirect Sort",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/179559072"
+    },
+    {
+      "type": "codeforces",
       "id": 176363168,
       "creationTime": 1665850240,
       "language": "GNU C++20 (64)",
@@ -108093,7 +108245,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3912,
+    "rating": 3735,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
