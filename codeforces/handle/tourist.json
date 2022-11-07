@@ -47,7 +47,9 @@
         "id": "1750E",
         "name": "Bracket Cost",
         "tags": [
+          "binary search",
           "data structures",
+          "dp",
           "greedy",
           "strings"
         ],
@@ -73,7 +75,7 @@
         "id": "1750D",
         "name": "Count GCD",
         "tags": [
-          "brute force",
+          "bitmasks",
           "combinatorics",
           "math",
           "number theory"
@@ -100,7 +102,8 @@
         "id": "1750C",
         "name": "Complementary XOR",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1750/problem/C"
       },
@@ -125,7 +128,8 @@
         "name": "Maximum Substring",
         "tags": [
           "brute force",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1750/problem/B"
       },
@@ -150,7 +154,7 @@
         "name": "Indirect Sort",
         "tags": [
           "constructive algorithms",
-          "math"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1750/problem/A"
       },

@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 179982686,
+      "creationTime": 1667832441,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479651206
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1572C",
+        "name": "Paint",
+        "rating": 2700,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1572/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1572/submission/179982686"
+    },
+    {
+      "type": "codeforces",
       "id": 179486559,
       "creationTime": 1667701741,
       "language": "GNU C++14",

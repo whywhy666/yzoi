@@ -1,104 +1,18 @@
 {
   "version": "0.1.16",
-  "updateTime": 1667769070,
+  "updateTime": 1667855554,
   "history": {
     "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 179604949,
-            "pid": "1750F",
-            "name": "Majority",
-            "verdict": "OK",
-            "creationTime": 1667748186
-          },
-          {
-            "platform": "codeforces",
-            "id": 179591449,
-            "pid": "1750E",
-            "name": "Bracket Cost",
-            "verdict": "OK",
-            "creationTime": 1667747091
-          },
-          {
-            "platform": "codeforces",
-            "id": 179569288,
-            "pid": "1750D",
-            "name": "Count GCD",
-            "verdict": "OK",
-            "creationTime": 1667746093
-          },
-          {
-            "platform": "codeforces",
-            "id": 179563887,
-            "pid": "1750C",
-            "name": "Complementary XOR",
-            "verdict": "OK",
-            "creationTime": 1667745738
-          },
-          {
-            "platform": "codeforces",
-            "id": 179559753,
-            "pid": "1750B",
-            "name": "Maximum Substring",
-            "verdict": "OK",
-            "creationTime": 1667745479
-          },
-          {
-            "platform": "codeforces",
-            "id": 179559072,
-            "pid": "1750A",
-            "name": "Indirect Sort",
-            "verdict": "OK",
-            "creationTime": 1667745391
-          }
-        ],
-        "newContests": []
-      },
       {
         "name": "陈陆洋",
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 179486559,
-            "pid": "513E2",
-            "name": "Subarray Cuts",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667701741
-          },
-          {
-            "platform": "codeforces",
-            "id": 179486033,
-            "pid": "513E2",
-            "name": "Subarray Cuts",
+            "id": 179982686,
+            "pid": "1572C",
+            "name": "Paint",
             "verdict": "OK",
-            "creationTime": 1667700922
-          },
-          {
-            "platform": "codeforces",
-            "id": 179485002,
-            "pid": "513E2",
-            "name": "Subarray Cuts",
-            "verdict": "OK",
-            "creationTime": 1667699359
-          },
-          {
-            "platform": "codeforces",
-            "id": 179484882,
-            "pid": "513E2",
-            "name": "Subarray Cuts",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667699155
-          },
-          {
-            "platform": "codeforces",
-            "id": 179484442,
-            "pid": "513E2",
-            "name": "Subarray Cuts",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1667698298
+            "creationTime": 1667832441
           }
         ],
         "newContests": []
@@ -106,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "0188068cb6d928a6aeb87a556e56c8b6effa1eab"
+  "ref": "4e19901a21a9afcdf4533255d64816f867b904f8"
 }
