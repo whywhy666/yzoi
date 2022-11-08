@@ -6,6 +6,56 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 180098007,
+      "creationTime": 1667917837,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479565810
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1573A",
+        "name": "Countdown",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1573/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1573/submission/180098007"
+    },
+    {
+      "type": "codeforces",
+      "id": 180097971,
+      "creationTime": 1667917822,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479565825
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1573A",
+        "name": "Countdown",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1573/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1573/submission/180097971"
+    },
+    {
+      "type": "codeforces",
       "id": 179982686,
       "creationTime": 1667832441,
       "language": "GNU C++14",
