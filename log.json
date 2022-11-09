@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1667941921,
+  "updateTime": 1668028363,
   "history": {
     "user": [
       {
@@ -8,19 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 180098007,
-            "pid": "1573A",
-            "name": "Countdown",
-            "verdict": "OK",
-            "creationTime": 1667917837
+            "id": 180199263,
+            "pid": "1572C",
+            "name": "Paint",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1667998561
           },
           {
             "platform": "codeforces",
-            "id": 180097971,
-            "pid": "1573A",
-            "name": "Countdown",
+            "id": 180193051,
+            "pid": "1572C",
+            "name": "Paint",
             "verdict": "OK",
-            "creationTime": 1667917822
+            "creationTime": 1667995535
+          },
+          {
+            "platform": "codeforces",
+            "id": 180192967,
+            "pid": "1572C",
+            "name": "Paint",
+            "verdict": "OK",
+            "creationTime": 1667995502
+          },
+          {
+            "platform": "codeforces",
+            "id": 180191685,
+            "pid": "1572C",
+            "name": "Paint",
+            "verdict": "OK",
+            "creationTime": 1667994853
           }
         ],
         "newContests": []
@@ -28,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "df2fde47dffae4b7b07184cbe5cf065793485d63"
+  "ref": "16d452e202766fa6f530f4b573d4fe3298dc73d5"
 }

@@ -22,6 +22,7 @@
         "id": "1750F",
         "name": "Majority",
         "tags": [
+          "combinatorics",
           "dp",
           "strings"
         ],
@@ -154,7 +155,8 @@
         "name": "Indirect Sort",
         "tags": [
           "constructive algorithms",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1750/problem/A"
       },

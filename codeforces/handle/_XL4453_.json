@@ -6,6 +6,110 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 180199263,
+      "creationTime": 1667998561,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479485086
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1572C",
+        "name": "Paint",
+        "rating": 2700,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1572/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1572/submission/180199263"
+    },
+    {
+      "type": "codeforces",
+      "id": 180193051,
+      "creationTime": 1667995535,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479488112
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1572C",
+        "name": "Paint",
+        "rating": 2700,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1572/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1572/submission/180193051"
+    },
+    {
+      "type": "codeforces",
+      "id": 180192967,
+      "creationTime": 1667995502,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479488145
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1572C",
+        "name": "Paint",
+        "rating": 2700,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1572/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1572/submission/180192967"
+    },
+    {
+      "type": "codeforces",
+      "id": 180191685,
+      "creationTime": 1667994853,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479488794
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1572C",
+        "name": "Paint",
+        "rating": 2700,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1572/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1572/submission/180191685"
+    },
+    {
+      "type": "codeforces",
       "id": 180098007,
       "creationTime": 1667917837,
       "language": "GNU C++14",
