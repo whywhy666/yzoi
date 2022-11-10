@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1668028363,
+  "updateTime": 1668114756,
   "history": {
     "user": [
       {
@@ -8,35 +8,19 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 180199263,
-            "pid": "1572C",
-            "name": "Paint",
+            "id": 180251170,
+            "pid": "1203F2",
+            "name": "Complete the Projects (hard version)",
+            "verdict": "OK",
+            "creationTime": 1668035656
+          },
+          {
+            "platform": "codeforces",
+            "id": 180251158,
+            "pid": "1203F2",
+            "name": "Complete the Projects (hard version)",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1667998561
-          },
-          {
-            "platform": "codeforces",
-            "id": 180193051,
-            "pid": "1572C",
-            "name": "Paint",
-            "verdict": "OK",
-            "creationTime": 1667995535
-          },
-          {
-            "platform": "codeforces",
-            "id": 180192967,
-            "pid": "1572C",
-            "name": "Paint",
-            "verdict": "OK",
-            "creationTime": 1667995502
-          },
-          {
-            "platform": "codeforces",
-            "id": 180191685,
-            "pid": "1572C",
-            "name": "Paint",
-            "verdict": "OK",
-            "creationTime": 1667994853
+            "creationTime": 1668035622
           }
         ],
         "newContests": []
@@ -44,5 +28,5 @@
     ],
     "contest": []
   },
-  "ref": "16d452e202766fa6f530f4b573d4fe3298dc73d5"
+  "ref": "e33406e2f54fbf78bf003cda49877f9eddea505d"
 }
