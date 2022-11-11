@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1668114756,
+  "updateTime": 1668201105,
   "history": {
     "user": [
       {
@@ -8,19 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 180251170,
-            "pid": "1203F2",
-            "name": "Complete the Projects (hard version)",
-            "verdict": "OK",
-            "creationTime": 1668035656
+            "id": 180441203,
+            "pid": "771E",
+            "name": "Bear and Rectangle Strips",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1668158133
           },
           {
             "platform": "codeforces",
-            "id": 180251158,
-            "pid": "1203F2",
-            "name": "Complete the Projects (hard version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1668035622
+            "id": 180440663,
+            "pid": "771E",
+            "name": "Bear and Rectangle Strips",
+            "verdict": "OK",
+            "creationTime": 1668157849
+          },
+          {
+            "platform": "codeforces",
+            "id": 180439903,
+            "pid": "1665E",
+            "name": "MinimizOR",
+            "verdict": "OK",
+            "creationTime": 1668157460
+          },
+          {
+            "platform": "codeforces",
+            "id": 180439764,
+            "pid": "1665E",
+            "name": "MinimizOR",
+            "verdict": "OK",
+            "creationTime": 1668157395
           }
         ],
         "newContests": []
@@ -28,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "e33406e2f54fbf78bf003cda49877f9eddea505d"
+  "ref": "9f3c87d253f14534a4341bdf8a9d981d184b7bdc"
 }

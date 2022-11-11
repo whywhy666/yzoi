@@ -6,6 +6,120 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 180441203,
+      "creationTime": 1668158133,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479325514
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "771E",
+        "name": "Bear and Rectangle Strips",
+        "rating": 3000,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/771/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/771/submission/180441203"
+    },
+    {
+      "type": "codeforces",
+      "id": 180440663,
+      "creationTime": 1668157849,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479325798
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "771E",
+        "name": "Bear and Rectangle Strips",
+        "rating": 3000,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/771/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/771/submission/180440663"
+    },
+    {
+      "type": "codeforces",
+      "id": 180439903,
+      "creationTime": 1668157460,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479326187
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665E",
+        "name": "MinimizOR",
+        "rating": 2500,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "data structures",
+          "divide and conquer",
+          "greedy",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/180439903"
+    },
+    {
+      "type": "codeforces",
+      "id": 180439764,
+      "creationTime": 1668157395,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479326252
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1665E",
+        "name": "MinimizOR",
+        "rating": 2500,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "data structures",
+          "divide and conquer",
+          "greedy",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1665/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1665/submission/180439764"
+    },
+    {
+      "type": "codeforces",
       "id": 180251170,
       "creationTime": 1668035656,
       "language": "GNU C++14",

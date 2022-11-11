@@ -15113,6 +15113,16 @@
     "standingsUrl": "https://codeforces.com/gym/104031/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2022)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104030,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104030",
+    "standingsUrl": "https://codeforces.com/gym/104030/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Школьный этап ВСОШ по информатике 9-11 класс 2022 (1 группа регионов)",
     "duration": 7200,
@@ -15144,7 +15154,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "CSP-J 2022",
+    "name": "CSP-Junior 2022",
     "startTime": 1667003400,
     "duration": 12600,
     "participantNumber": 0,
