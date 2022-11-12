@@ -6,6 +6,240 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 180636095,
+      "creationTime": 1668266745,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668263700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748C",
+        "name": "Zero-Sum Prefixes",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/180636095"
+    },
+    {
+      "type": "codeforces",
+      "id": 180635411,
+      "creationTime": 1668266616,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668263700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748C",
+        "name": "Zero-Sum Prefixes",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/180635411"
+    },
+    {
+      "type": "codeforces",
+      "id": 180632718,
+      "creationTime": 1668266102,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668263700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748C",
+        "name": "Zero-Sum Prefixes",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/180632718"
+    },
+    {
+      "type": "codeforces",
+      "id": 180628650,
+      "creationTime": 1668265403,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668263700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748B",
+        "name": "Diverse Substrings",
+        "tags": [
+          "brute force",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/180628650"
+    },
+    {
+      "type": "codeforces",
+      "id": 180628212,
+      "creationTime": 1668265334,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668263700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748B",
+        "name": "Diverse Substrings",
+        "tags": [
+          "brute force",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/180628212"
+    },
+    {
+      "type": "codeforces",
+      "id": 180625219,
+      "creationTime": 1668264881,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668263700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748D",
+        "name": "ConstructOR ",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "combinatorics",
+          "constructive algorithms",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/180625219"
+    },
+    {
+      "type": "codeforces",
+      "id": 180613412,
+      "creationTime": 1668263946,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668263700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748A",
+        "name": "The Ultimate Square",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/180613412"
+    },
+    {
+      "type": "codeforces",
+      "id": 180556857,
+      "creationTime": 1668235008,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479248639
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "771E",
+        "name": "Bear and Rectangle Strips",
+        "rating": 3000,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/771/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/771/submission/180556857"
+    },
+    {
+      "type": "codeforces",
+      "id": 180556699,
+      "creationTime": 1668234919,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -479248728
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "771E",
+        "name": "Bear and Rectangle Strips",
+        "rating": 3000,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/771/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/771/submission/180556699"
+    },
+    {
+      "type": "codeforces",
       "id": 180441203,
       "creationTime": 1668158133,
       "language": "GNU C++14",
