@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1668287471,
+  "updateTime": 1668373854,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 180636095,
-            "pid": "1748C",
-            "name": "Zero-Sum Prefixes",
-            "verdict": "OK",
-            "creationTime": 1668266745
-          },
-          {
-            "platform": "codeforces",
-            "id": 180635411,
-            "pid": "1748C",
-            "name": "Zero-Sum Prefixes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1668266616
-          },
-          {
-            "platform": "codeforces",
-            "id": 180632718,
-            "pid": "1748C",
-            "name": "Zero-Sum Prefixes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1668266102
-          },
-          {
-            "platform": "codeforces",
-            "id": 180628650,
-            "pid": "1748B",
-            "name": "Diverse Substrings",
-            "verdict": "OK",
-            "creationTime": 1668265403
-          },
-          {
-            "platform": "codeforces",
-            "id": 180628212,
-            "pid": "1748B",
-            "name": "Diverse Substrings",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1668265334
-          },
-          {
-            "platform": "codeforces",
-            "id": 180625219,
-            "pid": "1748D",
-            "name": "ConstructOR ",
-            "verdict": "OK",
-            "creationTime": 1668264881
-          },
-          {
-            "platform": "codeforces",
-            "id": 180613412,
-            "pid": "1748A",
-            "name": "The Ultimate Square",
-            "verdict": "OK",
-            "creationTime": 1668263946
-          },
-          {
-            "platform": "codeforces",
-            "id": 180556857,
-            "pid": "771E",
-            "name": "Bear and Rectangle Strips",
-            "verdict": "OK",
-            "creationTime": 1668235008
-          },
-          {
-            "platform": "codeforces",
-            "id": 180556699,
-            "pid": "771E",
-            "name": "Bear and Rectangle Strips",
-            "verdict": "OK",
-            "creationTime": 1668234919
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "de84baacc4e34fb8ed21caa6c0c98ff4c56be426"
+  "ref": "538db0415de84b0f566de49489f13209b3e4c6e6"
 }

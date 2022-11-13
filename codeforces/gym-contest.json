@@ -15194,5 +15194,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104048",
     "standingsUrl": "https://codeforces.com/gym/104048/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2022 CCPC Guangzhou Onsite",
+    "startTime": 1668301200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104053,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104053",
+    "standingsUrl": "https://codeforces.com/gym/104053/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Innopolis Open 2022-2023. First qualification round",
+    "startTime": 1668341700,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104052,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104052",
+    "standingsUrl": "https://codeforces.com/gym/104052/standings"
   }
 ]

@@ -21,8 +21,11 @@
         "type": "codeforces",
         "id": "1748C",
         "name": "Zero-Sum Prefixes",
+        "rating": 1600,
         "tags": [
+          "brute force",
           "data structures",
+          "dp",
           "greedy",
           "implementation"
         ],
@@ -47,8 +50,11 @@
         "type": "codeforces",
         "id": "1748C",
         "name": "Zero-Sum Prefixes",
+        "rating": 1600,
         "tags": [
+          "brute force",
           "data structures",
+          "dp",
           "greedy",
           "implementation"
         ],
@@ -73,8 +79,11 @@
         "type": "codeforces",
         "id": "1748C",
         "name": "Zero-Sum Prefixes",
+        "rating": 1600,
         "tags": [
+          "brute force",
           "data structures",
+          "dp",
           "greedy",
           "implementation"
         ],
@@ -99,6 +108,7 @@
         "type": "codeforces",
         "id": "1748B",
         "name": "Diverse Substrings",
+        "rating": 1400,
         "tags": [
           "brute force",
           "implementation",
@@ -125,6 +135,7 @@
         "type": "codeforces",
         "id": "1748B",
         "name": "Diverse Substrings",
+        "rating": 1400,
         "tags": [
           "brute force",
           "implementation",
@@ -151,11 +162,14 @@
         "type": "codeforces",
         "id": "1748D",
         "name": "ConstructOR ",
+        "rating": 2100,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
           "combinatorics",
           "constructive algorithms",
+          "greedy",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1748/problem/D"
@@ -179,6 +193,7 @@
         "type": "codeforces",
         "id": "1748A",
         "name": "The Ultimate Square",
+        "rating": 800,
         "tags": [
           "math"
         ],
@@ -49612,8 +49627,8 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1680,
+    "rating": 1837,
     "maxRank": "expert",
-    "maxRating": 1793
+    "maxRating": 1837
   }
 }

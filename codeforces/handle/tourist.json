@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1750F",
         "name": "Majority",
+        "rating": 2700,
         "tags": [
           "combinatorics",
           "dp",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1750E",
         "name": "Bracket Cost",
+        "rating": 2400,
         "tags": [
           "binary search",
           "data structures",
@@ -77,6 +79,7 @@
         "type": "codeforces",
         "id": "1750D",
         "name": "Count GCD",
+        "rating": 1800,
         "tags": [
           "combinatorics",
           "math",
@@ -103,6 +106,7 @@
         "type": "codeforces",
         "id": "1750C",
         "name": "Complementary XOR",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "implementation"
@@ -128,6 +132,7 @@
         "type": "codeforces",
         "id": "1750B",
         "name": "Maximum Substring",
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",
@@ -154,6 +159,7 @@
         "type": "codeforces",
         "id": "1750A",
         "name": "Indirect Sort",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "implementation",
