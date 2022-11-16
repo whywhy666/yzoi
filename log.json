@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1668546649,
+  "updateTime": 1668633046,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 181165276,
+            "pid": "1750D",
+            "name": "Count GCD",
+            "verdict": "OK",
+            "creationTime": 1668581036
+          },
+          {
+            "platform": "codeforces",
+            "id": 181165185,
+            "pid": "1750D",
+            "name": "Count GCD",
+            "verdict": "OK",
+            "creationTime": 1668580977
+          },
+          {
+            "platform": "codeforces",
+            "id": 181164909,
+            "pid": "1750D",
+            "name": "Count GCD",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668580777
+          },
+          {
+            "platform": "codeforces",
+            "id": 181164855,
+            "pid": "1750D",
+            "name": "Count GCD",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1668580733
+          },
+          {
+            "platform": "codeforces",
+            "id": 181148746,
+            "pid": "1748D",
+            "name": "ConstructOR ",
+            "verdict": "OK",
+            "creationTime": 1668563638
+          },
+          {
+            "platform": "codeforces",
+            "id": 181148729,
+            "pid": "1748C",
+            "name": "Zero-Sum Prefixes",
+            "verdict": "OK",
+            "creationTime": 1668563619
+          },
+          {
+            "platform": "codeforces",
+            "id": 181148705,
+            "pid": "1748B",
+            "name": "Diverse Substrings",
+            "verdict": "OK",
+            "creationTime": 1668563594
+          },
+          {
+            "platform": "codeforces",
+            "id": 181148694,
+            "pid": "1748A",
+            "name": "The Ultimate Square",
+            "verdict": "OK",
+            "creationTime": 1668563574
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "101e449f418e73acc2a903e7c6412b66ae5f3238"
+  "ref": "c547f76895a949b4fe31ccc08a303428a2cd5cd6"
 }

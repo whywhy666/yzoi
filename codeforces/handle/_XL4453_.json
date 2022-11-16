@@ -6,6 +6,225 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 181165276,
+      "creationTime": 1668581036,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478902611
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750D",
+        "name": "Count GCD",
+        "rating": 1800,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/181165276"
+    },
+    {
+      "type": "codeforces",
+      "id": 181165185,
+      "creationTime": 1668580977,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478902670
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750D",
+        "name": "Count GCD",
+        "rating": 1800,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/181165185"
+    },
+    {
+      "type": "codeforces",
+      "id": 181164909,
+      "creationTime": 1668580777,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478902870
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750D",
+        "name": "Count GCD",
+        "rating": 1800,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/181164909"
+    },
+    {
+      "type": "codeforces",
+      "id": 181164855,
+      "creationTime": 1668580733,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478902914
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1750D",
+        "name": "Count GCD",
+        "rating": 1800,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1750/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1750/submission/181164855"
+    },
+    {
+      "type": "codeforces",
+      "id": 181148746,
+      "creationTime": 1668563638,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478920009
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748D",
+        "name": "ConstructOR ",
+        "rating": 2100,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "constructive algorithms",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/181148746"
+    },
+    {
+      "type": "codeforces",
+      "id": 181148729,
+      "creationTime": 1668563619,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478920028
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748C",
+        "name": "Zero-Sum Prefixes",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/181148729"
+    },
+    {
+      "type": "codeforces",
+      "id": 181148705,
+      "creationTime": 1668563594,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478920053
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748B",
+        "name": "Diverse Substrings",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/181148705"
+    },
+    {
+      "type": "codeforces",
+      "id": 181148694,
+      "creationTime": 1668563574,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478920073
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1748A",
+        "name": "The Ultimate Square",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1748/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1748/submission/181148694"
+    },
+    {
+      "type": "codeforces",
       "id": 180636095,
       "creationTime": 1668266745,
       "language": "GNU C++14",
@@ -165,10 +384,9 @@
         "rating": 2100,
         "tags": [
           "bitmasks",
-          "chinese remainder theorem",
           "combinatorics",
           "constructive algorithms",
-          "fft",
+          "dp",
           "math",
           "number theory"
         ],
