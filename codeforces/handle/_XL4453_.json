@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 181429109,
+      "creationTime": 1668782429,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478701218
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1487F",
+        "name": "Ones",
+        "rating": 2900,
+        "tags": [
+          "dp",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1487/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1487/submission/181429109"
+    },
+    {
+      "type": "codeforces",
       "id": 181165276,
       "creationTime": 1668581036,
       "language": "GNU C++14",
@@ -132,6 +159,7 @@
         "rating": 2100,
         "tags": [
           "bitmasks",
+          "chinese remainder theorem",
           "combinatorics",
           "constructive algorithms",
           "dp",
@@ -384,6 +412,7 @@
         "rating": 2100,
         "tags": [
           "bitmasks",
+          "chinese remainder theorem",
           "combinatorics",
           "constructive algorithms",
           "dp",

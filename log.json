@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1668719450,
+  "updateTime": 1668805842,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 181429109,
+            "pid": "1487F",
+            "name": "Ones",
+            "verdict": "OK",
+            "creationTime": 1668782429
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f6cf0354ae7591723d402995e064532c87ace409"
+  "ref": "8569c8ce613a8348b1465b5107c905a868bd8f26"
 }
