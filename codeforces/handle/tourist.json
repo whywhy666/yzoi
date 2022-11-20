@@ -6,6 +6,162 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 181783681,
+      "creationTime": 1668959356,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761F1",
+        "name": "Anti-median (Easy Version)",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181783681"
+    },
+    {
+      "type": "codeforces",
+      "id": 181767412,
+      "creationTime": 1668956779,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761E",
+        "name": "Make It Connected",
+        "tags": [
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "dsu",
+          "graphs",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181767412"
+    },
+    {
+      "type": "codeforces",
+      "id": 181758217,
+      "creationTime": 1668955817,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761B",
+        "name": "Elimination of a Ring",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181758217"
+    },
+    {
+      "type": "codeforces",
+      "id": 181757137,
+      "creationTime": 1668955721,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761C",
+        "name": "Set Construction",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181757137"
+    },
+    {
+      "type": "codeforces",
+      "id": 181754215,
+      "creationTime": 1668955483,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761D",
+        "name": "Carry Bit",
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181754215"
+    },
+    {
+      "type": "codeforces",
+      "id": 181747969,
+      "creationTime": 1668954947,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761A",
+        "name": "Two Permutations",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181747969"
+    },
+    {
+      "type": "codeforces",
       "id": 179604949,
       "creationTime": 1667748186,
       "language": "GNU C++20 (64)",
@@ -108258,7 +108414,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3735,
+    "rating": 3817,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

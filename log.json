@@ -1,9 +1,102 @@
 {
   "version": "0.1.16",
-  "updateTime": 1668892209,
+  "updateTime": 1668978595,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 181783681,
+            "pid": "1761F1",
+            "name": "Anti-median (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1668959356
+          },
+          {
+            "platform": "codeforces",
+            "id": 181767412,
+            "pid": "1761E",
+            "name": "Make It Connected",
+            "verdict": "OK",
+            "creationTime": 1668956779
+          },
+          {
+            "platform": "codeforces",
+            "id": 181758217,
+            "pid": "1761B",
+            "name": "Elimination of a Ring",
+            "verdict": "OK",
+            "creationTime": 1668955817
+          },
+          {
+            "platform": "codeforces",
+            "id": 181757137,
+            "pid": "1761C",
+            "name": "Set Construction",
+            "verdict": "OK",
+            "creationTime": 1668955721
+          },
+          {
+            "platform": "codeforces",
+            "id": 181754215,
+            "pid": "1761D",
+            "name": "Carry Bit",
+            "verdict": "OK",
+            "creationTime": 1668955483
+          },
+          {
+            "platform": "codeforces",
+            "id": 181747969,
+            "pid": "1761A",
+            "name": "Two Permutations",
+            "verdict": "OK",
+            "creationTime": 1668954947
+          }
+        ],
+        "newContests": []
+      },
+      {
+        "name": "陈陆洋",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 181775221,
+            "pid": "1761C",
+            "name": "Set Construction",
+            "verdict": "OK",
+            "creationTime": 1668957853
+          },
+          {
+            "platform": "codeforces",
+            "id": 181768214,
+            "pid": "1761B",
+            "name": "Elimination of a Ring",
+            "verdict": "OK",
+            "creationTime": 1668956883
+          },
+          {
+            "platform": "codeforces",
+            "id": 181763188,
+            "pid": "1761B",
+            "name": "Elimination of a Ring",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1668956299
+          },
+          {
+            "platform": "codeforces",
+            "id": 181749478,
+            "pid": "1761A",
+            "name": "Two Permutations",
+            "verdict": "OK",
+            "creationTime": 1668955103
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "0c2bd6cec30288b41270189e09e3a1fea96f0316"
+  "ref": "1febf5e0ec986e19f96bc7b4c2846e8bb78c1ec9"
 }

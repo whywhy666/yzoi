@@ -6,6 +6,109 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 181775221,
+      "creationTime": 1668957853,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761C",
+        "name": "Set Construction",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181775221"
+    },
+    {
+      "type": "codeforces",
+      "id": 181768214,
+      "creationTime": 1668956883,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761B",
+        "name": "Elimination of a Ring",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181768214"
+    },
+    {
+      "type": "codeforces",
+      "id": 181763188,
+      "creationTime": 1668956299,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761B",
+        "name": "Elimination of a Ring",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181763188"
+    },
+    {
+      "type": "codeforces",
+      "id": 181749478,
+      "creationTime": 1668955103,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "_XL4453_"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1668954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761A",
+        "name": "Two Permutations",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/181749478"
+    },
+    {
+      "type": "codeforces",
       "id": 181429109,
       "creationTime": 1668782429,
       "language": "GNU C++14",
@@ -49872,7 +49975,7 @@
   ],
   "codeforces": {
     "rank": "expert",
-    "rating": 1837,
+    "rating": 1823,
     "maxRank": "expert",
     "maxRating": 1837
   }
