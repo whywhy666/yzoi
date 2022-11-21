@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1761C",
         "name": "Set Construction",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1761B",
         "name": "Elimination of a Ring",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -74,6 +76,7 @@
         "type": "codeforces",
         "id": "1761B",
         "name": "Elimination of a Ring",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -100,8 +103,10 @@
         "type": "codeforces",
         "id": "1761A",
         "name": "Two Permutations",
+        "rating": 800,
         "tags": [
-          "brute force"
+          "brute force",
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/A"
       },

@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1668978595,
+  "updateTime": 1669065100,
   "history": {
     "user": [
       {
@@ -8,89 +8,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 181783681,
-            "pid": "1761F1",
-            "name": "Anti-median (Easy Version)",
+            "id": 181923371,
+            "pid": "1760G",
+            "name": "SlavicG's Favorite Problem",
             "verdict": "OK",
-            "creationTime": 1668959356
+            "creationTime": 1669042057
           },
           {
             "platform": "codeforces",
-            "id": 181767412,
-            "pid": "1761E",
-            "name": "Make It Connected",
+            "id": 181914764,
+            "pid": "1760F",
+            "name": "Quests",
             "verdict": "OK",
-            "creationTime": 1668956779
+            "creationTime": 1669041802
           },
           {
             "platform": "codeforces",
-            "id": 181758217,
-            "pid": "1761B",
-            "name": "Elimination of a Ring",
+            "id": 181909729,
+            "pid": "1760E",
+            "name": "Binary Inversions",
             "verdict": "OK",
-            "creationTime": 1668955817
+            "creationTime": 1669041678
           },
           {
             "platform": "codeforces",
-            "id": 181757137,
-            "pid": "1761C",
-            "name": "Set Construction",
+            "id": 181904464,
+            "pid": "1760D",
+            "name": "Challenging Valleys",
             "verdict": "OK",
-            "creationTime": 1668955721
+            "creationTime": 1669041565
           },
           {
             "platform": "codeforces",
-            "id": 181754215,
-            "pid": "1761D",
-            "name": "Carry Bit",
+            "id": 181903982,
+            "pid": "1760C",
+            "name": "Advantage",
             "verdict": "OK",
-            "creationTime": 1668955483
+            "creationTime": 1669041557
           },
           {
             "platform": "codeforces",
-            "id": 181747969,
-            "pid": "1761A",
-            "name": "Two Permutations",
-            "verdict": "OK",
-            "creationTime": 1668954947
-          }
-        ],
-        "newContests": []
-      },
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 181775221,
-            "pid": "1761C",
-            "name": "Set Construction",
-            "verdict": "OK",
-            "creationTime": 1668957853
-          },
-          {
-            "platform": "codeforces",
-            "id": 181768214,
-            "pid": "1761B",
-            "name": "Elimination of a Ring",
-            "verdict": "OK",
-            "creationTime": 1668956883
-          },
-          {
-            "platform": "codeforces",
-            "id": 181763188,
-            "pid": "1761B",
-            "name": "Elimination of a Ring",
+            "id": 181898135,
+            "pid": "1760C",
+            "name": "Advantage",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1668956299
+            "creationTime": 1669041446
           },
           {
             "platform": "codeforces",
-            "id": 181749478,
-            "pid": "1761A",
-            "name": "Two Permutations",
+            "id": 181895565,
+            "pid": "1760B",
+            "name": "Atilla's Favorite Problem",
             "verdict": "OK",
-            "creationTime": 1668955103
+            "creationTime": 1669041399
+          },
+          {
+            "platform": "codeforces",
+            "id": 181893774,
+            "pid": "1760A",
+            "name": "Medium Number",
+            "verdict": "OK",
+            "creationTime": 1669041342
           }
         ],
         "newContests": []
@@ -98,5 +76,5 @@
     ],
     "contest": []
   },
-  "ref": "1febf5e0ec986e19f96bc7b4c2846e8bb78c1ec9"
+  "ref": "8d782065eceb51e5f30b46633b5fac0936e45b4b"
 }

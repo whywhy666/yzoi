@@ -6,6 +6,215 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 181923371,
+      "creationTime": 1669042057,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760G",
+        "name": "SlavicG's Favorite Problem",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181923371"
+    },
+    {
+      "type": "codeforces",
+      "id": 181914764,
+      "creationTime": 1669041802,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760F",
+        "name": "Quests",
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181914764"
+    },
+    {
+      "type": "codeforces",
+      "id": 181909729,
+      "creationTime": 1669041678,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760E",
+        "name": "Binary Inversions",
+        "tags": [
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181909729"
+    },
+    {
+      "type": "codeforces",
+      "id": 181904464,
+      "creationTime": 1669041565,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760D",
+        "name": "Challenging Valleys",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181904464"
+    },
+    {
+      "type": "codeforces",
+      "id": 181903982,
+      "creationTime": 1669041557,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760C",
+        "name": "Advantage",
+        "tags": [
+          "data structures",
+          "data structures",
+          "implementation",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181903982"
+    },
+    {
+      "type": "codeforces",
+      "id": 181898135,
+      "creationTime": 1669041446,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760C",
+        "name": "Advantage",
+        "tags": [
+          "data structures",
+          "data structures",
+          "implementation",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181898135"
+    },
+    {
+      "type": "codeforces",
+      "id": 181895565,
+      "creationTime": 1669041399,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760B",
+        "name": "Atilla's Favorite Problem",
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181895565"
+    },
+    {
+      "type": "codeforces",
+      "id": 181893774,
+      "creationTime": 1669041342,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1669041300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1760A",
+        "name": "Medium Number",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1760/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1760/submission/181893774"
+    },
+    {
+      "type": "codeforces",
       "id": 181783681,
       "creationTime": 1668959356,
       "language": "GNU C++20 (64)",
@@ -21,6 +230,7 @@
         "type": "codeforces",
         "id": "1761F1",
         "name": "Anti-median (Easy Version)",
+        "rating": 3100,
         "tags": [
           "dp",
           "math"
@@ -46,8 +256,9 @@
         "type": "codeforces",
         "id": "1761E",
         "name": "Make It Connected",
+        "rating": 2400,
         "tags": [
-          "chinese remainder theorem",
+          "brute force",
           "constructive algorithms",
           "dsu",
           "graphs",
@@ -75,6 +286,7 @@
         "type": "codeforces",
         "id": "1761B",
         "name": "Elimination of a Ring",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -101,6 +313,7 @@
         "type": "codeforces",
         "id": "1761C",
         "name": "Set Construction",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -128,8 +341,11 @@
         "type": "codeforces",
         "id": "1761D",
         "name": "Carry Bit",
+        "rating": 2100,
         "tags": [
+          "brute force",
           "combinatorics",
+          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/D"
@@ -153,8 +369,10 @@
         "type": "codeforces",
         "id": "1761A",
         "name": "Two Permutations",
+        "rating": 800,
         "tags": [
-          "brute force"
+          "brute force",
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/A"
       },
