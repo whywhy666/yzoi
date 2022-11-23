@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1669065100,
+  "updateTime": 1669237785,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 181923371,
-            "pid": "1760G",
-            "name": "SlavicG's Favorite Problem",
-            "verdict": "OK",
-            "creationTime": 1669042057
-          },
-          {
-            "platform": "codeforces",
-            "id": 181914764,
-            "pid": "1760F",
-            "name": "Quests",
-            "verdict": "OK",
-            "creationTime": 1669041802
-          },
-          {
-            "platform": "codeforces",
-            "id": 181909729,
-            "pid": "1760E",
-            "name": "Binary Inversions",
-            "verdict": "OK",
-            "creationTime": 1669041678
-          },
-          {
-            "platform": "codeforces",
-            "id": 181904464,
-            "pid": "1760D",
-            "name": "Challenging Valleys",
-            "verdict": "OK",
-            "creationTime": 1669041565
-          },
-          {
-            "platform": "codeforces",
-            "id": 181903982,
-            "pid": "1760C",
-            "name": "Advantage",
-            "verdict": "OK",
-            "creationTime": 1669041557
-          },
-          {
-            "platform": "codeforces",
-            "id": 181898135,
-            "pid": "1760C",
-            "name": "Advantage",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1669041446
-          },
-          {
-            "platform": "codeforces",
-            "id": 181895565,
-            "pid": "1760B",
-            "name": "Atilla's Favorite Problem",
-            "verdict": "OK",
-            "creationTime": 1669041399
-          },
-          {
-            "platform": "codeforces",
-            "id": 181893774,
-            "pid": "1760A",
-            "name": "Medium Number",
-            "verdict": "OK",
-            "creationTime": 1669041342
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8d782065eceb51e5f30b46633b5fac0936e45b4b"
+  "ref": "04f7af80d23e4da0307665ea3b870f283bc55f07"
 }

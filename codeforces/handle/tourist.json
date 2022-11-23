@@ -21,13 +21,11 @@
         "type": "codeforces",
         "id": "1760G",
         "name": "SlavicG's Favorite Problem",
+        "rating": 1700,
         "tags": [
-          "brute force",
-          "constructive algorithms",
+          "bitmasks",
           "dfs and similar",
-          "graphs",
-          "graphs",
-          "greedy"
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/G"
       },
@@ -50,6 +48,7 @@
         "type": "codeforces",
         "id": "1760F",
         "name": "Quests",
+        "rating": 1500,
         "tags": [
           "binary search",
           "greedy",
@@ -76,6 +75,7 @@
         "type": "codeforces",
         "id": "1760E",
         "name": "Binary Inversions",
+        "rating": 1100,
         "tags": [
           "data structures",
           "greedy",
@@ -102,8 +102,10 @@
         "type": "codeforces",
         "id": "1760D",
         "name": "Challenging Valleys",
+        "rating": 1000,
         "tags": [
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/D"
       },
@@ -126,11 +128,11 @@
         "type": "codeforces",
         "id": "1760C",
         "name": "Advantage",
+        "rating": 800,
         "tags": [
           "data structures",
-          "data structures",
           "implementation",
-          "implementation"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/C"
       },
@@ -153,11 +155,11 @@
         "type": "codeforces",
         "id": "1760C",
         "name": "Advantage",
+        "rating": 800,
         "tags": [
           "data structures",
-          "data structures",
           "implementation",
-          "implementation"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1760/problem/C"
       },
@@ -180,7 +182,9 @@
         "type": "codeforces",
         "id": "1760B",
         "name": "Atilla's Favorite Problem",
+        "rating": 800,
         "tags": [
+          "greedy",
           "implementation",
           "strings"
         ],
@@ -205,6 +209,7 @@
         "type": "codeforces",
         "id": "1760A",
         "name": "Medium Number",
+        "rating": 800,
         "tags": [
           "implementation",
           "sortings"
@@ -258,12 +263,13 @@
         "name": "Make It Connected",
         "rating": 2400,
         "tags": [
+          "binary search",
           "brute force",
           "constructive algorithms",
           "dsu",
           "graphs",
           "greedy",
-          "sortings"
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/E"
       },
@@ -343,9 +349,7 @@
         "name": "Carry Bit",
         "rating": 2100,
         "tags": [
-          "brute force",
           "combinatorics",
-          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1761/problem/D"
