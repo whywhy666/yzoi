@@ -6,6 +6,295 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 182443724,
+      "creationTime": 1669369642,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478114005
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1761D",
+        "name": "Carry Bit",
+        "rating": 2100,
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1761/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1761/submission/182443724"
+    },
+    {
+      "type": "codeforces",
+      "id": 182435639,
+      "creationTime": 1669364159,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478119488
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55D",
+        "name": "Beautiful numbers",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/182435639"
+    },
+    {
+      "type": "codeforces",
+      "id": 182435525,
+      "creationTime": 1669364060,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478119587
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55D",
+        "name": "Beautiful numbers",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/182435525"
+    },
+    {
+      "type": "codeforces",
+      "id": 182435261,
+      "creationTime": 1669363853,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478119794
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1083E",
+        "name": "The Fair Nut and Rectangles",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "dp",
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1083/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1083/submission/182435261"
+    },
+    {
+      "type": "codeforces",
+      "id": 182434257,
+      "creationTime": 1669363025,
+      "language": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478120622
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55D",
+        "name": "Beautiful numbers",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/182434257"
+    },
+    {
+      "type": "codeforces",
+      "id": 182433645,
+      "creationTime": 1669362493,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478121154
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55D",
+        "name": "Beautiful numbers",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/182433645"
+    },
+    {
+      "type": "codeforces",
+      "id": 182433393,
+      "creationTime": 1669362274,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478121373
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55D",
+        "name": "Beautiful numbers",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/182433393"
+    },
+    {
+      "type": "codeforces",
+      "id": 182433170,
+      "creationTime": 1669362062,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478121585
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55D",
+        "name": "Beautiful numbers",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/182433170"
+    },
+    {
+      "type": "codeforces",
+      "id": 182433055,
+      "creationTime": 1669361972,
+      "language": "GNU C++14",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478121675
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55D",
+        "name": "Beautiful numbers",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/182433055"
+    },
+    {
+      "type": "codeforces",
+      "id": 182431135,
+      "creationTime": 1669360393,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478123254
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1487F",
+        "name": "Ones",
+        "rating": 2900,
+        "tags": [
+          "dp",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1487/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1487/submission/182431135"
+    },
+    {
+      "type": "codeforces",
+      "id": 182429939,
+      "creationTime": 1669359430,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "lcy921"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -478124217
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1487F",
+        "name": "Ones",
+        "rating": 2900,
+        "tags": [
+          "dp",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1487/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1487/submission/182429939"
+    },
+    {
+      "type": "codeforces",
       "id": 178223291,
       "creationTime": 1666963082,
       "language": "GNU C++14",

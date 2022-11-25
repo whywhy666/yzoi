@@ -1,9 +1,104 @@
 {
   "version": "0.1.16",
-  "updateTime": 1669324182,
+  "updateTime": 1669410595,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "陆重羽",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 182443724,
+            "pid": "1761D",
+            "name": "Carry Bit",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669369642
+          },
+          {
+            "platform": "codeforces",
+            "id": 182435639,
+            "pid": "55D",
+            "name": "Beautiful numbers",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1669364159
+          },
+          {
+            "platform": "codeforces",
+            "id": 182435525,
+            "pid": "55D",
+            "name": "Beautiful numbers",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1669364060
+          },
+          {
+            "platform": "codeforces",
+            "id": 182435261,
+            "pid": "1083E",
+            "name": "The Fair Nut and Rectangles",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1669363853
+          },
+          {
+            "platform": "codeforces",
+            "id": 182434257,
+            "pid": "55D",
+            "name": "Beautiful numbers",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1669363025
+          },
+          {
+            "platform": "codeforces",
+            "id": 182433645,
+            "pid": "55D",
+            "name": "Beautiful numbers",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669362493
+          },
+          {
+            "platform": "codeforces",
+            "id": 182433393,
+            "pid": "55D",
+            "name": "Beautiful numbers",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1669362274
+          },
+          {
+            "platform": "codeforces",
+            "id": 182433170,
+            "pid": "55D",
+            "name": "Beautiful numbers",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1669362062
+          },
+          {
+            "platform": "codeforces",
+            "id": 182433055,
+            "pid": "55D",
+            "name": "Beautiful numbers",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1669361972
+          },
+          {
+            "platform": "codeforces",
+            "id": 182431135,
+            "pid": "1487F",
+            "name": "Ones",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669360393
+          },
+          {
+            "platform": "codeforces",
+            "id": 182429939,
+            "pid": "1487F",
+            "name": "Ones",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1669359430
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "df034bef7aa8a118dbc0f448448ce18976dce0a6"
+  "ref": "66dde8b901f70776cabc1e7c0ecc61c596c57d22"
 }
