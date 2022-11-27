@@ -15293,7 +15293,7 @@
     "type": "codeforces/gym/icpc",
     "name": "The 17-th Beihang University Collegiate Programming Contest (BCPC 2022) - Preliminary",
     "startTime": 1668772800,
-    "duration": 14400,
+    "duration": 345600,
     "participantNumber": 0,
     "id": 104068,
     "phase": "FINISHED",
@@ -15321,5 +15321,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104072",
     "standingsUrl": "https://codeforces.com/gym/104072/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2022 ICPC Asia Xian Regional Contest",
+    "startTime": 1668312000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104077,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104077",
+    "standingsUrl": "https://codeforces.com/gym/104077/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 International Collegiate Programming Contest, Jinan Site",
+    "startTime": 1669521600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104076,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104076",
+    "standingsUrl": "https://codeforces.com/gym/104076/standings"
   }
 ]
