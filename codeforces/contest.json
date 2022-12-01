@@ -66,6 +66,28 @@
     "standingsUrl": "https://codeforces.com/contest/1759/standings"
   },
   {
+    "type": "codeforces/ioi",
+    "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
+    "startTime": 1668643200,
+    "duration": 1209540,
+    "participantNumber": 0,
+    "id": 1751,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1751",
+    "standingsUrl": "https://codeforces.com/contest/1751/standings"
+  },
+  {
+    "type": "codeforces/ioi",
+    "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
+    "startTime": 1668643200,
+    "duration": 1209540,
+    "participantNumber": 0,
+    "id": 1752,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1752",
+    "standingsUrl": "https://codeforces.com/contest/1752/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round #833 (Div. 2)",
     "startTime": 1668263700,
