@@ -15354,5 +15354,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104081",
     "standingsUrl": "https://codeforces.com/gym/104081/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВОШ по информатике в Петрозаводске и Карелии 2022-2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104091,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104091",
+    "standingsUrl": "https://codeforces.com/gym/104091/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2022 ICPC Asia Hangzhou Regional Programming Contest",
+    "startTime": 1670126400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104090,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104090",
+    "standingsUrl": "https://codeforces.com/gym/104090/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВОШ по информатике в Петрозаводске и Карелии 2021-2022 (9-11 классы)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104092,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104092",
+    "standingsUrl": "https://codeforces.com/gym/104092/standings"
   }
 ]
