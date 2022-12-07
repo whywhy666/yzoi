@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/icpc",
+    "name": "2022-2023 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "startTime": 1670400300,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 1773,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1773",
+    "standingsUrl": "https://codeforces.com/contest/1773/standings"
+  },
+  {
+    "type": "codeforces/icpc",
     "name": "2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest (Online Mirror, ICPC Rules, Preferably Teams)",
     "startTime": 1669545300,
     "duration": 18000,
