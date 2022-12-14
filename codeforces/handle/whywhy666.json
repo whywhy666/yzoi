@@ -6,6 +6,107 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 185135049,
+      "creationTime": 1670986971,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476496676
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1773E",
+        "name": "Easy Assembly",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1773/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1773/submission/185135049"
+    },
+    {
+      "type": "codeforces",
+      "id": 185134994,
+      "creationTime": 1670986906,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476496741
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1773F",
+        "name": "Football",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1773/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1773/submission/185134994"
+    },
+    {
+      "type": "codeforces",
+      "id": 185134977,
+      "creationTime": 1670986890,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476496757
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1773F",
+        "name": "Football",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1773/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1773/submission/185134977"
+    },
+    {
+      "type": "codeforces",
+      "id": 185134932,
+      "creationTime": 1670986816,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -476496831
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1773F",
+        "name": "Football",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1773/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1773/submission/185134932"
+    },
+    {
+      "type": "codeforces",
       "id": 171307495,
       "creationTime": 1662622303,
       "language": "GNU C++20 (64)",
