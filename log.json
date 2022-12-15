@@ -1,48 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1671052201,
+  "updateTime": 1671138551,
   "history": {
-    "user": [
-      {
-        "name": "然然",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 185135049,
-            "pid": "1773E",
-            "name": "Easy Assembly",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1670986971
-          },
-          {
-            "platform": "codeforces",
-            "id": 185134994,
-            "pid": "1773F",
-            "name": "Football",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1670986906
-          },
-          {
-            "platform": "codeforces",
-            "id": 185134977,
-            "pid": "1773F",
-            "name": "Football",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1670986890
-          },
-          {
-            "platform": "codeforces",
-            "id": 185134932,
-            "pid": "1773F",
-            "name": "Football",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1670986816
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "47c42706cd1288deffc10c0474d85a60b0eba4bb"
+  "ref": "82553168bb6a79c8153f81d4265db02d344ef3f4"
 }

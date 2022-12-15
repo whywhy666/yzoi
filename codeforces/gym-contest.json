@@ -15459,5 +15459,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104103",
     "standingsUrl": "https://codeforces.com/gym/104103/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Voronezh State University - Sitronics contest, 2022",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104115,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104115",
+    "standingsUrl": "https://codeforces.com/gym/104115/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 ICPC Southeastern Europe Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104114,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104114",
+    "standingsUrl": "https://codeforces.com/gym/104114/standings"
   }
 ]
