@@ -6,6 +6,316 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 185709786,
+      "creationTime": 1671296626,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774G",
+        "name": "Segment Covering",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "data structures",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185709786"
+    },
+    {
+      "type": "codeforces",
+      "id": 185709641,
+      "creationTime": 1671296611,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774G",
+        "name": "Segment Covering",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "data structures",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185709641"
+    },
+    {
+      "type": "codeforces",
+      "id": 185708264,
+      "creationTime": 1671296447,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774G",
+        "name": "Segment Covering",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "data structures",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185708264"
+    },
+    {
+      "type": "codeforces",
+      "id": 185675729,
+      "creationTime": 1671291273,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774F2",
+        "name": "Magician and Pigs (Hard Version)",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185675729"
+    },
+    {
+      "type": "codeforces",
+      "id": 185663684,
+      "creationTime": 1671289912,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774F1",
+        "name": "Magician and Pigs (Easy Version)",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185663684"
+    },
+    {
+      "type": "codeforces",
+      "id": 185661214,
+      "creationTime": 1671289667,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774F1",
+        "name": "Magician and Pigs (Easy Version)",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185661214"
+    },
+    {
+      "type": "codeforces",
+      "id": 185651479,
+      "creationTime": 1671288807,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774E",
+        "name": "Two Chess Pieces",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185651479"
+    },
+    {
+      "type": "codeforces",
+      "id": 185647183,
+      "creationTime": 1671288489,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774C",
+        "name": "Ice and Fire",
+        "tags": [
+          "constructive algorithms",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185647183"
+    },
+    {
+      "type": "codeforces",
+      "id": 185645977,
+      "creationTime": 1671288409,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774B",
+        "name": "Coloring",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185645977"
+    },
+    {
+      "type": "codeforces",
+      "id": 185643125,
+      "creationTime": 1671288219,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774D",
+        "name": "Same Count One",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185643125"
+    },
+    {
+      "type": "codeforces",
+      "id": 185637457,
+      "creationTime": 1671287913,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774C",
+        "name": "Ice and Fire",
+        "tags": [
+          "constructive algorithms",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185637457"
+    },
+    {
+      "type": "codeforces",
+      "id": 185635462,
+      "creationTime": 1671287761,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1671287700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1774A",
+        "name": "Add Plus Minus Sign",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1774/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1774/submission/185635462"
+    },
+    {
+      "type": "codeforces",
       "id": 181923371,
       "creationTime": 1669042057,
       "language": "GNU C++20 (64)",
@@ -108638,7 +108948,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3817,
+    "rating": 3764,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
