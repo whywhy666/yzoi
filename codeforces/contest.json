@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round #839 (Div. 3)",
+    "startTime": 1671374100,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 1772,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1772",
+    "standingsUrl": "https://codeforces.com/contest/1772/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",
     "startTime": 1671287700,
     "duration": 9000,
@@ -64,6 +75,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1773",
     "standingsUrl": "https://codeforces.com/contest/1773/standings"
+  },
+  {
+    "type": "codeforces/icpc",
+    "name": "VK Cup 2022 - Квалификация (Engine)",
+    "startTime": 1670058000,
+    "duration": 1339200,
+    "participantNumber": 0,
+    "id": 1769,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1769",
+    "standingsUrl": "https://codeforces.com/contest/1769/standings"
   },
   {
     "type": "codeforces/icpc",

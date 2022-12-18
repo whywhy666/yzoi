@@ -21,10 +21,13 @@
         "type": "codeforces",
         "id": "1774G",
         "name": "Segment Covering",
+        "rating": 3200,
         "tags": [
+          "brute force",
           "combinatorics",
           "constructive algorithms",
           "data structures",
+          "dp",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/G"
@@ -48,10 +51,13 @@
         "type": "codeforces",
         "id": "1774G",
         "name": "Segment Covering",
+        "rating": 3200,
         "tags": [
+          "brute force",
           "combinatorics",
           "constructive algorithms",
           "data structures",
+          "dp",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/G"
@@ -75,10 +81,13 @@
         "type": "codeforces",
         "id": "1774G",
         "name": "Segment Covering",
+        "rating": 3200,
         "tags": [
+          "brute force",
           "combinatorics",
           "constructive algorithms",
           "data structures",
+          "dp",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/G"
@@ -102,8 +111,12 @@
         "type": "codeforces",
         "id": "1774F2",
         "name": "Magician and Pigs (Hard Version)",
+        "rating": 2700,
         "tags": [
-          "brute force"
+          "brute force",
+          "data structures",
+          "implementation",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/F2"
       },
@@ -126,9 +139,11 @@
         "type": "codeforces",
         "id": "1774F1",
         "name": "Magician and Pigs (Easy Version)",
+        "rating": 2400,
         "tags": [
           "brute force",
           "data structures",
+          "dp",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/F1"
@@ -152,9 +167,11 @@
         "type": "codeforces",
         "id": "1774F1",
         "name": "Magician and Pigs (Easy Version)",
+        "rating": 2400,
         "tags": [
           "brute force",
           "data structures",
+          "dp",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/F1"
@@ -178,6 +195,7 @@
         "type": "codeforces",
         "id": "1774E",
         "name": "Two Chess Pieces",
+        "rating": 1900,
         "tags": [
           "dfs and similar",
           "dp",
@@ -205,9 +223,11 @@
         "type": "codeforces",
         "id": "1774C",
         "name": "Ice and Fire",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/C"
       },
@@ -230,9 +250,11 @@
         "type": "codeforces",
         "id": "1774B",
         "name": "Coloring",
+        "rating": 1500,
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/B"
       },
@@ -255,6 +277,7 @@
         "type": "codeforces",
         "id": "1774D",
         "name": "Same Count One",
+        "rating": 1600,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -282,9 +305,11 @@
         "type": "codeforces",
         "id": "1774C",
         "name": "Ice and Fire",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/C"
       },
@@ -307,8 +332,10 @@
         "type": "codeforces",
         "id": "1774A",
         "name": "Add Plus Minus Sign",
+        "rating": 800,
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/A"
       },
