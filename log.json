@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1671484198,
+  "updateTime": 1671570613,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 185974036,
-            "pid": "1763F",
-            "name": "Edge Queries",
-            "verdict": "OK",
-            "creationTime": 1671462209
-          },
-          {
-            "platform": "codeforces",
-            "id": 185968990,
-            "pid": "1763C",
-            "name": "Another Array Problem",
-            "verdict": "OK",
-            "creationTime": 1671461596
-          },
-          {
-            "platform": "codeforces",
-            "id": 185966469,
-            "pid": "1763B",
-            "name": "Incinerate",
-            "verdict": "OK",
-            "creationTime": 1671461277
-          },
-          {
-            "platform": "codeforces",
-            "id": 185964737,
-            "pid": "1763A",
-            "name": "Absolute Maximization",
-            "verdict": "OK",
-            "creationTime": 1671461063
-          },
-          {
-            "platform": "codeforces",
-            "id": 185964172,
-            "pid": "1763E",
-            "name": "Node Pairs",
-            "verdict": "OK",
-            "creationTime": 1671460997
-          },
-          {
-            "platform": "codeforces",
-            "id": 185961557,
-            "pid": "1763D",
-            "name": "Valid Bitonic Permutations",
-            "verdict": "OK",
-            "creationTime": 1671460704
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "903d9b45abc3651c02fcc42d7bd99340477ef555"
+  "ref": "4ca69105c094779755c7451b70169dfa49fe4574"
 }

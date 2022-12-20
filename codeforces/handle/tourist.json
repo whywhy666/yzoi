@@ -23,8 +23,11 @@
         "name": "Edge Queries",
         "tags": [
           "data structures",
+          "dfs and similar",
           "dp",
-          "graphs"
+          "dsu",
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/F"
       },
@@ -76,6 +79,8 @@
         "tags": [
           "binary search",
           "brute force",
+          "data structures",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/B"
@@ -101,6 +106,7 @@
         "name": "Absolute Maximization",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "greedy",
           "math"
         ],
@@ -128,7 +134,8 @@
         "tags": [
           "dp",
           "graphs",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/E"
       },
@@ -154,6 +161,7 @@
         "tags": [
           "combinatorics",
           "dp",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/D"
@@ -300,7 +308,6 @@
         "tags": [
           "brute force",
           "data structures",
-          "dp",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/F1"
@@ -328,7 +335,6 @@
         "tags": [
           "brute force",
           "data structures",
-          "dp",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1774/problem/F1"
