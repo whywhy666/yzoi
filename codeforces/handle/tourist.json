@@ -52,6 +52,7 @@
         "name": "Another Array Problem",
         "tags": [
           "brute force",
+          "brute force",
           "constructive algorithms",
           "greedy"
         ],
@@ -81,6 +82,7 @@
           "brute force",
           "data structures",
           "implementation",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/B"
@@ -162,7 +164,8 @@
           "combinatorics",
           "dp",
           "implementation",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1763/problem/D"
       },
