@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1763F",
         "name": "Edge Queries",
+        "rating": 3000,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -50,6 +51,7 @@
         "type": "codeforces",
         "id": "1763C",
         "name": "Another Array Problem",
+        "rating": 2000,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -76,6 +78,7 @@
         "type": "codeforces",
         "id": "1763B",
         "name": "Incinerate",
+        "rating": 1200,
         "tags": [
           "binary search",
           "brute force",
@@ -105,6 +108,7 @@
         "type": "codeforces",
         "id": "1763A",
         "name": "Absolute Maximization",
+        "rating": 800,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -132,6 +136,7 @@
         "type": "codeforces",
         "id": "1763E",
         "name": "Node Pairs",
+        "rating": 2200,
         "tags": [
           "dp",
           "graphs",
@@ -159,6 +164,7 @@
         "type": "codeforces",
         "id": "1763D",
         "name": "Valid Bitonic Permutations",
+        "rating": 2200,
         "tags": [
           "combinatorics",
           "dp",
