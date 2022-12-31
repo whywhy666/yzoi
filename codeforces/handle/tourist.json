@@ -6,6 +6,271 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 187356845,
+      "creationTime": 1672418532,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770G",
+        "name": "Koxia and Bracket",
+        "tags": [
+          "divide and conquer",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187356845"
+    },
+    {
+      "type": "codeforces",
+      "id": 187336135,
+      "creationTime": 1672416073,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770F",
+        "name": "Koxia and Sequence",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187336135"
+    },
+    {
+      "type": "codeforces",
+      "id": 187333600,
+      "creationTime": 1672415825,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770F",
+        "name": "Koxia and Sequence",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187333600"
+    },
+    {
+      "type": "codeforces",
+      "id": 187332837,
+      "creationTime": 1672415749,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770F",
+        "name": "Koxia and Sequence",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187332837"
+    },
+    {
+      "type": "codeforces",
+      "id": 187289296,
+      "creationTime": 1672412657,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770E",
+        "name": "Koxia and Tree",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187289296"
+    },
+    {
+      "type": "codeforces",
+      "id": 187288008,
+      "creationTime": 1672412589,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770E",
+        "name": "Koxia and Tree",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187288008"
+    },
+    {
+      "type": "codeforces",
+      "id": 187273404,
+      "creationTime": 1672411905,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770D",
+        "name": "Koxia and Game",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "games",
+          "graph matchings",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187273404"
+    },
+    {
+      "type": "codeforces",
+      "id": 187265108,
+      "creationTime": 1672411568,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770C",
+        "name": "Koxia and Number Theory",
+        "tags": [
+          "chinese remainder theorem",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187265108"
+    },
+    {
+      "type": "codeforces",
+      "id": 187254407,
+      "creationTime": 1672411128,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770B",
+        "name": "Koxia and Permutation",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187254407"
+    },
+    {
+      "type": "codeforces",
+      "id": 187253137,
+      "creationTime": 1672411015,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672410900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1770A",
+        "name": "Koxia and Whiteboards",
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1770/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1770/submission/187253137"
+    },
+    {
+      "type": "codeforces",
       "id": 185974036,
       "creationTime": 1671462209,
       "language": "GNU C++20 (64)",
@@ -109146,7 +109411,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3764,
+    "rating": 3731,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
