@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1672520917,
+  "updateTime": 1672607319,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 187356845,
-            "pid": "1770G",
-            "name": "Koxia and Bracket",
-            "verdict": "OK",
-            "creationTime": 1672418532
-          },
-          {
-            "platform": "codeforces",
-            "id": 187336135,
-            "pid": "1770F",
-            "name": "Koxia and Sequence",
-            "verdict": "OK",
-            "creationTime": 1672416073
-          },
-          {
-            "platform": "codeforces",
-            "id": 187333600,
-            "pid": "1770F",
-            "name": "Koxia and Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1672415825
-          },
-          {
-            "platform": "codeforces",
-            "id": 187332837,
-            "pid": "1770F",
-            "name": "Koxia and Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1672415749
-          },
-          {
-            "platform": "codeforces",
-            "id": 187289296,
-            "pid": "1770E",
-            "name": "Koxia and Tree",
-            "verdict": "OK",
-            "creationTime": 1672412657
-          },
-          {
-            "platform": "codeforces",
-            "id": 187288008,
-            "pid": "1770E",
-            "name": "Koxia and Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1672412589
-          },
-          {
-            "platform": "codeforces",
-            "id": 187273404,
-            "pid": "1770D",
-            "name": "Koxia and Game",
-            "verdict": "OK",
-            "creationTime": 1672411905
-          },
-          {
-            "platform": "codeforces",
-            "id": 187265108,
-            "pid": "1770C",
-            "name": "Koxia and Number Theory",
-            "verdict": "OK",
-            "creationTime": 1672411568
-          },
-          {
-            "platform": "codeforces",
-            "id": 187254407,
-            "pid": "1770B",
-            "name": "Koxia and Permutation",
-            "verdict": "OK",
-            "creationTime": 1672411128
-          },
-          {
-            "platform": "codeforces",
-            "id": 187253137,
-            "pid": "1770A",
-            "name": "Koxia and Whiteboards",
-            "verdict": "OK",
-            "creationTime": 1672411015
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7f34b2877975d86a709ea22d5b298c56e2c499c4"
+  "ref": "a1b5f112b8104a98a94d123ace3e38d927ac7bbf"
 }
