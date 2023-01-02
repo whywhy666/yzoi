@@ -50,6 +50,7 @@
         "tags": [
           "bitmasks",
           "combinatorics",
+          "dp",
           "math",
           "number theory"
         ],
@@ -77,6 +78,7 @@
         "tags": [
           "bitmasks",
           "combinatorics",
+          "dp",
           "math",
           "number theory"
         ],
@@ -104,6 +106,7 @@
         "tags": [
           "bitmasks",
           "combinatorics",
+          "dp",
           "math",
           "number theory"
         ],
@@ -130,7 +133,9 @@
         "name": "Koxia and Tree",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dp",
+          "dsu",
           "math",
           "probabilities",
           "trees"
@@ -158,7 +163,9 @@
         "name": "Koxia and Tree",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dp",
+          "dsu",
           "math",
           "probabilities",
           "trees"
@@ -185,6 +192,7 @@
         "id": "1770D",
         "name": "Koxia and Game",
         "tags": [
+          "binary search",
           "data structures",
           "dfs and similar",
           "dsu",
