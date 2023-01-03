@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1672693757,
+  "updateTime": 1672780186,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 187822306,
+            "pid": "1779H",
+            "name": "Olympic Team Building",
+            "verdict": "OK",
+            "creationTime": 1672763965
+          },
+          {
+            "platform": "codeforces",
+            "id": 187800155,
+            "pid": "1779G",
+            "name": "The Game of the Century",
+            "verdict": "OK",
+            "creationTime": 1672761186
+          },
+          {
+            "platform": "codeforces",
+            "id": 187775898,
+            "pid": "1779F",
+            "name": "Xorcerer's Stones",
+            "verdict": "OK",
+            "creationTime": 1672759161
+          },
+          {
+            "platform": "codeforces",
+            "id": 187755451,
+            "pid": "1779E",
+            "name": "Anya's Simultaneous Exhibition",
+            "verdict": "OK",
+            "creationTime": 1672758038
+          },
+          {
+            "platform": "codeforces",
+            "id": 187747665,
+            "pid": "1779D",
+            "name": "Boris and His Amazing Haircut",
+            "verdict": "OK",
+            "creationTime": 1672757678
+          },
+          {
+            "platform": "codeforces",
+            "id": 187733377,
+            "pid": "1779C",
+            "name": "Least Prefix Sum",
+            "verdict": "OK",
+            "creationTime": 1672757056
+          },
+          {
+            "platform": "codeforces",
+            "id": 187730178,
+            "pid": "1779A",
+            "name": "Hall of Fame",
+            "verdict": "OK",
+            "creationTime": 1672756885
+          },
+          {
+            "platform": "codeforces",
+            "id": 187728792,
+            "pid": "1779B",
+            "name": "MKnez's ConstructiveForces Task",
+            "verdict": "OK",
+            "creationTime": 1672756771
+          },
+          {
+            "platform": "codeforces",
+            "id": 187728166,
+            "pid": "1779B",
+            "name": "MKnez's ConstructiveForces Task",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1672756647
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "f0852b7064f593812231e741414d541dd48ce41f"
+  "ref": "8997b5677f326cf78d4efce44d6d3a8710aedd39"
 }

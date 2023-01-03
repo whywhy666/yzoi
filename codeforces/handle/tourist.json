@@ -6,6 +6,241 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 187822306,
+      "creationTime": 1672763965,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779H",
+        "name": "Olympic Team Building",
+        "tags": [
+          "brute force",
+          "meet-in-the-middle"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187822306"
+    },
+    {
+      "type": "codeforces",
+      "id": 187800155,
+      "creationTime": 1672761186,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779G",
+        "name": "The Game of the Century",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187800155"
+    },
+    {
+      "type": "codeforces",
+      "id": 187775898,
+      "creationTime": 1672759161,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779F",
+        "name": "Xorcerer's Stones",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187775898"
+    },
+    {
+      "type": "codeforces",
+      "id": 187755451,
+      "creationTime": 1672758038,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779E",
+        "name": "Anya's Simultaneous Exhibition",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "graphs",
+          "greedy",
+          "interactive",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187755451"
+    },
+    {
+      "type": "codeforces",
+      "id": 187747665,
+      "creationTime": 1672757678,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779D",
+        "name": "Boris and His Amazing Haircut",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "dsu",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187747665"
+    },
+    {
+      "type": "codeforces",
+      "id": 187733377,
+      "creationTime": 1672757056,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779C",
+        "name": "Least Prefix Sum",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187733377"
+    },
+    {
+      "type": "codeforces",
+      "id": 187730178,
+      "creationTime": 1672756885,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779A",
+        "name": "Hall of Fame",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187730178"
+    },
+    {
+      "type": "codeforces",
+      "id": 187728792,
+      "creationTime": 1672756771,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779B",
+        "name": "MKnez's ConstructiveForces Task",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187728792"
+    },
+    {
+      "type": "codeforces",
+      "id": 187728166,
+      "creationTime": 1672756647,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1672756500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1779B",
+        "name": "MKnez's ConstructiveForces Task",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1779/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1779/submission/187728166"
+    },
+    {
+      "type": "codeforces",
       "id": 187356845,
       "creationTime": 1672418532,
       "language": "GNU C++20 (64)",
@@ -223,6 +458,7 @@
         "id": "1770C",
         "name": "Koxia and Number Theory",
         "tags": [
+          "brute force",
           "chinese remainder theorem",
           "math",
           "number theory"
@@ -109422,7 +109658,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3731,
+    "rating": 3768,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
