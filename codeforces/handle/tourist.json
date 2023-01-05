@@ -6,6 +6,166 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 188074577,
+      "creationTime": 1672930911,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1672929300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1768E",
+        "name": "Partial Sorting",
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1768/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1768/submission/188074577"
+    },
+    {
+      "type": "codeforces",
+      "id": 188064629,
+      "creationTime": 1672930149,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1672929300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1768C",
+        "name": "Elemental Decompress",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1768/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1768/submission/188064629"
+    },
+    {
+      "type": "codeforces",
+      "id": 188063758,
+      "creationTime": 1672930096,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1672929300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1768C",
+        "name": "Elemental Decompress",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1768/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1768/submission/188063758"
+    },
+    {
+      "type": "codeforces",
+      "id": 188057553,
+      "creationTime": 1672929799,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1672929300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1768D",
+        "name": "Lucky Permutation",
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1768/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1768/submission/188057553"
+    },
+    {
+      "type": "codeforces",
+      "id": 188047596,
+      "creationTime": 1672929439,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1672929300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1768B",
+        "name": "Quick Sort",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1768/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1768/submission/188047596"
+    },
+    {
+      "type": "codeforces",
+      "id": 188046502,
+      "creationTime": 1672929367,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1672929300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1768A",
+        "name": "Greatest Convex",
+        "tags": [
+          "greedy",
+          "hashing",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1768/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1768/submission/188046502"
+    },
+    {
+      "type": "codeforces",
       "id": 187822306,
       "creationTime": 1672763965,
       "language": "GNU C++20 (64)",
