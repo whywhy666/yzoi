@@ -130,7 +130,6 @@
         "name": "Quick Sort",
         "tags": [
           "greedy",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1768/problem/B"
@@ -156,7 +155,6 @@
         "name": "Greatest Convex",
         "tags": [
           "greedy",
-          "hashing",
           "math",
           "number theory"
         ],
@@ -292,7 +290,8 @@
           "data structures",
           "dp",
           "dsu",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1779/problem/D"
       },

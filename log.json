@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1672952979,
+  "updateTime": 1673039346,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 188074577,
-            "pid": "1768E",
-            "name": "Partial Sorting",
-            "verdict": "OK",
-            "creationTime": 1672930911
-          },
-          {
-            "platform": "codeforces",
-            "id": 188064629,
-            "pid": "1768C",
-            "name": "Elemental Decompress",
-            "verdict": "OK",
-            "creationTime": 1672930149
-          },
-          {
-            "platform": "codeforces",
-            "id": 188063758,
-            "pid": "1768C",
-            "name": "Elemental Decompress",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1672930096
-          },
-          {
-            "platform": "codeforces",
-            "id": 188057553,
-            "pid": "1768D",
-            "name": "Lucky Permutation",
-            "verdict": "OK",
-            "creationTime": 1672929799
-          },
-          {
-            "platform": "codeforces",
-            "id": 188047596,
-            "pid": "1768B",
-            "name": "Quick Sort",
-            "verdict": "OK",
-            "creationTime": 1672929439
-          },
-          {
-            "platform": "codeforces",
-            "id": 188046502,
-            "pid": "1768A",
-            "name": "Greatest Convex",
-            "verdict": "OK",
-            "creationTime": 1672929367
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5bca7c92fb5bc381c4693aa8fc8a19cbbbf61011"
+  "ref": "dedddb2873a65e114adaea955f2d5f25137bf203"
 }
