@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1768E",
         "name": "Partial Sorting",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "math",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1768C",
         "name": "Elemental Decompress",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -74,6 +76,7 @@
         "type": "codeforces",
         "id": "1768C",
         "name": "Elemental Decompress",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "1768D",
         "name": "Lucky Permutation",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -128,6 +132,7 @@
         "type": "codeforces",
         "id": "1768B",
         "name": "Quick Sort",
+        "rating": 900,
         "tags": [
           "greedy",
           "math"
@@ -153,6 +158,7 @@
         "type": "codeforces",
         "id": "1768A",
         "name": "Greatest Convex",
+        "rating": 800,
         "tags": [
           "greedy",
           "math",
@@ -179,6 +185,7 @@
         "type": "codeforces",
         "id": "1779H",
         "name": "Olympic Team Building",
+        "rating": 3500,
         "tags": [
           "brute force",
           "meet-in-the-middle"
@@ -204,6 +211,7 @@
         "type": "codeforces",
         "id": "1779G",
         "name": "The Game of the Century",
+        "rating": 3000,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -230,6 +238,7 @@
         "type": "codeforces",
         "id": "1779F",
         "name": "Xorcerer's Stones",
+        "rating": 2500,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -257,6 +266,7 @@
         "type": "codeforces",
         "id": "1779E",
         "name": "Anya's Simultaneous Exhibition",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -285,6 +295,7 @@
         "type": "codeforces",
         "id": "1779D",
         "name": "Boris and His Amazing Haircut",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -314,6 +325,7 @@
         "type": "codeforces",
         "id": "1779C",
         "name": "Least Prefix Sum",
+        "rating": 1600,
         "tags": [
           "data structures",
           "greedy"
@@ -339,6 +351,7 @@
         "type": "codeforces",
         "id": "1779A",
         "name": "Hall of Fame",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -365,6 +378,7 @@
         "type": "codeforces",
         "id": "1779B",
         "name": "MKnez's ConstructiveForces Task",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "math"
@@ -390,6 +404,7 @@
         "type": "codeforces",
         "id": "1779B",
         "name": "MKnez's ConstructiveForces Task",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "math"
@@ -415,6 +430,7 @@
         "type": "codeforces",
         "id": "1770G",
         "name": "Koxia and Bracket",
+        "rating": 3400,
         "tags": [
           "divide and conquer",
           "fft",
@@ -441,6 +457,7 @@
         "type": "codeforces",
         "id": "1770F",
         "name": "Koxia and Sequence",
+        "rating": 3100,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -469,6 +486,7 @@
         "type": "codeforces",
         "id": "1770F",
         "name": "Koxia and Sequence",
+        "rating": 3100,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -497,6 +515,7 @@
         "type": "codeforces",
         "id": "1770F",
         "name": "Koxia and Sequence",
+        "rating": 3100,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -525,6 +544,7 @@
         "type": "codeforces",
         "id": "1770E",
         "name": "Koxia and Tree",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -555,6 +575,7 @@
         "type": "codeforces",
         "id": "1770E",
         "name": "Koxia and Tree",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -585,6 +606,7 @@
         "type": "codeforces",
         "id": "1770D",
         "name": "Koxia and Game",
+        "rating": 2000,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -617,6 +639,7 @@
         "type": "codeforces",
         "id": "1770C",
         "name": "Koxia and Number Theory",
+        "rating": 1700,
         "tags": [
           "brute force",
           "chinese remainder theorem",
@@ -644,6 +667,7 @@
         "type": "codeforces",
         "id": "1770B",
         "name": "Koxia and Permutation",
+        "rating": 1000,
         "tags": [
           "constructive algorithms"
         ],
@@ -668,6 +692,7 @@
         "type": "codeforces",
         "id": "1770A",
         "name": "Koxia and Whiteboards",
+        "rating": 1000,
         "tags": [
           "brute force",
           "greedy"

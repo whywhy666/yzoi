@@ -1,6 +1,28 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "VK Cup 2022 - Отборочный раунд (Engine)",
+    "startTime": 1673784300,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 1781,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1781",
+    "standingsUrl": "https://codeforces.com/contest/1781/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round #844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",
+    "startTime": 1673784300,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 1782,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1782",
+    "standingsUrl": "https://codeforces.com/contest/1782/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round #843 (Div. 2)",
     "startTime": 1673349300,
     "duration": 9000,
