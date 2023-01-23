@@ -15553,6 +15553,16 @@
     "standingsUrl": "https://codeforces.com/gym/104147/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "CPUlm Winter Contest 2022",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104149,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104149",
+    "standingsUrl": "https://codeforces.com/gym/104149/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Олимпиада школьников РС(Я) (5-8 классы) 2022-23, 1 день",
     "duration": 18000,
