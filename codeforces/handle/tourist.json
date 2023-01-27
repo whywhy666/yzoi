@@ -6,6 +6,219 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 190812331,
+      "creationTime": 1674832107,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790G",
+        "name": "Tokens on Graph",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190812331"
+    },
+    {
+      "type": "codeforces",
+      "id": 190809690,
+      "creationTime": 1674831945,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790G",
+        "name": "Tokens on Graph",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190809690"
+    },
+    {
+      "type": "codeforces",
+      "id": 190794850,
+      "creationTime": 1674831131,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790F",
+        "name": "Timofey and Black-White Tree",
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "divide and conquer",
+          "graphs",
+          "greedy",
+          "shortest paths",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190794850"
+    },
+    {
+      "type": "codeforces",
+      "id": 190782397,
+      "creationTime": 1674830585,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790E",
+        "name": "Vlad and a Pair of Numbers",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190782397"
+    },
+    {
+      "type": "codeforces",
+      "id": 190778065,
+      "creationTime": 1674830418,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790D",
+        "name": "Matryoshkas",
+        "tags": [
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190778065"
+    },
+    {
+      "type": "codeforces",
+      "id": 190775223,
+      "creationTime": 1674830334,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790C",
+        "name": "Premutation",
+        "tags": [
+          "brute force",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190775223"
+    },
+    {
+      "type": "codeforces",
+      "id": 190772853,
+      "creationTime": 1674830251,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790B",
+        "name": "Taisia and Dice",
+        "tags": [
+          "greedy",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190772853"
+    },
+    {
+      "type": "codeforces",
+      "id": 190772247,
+      "creationTime": 1674830164,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1674830100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1790A",
+        "name": "Polycarp and the Day of Pi",
+        "tags": [
+          "implementation",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1790/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1790/submission/190772247"
+    },
+    {
+      "type": "codeforces",
       "id": 188074577,
       "creationTime": 1672930911,
       "language": "GNU C++20 (64)",
