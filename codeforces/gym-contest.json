@@ -15553,6 +15553,17 @@
     "standingsUrl": "https://codeforces.com/gym/104147/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Abakoda Long Contest 2022",
+    "startTime": 1674095400,
+    "duration": 799200,
+    "participantNumber": 0,
+    "id": 104146,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104146",
+    "standingsUrl": "https://codeforces.com/gym/104146/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "CPUlm Winter Contest 2022",
     "duration": 18000,
@@ -15593,6 +15604,17 @@
     "standingsUrl": "https://codeforces.com/gym/104155/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 01-27-23 Div. 2 (Beginner)",
+    "startTime": 1674864000,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104157,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104157",
+    "standingsUrl": "https://codeforces.com/gym/104157/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "2022-2023 Всероссийская олимпиада школьников по информатике, региональный этап, 2 тур",
     "duration": 18000,
@@ -15601,5 +15623,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104156",
     "standingsUrl": "https://codeforces.com/gym/104156/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада школьников РС(Я) (5-8 классы) 2022-23, 2 день",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104159,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104159",
+    "standingsUrl": "https://codeforces.com/gym/104159/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 01-27-23 Div. 1 (Advanced)",
+    "startTime": 1674864000,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104158,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104158",
+    "standingsUrl": "https://codeforces.com/gym/104158/standings"
   }
 ]
