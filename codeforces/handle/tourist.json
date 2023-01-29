@@ -6,6 +6,235 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 191159451,
+      "creationTime": 1675012604,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787H",
+        "name": "Codeforces Scoreboard",
+        "tags": [
+          "data structures",
+          "dp",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191159451"
+    },
+    {
+      "type": "codeforces",
+      "id": 191152586,
+      "creationTime": 1675010639,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787G",
+        "name": "Colorful Tree Again",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191152586"
+    },
+    {
+      "type": "codeforces",
+      "id": 191147076,
+      "creationTime": 1675009140,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787I",
+        "name": "Treasure Hunt",
+        "tags": [
+          "divide and conquer",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191147076"
+    },
+    {
+      "type": "codeforces",
+      "id": 191132842,
+      "creationTime": 1675006031,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787F",
+        "name": "Inverse Transformation",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191132842"
+    },
+    {
+      "type": "codeforces",
+      "id": 191126319,
+      "creationTime": 1675004946,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787E",
+        "name": "The Harmonization of XOR",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191126319"
+    },
+    {
+      "type": "codeforces",
+      "id": 191120161,
+      "creationTime": 1675004119,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787D",
+        "name": "Game on Axis",
+        "tags": [
+          "combinatorics",
+          "dsu",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191120161"
+    },
+    {
+      "type": "codeforces",
+      "id": 191113889,
+      "creationTime": 1675003537,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787C",
+        "name": "Remove the Bracket",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191113889"
+    },
+    {
+      "type": "codeforces",
+      "id": 191109607,
+      "creationTime": 1675003217,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787B",
+        "name": "Number Factorization",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191109607"
+    },
+    {
+      "type": "codeforces",
+      "id": 191106352,
+      "creationTime": 1675003021,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1675002900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1787A",
+        "name": "Exponential Equation",
+        "tags": [
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1787/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1787/submission/191106352"
+    },
+    {
+      "type": "codeforces",
       "id": 190812331,
       "creationTime": 1674832107,
       "language": "GNU C++20 (64)",
@@ -110057,7 +110286,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3768,
+    "rating": 3803,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

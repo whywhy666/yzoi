@@ -15644,5 +15644,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104158",
     "standingsUrl": "https://codeforces.com/gym/104158/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2022 ICPC Asia Shenyang Regional Contest (The 1st Universal Cup, Stage 1: Shenyang)",
+    "startTime": 1667707200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104160,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104160",
+    "standingsUrl": "https://codeforces.com/gym/104160/standings"
   }
 ]

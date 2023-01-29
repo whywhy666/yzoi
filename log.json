@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1674940117,
+  "updateTime": 1675026518,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 191159451,
+            "pid": "1787H",
+            "name": "Codeforces Scoreboard",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1675012604
+          },
+          {
+            "platform": "codeforces",
+            "id": 191152586,
+            "pid": "1787G",
+            "name": "Colorful Tree Again",
+            "verdict": "OK",
+            "creationTime": 1675010639
+          },
+          {
+            "platform": "codeforces",
+            "id": 191147076,
+            "pid": "1787I",
+            "name": "Treasure Hunt",
+            "verdict": "OK",
+            "creationTime": 1675009140
+          },
+          {
+            "platform": "codeforces",
+            "id": 191132842,
+            "pid": "1787F",
+            "name": "Inverse Transformation",
+            "verdict": "OK",
+            "creationTime": 1675006031
+          },
+          {
+            "platform": "codeforces",
+            "id": 191126319,
+            "pid": "1787E",
+            "name": "The Harmonization of XOR",
+            "verdict": "OK",
+            "creationTime": 1675004946
+          },
+          {
+            "platform": "codeforces",
+            "id": 191120161,
+            "pid": "1787D",
+            "name": "Game on Axis",
+            "verdict": "OK",
+            "creationTime": 1675004119
+          },
+          {
+            "platform": "codeforces",
+            "id": 191113889,
+            "pid": "1787C",
+            "name": "Remove the Bracket",
+            "verdict": "OK",
+            "creationTime": 1675003537
+          },
+          {
+            "platform": "codeforces",
+            "id": 191109607,
+            "pid": "1787B",
+            "name": "Number Factorization",
+            "verdict": "OK",
+            "creationTime": 1675003217
+          },
+          {
+            "platform": "codeforces",
+            "id": 191106352,
+            "pid": "1787A",
+            "name": "Exponential Equation",
+            "verdict": "OK",
+            "creationTime": 1675003021
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "bf8668c600e5899e2373323866dcd49e800a3493"
+  "ref": "25b642b2d03ee7b2d8920ec93aefa16b5bbe48c2"
 }
