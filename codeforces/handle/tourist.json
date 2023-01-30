@@ -24,7 +24,7 @@
         "tags": [
           "data structures",
           "dp",
-          "dp"
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/H"
       },
@@ -48,7 +48,8 @@
         "id": "1787G",
         "name": "Colorful Tree Again",
         "tags": [
-          "data structures"
+          "data structures",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/G"
       },
@@ -98,6 +99,7 @@
         "name": "Inverse Transformation",
         "tags": [
           "constructive algorithms",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/F"
@@ -124,6 +126,7 @@
         "tags": [
           "bitmasks",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/E"
@@ -149,9 +152,11 @@
         "name": "Game on Axis",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "dsu",
           "graphs",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/D"
       },
@@ -176,6 +181,7 @@
         "name": "Remove the Bracket",
         "tags": [
           "dp",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/C"
@@ -200,6 +206,7 @@
         "id": "1787B",
         "name": "Number Factorization",
         "tags": [
+          "greedy",
           "math",
           "number theory"
         ],
@@ -225,7 +232,6 @@
         "id": "1787A",
         "name": "Exponential Equation",
         "tags": [
-          "chinese remainder theorem",
           "constructive algorithms",
           "math"
         ],
