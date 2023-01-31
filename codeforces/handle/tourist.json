@@ -22,9 +22,10 @@
         "id": "1787H",
         "name": "Codeforces Scoreboard",
         "tags": [
+          "binary search",
           "data structures",
           "dp",
-          "ternary search"
+          "geometry"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/H"
       },
@@ -48,6 +49,7 @@
         "id": "1787G",
         "name": "Colorful Tree Again",
         "tags": [
+          "brute force",
           "data structures",
           "trees"
         ],
@@ -155,8 +157,7 @@
           "dfs and similar",
           "dsu",
           "graphs",
-          "implementation",
-          "sortings"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1787/problem/D"
       },
@@ -110292,7 +110293,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3803,
+    "rating": 3768,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
