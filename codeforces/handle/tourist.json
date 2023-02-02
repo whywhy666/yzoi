@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1787H",
         "name": "Codeforces Scoreboard",
+        "rating": 3300,
         "tags": [
           "binary search",
           "data structures",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1787G",
         "name": "Colorful Tree Again",
+        "rating": 3000,
         "tags": [
           "brute force",
           "data structures",
@@ -74,6 +76,7 @@
         "type": "codeforces",
         "id": "1787I",
         "name": "Treasure Hunt",
+        "rating": 3400,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -100,6 +103,7 @@
         "type": "codeforces",
         "id": "1787F",
         "name": "Inverse Transformation",
+        "rating": 2500,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -126,6 +130,7 @@
         "type": "codeforces",
         "id": "1787E",
         "name": "The Harmonization of XOR",
+        "rating": 2100,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -153,6 +158,7 @@
         "type": "codeforces",
         "id": "1787D",
         "name": "Game on Axis",
+        "rating": 1900,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -181,6 +187,7 @@
         "type": "codeforces",
         "id": "1787C",
         "name": "Remove the Bracket",
+        "rating": 1600,
         "tags": [
           "dp",
           "greedy",
@@ -207,6 +214,7 @@
         "type": "codeforces",
         "id": "1787B",
         "name": "Number Factorization",
+        "rating": 1100,
         "tags": [
           "greedy",
           "math",
@@ -233,6 +241,7 @@
         "type": "codeforces",
         "id": "1787A",
         "name": "Exponential Equation",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
