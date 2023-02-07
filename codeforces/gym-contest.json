@@ -15696,5 +15696,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104172",
     "standingsUrl": "https://codeforces.com/gym/104172/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2022-2023, Вторая личная олимпиада + Первый отбор на ИОИП",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104174,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104174",
+    "standingsUrl": "https://codeforces.com/gym/104174/standings"
   }
 ]
