@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1676495395,
+  "updateTime": 1676581792,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 193868249,
+            "pid": "1795G",
+            "name": "Removal Sequences",
+            "verdict": "OK",
+            "creationTime": 1676560495
+          },
+          {
+            "platform": "codeforces",
+            "id": 193865905,
+            "pid": "1795G",
+            "name": "Removal Sequences",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1676560291
+          },
+          {
+            "platform": "codeforces",
+            "id": 193858484,
+            "pid": "1795E",
+            "name": "Explosions?",
+            "verdict": "OK",
+            "creationTime": 1676559653
+          },
+          {
+            "platform": "codeforces",
+            "id": 193849592,
+            "pid": "1795F",
+            "name": "Blocking Chips",
+            "verdict": "OK",
+            "creationTime": 1676559019
+          },
+          {
+            "platform": "codeforces",
+            "id": 193842483,
+            "pid": "1795D",
+            "name": "Triangle Coloring",
+            "verdict": "OK",
+            "creationTime": 1676558598
+          },
+          {
+            "platform": "codeforces",
+            "id": 193840570,
+            "pid": "1795C",
+            "name": "Tea Tasting",
+            "verdict": "OK",
+            "creationTime": 1676558440
+          },
+          {
+            "platform": "codeforces",
+            "id": 193839119,
+            "pid": "1795B",
+            "name": "Ideal Point",
+            "verdict": "OK",
+            "creationTime": 1676558271
+          },
+          {
+            "platform": "codeforces",
+            "id": 193838910,
+            "pid": "1795A",
+            "name": "Two Towers",
+            "verdict": "OK",
+            "creationTime": 1676558200
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "ebbc0fb02b0578acbc61809e160e4349aa0f4a86"
+  "ref": "79617ac779f2587d5268f56c25abb43ae240616b"
 }

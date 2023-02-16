@@ -6,6 +6,208 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 193868249,
+      "creationTime": 1676560495,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795G",
+        "name": "Removal Sequences",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193868249"
+    },
+    {
+      "type": "codeforces",
+      "id": 193865905,
+      "creationTime": 1676560291,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795G",
+        "name": "Removal Sequences",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193865905"
+    },
+    {
+      "type": "codeforces",
+      "id": 193858484,
+      "creationTime": 1676559653,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795E",
+        "name": "Explosions?",
+        "tags": [
+          "data structures",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193858484"
+    },
+    {
+      "type": "codeforces",
+      "id": 193849592,
+      "creationTime": 1676559019,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795F",
+        "name": "Blocking Chips",
+        "tags": [
+          "binary search",
+          "dfs and similar",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193849592"
+    },
+    {
+      "type": "codeforces",
+      "id": 193842483,
+      "creationTime": 1676558598,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795D",
+        "name": "Triangle Coloring",
+        "tags": [
+          "combinatorics",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193842483"
+    },
+    {
+      "type": "codeforces",
+      "id": 193840570,
+      "creationTime": 1676558440,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795C",
+        "name": "Tea Tasting",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193840570"
+    },
+    {
+      "type": "codeforces",
+      "id": 193839119,
+      "creationTime": 1676558271,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795B",
+        "name": "Ideal Point",
+        "tags": [
+          "geometry",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193839119"
+    },
+    {
+      "type": "codeforces",
+      "id": 193838910,
+      "creationTime": 1676558200,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1676558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1795A",
+        "name": "Two Towers",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1795/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1795/submission/193838910"
+    },
+    {
+      "type": "codeforces",
       "id": 191159451,
       "creationTime": 1675012604,
       "language": "GNU C++20 (64)",
