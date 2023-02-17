@@ -22,6 +22,7 @@
         "id": "1795G",
         "name": "Removal Sequences",
         "tags": [
+          "bitmasks",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/G"
@@ -46,6 +47,7 @@
         "id": "1795G",
         "name": "Removal Sequences",
         "tags": [
+          "bitmasks",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/G"
@@ -97,9 +99,11 @@
         "name": "Blocking Chips",
         "tags": [
           "binary search",
+          "data structures",
           "dfs and similar",
           "dp",
-          "greedy"
+          "greedy",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/F"
       },
@@ -124,8 +128,7 @@
         "name": "Triangle Coloring",
         "tags": [
           "combinatorics",
-          "graphs",
-          "greedy"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/D"
       },
@@ -150,7 +153,8 @@
         "name": "Tea Tasting",
         "tags": [
           "binary search",
-          "data structures"
+          "data structures",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/C"
       },
@@ -174,6 +178,7 @@
         "id": "1795B",
         "name": "Ideal Point",
         "tags": [
+          "brute force",
           "geometry",
           "greedy"
         ],
@@ -200,7 +205,8 @@
         "name": "Two Towers",
         "tags": [
           "brute force",
-          "implementation"
+          "implementation",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/A"
       },
