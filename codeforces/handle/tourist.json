@@ -23,6 +23,7 @@
         "name": "Removal Sequences",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/G"
@@ -48,6 +49,7 @@
         "name": "Removal Sequences",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/G"
@@ -74,6 +76,7 @@
         "tags": [
           "data structures",
           "dp",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1795/problem/E"
@@ -99,8 +102,8 @@
         "name": "Blocking Chips",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "dfs and similar",
-          "dp",
           "greedy",
           "trees"
         ],

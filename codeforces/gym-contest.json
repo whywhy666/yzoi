@@ -15758,5 +15758,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104195",
     "standingsUrl": "https://codeforces.com/gym/104195/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Anton Trygub Contest 1 (The 1st Universal Cup, Stage 4: Ukraine)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104197,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104197",
+    "standingsUrl": "https://codeforces.com/gym/104197/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 ACM-ICPC East Central North America Regional Contest (ECNA 2021)",
+    "startTime": 1645887600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104196,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104196",
+    "standingsUrl": "https://codeforces.com/gym/104196/standings"
   }
 ]
