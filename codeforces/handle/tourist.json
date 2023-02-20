@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1795G",
         "name": "Removal Sequences",
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "dfs and similar",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1795G",
         "name": "Removal Sequences",
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "dfs and similar",
@@ -73,7 +75,9 @@
         "type": "codeforces",
         "id": "1795E",
         "name": "Explosions?",
+        "rating": 2200,
         "tags": [
+          "binary search",
           "data structures",
           "dp",
           "greedy",
@@ -100,6 +104,7 @@
         "type": "codeforces",
         "id": "1795F",
         "name": "Blocking Chips",
+        "rating": 2400,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -128,6 +133,7 @@
         "type": "codeforces",
         "id": "1795D",
         "name": "Triangle Coloring",
+        "rating": 1600,
         "tags": [
           "combinatorics",
           "math"
@@ -153,6 +159,7 @@
         "type": "codeforces",
         "id": "1795C",
         "name": "Tea Tasting",
+        "rating": 1500,
         "tags": [
           "binary search",
           "data structures",
@@ -179,6 +186,7 @@
         "type": "codeforces",
         "id": "1795B",
         "name": "Ideal Point",
+        "rating": 900,
         "tags": [
           "brute force",
           "geometry",
@@ -205,6 +213,7 @@
         "type": "codeforces",
         "id": "1795A",
         "name": "Two Towers",
+        "rating": 800,
         "tags": [
           "brute force",
           "implementation",
