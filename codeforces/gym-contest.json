@@ -15771,7 +15771,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2021-2022 ACM-ICPC East Central North America Regional Contest (ECNA 2021)",
+    "name": "2021-2022 ICPC East Central North America Regional Contest (ECNA 2021)",
     "startTime": 1645887600,
     "duration": 18000,
     "participantNumber": 0,
@@ -15779,5 +15779,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104196",
     "standingsUrl": "https://codeforces.com/gym/104196/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Отбор на ВКОШП.Junior 18-02-23",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104199,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104199",
+    "standingsUrl": "https://codeforces.com/gym/104199/standings"
   }
 ]
