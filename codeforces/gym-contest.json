@@ -15832,5 +15832,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104221",
     "standingsUrl": "https://codeforces.com/gym/104221/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "European Girls Olympiad in Informatics 2022. Day 1",
+    "startTime": 1678191600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104229,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104229",
+    "standingsUrl": "https://codeforces.com/gym/104229/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "European Girls Olympiad in Informatics 2022. Day 2",
+    "startTime": 1678181160,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104230,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104230",
+    "standingsUrl": "https://codeforces.com/gym/104230/standings"
   }
 ]
