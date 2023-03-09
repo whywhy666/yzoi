@@ -6,6 +6,215 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 196668272,
+      "creationTime": 1678370671,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -469112976
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801E",
+        "name": "Gasoline prices",
+        "tags": [
+          "data structures",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196668272"
+    },
+    {
+      "type": "codeforces",
+      "id": 196654847,
+      "creationTime": 1678364695,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1678354500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801E",
+        "name": "Gasoline prices",
+        "tags": [
+          "data structures",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196654847"
+    },
+    {
+      "type": "codeforces",
+      "id": 196646173,
+      "creationTime": 1678363073,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1678354500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801E",
+        "name": "Gasoline prices",
+        "tags": [
+          "data structures",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196646173"
+    },
+    {
+      "type": "codeforces",
+      "id": 196619025,
+      "creationTime": 1678357692,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1678354500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801F",
+        "name": "Another n-dimensional chocolate bar",
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196619025"
+    },
+    {
+      "type": "codeforces",
+      "id": 196612736,
+      "creationTime": 1678356500,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1678354500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801D",
+        "name": "The way home",
+        "tags": [
+          "dp",
+          "graphs",
+          "shortest paths",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196612736"
+    },
+    {
+      "type": "codeforces",
+      "id": 196605520,
+      "creationTime": 1678355385,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1678354500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801C",
+        "name": "Music Festival",
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196605520"
+    },
+    {
+      "type": "codeforces",
+      "id": 196602391,
+      "creationTime": 1678354983,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1678354500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801B",
+        "name": "Buying gifts",
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196602391"
+    },
+    {
+      "type": "codeforces",
+      "id": 196601416,
+      "creationTime": 1678354725,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1678354500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1801A",
+        "name": "The Very Beautiful Blanket",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1801/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1801/submission/196601416"
+    },
+    {
+      "type": "codeforces",
       "id": 193868249,
       "creationTime": 1676560495,
       "language": "GNU C++20 (64)",
@@ -110530,7 +110739,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3803,
+    "rating": 3658,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
