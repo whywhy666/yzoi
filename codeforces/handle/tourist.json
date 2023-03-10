@@ -23,7 +23,9 @@
         "name": "Gasoline prices",
         "tags": [
           "data structures",
+          "divide and conquer",
           "dsu",
+          "hashing",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/E"
@@ -49,7 +51,9 @@
         "name": "Gasoline prices",
         "tags": [
           "data structures",
+          "divide and conquer",
           "dsu",
+          "hashing",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/E"
@@ -75,7 +79,9 @@
         "name": "Gasoline prices",
         "tags": [
           "data structures",
+          "divide and conquer",
           "dsu",
+          "hashing",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/E"
@@ -101,6 +107,8 @@
         "name": "Another n-dimensional chocolate bar",
         "tags": [
           "dp",
+          "math",
+          "meet-in-the-middle",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1801/problem/F"
@@ -127,6 +135,7 @@
         "tags": [
           "dp",
           "graphs",
+          "greedy",
           "shortest paths",
           "sortings"
         ],
@@ -152,6 +161,7 @@
         "id": "1801C",
         "name": "Music Festival",
         "tags": [
+          "binary search",
           "data structures",
           "dp",
           "greedy",

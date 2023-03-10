@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1678396245,
+  "updateTime": 1678482764,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 196668272,
-            "pid": "1801E",
-            "name": "Gasoline prices",
-            "verdict": "OK",
-            "creationTime": 1678370671
-          },
-          {
-            "platform": "codeforces",
-            "id": 196654847,
-            "pid": "1801E",
-            "name": "Gasoline prices",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1678364695
-          },
-          {
-            "platform": "codeforces",
-            "id": 196646173,
-            "pid": "1801E",
-            "name": "Gasoline prices",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1678363073
-          },
-          {
-            "platform": "codeforces",
-            "id": 196619025,
-            "pid": "1801F",
-            "name": "Another n-dimensional chocolate bar",
-            "verdict": "OK",
-            "creationTime": 1678357692
-          },
-          {
-            "platform": "codeforces",
-            "id": 196612736,
-            "pid": "1801D",
-            "name": "The way home",
-            "verdict": "OK",
-            "creationTime": 1678356500
-          },
-          {
-            "platform": "codeforces",
-            "id": 196605520,
-            "pid": "1801C",
-            "name": "Music Festival",
-            "verdict": "OK",
-            "creationTime": 1678355385
-          },
-          {
-            "platform": "codeforces",
-            "id": 196602391,
-            "pid": "1801B",
-            "name": "Buying gifts",
-            "verdict": "OK",
-            "creationTime": 1678354983
-          },
-          {
-            "platform": "codeforces",
-            "id": 196601416,
-            "pid": "1801A",
-            "name": "The Very Beautiful Blanket",
-            "verdict": "OK",
-            "creationTime": 1678354725
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f2562a5076a167e41564592adaacd663ddaa13b0"
+  "ref": "43f037138ae7cc2b9eb5bddfc837591f2c474d54"
 }
