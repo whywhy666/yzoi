@@ -15864,5 +15864,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104235",
     "standingsUrl": "https://codeforces.com/gym/104235/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2023, Oleksandr Kulkov Contest 3",
+    "startTime": 1676797200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104234,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104234",
+    "standingsUrl": "https://codeforces.com/gym/104234/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Harker Programming Invitational 2023 Novice",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104237,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104237",
+    "standingsUrl": "https://codeforces.com/gym/104237/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Harker Programming Invitational 2023 Advanced",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104236,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104236",
+    "standingsUrl": "https://codeforces.com/gym/104236/standings"
   }
 ]
