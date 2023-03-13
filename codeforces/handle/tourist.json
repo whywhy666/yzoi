@@ -100,6 +100,7 @@
         "name": "Routing",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
           "graphs"
         ],
@@ -125,6 +126,8 @@
         "id": "1804D",
         "name": "Accommodation",
         "tags": [
+          "constructive algorithms",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/D"
@@ -177,7 +180,8 @@
         "name": "Vaccination",
         "tags": [
           "greedy",
-          "implementation"
+          "implementation",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/B"
       },
@@ -110951,7 +110955,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3658,
+    "rating": 3706,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

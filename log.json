@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1678655373,
+  "updateTime": 1678741814,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 197116479,
-            "pid": "1804G",
-            "name": "Flow Control",
-            "verdict": "OK",
-            "creationTime": 1678637071
-          },
-          {
-            "platform": "codeforces",
-            "id": 197115167,
-            "pid": "1804G",
-            "name": "Flow Control",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1678636876
-          },
-          {
-            "platform": "codeforces",
-            "id": 197105349,
-            "pid": "1804F",
-            "name": "Approximate Diameter",
-            "verdict": "OK",
-            "creationTime": 1678635519
-          },
-          {
-            "platform": "codeforces",
-            "id": 197085286,
-            "pid": "1804E",
-            "name": "Routing",
-            "verdict": "OK",
-            "creationTime": 1678633001
-          },
-          {
-            "platform": "codeforces",
-            "id": 197080440,
-            "pid": "1804D",
-            "name": "Accommodation",
-            "verdict": "OK",
-            "creationTime": 1678632479
-          },
-          {
-            "platform": "codeforces",
-            "id": 197076920,
-            "pid": "1804C",
-            "name": "Pull Your Luck",
-            "verdict": "OK",
-            "creationTime": 1678632170
-          },
-          {
-            "platform": "codeforces",
-            "id": 197075248,
-            "pid": "1804B",
-            "name": "Vaccination",
-            "verdict": "OK",
-            "creationTime": 1678632021
-          },
-          {
-            "platform": "codeforces",
-            "id": 197073942,
-            "pid": "1804A",
-            "name": "Lame King",
-            "verdict": "OK",
-            "creationTime": 1678631904
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5a124d38fd945a8b19ebcb53350af4a301efda3c"
+  "ref": "653849bb4f86b3d7fc175a6dfb8af8d43657fede"
 }
