@@ -101,6 +101,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "dfs and similar",
           "dp",
           "graphs"
         ],
@@ -126,9 +127,9 @@
         "id": "1804D",
         "name": "Accommodation",
         "tags": [
-          "constructive algorithms",
-          "dp",
-          "greedy"
+          "brute force",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/D"
       },
@@ -229,6 +230,7 @@
         "type": "codeforces",
         "id": "1801E",
         "name": "Gasoline prices",
+        "rating": 3000,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -257,6 +259,7 @@
         "type": "codeforces",
         "id": "1801E",
         "name": "Gasoline prices",
+        "rating": 3000,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -285,6 +288,7 @@
         "type": "codeforces",
         "id": "1801E",
         "name": "Gasoline prices",
+        "rating": 3000,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -313,6 +317,7 @@
         "type": "codeforces",
         "id": "1801F",
         "name": "Another n-dimensional chocolate bar",
+        "rating": 2700,
         "tags": [
           "dp",
           "math",
@@ -339,6 +344,7 @@
         "type": "codeforces",
         "id": "1801D",
         "name": "The way home",
+        "rating": 2100,
         "tags": [
           "dp",
           "graphs",
@@ -367,6 +373,7 @@
         "type": "codeforces",
         "id": "1801C",
         "name": "Music Festival",
+        "rating": 1900,
         "tags": [
           "binary search",
           "data structures",
@@ -395,6 +402,7 @@
         "type": "codeforces",
         "id": "1801B",
         "name": "Buying gifts",
+        "rating": 1800,
         "tags": [
           "data structures",
           "greedy",
@@ -421,6 +429,7 @@
         "type": "codeforces",
         "id": "1801A",
         "name": "The Very Beautiful Blanket",
+        "rating": 1600,
         "tags": [
           "bitmasks",
           "constructive algorithms"
