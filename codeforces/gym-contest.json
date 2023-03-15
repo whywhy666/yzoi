@@ -15905,5 +15905,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104239",
     "standingsUrl": "https://codeforces.com/gym/104239/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Открытая олимпиада школьников по программированию 2022-23, первый тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104243,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104243",
+    "standingsUrl": "https://codeforces.com/gym/104243/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Открытая олимпиада школьников по программированию 2022-23, второй тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104244,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104244",
+    "standingsUrl": "https://codeforces.com/gym/104244/standings"
   }
 ]

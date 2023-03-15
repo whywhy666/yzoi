@@ -23,6 +23,7 @@
         "name": "Flow Control",
         "tags": [
           "data structures",
+          "dsu",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/G"
@@ -48,6 +49,7 @@
         "name": "Flow Control",
         "tags": [
           "data structures",
+          "dsu",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/G"
@@ -103,7 +105,8 @@
           "brute force",
           "dfs and similar",
           "dp",
-          "graphs"
+          "graphs",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/E"
       },
@@ -346,6 +349,9 @@
         "name": "The way home",
         "rating": 2100,
         "tags": [
+          "binary search",
+          "data structures",
+          "dfs and similar",
           "dp",
           "graphs",
           "greedy",
