@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1804G",
         "name": "Flow Control",
+        "rating": 3500,
         "tags": [
           "data structures",
           "dsu",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1804G",
         "name": "Flow Control",
+        "rating": 3500,
         "tags": [
           "data structures",
           "dsu",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "1804F",
         "name": "Approximate Diameter",
+        "rating": 2700,
         "tags": [
           "binary search",
           "divide and conquer",
@@ -100,6 +103,7 @@
         "type": "codeforces",
         "id": "1804E",
         "name": "Routing",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "brute force",
@@ -128,8 +132,10 @@
         "type": "codeforces",
         "id": "1804D",
         "name": "Accommodation",
+        "rating": 2000,
         "tags": [
           "brute force",
+          "dp",
           "greedy",
           "implementation"
         ],
@@ -154,6 +160,7 @@
         "type": "codeforces",
         "id": "1804C",
         "name": "Pull Your Luck",
+        "rating": 1500,
         "tags": [
           "brute force",
           "greedy",
@@ -181,10 +188,10 @@
         "type": "codeforces",
         "id": "1804B",
         "name": "Vaccination",
+        "rating": 1000,
         "tags": [
           "greedy",
-          "implementation",
-          "two pointers"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1804/problem/B"
       },
@@ -207,6 +214,7 @@
         "type": "codeforces",
         "id": "1804A",
         "name": "Lame King",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
