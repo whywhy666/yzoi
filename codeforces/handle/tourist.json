@@ -6,6 +6,177 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 199997681,
+      "creationTime": 1680277298,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1680273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1810F",
+        "name": "M-tree",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1810/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1810/submission/199997681"
+    },
+    {
+      "type": "codeforces",
+      "id": 199996522,
+      "creationTime": 1680277128,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1680273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1810F",
+        "name": "M-tree",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1810/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1810/submission/199996522"
+    },
+    {
+      "type": "codeforces",
+      "id": 199968155,
+      "creationTime": 1680273974,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1680273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1810D",
+        "name": "Climbing the Tree",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1810/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1810/submission/199968155"
+    },
+    {
+      "type": "codeforces",
+      "id": 199963271,
+      "creationTime": 1680273629,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1680273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1810C",
+        "name": "Make It Permutation",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1810/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1810/submission/199963271"
+    },
+    {
+      "type": "codeforces",
+      "id": 199960286,
+      "creationTime": 1680273495,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1680273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1810B",
+        "name": "Candies",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1810/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1810/submission/199960286"
+    },
+    {
+      "type": "codeforces",
+      "id": 199957703,
+      "creationTime": 1680273385,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1680273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1810A",
+        "name": "Beautiful Sequence",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1810/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1810/submission/199957703"
+    },
+    {
+      "type": "codeforces",
+      "id": 199957558,
+      "creationTime": 1680273348,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1680273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1810A",
+        "name": "Beautiful Sequence",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1810/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1810/submission/199957558"
+    },
+    {
+      "type": "codeforces",
       "id": 197116479,
       "creationTime": 1678637071,
       "language": "GNU C++20 (64)",
@@ -110977,7 +111148,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3706,
+    "rating": 3487,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
