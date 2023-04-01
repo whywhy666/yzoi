@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1680296871,
+  "updateTime": 1680383295,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 199997681,
-            "pid": "1810F",
-            "name": "M-tree",
-            "verdict": "OK",
-            "creationTime": 1680277298
-          },
-          {
-            "platform": "codeforces",
-            "id": 199996522,
-            "pid": "1810F",
-            "name": "M-tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1680277128
-          },
-          {
-            "platform": "codeforces",
-            "id": 199968155,
-            "pid": "1810D",
-            "name": "Climbing the Tree",
-            "verdict": "OK",
-            "creationTime": 1680273974
-          },
-          {
-            "platform": "codeforces",
-            "id": 199963271,
-            "pid": "1810C",
-            "name": "Make It Permutation",
-            "verdict": "OK",
-            "creationTime": 1680273629
-          },
-          {
-            "platform": "codeforces",
-            "id": 199960286,
-            "pid": "1810B",
-            "name": "Candies",
-            "verdict": "OK",
-            "creationTime": 1680273495
-          },
-          {
-            "platform": "codeforces",
-            "id": 199957703,
-            "pid": "1810A",
-            "name": "Beautiful Sequence",
-            "verdict": "OK",
-            "creationTime": 1680273385
-          },
-          {
-            "platform": "codeforces",
-            "id": 199957558,
-            "pid": "1810A",
-            "name": "Beautiful Sequence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1680273348
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7c3973467336de98ab48fd4a713d0032918919cf"
+  "ref": "c0ae7538f03018561b40e0bd209329be7120141e"
 }

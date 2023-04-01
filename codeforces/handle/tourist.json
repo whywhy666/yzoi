@@ -21,8 +21,11 @@
         "type": "codeforces",
         "id": "1810F",
         "name": "M-tree",
+        "rating": 2800,
         "tags": [
-          "data structures"
+          "data structures",
+          "math",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1810/problem/F"
       },
@@ -45,8 +48,11 @@
         "type": "codeforces",
         "id": "1810F",
         "name": "M-tree",
+        "rating": 2800,
         "tags": [
-          "data structures"
+          "data structures",
+          "math",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1810/problem/F"
       },
@@ -69,7 +75,9 @@
         "type": "codeforces",
         "id": "1810D",
         "name": "Climbing the Tree",
+        "rating": 1700,
         "tags": [
+          "binary search",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1810/problem/D"
@@ -93,7 +101,9 @@
         "type": "codeforces",
         "id": "1810C",
         "name": "Make It Permutation",
+        "rating": 1300,
         "tags": [
+          "brute force",
           "greedy",
           "sortings"
         ],
@@ -118,10 +128,11 @@
         "type": "codeforces",
         "id": "1810B",
         "name": "Candies",
+        "rating": 800,
         "tags": [
-          "bitmasks",
           "constructive algorithms",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1810/problem/B"
       },
@@ -144,8 +155,10 @@
         "type": "codeforces",
         "id": "1810A",
         "name": "Beautiful Sequence",
+        "rating": 800,
         "tags": [
-          "brute force"
+          "brute force",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1810/problem/A"
       },
@@ -168,8 +181,10 @@
         "type": "codeforces",
         "id": "1810A",
         "name": "Beautiful Sequence",
+        "rating": 800,
         "tags": [
-          "brute force"
+          "brute force",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1810/problem/A"
       },
