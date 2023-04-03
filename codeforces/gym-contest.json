@@ -16063,5 +16063,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104279",
     "standingsUrl": "https://codeforces.com/gym/104279/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 20th Hangzhou City University Programming Contest",
+    "startTime": 1680325200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104282,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104282",
+    "standingsUrl": "https://codeforces.com/gym/104282/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "PCCA Winter Camp Contest 2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104285,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104285",
+    "standingsUrl": "https://codeforces.com/gym/104285/standings"
   }
 ]
