@@ -16094,5 +16094,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104287",
     "standingsUrl": "https://codeforces.com/gym/104287/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 ICPC World Finals",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104288,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104288",
+    "standingsUrl": "https://codeforces.com/gym/104288/standings"
   }
 ]
