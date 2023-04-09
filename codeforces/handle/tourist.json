@@ -6,6 +6,169 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 201555670,
+      "creationTime": 1681058520,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681051500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1815F",
+        "name": "OH NO1 (-2-3-4)",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1815/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1815/submission/201555670"
+    },
+    {
+      "type": "codeforces",
+      "id": 201530172,
+      "creationTime": 1681055207,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681051500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1815E",
+        "name": "Bosco and Particle",
+        "tags": [
+          "dp",
+          "math",
+          "number theory",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1815/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1815/submission/201530172"
+    },
+    {
+      "type": "codeforces",
+      "id": 201513083,
+      "creationTime": 1681053751,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681051500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1815D",
+        "name": "XOR Counting",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1815/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1815/submission/201513083"
+    },
+    {
+      "type": "codeforces",
+      "id": 201497483,
+      "creationTime": 1681052712,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681051500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1815C",
+        "name": "Between",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1815/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1815/submission/201497483"
+    },
+    {
+      "type": "codeforces",
+      "id": 201489690,
+      "creationTime": 1681052264,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681051500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1815B",
+        "name": "Sum Graph",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "implementation",
+          "interactive",
+          "math",
+          "shortest paths",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1815/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1815/submission/201489690"
+    },
+    {
+      "type": "codeforces",
+      "id": 201483243,
+      "creationTime": 1681051886,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681051500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1815A",
+        "name": "Ian and Array Sorting",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1815/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1815/submission/201483243"
+    },
+    {
+      "type": "codeforces",
       "id": 199997681,
       "creationTime": 1680277298,
       "language": "GNU C++20 (64)",
