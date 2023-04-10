@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1681074500,
+  "updateTime": 1681160929,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 201555670,
-            "pid": "1815F",
-            "name": "OH NO1 (-2-3-4)",
-            "verdict": "OK",
-            "creationTime": 1681058520
-          },
-          {
-            "platform": "codeforces",
-            "id": 201530172,
-            "pid": "1815E",
-            "name": "Bosco and Particle",
-            "verdict": "OK",
-            "creationTime": 1681055207
-          },
-          {
-            "platform": "codeforces",
-            "id": 201513083,
-            "pid": "1815D",
-            "name": "XOR Counting",
-            "verdict": "OK",
-            "creationTime": 1681053751
-          },
-          {
-            "platform": "codeforces",
-            "id": 201497483,
-            "pid": "1815C",
-            "name": "Between",
-            "verdict": "OK",
-            "creationTime": 1681052712
-          },
-          {
-            "platform": "codeforces",
-            "id": 201489690,
-            "pid": "1815B",
-            "name": "Sum Graph",
-            "verdict": "OK",
-            "creationTime": 1681052264
-          },
-          {
-            "platform": "codeforces",
-            "id": 201483243,
-            "pid": "1815A",
-            "name": "Ian and Array Sorting",
-            "verdict": "OK",
-            "creationTime": 1681051886
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9526cc2e9fbecf8e21e42fae1dc448eeab35857f"
+  "ref": "07aa95aa81c92e52d9663a40a3482f107712e58b"
 }

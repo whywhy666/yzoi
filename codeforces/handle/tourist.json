@@ -21,10 +21,12 @@
         "type": "codeforces",
         "id": "1815F",
         "name": "OH NO1 (-2-3-4)",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "graphs",
-          "math"
+          "math",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1815/problem/F"
       },
@@ -47,6 +49,7 @@
         "type": "codeforces",
         "id": "1815E",
         "name": "Bosco and Particle",
+        "rating": 3100,
         "tags": [
           "dp",
           "math",
@@ -74,6 +77,7 @@
         "type": "codeforces",
         "id": "1815D",
         "name": "XOR Counting",
+        "rating": 2600,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -101,12 +105,12 @@
         "type": "codeforces",
         "id": "1815C",
         "name": "Between",
+        "rating": 2200,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
           "graphs",
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1815/problem/C"
       },
@@ -129,12 +133,12 @@
         "type": "codeforces",
         "id": "1815B",
         "name": "Sum Graph",
+        "rating": 2000,
         "tags": [
           "constructive algorithms",
           "graphs",
           "implementation",
           "interactive",
-          "math",
           "shortest paths",
           "trees"
         ],
@@ -159,6 +163,7 @@
         "type": "codeforces",
         "id": "1815A",
         "name": "Ian and Array Sorting",
+        "rating": 1300,
         "tags": [
           "greedy",
           "math"
@@ -111328,7 +111333,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3486,
+    "rating": 3635,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
