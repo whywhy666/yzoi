@@ -1,9 +1,64 @@
 {
   "version": "0.1.16",
-  "updateTime": 1681506524,
+  "updateTime": 1681592908,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 202236074,
+            "pid": "1819F",
+            "name": "Willy-nilly, Crack, Into Release!",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681560174
+          },
+          {
+            "platform": "codeforces",
+            "id": 202235994,
+            "pid": "1819F",
+            "name": "Willy-nilly, Crack, Into Release!",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1681560149
+          },
+          {
+            "platform": "codeforces",
+            "id": 202198559,
+            "pid": "1819D",
+            "name": "Misha and Apples",
+            "verdict": "OK",
+            "creationTime": 1681552025
+          },
+          {
+            "platform": "codeforces",
+            "id": 202190230,
+            "pid": "1819C",
+            "name": "The Fox and the Complete Tree Traversal",
+            "verdict": "OK",
+            "creationTime": 1681551002
+          },
+          {
+            "platform": "codeforces",
+            "id": 202186520,
+            "pid": "1819B",
+            "name": "The Butcher",
+            "verdict": "OK",
+            "creationTime": 1681550540
+          },
+          {
+            "platform": "codeforces",
+            "id": 202180590,
+            "pid": "1819A",
+            "name": "Constructive Problem",
+            "verdict": "OK",
+            "creationTime": 1681549775
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fa50151521ec4c82227f076a9d24163a8c2db037"
+  "ref": "04c9315560f44911d47aee09c59b7460293ab22e"
 }

@@ -6,6 +6,161 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 202236074,
+      "creationTime": 1681560174,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -465923473
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1819F",
+        "name": "Willy-nilly, Crack, Into Release!",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1819/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1819/submission/202236074"
+    },
+    {
+      "type": "codeforces",
+      "id": 202235994,
+      "creationTime": 1681560149,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -465923498
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1819F",
+        "name": "Willy-nilly, Crack, Into Release!",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1819/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1819/submission/202235994"
+    },
+    {
+      "type": "codeforces",
+      "id": 202198559,
+      "creationTime": 1681552025,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681549500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1819D",
+        "name": "Misha and Apples",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1819/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1819/submission/202198559"
+    },
+    {
+      "type": "codeforces",
+      "id": 202190230,
+      "creationTime": 1681551002,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681549500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1819C",
+        "name": "The Fox and the Complete Tree Traversal",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1819/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1819/submission/202190230"
+    },
+    {
+      "type": "codeforces",
+      "id": 202186520,
+      "creationTime": 1681550540,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681549500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1819B",
+        "name": "The Butcher",
+        "tags": [
+          "data structures",
+          "geometry",
+          "greedy",
+          "implementation",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1819/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1819/submission/202186520"
+    },
+    {
+      "type": "codeforces",
+      "id": 202180590,
+      "creationTime": 1681549775,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1681549500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1819A",
+        "name": "Constructive Problem",
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1819/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1819/submission/202180590"
+    },
+    {
+      "type": "codeforces",
       "id": 201555670,
       "creationTime": 1681058520,
       "language": "GNU C++20 (64)",
@@ -111333,7 +111488,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3635,
+    "rating": 3588,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
