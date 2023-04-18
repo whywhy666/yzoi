@@ -16275,5 +16275,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104316",
     "standingsUrl": "https://codeforces.com/gym/104316/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023HEUPC",
+    "startTime": 1681606800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104322,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104322",
+    "standingsUrl": "https://codeforces.com/gym/104322/standings"
   }
 ]
