@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1819F",
         "name": "Willy-nilly, Crack, Into Release!",
+        "rating": 3500,
         "tags": [
           "data structures",
           "dp"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1819F",
         "name": "Willy-nilly, Crack, Into Release!",
+        "rating": 3500,
         "tags": [
           "data structures",
           "dp"
@@ -71,6 +73,7 @@
         "type": "codeforces",
         "id": "1819D",
         "name": "Misha and Apples",
+        "rating": 2800,
         "tags": [
           "brute force",
           "data structures",
@@ -98,6 +101,7 @@
         "type": "codeforces",
         "id": "1819C",
         "name": "The Fox and the Complete Tree Traversal",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -126,7 +130,9 @@
         "type": "codeforces",
         "id": "1819B",
         "name": "The Butcher",
+        "rating": 1900,
         "tags": [
+          "geometry",
           "greedy",
           "implementation",
           "sortings",
@@ -153,6 +159,7 @@
         "type": "codeforces",
         "id": "1819A",
         "name": "Constructive Problem",
+        "rating": 1300,
         "tags": [
           "brute force",
           "greedy",
