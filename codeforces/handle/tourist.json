@@ -6,6 +6,184 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 203961086,
+      "creationTime": 1682789221,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -464694426
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1817D",
+        "name": "Toy Machine",
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1817/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1817/submission/203961086"
+    },
+    {
+      "type": "codeforces",
+      "id": 203943737,
+      "creationTime": 1682783912,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1817E",
+        "name": "Half-sum",
+        "tags": [
+          "divide and conquer",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1817/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1817/submission/203943737"
+    },
+    {
+      "type": "codeforces",
+      "id": 203929205,
+      "creationTime": 1682781278,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1817C",
+        "name": "Similar Polynomials",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1817/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1817/submission/203929205"
+    },
+    {
+      "type": "codeforces",
+      "id": 203926165,
+      "creationTime": 1682780806,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1817C",
+        "name": "Similar Polynomials",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1817/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1817/submission/203926165"
+    },
+    {
+      "type": "codeforces",
+      "id": 203919631,
+      "creationTime": 1682779925,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1817B",
+        "name": "Fish Graph",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1817/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1817/submission/203919631"
+    },
+    {
+      "type": "codeforces",
+      "id": 203917796,
+      "creationTime": 1682779655,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1817A",
+        "name": "Almost Increasing Subsequence",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1817/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1817/submission/203917796"
+    },
+    {
+      "type": "codeforces",
+      "id": 203916180,
+      "creationTime": 1682779407,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1682778900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1817B",
+        "name": "Fish Graph",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1817/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1817/submission/203916180"
+    },
+    {
+      "type": "codeforces",
       "id": 202236074,
       "creationTime": 1681560174,
       "language": "GNU C++20 (64)",
@@ -111497,7 +111675,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3588,
+    "rating": 3662,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
