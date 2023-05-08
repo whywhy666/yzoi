@@ -16439,6 +16439,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2023 Xian Jiaotong University Programming Contest",
+    "startTime": 1683435600,
+    "duration": 18600,
+    "participantNumber": 0,
+    "id": 104355,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104355",
+    "standingsUrl": "https://codeforces.com/gym/104355/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2023 CCPC Henan Provincial Collegiate Programming Contest",
     "startTime": 1683424800,
     "duration": 18000,
