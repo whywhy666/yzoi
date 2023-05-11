@@ -16458,5 +16458,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104354",
     "standingsUrl": "https://codeforces.com/gym/104354/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Всероссийская олимпиада по информатике им. Мстислава Келдыша - 2022",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104359,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104359",
+    "standingsUrl": "https://codeforces.com/gym/104359/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Всероссийская олимпиада по информатике им. Мстислава Келдыша - 2020",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104361,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104361",
+    "standingsUrl": "https://codeforces.com/gym/104361/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Всероссийская олимпиада по информатике им. Мстислава Келдыша - 2021",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104360,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104360",
+    "standingsUrl": "https://codeforces.com/gym/104360/standings"
   }
 ]
