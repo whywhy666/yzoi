@@ -6,6 +6,208 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 205596162,
+      "creationTime": 1683906205,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832F",
+        "name": "Zombies",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205596162"
+    },
+    {
+      "type": "codeforces",
+      "id": 205595830,
+      "creationTime": 1683906156,
+      "language": "GNU C++20 (64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832F",
+        "name": "Zombies",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205595830"
+    },
+    {
+      "type": "codeforces",
+      "id": 205573248,
+      "creationTime": 1683903721,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832D2",
+        "name": "Red-Blue Operations (Hard Version)",
+        "tags": [
+          "binary search",
+          "greedy",
+          "math",
+          "math",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205573248"
+    },
+    {
+      "type": "codeforces",
+      "id": 205565935,
+      "creationTime": 1683903129,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832D1",
+        "name": "Red-Blue Operations (Easy Version)",
+        "tags": [
+          "binary search",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205565935"
+    },
+    {
+      "type": "codeforces",
+      "id": 205562791,
+      "creationTime": 1683902908,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832E",
+        "name": "Combinatorics Problem",
+        "tags": [
+          "dp",
+          "fft"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205562791"
+    },
+    {
+      "type": "codeforces",
+      "id": 205552484,
+      "creationTime": 1683902362,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832C",
+        "name": "Contrast Value",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205552484"
+    },
+    {
+      "type": "codeforces",
+      "id": 205549640,
+      "creationTime": 1683902256,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832B",
+        "name": "Maximum Sum",
+        "tags": [
+          "brute force",
+          "dp",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205549640"
+    },
+    {
+      "type": "codeforces",
+      "id": 205548635,
+      "creationTime": 1683902184,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1683902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1832A",
+        "name": "New Palindrome",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1832/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1832/submission/205548635"
+    },
+    {
+      "type": "codeforces",
       "id": 203961086,
       "creationTime": 1682789221,
       "language": "GNU C++20 (64)",
