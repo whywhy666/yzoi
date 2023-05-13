@@ -9,7 +9,7 @@
       "id": 205596162,
       "creationTime": 1683906205,
       "language": "GNU C++20 (64)",
-      "verdict": "OK",
+      "verdict": "CHALLENGED",
       "author": {
         "members": [
           "tourist"
@@ -22,6 +22,7 @@
         "id": "1832F",
         "name": "Zombies",
         "tags": [
+          "binary search",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/F"
@@ -46,6 +47,7 @@
         "id": "1832F",
         "name": "Zombies",
         "tags": [
+          "binary search",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/F"
@@ -72,8 +74,7 @@
         "tags": [
           "binary search",
           "greedy",
-          "math",
-          "math",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/D2"
@@ -100,6 +101,7 @@
         "tags": [
           "binary search",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/D1"
@@ -124,8 +126,10 @@
         "id": "1832E",
         "name": "Combinatorics Problem",
         "tags": [
+          "brute force",
+          "combinatorics",
           "dp",
-          "fft"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/E"
       },
@@ -150,7 +154,8 @@
         "name": "Contrast Value",
         "tags": [
           "greedy",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/C"
       },
@@ -174,8 +179,7 @@
         "id": "1832B",
         "name": "Maximum Sum",
         "tags": [
-          "brute force",
-          "dp",
+          "greedy",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/B"
