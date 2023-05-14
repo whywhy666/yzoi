@@ -6,6 +6,218 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 205895989,
+      "creationTime": 1684080973,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827E",
+        "name": "Bus Routes",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205895989"
+    },
+    {
+      "type": "codeforces",
+      "id": 205880693,
+      "creationTime": 1684078163,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827C",
+        "name": "Palindrome Partition",
+        "tags": [
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205880693"
+    },
+    {
+      "type": "codeforces",
+      "id": 205877520,
+      "creationTime": 1684077723,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827D",
+        "name": "Two Centroids",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205877520"
+    },
+    {
+      "type": "codeforces",
+      "id": 205876071,
+      "creationTime": 1684077536,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827D",
+        "name": "Two Centroids",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205876071"
+    },
+    {
+      "type": "codeforces",
+      "id": 205864575,
+      "creationTime": 1684076324,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827C",
+        "name": "Palindrome Partition",
+        "tags": [
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205864575"
+    },
+    {
+      "type": "codeforces",
+      "id": 205855785,
+      "creationTime": 1684075661,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827B1",
+        "name": "Range Sorting (Easy Version)",
+        "tags": [
+          "binary search",
+          "dp",
+          "greedy",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205855785"
+    },
+    {
+      "type": "codeforces",
+      "id": 205854446,
+      "creationTime": 1684075615,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827B2",
+        "name": "Range Sorting (Hard Version)",
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/B2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205854446"
+    },
+    {
+      "type": "codeforces",
+      "id": 205843511,
+      "creationTime": 1684075013,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1684074900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1827A",
+        "name": "Counting Orders",
+        "tags": [
+          "combinatorics",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1827/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1827/submission/205843511"
+    },
+    {
+      "type": "codeforces",
       "id": 205596162,
       "creationTime": 1683906205,
       "language": "GNU C++20 (64)",
@@ -73,9 +285,11 @@
         "name": "Red-Blue Operations (Hard Version)",
         "tags": [
           "binary search",
+          "combinatorics",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/D2"
       },
@@ -111892,7 +112106,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3662,
+    "rating": 3622,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
