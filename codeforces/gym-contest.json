@@ -16488,5 +16488,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104360",
     "standingsUrl": "https://codeforces.com/gym/104360/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 18th Heilongjiang Provincial Collegiate Programming Contest",
+    "startTime": 1683939600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104363,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104363",
+    "standingsUrl": "https://codeforces.com/gym/104363/standings"
   }
 ]
