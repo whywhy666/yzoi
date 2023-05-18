@@ -172,6 +172,7 @@
           "dp",
           "dsu",
           "greedy",
+          "trees",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1827/problem/B1"
@@ -416,7 +417,8 @@
         "rating": 1100,
         "tags": [
           "brute force",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1832/problem/B"
       },
