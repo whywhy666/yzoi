@@ -16584,5 +16584,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104386",
     "standingsUrl": "https://codeforces.com/gym/104386/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Masters Mexico LATAM 2023",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104393,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104393",
+    "standingsUrl": "https://codeforces.com/gym/104393/standings"
   }
 ]
