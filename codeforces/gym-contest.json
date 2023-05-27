@@ -16586,6 +16586,17 @@
     "standingsUrl": "https://codeforces.com/gym/104386/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "The Unofficial Mirror Contest of 19th Thailand Olympiad in Informatics Day 1",
+    "startTime": 1685174700,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104390,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104390",
+    "standingsUrl": "https://codeforces.com/gym/104390/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "ICPC Masters Mexico LATAM 2023",
     "duration": 10800,
