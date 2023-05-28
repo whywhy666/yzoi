@@ -16513,6 +16513,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 2023 Guangdong Provincial Collegiate Programming Contest",
+    "startTime": 1684029600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104369,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104369",
+    "standingsUrl": "https://codeforces.com/gym/104369/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2021 ICPC Asia Macau Regional Contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -16587,6 +16598,17 @@
   },
   {
     "type": "codeforces/gym/ioi",
+    "name": "The Unofficial Mirror Contest of 19th Thailand Olympiad in Informatics Day 2",
+    "startTime": 1685261100,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104391,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104391",
+    "standingsUrl": "https://codeforces.com/gym/104391/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
     "name": "The Unofficial Mirror Contest of 19th Thailand Olympiad in Informatics Day 1",
     "startTime": 1685174700,
     "duration": 14400,
@@ -16605,5 +16627,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104393",
     "standingsUrl": "https://codeforces.com/gym/104393/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Cupertino Informatics Tournament",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104395,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104395",
+    "standingsUrl": "https://codeforces.com/gym/104395/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 21st UESTC Programming Contest Final",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104397,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104397",
+    "standingsUrl": "https://codeforces.com/gym/104397/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 Jiangsu Collegiate Programming Contest, 2023 National Invitational of CCPC (Hunan), The 13th Xiangtan Collegiate Programming Contest",
+    "startTime": 1685237400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104396,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104396",
+    "standingsUrl": "https://codeforces.com/gym/104396/standings"
   }
 ]

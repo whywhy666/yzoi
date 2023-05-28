@@ -6,6 +6,138 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 207621354,
+      "creationTime": 1685287368,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1685284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1830D",
+        "name": "Mex Tree",
+        "tags": [
+          "brute force",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1830/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1830/submission/207621354"
+    },
+    {
+      "type": "codeforces",
+      "id": 207603914,
+      "creationTime": 1685285872,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1685284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1830D",
+        "name": "Mex Tree",
+        "tags": [
+          "brute force",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1830/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1830/submission/207603914"
+    },
+    {
+      "type": "codeforces",
+      "id": 207600441,
+      "creationTime": 1685285626,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1685284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1830C",
+        "name": "Hyperregular Bracket Strings",
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "hashing",
+          "math",
+          "number theory",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1830/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1830/submission/207600441"
+    },
+    {
+      "type": "codeforces",
+      "id": 207596843,
+      "creationTime": 1685285397,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1685284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1830B",
+        "name": "The BOSS Can Count Pairs",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1830/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1830/submission/207596843"
+    },
+    {
+      "type": "codeforces",
+      "id": 207581917,
+      "creationTime": 1685284648,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1685284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1830A",
+        "name": "Copil Copac Draws Trees",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1830/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1830/submission/207581917"
+    },
+    {
+      "type": "codeforces",
       "id": 205895989,
       "creationTime": 1684080973,
       "language": "GNU C++20 (64)",
@@ -112131,7 +112263,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3622,
+    "rating": 3611,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
