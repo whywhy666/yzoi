@@ -77,7 +77,6 @@
           "combinatorics",
           "data structures",
           "hashing",
-          "math",
           "number theory",
           "sortings"
         ],
@@ -103,7 +102,9 @@
         "id": "1830B",
         "name": "The BOSS Can Count Pairs",
         "tags": [
+          "binary search",
           "brute force",
+          "data structures",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1830/problem/B"
@@ -130,6 +131,8 @@
         "tags": [
           "dfs and similar",
           "dp",
+          "graphs",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1830/problem/A"

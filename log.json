@@ -1,56 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1685308103,
+  "updateTime": 1685394531,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 207621354,
-            "pid": "1830D",
-            "name": "Mex Tree",
-            "verdict": "OK",
-            "creationTime": 1685287368
-          },
-          {
-            "platform": "codeforces",
-            "id": 207603914,
-            "pid": "1830D",
-            "name": "Mex Tree",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1685285872
-          },
-          {
-            "platform": "codeforces",
-            "id": 207600441,
-            "pid": "1830C",
-            "name": "Hyperregular Bracket Strings",
-            "verdict": "OK",
-            "creationTime": 1685285626
-          },
-          {
-            "platform": "codeforces",
-            "id": 207596843,
-            "pid": "1830B",
-            "name": "The BOSS Can Count Pairs",
-            "verdict": "OK",
-            "creationTime": 1685285397
-          },
-          {
-            "platform": "codeforces",
-            "id": 207581917,
-            "pid": "1830A",
-            "name": "Copil Copac Draws Trees",
-            "verdict": "OK",
-            "creationTime": 1685284648
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9f8c1cd73f20e560f3fe2f265ba7675d2e0d385c"
+  "ref": "72f86f65b9c95d486d05210c51666f5ad3d13160"
 }
