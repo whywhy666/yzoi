@@ -16722,5 +16722,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104420",
     "standingsUrl": "https://codeforces.com/gym/104420/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 Winter Petrozavodsk Camp, Day 2: GP of ainta",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104427,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104427",
+    "standingsUrl": "https://codeforces.com/gym/104427/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Syrian Private Universities Collegiate Programming Contest 2023",
+    "startTime": 1686384000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104426,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104426",
+    "standingsUrl": "https://codeforces.com/gym/104426/standings"
   }
 ]
