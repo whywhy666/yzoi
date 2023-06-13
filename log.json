@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1686604144,
+  "updateTime": 1686690534,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 209426567,
-            "pid": "1841F",
-            "name": "Monocarp and a Strategic Game",
-            "verdict": "OK",
-            "creationTime": 1686582795
-          },
-          {
-            "platform": "codeforces",
-            "id": 209414216,
-            "pid": "1841E",
-            "name": "Fill the Matrix",
-            "verdict": "OK",
-            "creationTime": 1686581920
-          },
-          {
-            "platform": "codeforces",
-            "id": 209405629,
-            "pid": "1841D",
-            "name": "Pairs of Segments",
-            "verdict": "OK",
-            "creationTime": 1686581443
-          },
-          {
-            "platform": "codeforces",
-            "id": 209396378,
-            "pid": "1841C",
-            "name": "Ranom Numbers",
-            "verdict": "OK",
-            "creationTime": 1686581049
-          },
-          {
-            "platform": "codeforces",
-            "id": 209391526,
-            "pid": "1841B",
-            "name": "Keep it Beautiful",
-            "verdict": "OK",
-            "creationTime": 1686580873
-          },
-          {
-            "platform": "codeforces",
-            "id": 209388896,
-            "pid": "1841A",
-            "name": "Game with Board",
-            "verdict": "OK",
-            "creationTime": 1686580715
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9f5c2fc43b5b005b643abbb67fb75178f7b4d1a5"
+  "ref": "73fdc8b35e2b0fc7a3f60125fe56781b63669d9a"
 }

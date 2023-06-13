@@ -24,7 +24,8 @@
         "tags": [
           "dp",
           "geometry",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/F"
       },
@@ -35,7 +36,7 @@
       "id": 209414216,
       "creationTime": 1686581920,
       "language": "GNU C++20 (64)",
-      "verdict": "OK",
+      "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
           "tourist"
@@ -48,11 +49,11 @@
         "id": "1841E",
         "name": "Fill the Matrix",
         "tags": [
-          "binary search",
           "data structures",
           "divide and conquer",
-          "dsu",
-          "greedy"
+          "greedy",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/E"
       },
@@ -79,7 +80,8 @@
           "data structures",
           "dp",
           "greedy",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/D"
       },
