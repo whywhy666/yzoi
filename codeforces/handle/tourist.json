@@ -22,7 +22,6 @@
         "id": "1841F",
         "name": "Monocarp and a Strategic Game",
         "tags": [
-          "dp",
           "geometry",
           "sortings",
           "two pointers"
@@ -49,11 +48,11 @@
         "id": "1841E",
         "name": "Fill the Matrix",
         "tags": [
+          "binary search",
           "data structures",
-          "divide and conquer",
           "greedy",
           "math",
-          "sortings"
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/E"
       },
