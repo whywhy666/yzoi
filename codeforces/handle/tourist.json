@@ -6,6 +6,32 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 209706350,
+      "creationTime": 1686780531,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -460703116
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1841E",
+        "name": "Fill the Matrix",
+        "tags": [
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1841/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1841/submission/209706350"
+    },
+    {
+      "type": "codeforces",
       "id": 209426567,
       "creationTime": 1686582795,
       "language": "GNU C++20 (64)",
@@ -48,11 +74,9 @@
         "id": "1841E",
         "name": "Fill the Matrix",
         "tags": [
-          "binary search",
           "data structures",
           "greedy",
-          "math",
-          "two pointers"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1841/problem/E"
       },
