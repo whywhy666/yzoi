@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1841E",
         "name": "Fill the Matrix",
+        "rating": 2200,
         "tags": [
           "data structures",
           "greedy",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1841F",
         "name": "Monocarp and a Strategic Game",
+        "rating": 2700,
         "tags": [
           "geometry",
           "sortings",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "1841E",
         "name": "Fill the Matrix",
+        "rating": 2200,
         "tags": [
           "data structures",
           "greedy",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "1841D",
         "name": "Pairs of Segments",
+        "rating": 2000,
         "tags": [
           "data structures",
           "dp",
@@ -127,6 +131,7 @@
         "type": "codeforces",
         "id": "1841C",
         "name": "Ranom Numbers",
+        "rating": 1800,
         "tags": [
           "brute force",
           "dp",
@@ -155,6 +160,7 @@
         "type": "codeforces",
         "id": "1841B",
         "name": "Keep it Beautiful",
+        "rating": 1000,
         "tags": [
           "implementation"
         ],
@@ -179,6 +185,7 @@
         "type": "codeforces",
         "id": "1841A",
         "name": "Game with Board",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "games"
