@@ -6,6 +6,173 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 210165200,
+      "creationTime": 1687106076,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687098900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1835F",
+        "name": "Good Graph",
+        "rating": 3500,
+        "tags": [
+          "bitmasks",
+          "graph matchings",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1835/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1835/submission/210165200"
+    },
+    {
+      "type": "codeforces",
+      "id": 210161645,
+      "creationTime": 1687105573,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687098900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1835B",
+        "name": "Lottery",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1835/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1835/submission/210161645"
+    },
+    {
+      "type": "codeforces",
+      "id": 210152796,
+      "creationTime": 1687104050,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687098900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1835C",
+        "name": "Twin Clusters",
+        "rating": 2600,
+        "tags": [
+          "bitmasks",
+          "math",
+          "meet-in-the-middle",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1835/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1835/submission/210152796"
+    },
+    {
+      "type": "codeforces",
+      "id": 210145210,
+      "creationTime": 1687102840,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687098900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1835D",
+        "name": "Doctor's Brown Hypothesis",
+        "rating": 2900,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1835/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1835/submission/210145210"
+    },
+    {
+      "type": "codeforces",
+      "id": 210139670,
+      "creationTime": 1687102085,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687098900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1835E",
+        "name": "Old Mobile",
+        "rating": 3500,
+        "tags": [
+          "dp",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1835/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1835/submission/210139670"
+    },
+    {
+      "type": "codeforces",
+      "id": 210110992,
+      "creationTime": 1687099117,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687098900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1835A",
+        "name": "k-th equality",
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1835/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1835/submission/210110992"
+    },
+    {
+      "type": "codeforces",
       "id": 209706350,
       "creationTime": 1686780531,
       "language": "GNU C++20 (64)",
@@ -105,7 +272,6 @@
         "rating": 2000,
         "tags": [
           "data structures",
-          "dp",
           "greedy",
           "sortings",
           "two pointers"
@@ -112459,7 +112625,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3611,
+    "rating": 3664,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

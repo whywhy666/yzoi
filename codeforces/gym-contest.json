@@ -16765,5 +16765,45 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104435",
     "standingsUrl": "https://codeforces.com/gym/104435/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Пригласительный этап ВсОШ по информатике, Сириус, 2021",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104439,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104439",
+    "standingsUrl": "https://codeforces.com/gym/104439/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Invitational stage of the All-Russian Olympiad in Informatics for schoolchildren",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104441,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104441",
+    "standingsUrl": "https://codeforces.com/gym/104441/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Пригласительный этап ВсОШ по информатике, Сириус, 2022",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104440,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104440",
+    "standingsUrl": "https://codeforces.com/gym/104440/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AdaByron Regional Madrid 2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104442,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104442",
+    "standingsUrl": "https://codeforces.com/gym/104442/standings"
   }
 ]
