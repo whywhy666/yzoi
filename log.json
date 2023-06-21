@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1687295274,
+  "updateTime": 1687381793,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 210165200,
-            "pid": "1835F",
-            "name": "Good Graph",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1687106076
-          },
-          {
-            "platform": "codeforces",
-            "id": 210161645,
-            "pid": "1835B",
-            "name": "Lottery",
-            "verdict": "OK",
-            "creationTime": 1687105573
-          },
-          {
-            "platform": "codeforces",
-            "id": 210152796,
-            "pid": "1835C",
-            "name": "Twin Clusters",
-            "verdict": "OK",
-            "creationTime": 1687104050
-          },
-          {
-            "platform": "codeforces",
-            "id": 210145210,
-            "pid": "1835D",
-            "name": "Doctor's Brown Hypothesis",
-            "verdict": "OK",
-            "creationTime": 1687102840
-          },
-          {
-            "platform": "codeforces",
-            "id": 210139670,
-            "pid": "1835E",
-            "name": "Old Mobile",
-            "verdict": "OK",
-            "creationTime": 1687102085
-          },
-          {
-            "platform": "codeforces",
-            "id": 210110992,
-            "pid": "1835A",
-            "name": "k-th equality",
-            "verdict": "OK",
-            "creationTime": 1687099117
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "55c349179d60f896b64a9efdfee1370f5aa917b0"
+  "ref": "713253b197efc7c300a6b16793e99525667203fc"
 }

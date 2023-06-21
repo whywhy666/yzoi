@@ -24,6 +24,7 @@
         "rating": 3500,
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "graph matchings",
           "graphs",
           "implementation"
@@ -55,7 +56,6 @@
           "brute force",
           "greedy",
           "math",
-          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1835/problem/B"
@@ -82,6 +82,7 @@
         "rating": 2600,
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "math",
           "meet-in-the-middle",
           "probabilities"
@@ -137,6 +138,7 @@
         "name": "Old Mobile",
         "rating": 3500,
         "tags": [
+          "combinatorics",
           "dp",
           "probabilities"
         ],
