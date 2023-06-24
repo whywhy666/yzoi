@@ -6,6 +6,324 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 210932297,
+      "creationTime": 1687622362,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842I",
+        "name": "Tenzing and Necklace",
+        "tags": [
+          "divide and conquer",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210932297"
+    },
+    {
+      "type": "codeforces",
+      "id": 210931373,
+      "creationTime": 1687622202,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842I",
+        "name": "Tenzing and Necklace",
+        "tags": [
+          "divide and conquer",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210931373"
+    },
+    {
+      "type": "codeforces",
+      "id": 210931001,
+      "creationTime": 1687622138,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842I",
+        "name": "Tenzing and Necklace",
+        "tags": [
+          "divide and conquer",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210931001"
+    },
+    {
+      "type": "codeforces",
+      "id": 210929252,
+      "creationTime": 1687621839,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842I",
+        "name": "Tenzing and Necklace",
+        "tags": [
+          "divide and conquer",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210929252"
+    },
+    {
+      "type": "codeforces",
+      "id": 210909272,
+      "creationTime": 1687618775,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842H",
+        "name": "Tenzing and Random Real Numbers",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210909272"
+    },
+    {
+      "type": "codeforces",
+      "id": 210904139,
+      "creationTime": 1687618147,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842F",
+        "name": "Tenzing and Tree",
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "graphs",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210904139"
+    },
+    {
+      "type": "codeforces",
+      "id": 210900474,
+      "creationTime": 1687617720,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842E",
+        "name": "Tenzing and Triangle",
+        "tags": [
+          "data structures",
+          "dp",
+          "geometry",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210900474"
+    },
+    {
+      "type": "codeforces",
+      "id": 210896488,
+      "creationTime": 1687617300,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842D",
+        "name": "Tenzing and His Animal Friends ",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "graphs",
+          "greedy",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210896488"
+    },
+    {
+      "type": "codeforces",
+      "id": 210891898,
+      "creationTime": 1687616863,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842G",
+        "name": "Tenzing and Random Operations",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210891898"
+    },
+    {
+      "type": "codeforces",
+      "id": 210877958,
+      "creationTime": 1687615847,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842C",
+        "name": "Tenzing and Balls",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210877958"
+    },
+    {
+      "type": "codeforces",
+      "id": 210875095,
+      "creationTime": 1687615694,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842A",
+        "name": "Tenzing and Tsondu",
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210875095"
+    },
+    {
+      "type": "codeforces",
+      "id": 210874375,
+      "creationTime": 1687615587,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1687615500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1842B",
+        "name": "Tenzing and Books",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1842/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1842/submission/210874375"
+    },
+    {
+      "type": "codeforces",
       "id": 210165200,
       "creationTime": 1687106076,
       "language": "GNU C++20 (64)",
@@ -112627,7 +112945,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3611,
+    "rating": 3755,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
