@@ -128,6 +128,8 @@
         "tags": [
           "bitmasks",
           "dp",
+          "graphs",
+          "math",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/H"
@@ -156,6 +158,8 @@
           "dfs and similar",
           "graphs",
           "greedy",
+          "shortest paths",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/F"
@@ -287,7 +291,6 @@
         "id": "1842A",
         "name": "Tenzing and Tsondu",
         "tags": [
-          "constructive algorithms",
           "games",
           "math"
         ],
@@ -313,7 +316,6 @@
         "id": "1842B",
         "name": "Tenzing and Books",
         "tags": [
-          "binary search",
           "bitmasks",
           "greedy",
           "math"
