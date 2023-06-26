@@ -16816,5 +16816,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104442",
     "standingsUrl": "https://codeforces.com/gym/104442/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Al-Baath Collegiate Programming Contest 2023",
+    "startTime": 1687420800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104447,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104447",
+    "standingsUrl": "https://codeforces.com/gym/104447/standings"
   }
 ]

@@ -126,6 +126,7 @@
         "id": "1842H",
         "name": "Tenzing and Random Real Numbers",
         "tags": [
+          "2-sat",
           "bitmasks",
           "dp",
           "graphs",
@@ -154,11 +155,8 @@
         "id": "1842F",
         "name": "Tenzing and Tree",
         "tags": [
-          "brute force",
           "dfs and similar",
-          "graphs",
           "greedy",
-          "shortest paths",
           "sortings",
           "trees"
         ],
@@ -214,6 +212,7 @@
         "tags": [
           "brute force",
           "constructive algorithms",
+          "dfs and similar",
           "graphs",
           "greedy",
           "shortest paths"
@@ -112947,7 +112946,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3755,
+    "rating": 3664,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
