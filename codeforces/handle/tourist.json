@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1842I",
         "name": "Tenzing and Necklace",
+        "rating": 3500,
         "tags": [
           "divide and conquer",
           "dp",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1842I",
         "name": "Tenzing and Necklace",
+        "rating": 3500,
         "tags": [
           "divide and conquer",
           "dp",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "1842I",
         "name": "Tenzing and Necklace",
+        "rating": 3500,
         "tags": [
           "divide and conquer",
           "dp",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "1842I",
         "name": "Tenzing and Necklace",
+        "rating": 3500,
         "tags": [
           "divide and conquer",
           "dp",
@@ -125,6 +129,7 @@
         "type": "codeforces",
         "id": "1842H",
         "name": "Tenzing and Random Real Numbers",
+        "rating": 3000,
         "tags": [
           "2-sat",
           "bitmasks",
@@ -154,6 +159,7 @@
         "type": "codeforces",
         "id": "1842F",
         "name": "Tenzing and Tree",
+        "rating": 2500,
         "tags": [
           "dfs and similar",
           "greedy",
@@ -181,6 +187,7 @@
         "type": "codeforces",
         "id": "1842E",
         "name": "Tenzing and Triangle",
+        "rating": 2300,
         "tags": [
           "data structures",
           "dp",
@@ -209,6 +216,7 @@
         "type": "codeforces",
         "id": "1842D",
         "name": "Tenzing and His Animal Friends ",
+        "rating": 1900,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -238,6 +246,7 @@
         "type": "codeforces",
         "id": "1842G",
         "name": "Tenzing and Random Operations",
+        "rating": 2800,
         "tags": [
           "combinatorics",
           "dp",
@@ -265,6 +274,7 @@
         "type": "codeforces",
         "id": "1842C",
         "name": "Tenzing and Balls",
+        "rating": 1500,
         "tags": [
           "dp"
         ],
@@ -289,6 +299,7 @@
         "type": "codeforces",
         "id": "1842A",
         "name": "Tenzing and Tsondu",
+        "rating": 800,
         "tags": [
           "games",
           "math"
@@ -314,6 +325,7 @@
         "type": "codeforces",
         "id": "1842B",
         "name": "Tenzing and Books",
+        "rating": 1100,
         "tags": [
           "bitmasks",
           "greedy",
@@ -112946,7 +112958,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3664,
+    "rating": 3755,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
