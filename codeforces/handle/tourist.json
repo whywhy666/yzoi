@@ -162,6 +162,7 @@
         "tags": [
           "dfs and similar",
           "greedy",
+          "shortest paths",
           "sortings",
           "trees"
         ],
@@ -219,8 +220,7 @@
         "tags": [
           "constructive algorithms",
           "graphs",
-          "greedy",
-          "shortest paths"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1842/problem/D"
       },
