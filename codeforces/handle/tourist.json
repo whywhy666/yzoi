@@ -6,6 +6,218 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 213364706,
+      "creationTime": 1689090951,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844G",
+        "name": "Tree Weights",
+        "tags": [
+          "math",
+          "matrices",
+          "number theory",
+          "number theory",
+          "trees",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213364706"
+    },
+    {
+      "type": "codeforces",
+      "id": 213352374,
+      "creationTime": 1689089633,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844F2",
+        "name": "Min Cost Permutation (Hard Version)",
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213352374"
+    },
+    {
+      "type": "codeforces",
+      "id": 213346552,
+      "creationTime": 1689089108,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844F1",
+        "name": "Min Cost Permutation (Easy Version)",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213346552"
+    },
+    {
+      "type": "codeforces",
+      "id": 213326176,
+      "creationTime": 1689087508,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844E",
+        "name": "Great Grids",
+        "tags": [
+          "2-sat",
+          "constructive algorithms",
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213326176"
+    },
+    {
+      "type": "codeforces",
+      "id": 213315167,
+      "creationTime": 1689086821,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844C",
+        "name": "Particles",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213315167"
+    },
+    {
+      "type": "codeforces",
+      "id": 213311325,
+      "creationTime": 1689086634,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844D",
+        "name": "Row Major",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "number theory",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213311325"
+    },
+    {
+      "type": "codeforces",
+      "id": 213307651,
+      "creationTime": 1689086483,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844B",
+        "name": "Permutations & Primes",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213307651"
+    },
+    {
+      "type": "codeforces",
+      "id": 213301327,
+      "creationTime": 1689086287,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1689086100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1844A",
+        "name": "Subtraction Game",
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1844/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1844/submission/213301327"
+    },
+    {
+      "type": "codeforces",
       "id": 210932297,
       "creationTime": 1687622362,
       "language": "GNU C++20 (64)",
