@@ -22,11 +22,13 @@
         "id": "1844G",
         "name": "Tree Weights",
         "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "data structures",
+          "dfs and similar",
           "math",
           "matrices",
           "number theory",
-          "number theory",
-          "trees",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/G"
@@ -51,8 +53,11 @@
         "id": "1844F2",
         "name": "Min Cost Permutation (Hard Version)",
         "tags": [
+          "binary search",
+          "constructive algorithms",
           "data structures",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/F2"
       },
@@ -76,6 +81,8 @@
         "id": "1844F1",
         "name": "Min Cost Permutation (Easy Version)",
         "tags": [
+          "brute force",
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/F1"
@@ -101,10 +108,12 @@
         "name": "Great Grids",
         "tags": [
           "2-sat",
+          "binary search",
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "graphs"
+          "graphs",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/E"
       },
@@ -128,10 +137,10 @@
         "id": "1844C",
         "name": "Particles",
         "tags": [
-          "constructive algorithms",
           "dp",
           "greedy",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/C"
       },
@@ -156,7 +165,7 @@
         "name": "Row Major",
         "tags": [
           "constructive algorithms",
-          "greedy",
+          "math",
           "number theory",
           "strings"
         ],
@@ -209,8 +218,7 @@
         "name": "Subtraction Game",
         "tags": [
           "constructive algorithms",
-          "games",
-          "math"
+          "games"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/A"
       },
@@ -113167,7 +113175,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3755,
+    "rating": 3767,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

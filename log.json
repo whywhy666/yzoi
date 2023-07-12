@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1689109779,
+  "updateTime": 1689196172,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 213364706,
-            "pid": "1844G",
-            "name": "Tree Weights",
-            "verdict": "OK",
-            "creationTime": 1689090951
-          },
-          {
-            "platform": "codeforces",
-            "id": 213352374,
-            "pid": "1844F2",
-            "name": "Min Cost Permutation (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1689089633
-          },
-          {
-            "platform": "codeforces",
-            "id": 213346552,
-            "pid": "1844F1",
-            "name": "Min Cost Permutation (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1689089108
-          },
-          {
-            "platform": "codeforces",
-            "id": 213326176,
-            "pid": "1844E",
-            "name": "Great Grids",
-            "verdict": "OK",
-            "creationTime": 1689087508
-          },
-          {
-            "platform": "codeforces",
-            "id": 213315167,
-            "pid": "1844C",
-            "name": "Particles",
-            "verdict": "OK",
-            "creationTime": 1689086821
-          },
-          {
-            "platform": "codeforces",
-            "id": 213311325,
-            "pid": "1844D",
-            "name": "Row Major",
-            "verdict": "OK",
-            "creationTime": 1689086634
-          },
-          {
-            "platform": "codeforces",
-            "id": 213307651,
-            "pid": "1844B",
-            "name": "Permutations & Primes",
-            "verdict": "OK",
-            "creationTime": 1689086483
-          },
-          {
-            "platform": "codeforces",
-            "id": 213301327,
-            "pid": "1844A",
-            "name": "Subtraction Game",
-            "verdict": "OK",
-            "creationTime": 1689086287
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "bcf91f21034d08b79eab7261abd8f912270b0170"
+  "ref": "25a8a7e5e851608888145cae73681b79d3eecece"
 }
