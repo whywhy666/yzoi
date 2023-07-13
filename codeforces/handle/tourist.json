@@ -57,6 +57,7 @@
           "constructive algorithms",
           "data structures",
           "greedy",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/F2"
@@ -83,7 +84,8 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/F1"
       },
@@ -107,8 +109,6 @@
         "id": "1844E",
         "name": "Great Grids",
         "tags": [
-          "2-sat",
-          "binary search",
           "constructive algorithms",
           "dfs and similar",
           "dsu",
@@ -165,6 +165,7 @@
         "name": "Row Major",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math",
           "number theory",
           "strings"
@@ -218,7 +219,8 @@
         "name": "Subtraction Game",
         "tags": [
           "constructive algorithms",
-          "games"
+          "games",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/A"
       },
