@@ -26,6 +26,7 @@
           "constructive algorithms",
           "data structures",
           "dfs and similar",
+          "implementation",
           "math",
           "matrices",
           "number theory",
@@ -109,11 +110,11 @@
         "id": "1844E",
         "name": "Great Grids",
         "tags": [
+          "2-sat",
           "constructive algorithms",
           "dfs and similar",
           "dsu",
-          "graphs",
-          "math"
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/E"
       },
@@ -193,7 +194,6 @@
         "name": "Permutations & Primes",
         "tags": [
           "constructive algorithms",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1844/problem/B"
