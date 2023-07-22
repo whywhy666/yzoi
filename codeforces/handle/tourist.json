@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1844G",
         "name": "Tree Weights",
+        "rating": 3000,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -53,6 +54,7 @@
         "type": "codeforces",
         "id": "1844F2",
         "name": "Min Cost Permutation (Hard Version)",
+        "rating": 2800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -82,6 +84,7 @@
         "type": "codeforces",
         "id": "1844F1",
         "name": "Min Cost Permutation (Easy Version)",
+        "rating": 2600,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -109,6 +112,7 @@
         "type": "codeforces",
         "id": "1844E",
         "name": "Great Grids",
+        "rating": 2400,
         "tags": [
           "2-sat",
           "constructive algorithms",
@@ -137,6 +141,7 @@
         "type": "codeforces",
         "id": "1844C",
         "name": "Particles",
+        "rating": 1300,
         "tags": [
           "dp",
           "greedy",
@@ -164,6 +169,7 @@
         "type": "codeforces",
         "id": "1844D",
         "name": "Row Major",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -192,6 +198,7 @@
         "type": "codeforces",
         "id": "1844B",
         "name": "Permutations & Primes",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "math"
@@ -217,6 +224,7 @@
         "type": "codeforces",
         "id": "1844A",
         "name": "Subtraction Game",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "games"

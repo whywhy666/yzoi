@@ -16980,5 +16980,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104487",
     "standingsUrl": "https://codeforces.com/gym/104487/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "43rd Petrozavodsk Programming Camp (2022 Summer) Day 7. HSE Koresha Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104491,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104491",
+    "standingsUrl": "https://codeforces.com/gym/104491/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 ICPC HIAST Collegiate Programming Contest",
+    "startTime": 1690005600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104493,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104493",
+    "standingsUrl": "https://codeforces.com/gym/104493/standings"
   }
 ]
