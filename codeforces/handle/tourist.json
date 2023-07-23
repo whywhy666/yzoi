@@ -6,6 +6,160 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 215243658,
+      "creationTime": 1690130158,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690122900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1852E",
+        "name": "Rivalries",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1852/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1852/submission/215243658"
+    },
+    {
+      "type": "codeforces",
+      "id": 215242234,
+      "creationTime": 1690129824,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690122900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1852E",
+        "name": "Rivalries",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1852/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1852/submission/215242234"
+    },
+    {
+      "type": "codeforces",
+      "id": 215225730,
+      "creationTime": 1690126601,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690122900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1852D",
+        "name": "Miriany and Matchstick",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1852/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1852/submission/215225730"
+    },
+    {
+      "type": "codeforces",
+      "id": 215220833,
+      "creationTime": 1690125842,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690122900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1852C",
+        "name": "Ina of the Mountain",
+        "tags": [
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1852/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1852/submission/215220833"
+    },
+    {
+      "type": "codeforces",
+      "id": 215199335,
+      "creationTime": 1690123464,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690122900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1852B",
+        "name": "Imbalanced Arrays",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1852/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1852/submission/215199335"
+    },
+    {
+      "type": "codeforces",
+      "id": 215194419,
+      "creationTime": 1690123221,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690122900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1852A",
+        "name": "Ntarsis' Set",
+        "tags": [
+          "binary search",
+          "implementation",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1852/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1852/submission/215194419"
+    },
+    {
+      "type": "codeforces",
       "id": 213364706,
       "creationTime": 1689090951,
       "language": "GNU C++20 (64)",
@@ -113184,7 +113338,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3767,
+    "rating": 3726,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
