@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1690146514,
+  "updateTime": 1690233041,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 215243658,
-            "pid": "1852E",
-            "name": "Rivalries",
-            "verdict": "OK",
-            "creationTime": 1690130158
-          },
-          {
-            "platform": "codeforces",
-            "id": 215242234,
-            "pid": "1852E",
-            "name": "Rivalries",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1690129824
-          },
-          {
-            "platform": "codeforces",
-            "id": 215225730,
-            "pid": "1852D",
-            "name": "Miriany and Matchstick",
-            "verdict": "OK",
-            "creationTime": 1690126601
-          },
-          {
-            "platform": "codeforces",
-            "id": 215220833,
-            "pid": "1852C",
-            "name": "Ina of the Mountain",
-            "verdict": "OK",
-            "creationTime": 1690125842
-          },
-          {
-            "platform": "codeforces",
-            "id": 215199335,
-            "pid": "1852B",
-            "name": "Imbalanced Arrays",
-            "verdict": "OK",
-            "creationTime": 1690123464
-          },
-          {
-            "platform": "codeforces",
-            "id": 215194419,
-            "pid": "1852A",
-            "name": "Ntarsis' Set",
-            "verdict": "OK",
-            "creationTime": 1690123221
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3fc42ef56c7c6ecd75776a53205bdb20087157fe"
+  "ref": "ff837c191ae70267cc71fdcbcfab020f84acccd7"
 }

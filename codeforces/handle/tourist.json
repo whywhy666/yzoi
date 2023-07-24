@@ -22,7 +22,8 @@
         "id": "1852E",
         "name": "Rivalries",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/E"
       },
@@ -46,7 +47,8 @@
         "id": "1852E",
         "name": "Rivalries",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/E"
       },
@@ -97,6 +99,7 @@
         "name": "Ina of the Mountain",
         "tags": [
           "data structures",
+          "dp",
           "greedy",
           "math"
         ],
@@ -122,9 +125,9 @@
         "id": "1852B",
         "name": "Imbalanced Arrays",
         "tags": [
-          "binary search",
           "constructive algorithms",
-          "math",
+          "greedy",
+          "sortings",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/B"
@@ -113338,7 +113341,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3726,
+    "rating": 3767,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
