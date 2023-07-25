@@ -6,6 +6,267 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 215536000,
+      "creationTime": 1690297246,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851G",
+        "name": "Vlad and the Mountains",
+        "tags": [
+          "data structures",
+          "dsu",
+          "graphs",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215536000"
+    },
+    {
+      "type": "codeforces",
+      "id": 215531739,
+      "creationTime": 1690297024,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851F",
+        "name": "Lisa and the Martians",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215531739"
+    },
+    {
+      "type": "codeforces",
+      "id": 215529077,
+      "creationTime": 1690296898,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851F",
+        "name": "Lisa and the Martians",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215529077"
+    },
+    {
+      "type": "codeforces",
+      "id": 215528377,
+      "creationTime": 1690296866,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851F",
+        "name": "Lisa and the Martians",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215528377"
+    },
+    {
+      "type": "codeforces",
+      "id": 215526504,
+      "creationTime": 1690296798,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851F",
+        "name": "Lisa and the Martians",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215526504"
+    },
+    {
+      "type": "codeforces",
+      "id": 215519516,
+      "creationTime": 1690296494,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851E",
+        "name": "Nastya and Potions",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215519516"
+    },
+    {
+      "type": "codeforces",
+      "id": 215512719,
+      "creationTime": 1690296195,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851D",
+        "name": "Prefix Permutation Sums",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215512719"
+    },
+    {
+      "type": "codeforces",
+      "id": 215509971,
+      "creationTime": 1690296004,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851C",
+        "name": "Tiles Comeback",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215509971"
+    },
+    {
+      "type": "codeforces",
+      "id": 215509226,
+      "creationTime": 1690295857,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851B",
+        "name": "Parity Sort",
+        "tags": [
+          "sortings",
+          "sortings",
+          "sortings",
+          "two pointers",
+          "two pointers",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215509226"
+    },
+    {
+      "type": "codeforces",
+      "id": 215509127,
+      "creationTime": 1690295806,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1690295700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1851A",
+        "name": "Escalator Conversations",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1851/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1851/submission/215509127"
+    },
+    {
+      "type": "codeforces",
       "id": 215243658,
       "creationTime": 1690130158,
       "language": "GNU C++20 (64)",
@@ -153,6 +414,7 @@
         "name": "Ntarsis' Set",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "implementation",
           "math",
           "two pointers"
@@ -113341,7 +113603,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3767,
+    "rating": 3726,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
