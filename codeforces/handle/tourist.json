@@ -22,11 +22,14 @@
         "id": "1851G",
         "name": "Vlad and the Mountains",
         "tags": [
+          "binary search",
           "data structures",
           "dsu",
           "graphs",
+          "implementation",
           "sortings",
-          "trees"
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/G"
       },
@@ -50,8 +53,11 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
+          "binary search",
           "bitmasks",
+          "data structures",
           "greedy",
+          "sortings",
           "strings",
           "trees"
         ],
@@ -77,8 +83,11 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
+          "binary search",
           "bitmasks",
+          "data structures",
           "greedy",
+          "sortings",
           "strings",
           "trees"
         ],
@@ -104,8 +113,11 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
+          "binary search",
           "bitmasks",
+          "data structures",
           "greedy",
+          "sortings",
           "strings",
           "trees"
         ],
@@ -131,8 +143,11 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
+          "binary search",
           "bitmasks",
+          "data structures",
           "greedy",
+          "sortings",
           "strings",
           "trees"
         ],
@@ -160,7 +175,10 @@
         "tags": [
           "dfs and similar",
           "dp",
-          "graphs"
+          "graphs",
+          "greedy",
+          "shortest paths",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/E"
       },
@@ -184,6 +202,7 @@
         "id": "1851D",
         "name": "Prefix Permutation Sums",
         "tags": [
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/D"
@@ -207,7 +226,10 @@
         "type": "codeforces",
         "id": "1851C",
         "name": "Tiles Comeback",
-        "tags": [],
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/C"
       },
       "submissionUrl": "https://codeforces.com/contest/1851/submission/215509971"
@@ -231,10 +253,6 @@
         "name": "Parity Sort",
         "tags": [
           "sortings",
-          "sortings",
-          "sortings",
-          "two pointers",
-          "two pointers",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/B"
@@ -259,7 +277,10 @@
         "id": "1851A",
         "name": "Escalator Conversations",
         "tags": [
-          "constructive algorithms"
+          "brute force",
+          "constructive algorithms",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/A"
       },
@@ -282,9 +303,11 @@
         "type": "codeforces",
         "id": "1852E",
         "name": "Rivalries",
+        "rating": 3400,
         "tags": [
           "constructive algorithms",
-          "data structures"
+          "data structures",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/E"
       },
@@ -307,9 +330,11 @@
         "type": "codeforces",
         "id": "1852E",
         "name": "Rivalries",
+        "rating": 3400,
         "tags": [
           "constructive algorithms",
-          "data structures"
+          "data structures",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/E"
       },
@@ -332,6 +357,7 @@
         "type": "codeforces",
         "id": "1852D",
         "name": "Miriany and Matchstick",
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -358,6 +384,7 @@
         "type": "codeforces",
         "id": "1852C",
         "name": "Ina of the Mountain",
+        "rating": 2400,
         "tags": [
           "data structures",
           "dp",
@@ -385,9 +412,12 @@
         "type": "codeforces",
         "id": "1852B",
         "name": "Imbalanced Arrays",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
+          "graphs",
           "greedy",
+          "math",
           "sortings",
           "two pointers"
         ],
@@ -412,12 +442,11 @@
         "type": "codeforces",
         "id": "1852A",
         "name": "Ntarsis' Set",
+        "rating": 1800,
         "tags": [
           "binary search",
-          "constructive algorithms",
-          "implementation",
           "math",
-          "two pointers"
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1852/problem/A"
       },

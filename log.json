@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1690319293,
+  "updateTime": 1690405720,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 215536000,
-            "pid": "1851G",
-            "name": "Vlad and the Mountains",
-            "verdict": "OK",
-            "creationTime": 1690297246
-          },
-          {
-            "platform": "codeforces",
-            "id": 215531739,
-            "pid": "1851F",
-            "name": "Lisa and the Martians",
-            "verdict": "OK",
-            "creationTime": 1690297024
-          },
-          {
-            "platform": "codeforces",
-            "id": 215529077,
-            "pid": "1851F",
-            "name": "Lisa and the Martians",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1690296898
-          },
-          {
-            "platform": "codeforces",
-            "id": 215528377,
-            "pid": "1851F",
-            "name": "Lisa and the Martians",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1690296866
-          },
-          {
-            "platform": "codeforces",
-            "id": 215526504,
-            "pid": "1851F",
-            "name": "Lisa and the Martians",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1690296798
-          },
-          {
-            "platform": "codeforces",
-            "id": 215519516,
-            "pid": "1851E",
-            "name": "Nastya and Potions",
-            "verdict": "OK",
-            "creationTime": 1690296494
-          },
-          {
-            "platform": "codeforces",
-            "id": 215512719,
-            "pid": "1851D",
-            "name": "Prefix Permutation Sums",
-            "verdict": "OK",
-            "creationTime": 1690296195
-          },
-          {
-            "platform": "codeforces",
-            "id": 215509971,
-            "pid": "1851C",
-            "name": "Tiles Comeback",
-            "verdict": "OK",
-            "creationTime": 1690296004
-          },
-          {
-            "platform": "codeforces",
-            "id": 215509226,
-            "pid": "1851B",
-            "name": "Parity Sort",
-            "verdict": "OK",
-            "creationTime": 1690295857
-          },
-          {
-            "platform": "codeforces",
-            "id": 215509127,
-            "pid": "1851A",
-            "name": "Escalator Conversations",
-            "verdict": "OK",
-            "creationTime": 1690295806
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "79057febef4963f043f09ae41f1515f76a705bbf"
+  "ref": "e8c4e059f8ec810b6f817fd9187c8f5b23712aea"
 }
