@@ -53,11 +53,9 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
-          "binary search",
           "bitmasks",
-          "data structures",
           "greedy",
-          "sortings",
+          "math",
           "strings",
           "trees"
         ],
@@ -83,11 +81,9 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
-          "binary search",
           "bitmasks",
-          "data structures",
           "greedy",
-          "sortings",
+          "math",
           "strings",
           "trees"
         ],
@@ -113,11 +109,9 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
-          "binary search",
           "bitmasks",
-          "data structures",
           "greedy",
-          "sortings",
+          "math",
           "strings",
           "trees"
         ],
@@ -143,11 +137,9 @@
         "id": "1851F",
         "name": "Lisa and the Martians",
         "tags": [
-          "binary search",
           "bitmasks",
-          "data structures",
           "greedy",
-          "sortings",
+          "math",
           "strings",
           "trees"
         ],
@@ -176,8 +168,6 @@
           "dfs and similar",
           "dp",
           "graphs",
-          "greedy",
-          "shortest paths",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/E"
@@ -227,8 +217,7 @@
         "id": "1851C",
         "name": "Tiles Comeback",
         "tags": [
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/C"
       },
@@ -252,6 +241,7 @@
         "id": "1851B",
         "name": "Parity Sort",
         "tags": [
+          "greedy",
           "sortings",
           "two pointers"
         ],
@@ -279,7 +269,6 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1851/problem/A"
