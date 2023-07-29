@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1690578485,
+  "updateTime": 1690664870,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 216321960,
+            "pid": "1854D",
+            "name": "Michael and Hotel",
+            "verdict": "OK",
+            "creationTime": 1690648364
+          },
+          {
+            "platform": "codeforces",
+            "id": 216302036,
+            "pid": "1854E",
+            "name": "Game Bundles",
+            "verdict": "OK",
+            "creationTime": 1690646308
+          },
+          {
+            "platform": "codeforces",
+            "id": 216300983,
+            "pid": "1854E",
+            "name": "Game Bundles",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1690646208
+          },
+          {
+            "platform": "codeforces",
+            "id": 216275667,
+            "pid": "1854A2",
+            "name": "Dual (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1690643985
+          },
+          {
+            "platform": "codeforces",
+            "id": 216266654,
+            "pid": "1854C",
+            "name": "Expected Destruction",
+            "verdict": "OK",
+            "creationTime": 1690643232
+          },
+          {
+            "platform": "codeforces",
+            "id": 216255683,
+            "pid": "1854A1",
+            "name": "Dual (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1690642343
+          },
+          {
+            "platform": "codeforces",
+            "id": 216241500,
+            "pid": "1854B",
+            "name": "Earn or Unlock",
+            "verdict": "OK",
+            "creationTime": 1690641578
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "fce1b9eed7403fec8c799750d6e284def365fb51"
+  "ref": "0091811b24319de2700db6747b4bf3bb620f99c1"
 }

@@ -6,6 +6,180 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 216321960,
+      "creationTime": 1690648364,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690641300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1854D",
+        "name": "Michael and Hotel",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1854/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1854/submission/216321960"
+    },
+    {
+      "type": "codeforces",
+      "id": 216302036,
+      "creationTime": 1690646308,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690641300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1854E",
+        "name": "Game Bundles",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1854/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1854/submission/216302036"
+    },
+    {
+      "type": "codeforces",
+      "id": 216300983,
+      "creationTime": 1690646208,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690641300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1854E",
+        "name": "Game Bundles",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1854/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1854/submission/216300983"
+    },
+    {
+      "type": "codeforces",
+      "id": 216275667,
+      "creationTime": 1690643985,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690641300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1854A2",
+        "name": "Dual (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1854/problem/A2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1854/submission/216275667"
+    },
+    {
+      "type": "codeforces",
+      "id": 216266654,
+      "creationTime": 1690643232,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690641300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1854C",
+        "name": "Expected Destruction",
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1854/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1854/submission/216266654"
+    },
+    {
+      "type": "codeforces",
+      "id": 216255683,
+      "creationTime": 1690642343,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690641300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1854A1",
+        "name": "Dual (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1854/problem/A1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1854/submission/216255683"
+    },
+    {
+      "type": "codeforces",
+      "id": 216241500,
+      "creationTime": 1690641578,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1690641300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1854B",
+        "name": "Earn or Unlock",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1854/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1854/submission/216241500"
+    },
+    {
+      "type": "codeforces",
       "id": 215536000,
       "creationTime": 1690297246,
       "language": "GNU C++20 (64)",
@@ -113621,7 +113795,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3726,
+    "rating": 3727,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
