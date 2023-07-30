@@ -22,7 +22,8 @@
         "id": "1854D",
         "name": "Michael and Hotel",
         "tags": [
-          "interactive"
+          "interactive",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/D"
       },
@@ -119,6 +120,7 @@
         "id": "1854C",
         "name": "Expected Destruction",
         "tags": [
+          "combinatorics",
           "dp",
           "math",
           "probabilities"
