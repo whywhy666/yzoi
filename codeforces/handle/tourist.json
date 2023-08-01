@@ -48,7 +48,9 @@
         "name": "Game Bundles",
         "tags": [
           "brute force",
-          "constructive algorithms"
+          "constructive algorithms",
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/E"
       },
@@ -73,7 +75,9 @@
         "name": "Game Bundles",
         "tags": [
           "brute force",
-          "constructive algorithms"
+          "constructive algorithms",
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/E"
       },
@@ -125,7 +129,6 @@
           "combinatorics",
           "dp",
           "math",
-          "probabilities",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1854/problem/C"
