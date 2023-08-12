@@ -17043,5 +17043,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104511",
     "standingsUrl": "https://codeforces.com/gym/104511/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UNICAMP Selection Contest 2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104518,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104518",
+    "standingsUrl": "https://codeforces.com/gym/104518/standings"
   }
 ]
