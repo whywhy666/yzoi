@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1854D",
         "name": "Michael and Hotel",
+        "rating": 3000,
         "tags": [
           "binary search",
           "interactive",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1854E",
         "name": "Game Bundles",
+        "rating": 3000,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1854E",
         "name": "Game Bundles",
+        "rating": 3000,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -103,6 +106,7 @@
         "type": "codeforces",
         "id": "1854A2",
         "name": "Dual (Hard Version)",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "math"
@@ -128,6 +132,7 @@
         "type": "codeforces",
         "id": "1854C",
         "name": "Expected Destruction",
+        "rating": 2500,
         "tags": [
           "combinatorics",
           "dp",
@@ -155,6 +160,7 @@
         "type": "codeforces",
         "id": "1854A1",
         "name": "Dual (Easy Version)",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "math"
@@ -180,6 +186,7 @@
         "type": "codeforces",
         "id": "1854B",
         "name": "Earn or Unlock",
+        "rating": 2200,
         "tags": [
           "bitmasks",
           "brute force",
@@ -206,6 +213,7 @@
         "type": "codeforces",
         "id": "1851G",
         "name": "Vlad and the Mountains",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -237,6 +245,7 @@
         "type": "codeforces",
         "id": "1851F",
         "name": "Lisa and the Martians",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "greedy",
@@ -265,6 +274,7 @@
         "type": "codeforces",
         "id": "1851F",
         "name": "Lisa and the Martians",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "greedy",
@@ -293,6 +303,7 @@
         "type": "codeforces",
         "id": "1851F",
         "name": "Lisa and the Martians",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "greedy",
@@ -321,6 +332,7 @@
         "type": "codeforces",
         "id": "1851F",
         "name": "Lisa and the Martians",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "greedy",
@@ -349,6 +361,7 @@
         "type": "codeforces",
         "id": "1851E",
         "name": "Nastya and Potions",
+        "rating": 1500,
         "tags": [
           "dfs and similar",
           "dp",
@@ -376,6 +389,7 @@
         "type": "codeforces",
         "id": "1851D",
         "name": "Prefix Permutation Sums",
+        "rating": 1300,
         "tags": [
           "implementation",
           "math"
@@ -401,6 +415,7 @@
         "type": "codeforces",
         "id": "1851C",
         "name": "Tiles Comeback",
+        "rating": 1000,
         "tags": [
           "greedy"
         ],
@@ -425,6 +440,7 @@
         "type": "codeforces",
         "id": "1851B",
         "name": "Parity Sort",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings",
@@ -451,6 +467,7 @@
         "type": "codeforces",
         "id": "1851A",
         "name": "Escalator Conversations",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
