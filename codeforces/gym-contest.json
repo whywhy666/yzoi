@@ -17066,6 +17066,16 @@
     "standingsUrl": "https://codeforces.com/gym/104518/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "CerealCodes II Novice",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104521,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104521",
+    "standingsUrl": "https://codeforces.com/gym/104521/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Teamscode Summer 2023 Contest",
     "duration": 10800,
@@ -17074,5 +17084,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104520",
     "standingsUrl": "https://codeforces.com/gym/104520/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CerealCodes II Advanced",
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 104523,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104523",
+    "standingsUrl": "https://codeforces.com/gym/104523/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CerealCodes II Intermediate",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104522,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104522",
+    "standingsUrl": "https://codeforces.com/gym/104522/standings"
   }
 ]
