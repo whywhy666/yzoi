@@ -17135,5 +17135,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104536",
     "standingsUrl": "https://codeforces.com/gym/104536/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #22 (Interesting-Forces)",
+    "startTime": 1693146900,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 104542,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104542",
+    "standingsUrl": "https://codeforces.com/gym/104542/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "VIII MaratonUSP Freshman Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104545,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104545",
+    "standingsUrl": "https://codeforces.com/gym/104545/standings"
   }
 ]
