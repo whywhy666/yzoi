@@ -17156,5 +17156,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104545",
     "standingsUrl": "https://codeforces.com/gym/104545/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Aleppo Collegiate Programming Contest 2023 V.2",
+    "startTime": 1693306800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104544,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104544",
+    "standingsUrl": "https://codeforces.com/gym/104544/standings"
   }
 ]
