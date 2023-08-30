@@ -6,6 +6,210 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 221136551,
+      "creationTime": 1693409631,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863G",
+        "name": "Swaps",
+        "tags": [
+          "combinatorics",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221136551"
+    },
+    {
+      "type": "codeforces",
+      "id": 221121590,
+      "creationTime": 1693408073,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863F",
+        "name": "Divide, XOR, and Conquer",
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221121590"
+    },
+    {
+      "type": "codeforces",
+      "id": 221110018,
+      "creationTime": 1693407173,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863E",
+        "name": "Speedrun",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221110018"
+    },
+    {
+      "type": "codeforces",
+      "id": 221102414,
+      "creationTime": 1693406706,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863D",
+        "name": "Two-Colored Dominoes",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221102414"
+    },
+    {
+      "type": "codeforces",
+      "id": 221098267,
+      "creationTime": 1693406468,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863C",
+        "name": "MEX Repetition",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221098267"
+    },
+    {
+      "type": "codeforces",
+      "id": 221096643,
+      "creationTime": 1693406347,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863A",
+        "name": "Channel",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221096643"
+    },
+    {
+      "type": "codeforces",
+      "id": 221096498,
+      "creationTime": 1693406332,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863B",
+        "name": "Split Sort",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221096498"
+    },
+    {
+      "type": "codeforces",
+      "id": 221095962,
+      "creationTime": 1693406217,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1693406100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1863A",
+        "name": "Channel",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1863/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1863/submission/221095962"
+    },
+    {
+      "type": "codeforces",
       "id": 216321960,
       "creationTime": 1690648364,
       "language": "GNU C++20 (64)",
@@ -113823,7 +114027,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3727,
+    "rating": 3816,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
