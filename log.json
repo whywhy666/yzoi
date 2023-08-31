@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1693429775,
+  "updateTime": 1693516106,
   "history": {
     "user": [
       {
@@ -8,67 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 221136551,
-            "pid": "1863G",
-            "name": "Swaps",
+            "id": 221293468,
+            "pid": "1861D",
+            "name": "Sorting By Multiplication",
             "verdict": "OK",
-            "creationTime": 1693409631
+            "creationTime": 1693493636
           },
           {
             "platform": "codeforces",
-            "id": 221121590,
-            "pid": "1863F",
-            "name": "Divide, XOR, and Conquer",
+            "id": 221289987,
+            "pid": "1861E",
+            "name": "Non-Intersecting Subpermutations",
             "verdict": "OK",
-            "creationTime": 1693408073
+            "creationTime": 1693493370
           },
           {
             "platform": "codeforces",
-            "id": 221110018,
-            "pid": "1863E",
-            "name": "Speedrun",
+            "id": 221282816,
+            "pid": "1861C",
+            "name": "Queries for the Array",
             "verdict": "OK",
-            "creationTime": 1693407173
+            "creationTime": 1693492925
           },
           {
             "platform": "codeforces",
-            "id": 221102414,
-            "pid": "1863D",
-            "name": "Two-Colored Dominoes",
+            "id": 221278148,
+            "pid": "1861B",
+            "name": "Two Binary Strings",
             "verdict": "OK",
-            "creationTime": 1693406706
+            "creationTime": 1693492702
           },
           {
             "platform": "codeforces",
-            "id": 221098267,
-            "pid": "1863C",
-            "name": "MEX Repetition",
+            "id": 221276729,
+            "pid": "1861A",
+            "name": "Prime Deletion",
             "verdict": "OK",
-            "creationTime": 1693406468
-          },
-          {
-            "platform": "codeforces",
-            "id": 221096643,
-            "pid": "1863A",
-            "name": "Channel",
-            "verdict": "OK",
-            "creationTime": 1693406347
-          },
-          {
-            "platform": "codeforces",
-            "id": 221096498,
-            "pid": "1863B",
-            "name": "Split Sort",
-            "verdict": "OK",
-            "creationTime": 1693406332
-          },
-          {
-            "platform": "codeforces",
-            "id": 221095962,
-            "pid": "1863A",
-            "name": "Channel",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1693406217
+            "creationTime": 1693492563
           }
         ],
         "newContests": []
@@ -76,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "2244c22cd9676c942dc93acccb70f9080e8ac1a0"
+  "ref": "4a6cccc3355df6688c0e3d24990c4f5a2e5ba99d"
 }
