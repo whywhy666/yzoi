@@ -1,56 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1693516106,
+  "updateTime": 1693602509,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 221293468,
-            "pid": "1861D",
-            "name": "Sorting By Multiplication",
-            "verdict": "OK",
-            "creationTime": 1693493636
-          },
-          {
-            "platform": "codeforces",
-            "id": 221289987,
-            "pid": "1861E",
-            "name": "Non-Intersecting Subpermutations",
-            "verdict": "OK",
-            "creationTime": 1693493370
-          },
-          {
-            "platform": "codeforces",
-            "id": 221282816,
-            "pid": "1861C",
-            "name": "Queries for the Array",
-            "verdict": "OK",
-            "creationTime": 1693492925
-          },
-          {
-            "platform": "codeforces",
-            "id": 221278148,
-            "pid": "1861B",
-            "name": "Two Binary Strings",
-            "verdict": "OK",
-            "creationTime": 1693492702
-          },
-          {
-            "platform": "codeforces",
-            "id": 221276729,
-            "pid": "1861A",
-            "name": "Prime Deletion",
-            "verdict": "OK",
-            "creationTime": 1693492563
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4a6cccc3355df6688c0e3d24990c4f5a2e5ba99d"
+  "ref": "7c550e6da13f97c47b8510e1e9e62d3b521beb07"
 }

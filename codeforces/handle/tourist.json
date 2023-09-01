@@ -100,6 +100,8 @@
         "id": "1861B",
         "name": "Two Binary Strings",
         "tags": [
+          "constructive algorithms",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1861/problem/B"
@@ -125,7 +127,7 @@
         "name": "Prime Deletion",
         "tags": [
           "constructive algorithms",
-          "implementation"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1861/problem/A"
       },
@@ -150,8 +152,8 @@
         "name": "Swaps",
         "tags": [
           "combinatorics",
-          "graphs",
-          "math"
+          "dp",
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/1863/problem/G"
       },
@@ -177,7 +179,8 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1863/problem/F"
       },
