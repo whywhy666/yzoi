@@ -17250,6 +17250,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2016 Google Code Jam Round 3 (GCJ 16 Round 3)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104569,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104569",
+    "standingsUrl": "https://codeforces.com/gym/104569/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2016 Google Code Jam Round 2 (GCJ 16 Round 2)",
     "duration": 10800,
     "participantNumber": 0,
@@ -17290,5 +17300,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104574",
     "standingsUrl": "https://codeforces.com/gym/104574/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2016 Google Code Jam World Finals (GCJ 16 World Finals)",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104579,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104579",
+    "standingsUrl": "https://codeforces.com/gym/104579/standings"
   }
 ]
