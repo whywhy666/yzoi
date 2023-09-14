@@ -17373,6 +17373,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2017 Google Code Jam Round 3 (GCJ 17 Round 3)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104591,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104591",
+    "standingsUrl": "https://codeforces.com/gym/104591/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2017 Google Code Jam Round 2 (GCJ 17 Round 2)",
     "duration": 10800,
     "participantNumber": 0,
@@ -17380,5 +17390,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104590",
     "standingsUrl": "https://codeforces.com/gym/104590/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2018 Google Code Jam Round 1A (GCJ 18 Round 1A)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104593,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104593",
+    "standingsUrl": "https://codeforces.com/gym/104593/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2017 Google Code Jam World Finals (GCJ 17 World Finals)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104592,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104592",
+    "standingsUrl": "https://codeforces.com/gym/104592/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2018 Google Code Jam Round 1B (GCJ 18 Round 1B)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104594,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104594",
+    "standingsUrl": "https://codeforces.com/gym/104594/standings"
   }
 ]
