@@ -17432,6 +17432,17 @@
     "standingsUrl": "https://codeforces.com/gym/104594/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "XXVII Spain Olympiad in Informatics, Online Qualifier",
+    "startTime": 1677690000,
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 104597,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104597",
+    "standingsUrl": "https://codeforces.com/gym/104597/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "2019-2020 ICPC East Central North America Regional Contest (ECNA 2019)",
     "duration": 18000,
@@ -17460,5 +17471,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104598",
     "standingsUrl": "https://codeforces.com/gym/104598/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXVII Spain Olympiad in Informatics, Day 2",
+    "startTime": 1679815800,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104605,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104605",
+    "standingsUrl": "https://codeforces.com/gym/104605/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXVII Spain Olympiad in Informatics, Day 1",
+    "startTime": 1679752800,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104604,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104604",
+    "standingsUrl": "https://codeforces.com/gym/104604/standings"
   }
 ]

@@ -6,6 +6,438 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 223925076,
+      "creationTime": 1695059207,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -452424440
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870F",
+        "name": "Lazy Numbers",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223925076"
+    },
+    {
+      "type": "codeforces",
+      "id": 223924067,
+      "creationTime": 1695058831,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -452424816
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223924067"
+    },
+    {
+      "type": "codeforces",
+      "id": 223915464,
+      "creationTime": 1695055364,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223915464"
+    },
+    {
+      "type": "codeforces",
+      "id": 223913305,
+      "creationTime": 1695055057,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223913305"
+    },
+    {
+      "type": "codeforces",
+      "id": 223912110,
+      "creationTime": 1695054870,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223912110"
+    },
+    {
+      "type": "codeforces",
+      "id": 223909650,
+      "creationTime": 1695054511,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223909650"
+    },
+    {
+      "type": "codeforces",
+      "id": 223909250,
+      "creationTime": 1695054452,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223909250"
+    },
+    {
+      "type": "codeforces",
+      "id": 223908747,
+      "creationTime": 1695054375,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870F",
+        "name": "Lazy Numbers",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223908747"
+    },
+    {
+      "type": "codeforces",
+      "id": 223907315,
+      "creationTime": 1695054163,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870F",
+        "name": "Lazy Numbers",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223907315"
+    },
+    {
+      "type": "codeforces",
+      "id": 223905410,
+      "creationTime": 1695053869,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870F",
+        "name": "Lazy Numbers",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223905410"
+    },
+    {
+      "type": "codeforces",
+      "id": 223905037,
+      "creationTime": 1695053814,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870F",
+        "name": "Lazy Numbers",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223905037"
+    },
+    {
+      "type": "codeforces",
+      "id": 223895819,
+      "creationTime": 1695052434,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223895819"
+    },
+    {
+      "type": "codeforces",
+      "id": 223890634,
+      "creationTime": 1695051671,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870G",
+        "name": "MEXanization",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223890634"
+    },
+    {
+      "type": "codeforces",
+      "id": 223875622,
+      "creationTime": 1695049775,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870E",
+        "name": "Another MEX Problem",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223875622"
+    },
+    {
+      "type": "codeforces",
+      "id": 223859881,
+      "creationTime": 1695048362,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870D",
+        "name": "Prefix Purchase",
+        "tags": [
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223859881"
+    },
+    {
+      "type": "codeforces",
+      "id": 223857013,
+      "creationTime": 1695048177,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870C",
+        "name": "Colorful Table",
+        "tags": [
+          "binary search",
+          "dp",
+          "implementation",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223857013"
+    },
+    {
+      "type": "codeforces",
+      "id": 223852531,
+      "creationTime": 1695047901,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870B",
+        "name": "Friendly Arrays",
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223852531"
+    },
+    {
+      "type": "codeforces",
+      "id": 223851952,
+      "creationTime": 1695047797,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1695047700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1870A",
+        "name": "MEXanized Array",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1870/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1870/submission/223851952"
+    },
+    {
+      "type": "codeforces",
       "id": 221293468,
       "creationTime": 1693493636,
       "language": "GNU C++20 (64)",
@@ -114164,7 +114596,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3816,
+    "rating": 3750,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
