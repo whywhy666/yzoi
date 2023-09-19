@@ -17473,6 +17473,16 @@
     "standingsUrl": "https://codeforces.com/gym/104598/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 Argentinian Programming Tournament (TAP)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104603,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104603",
+    "standingsUrl": "https://codeforces.com/gym/104603/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "XXVII Spain Olympiad in Informatics, Day 2",
     "startTime": 1679815800,
