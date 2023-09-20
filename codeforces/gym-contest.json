@@ -17303,6 +17303,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Coding Challenge Alpha by AlgoRave",
+    "startTime": 1694867400,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104577,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104577",
+    "standingsUrl": "https://codeforces.com/gym/104577/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2016 Google Code Jam World Finals (GCJ 16 World Finals)",
     "duration": 14400,
     "participantNumber": 0,
@@ -17503,5 +17514,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104604",
     "standingsUrl": "https://codeforces.com/gym/104604/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023湖南省赛",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104611,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104611",
+    "standingsUrl": "https://codeforces.com/gym/104611/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020 Google Code Jam Round 1A (GCJ 20 Round 1A)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104610,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104610",
+    "standingsUrl": "https://codeforces.com/gym/104610/standings"
   }
 ]
