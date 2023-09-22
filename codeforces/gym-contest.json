@@ -17303,17 +17303,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Coding Challenge Alpha by AlgoRave",
-    "startTime": 1694867400,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 104577,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/104577",
-    "standingsUrl": "https://codeforces.com/gym/104577/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "2016 Google Code Jam World Finals (GCJ 16 World Finals)",
     "duration": 14400,
     "participantNumber": 0,
@@ -17517,6 +17506,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Udmurt SU + Izhevsk STU Contest 2012",
+    "startTime": 1695276000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104609,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104609",
+    "standingsUrl": "https://codeforces.com/gym/104609/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2023湖南省赛",
     "duration": 18000,
     "participantNumber": 0,
@@ -17534,5 +17534,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104610",
     "standingsUrl": "https://codeforces.com/gym/104610/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 ICPC East Central North America Regional Contest (ECNA 2022)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104614,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104614",
+    "standingsUrl": "https://codeforces.com/gym/104614/standings"
   }
 ]
