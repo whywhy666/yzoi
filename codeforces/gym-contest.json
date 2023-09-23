@@ -17544,5 +17544,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104614",
     "standingsUrl": "https://codeforces.com/gym/104614/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-22-23 Div. 2 (Beginner)",
+    "startTime": 1695423600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104617,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104617",
+    "standingsUrl": "https://codeforces.com/gym/104617/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 ICPC Asia Taiwan Online Programming Contest",
+    "startTime": 1694826000,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104619,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104619",
+    "standingsUrl": "https://codeforces.com/gym/104619/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-22-23 Div. 1",
+    "startTime": 1695423600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104618,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104618",
+    "standingsUrl": "https://codeforces.com/gym/104618/standings"
   }
 ]
