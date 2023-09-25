@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1870F",
         "name": "Lazy Numbers",
+        "rating": 2900,
         "tags": [
           "binary search",
           "math"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -70,6 +72,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -94,6 +97,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -118,6 +122,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -142,6 +147,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -166,6 +172,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -190,6 +197,7 @@
         "type": "codeforces",
         "id": "1870F",
         "name": "Lazy Numbers",
+        "rating": 2900,
         "tags": [
           "binary search",
           "math"
@@ -215,6 +223,7 @@
         "type": "codeforces",
         "id": "1870F",
         "name": "Lazy Numbers",
+        "rating": 2900,
         "tags": [
           "binary search",
           "math"
@@ -240,6 +249,7 @@
         "type": "codeforces",
         "id": "1870F",
         "name": "Lazy Numbers",
+        "rating": 2900,
         "tags": [
           "binary search",
           "math"
@@ -265,6 +275,7 @@
         "type": "codeforces",
         "id": "1870F",
         "name": "Lazy Numbers",
+        "rating": 2900,
         "tags": [
           "binary search",
           "math"
@@ -290,6 +301,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -314,6 +326,7 @@
         "type": "codeforces",
         "id": "1870G",
         "name": "MEXanization",
+        "rating": 3300,
         "tags": [
           "data structures"
         ],
@@ -338,6 +351,7 @@
         "type": "codeforces",
         "id": "1870E",
         "name": "Another MEX Problem",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "brute force",
@@ -365,6 +379,7 @@
         "type": "codeforces",
         "id": "1870D",
         "name": "Prefix Purchase",
+        "rating": 1800,
         "tags": [
           "greedy",
           "implementation",
@@ -391,6 +406,7 @@
         "type": "codeforces",
         "id": "1870C",
         "name": "Colorful Table",
+        "rating": 1300,
         "tags": [
           "binary search",
           "data structures",
@@ -420,6 +436,7 @@
         "type": "codeforces",
         "id": "1870B",
         "name": "Friendly Arrays",
+        "rating": 1200,
         "tags": [
           "bitmasks",
           "greedy",
@@ -446,6 +463,7 @@
         "type": "codeforces",
         "id": "1870A",
         "name": "MEXanized Array",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -472,6 +490,7 @@
         "type": "codeforces",
         "id": "1861D",
         "name": "Sorting By Multiplication",
+        "rating": 1800,
         "tags": [
           "dp",
           "greedy"
@@ -497,6 +516,7 @@
         "type": "codeforces",
         "id": "1861E",
         "name": "Non-Intersecting Subpermutations",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "dp",
@@ -524,6 +544,7 @@
         "type": "codeforces",
         "id": "1861C",
         "name": "Queries for the Array",
+        "rating": 1600,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -552,6 +573,7 @@
         "type": "codeforces",
         "id": "1861B",
         "name": "Two Binary Strings",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -578,6 +600,7 @@
         "type": "codeforces",
         "id": "1861A",
         "name": "Prime Deletion",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -603,6 +626,7 @@
         "type": "codeforces",
         "id": "1863G",
         "name": "Swaps",
+        "rating": 2800,
         "tags": [
           "combinatorics",
           "dp",
@@ -630,6 +654,7 @@
         "type": "codeforces",
         "id": "1863F",
         "name": "Divide, XOR, and Conquer",
+        "rating": 2600,
         "tags": [
           "bitmasks",
           "dp",
@@ -656,6 +681,7 @@
         "type": "codeforces",
         "id": "1863E",
         "name": "Speedrun",
+        "rating": 2100,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -687,6 +713,7 @@
         "type": "codeforces",
         "id": "1863D",
         "name": "Two-Colored Dominoes",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -712,6 +739,7 @@
         "type": "codeforces",
         "id": "1863C",
         "name": "MEX Repetition",
+        "rating": 1100,
         "tags": [
           "implementation",
           "math"
@@ -737,6 +765,7 @@
         "type": "codeforces",
         "id": "1863A",
         "name": "Channel",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -762,6 +791,7 @@
         "type": "codeforces",
         "id": "1863B",
         "name": "Split Sort",
+        "rating": 1100,
         "tags": [
           "greedy",
           "math",
@@ -788,6 +818,7 @@
         "type": "codeforces",
         "id": "1863A",
         "name": "Channel",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -114615,7 +114646,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3727,
+    "rating": 3751,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
