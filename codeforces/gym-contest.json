@@ -17577,5 +17577,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104618",
     "standingsUrl": "https://codeforces.com/gym/104618/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "COMP4128 23T3 Contest 1",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104627,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104627",
+    "standingsUrl": "https://codeforces.com/gym/104627/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020 Google Code Jam Round 2 (GCJ 20 Round 2)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104631,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104631",
+    "standingsUrl": "https://codeforces.com/gym/104631/standings"
   }
 ]
