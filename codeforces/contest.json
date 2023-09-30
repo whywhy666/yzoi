@@ -1,6 +1,28 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round 901 (Div. 1)",
+    "startTime": 1696084500,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 1874,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1874",
+    "standingsUrl": "https://codeforces.com/contest/1874/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 901 (Div. 2)",
+    "startTime": 1696084500,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 1875,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1875",
+    "standingsUrl": "https://codeforces.com/contest/1875/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round 900 (Div. 3)",
     "startTime": 1695738900,
     "duration": 8100,

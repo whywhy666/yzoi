@@ -6,6 +6,186 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 226055202,
+      "creationTime": 1696094152,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1696084500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1874F",
+        "name": "Jellyfish and OEIS",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1874/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1874/submission/226055202"
+    },
+    {
+      "type": "codeforces",
+      "id": 226004287,
+      "creationTime": 1696089882,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1696084500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1874D",
+        "name": "Jellyfish and Miku",
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1874/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1874/submission/226004287"
+    },
+    {
+      "type": "codeforces",
+      "id": 225998158,
+      "creationTime": 1696089239,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1696084500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1874D",
+        "name": "Jellyfish and Miku",
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1874/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1874/submission/225998158"
+    },
+    {
+      "type": "codeforces",
+      "id": 225981897,
+      "creationTime": 1696087718,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1696084500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1874E",
+        "name": "Jellyfish and Hack",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1874/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1874/submission/225981897"
+    },
+    {
+      "type": "codeforces",
+      "id": 225968755,
+      "creationTime": 1696086614,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1696084500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1874C",
+        "name": "Jellyfish and EVA",
+        "tags": [
+          "dp",
+          "graphs",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1874/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1874/submission/225968755"
+    },
+    {
+      "type": "codeforces",
+      "id": 225944596,
+      "creationTime": 1696085536,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1696084500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1874B",
+        "name": "Jellyfish and Math",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1874/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1874/submission/225944596"
+    },
+    {
+      "type": "codeforces",
+      "id": 225922035,
+      "creationTime": 1696084716,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1696084500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1874A",
+        "name": "Jellyfish and Game",
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1874/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1874/submission/225922035"
+    },
+    {
+      "type": "codeforces",
       "id": 223925076,
       "creationTime": 1695059207,
       "language": "GNU C++20 (64)",
@@ -114646,7 +114826,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3751,
+    "rating": 3775,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
