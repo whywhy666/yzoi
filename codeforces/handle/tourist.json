@@ -125,6 +125,7 @@
         "tags": [
           "dp",
           "graphs",
+          "greedy",
           "math",
           "probabilities"
         ],
@@ -151,8 +152,11 @@
         "name": "Jellyfish and Math",
         "tags": [
           "bitmasks",
+          "brute force",
+          "dfs and similar",
           "dp",
-          "graphs"
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1874/problem/B"
       },

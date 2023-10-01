@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1696108069,
+  "updateTime": 1696194486,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 226055202,
-            "pid": "1874F",
-            "name": "Jellyfish and OEIS",
-            "verdict": "OK",
-            "creationTime": 1696094152
-          },
-          {
-            "platform": "codeforces",
-            "id": 226004287,
-            "pid": "1874D",
-            "name": "Jellyfish and Miku",
-            "verdict": "OK",
-            "creationTime": 1696089882
-          },
-          {
-            "platform": "codeforces",
-            "id": 225998158,
-            "pid": "1874D",
-            "name": "Jellyfish and Miku",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1696089239
-          },
-          {
-            "platform": "codeforces",
-            "id": 225981897,
-            "pid": "1874E",
-            "name": "Jellyfish and Hack",
-            "verdict": "OK",
-            "creationTime": 1696087718
-          },
-          {
-            "platform": "codeforces",
-            "id": 225968755,
-            "pid": "1874C",
-            "name": "Jellyfish and EVA",
-            "verdict": "OK",
-            "creationTime": 1696086614
-          },
-          {
-            "platform": "codeforces",
-            "id": 225944596,
-            "pid": "1874B",
-            "name": "Jellyfish and Math",
-            "verdict": "OK",
-            "creationTime": 1696085536
-          },
-          {
-            "platform": "codeforces",
-            "id": 225922035,
-            "pid": "1874A",
-            "name": "Jellyfish and Game",
-            "verdict": "OK",
-            "creationTime": 1696084716
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f44897f4e62f45b7e566f9bfff41aef1702431da"
+  "ref": "4fd5f6e32744d70359cb84d275a6dab1bcb32bcc"
 }
