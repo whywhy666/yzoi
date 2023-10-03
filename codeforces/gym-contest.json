@@ -17668,5 +17668,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104640",
     "standingsUrl": "https://codeforces.com/gym/104640/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2018 Google Code Jam Qualification Round (GCJ 18 Qualification Round)",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104642,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104642",
+    "standingsUrl": "https://codeforces.com/gym/104642/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2018 Google Code Jam World Finals (GCJ 18 World Finals)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104645,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104645",
+    "standingsUrl": "https://codeforces.com/gym/104645/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2018 Google Code Jam Round 1C (GCJ 18 Round 1C)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104644,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104644",
+    "standingsUrl": "https://codeforces.com/gym/104644/standings"
   }
 ]
