@@ -17729,5 +17729,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104651",
     "standingsUrl": "https://codeforces.com/gym/104651/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2019 Google Code Jam Round 1C (GCJ 19 Round 1C)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104655,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104655",
+    "standingsUrl": "https://codeforces.com/gym/104655/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2019 Google Code Jam Round 2 (GCJ 19 Round 2)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104656,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104656",
+    "standingsUrl": "https://codeforces.com/gym/104656/standings"
   }
 ]
