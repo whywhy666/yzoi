@@ -17749,5 +17749,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104656",
     "standingsUrl": "https://codeforces.com/gym/104656/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020 Google Code Jam Round 1B (GCJ 20 Round 1B)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104659,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104659",
+    "standingsUrl": "https://codeforces.com/gym/104659/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020 Google Code Jam Qualification Round (GCJ 20 Qualification Round)",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104660,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104660",
+    "standingsUrl": "https://codeforces.com/gym/104660/standings"
   }
 ]
