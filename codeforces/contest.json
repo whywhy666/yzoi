@@ -1,6 +1,28 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",
+    "startTime": 1696755900,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 1876,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1876",
+    "standingsUrl": "https://codeforces.com/contest/1876/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 902 (Div. 2, based on COMPFEST 15 - Final Round)",
+    "startTime": 1696755900,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 1877,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1877",
+    "standingsUrl": "https://codeforces.com/contest/1877/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round 901 (Div. 1)",
     "startTime": 1696084500,
     "duration": 10800,
