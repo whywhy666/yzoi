@@ -17804,12 +17804,32 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2018-2019 ICPC Central Europe Regional Contest (CERC 18)",
+    "name": "Turtle Codes",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104669,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104669",
+    "standingsUrl": "https://codeforces.com/gym/104669/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2018-2019 ACM-ICPC Central Europe Regional Contest (CERC 18)",
     "duration": 18000,
     "participantNumber": 0,
     "id": 104668,
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104668",
     "standingsUrl": "https://codeforces.com/gym/104668/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2021)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104670,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104670",
+    "standingsUrl": "https://codeforces.com/gym/104670/standings"
   }
 ]
