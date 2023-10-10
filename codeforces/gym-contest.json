@@ -17772,6 +17772,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Replay of Ostad Presents Intra KUET Programming Contest 2023",
+    "startTime": 1696942800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104663,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104663",
+    "standingsUrl": "https://codeforces.com/gym/104663/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "UTPC Contest 10-06-23 Div. 1 (Advanced)",
     "startTime": 1696633800,
     "duration": 7200,
@@ -17831,5 +17842,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104670",
     "standingsUrl": "https://codeforces.com/gym/104670/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022-2023 CTU Open Contest",
+    "startTime": 1667638800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104673,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104673",
+    "standingsUrl": "https://codeforces.com/gym/104673/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020 Google Code Jam Round 3 (GCJ 20 Round 3)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104672,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104672",
+    "standingsUrl": "https://codeforces.com/gym/104672/standings"
   }
 ]
