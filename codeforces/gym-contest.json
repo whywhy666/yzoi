@@ -17908,6 +17908,27 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #24 (DIV3-Forces)",
+    "startTime": 1697207700,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 104683,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104683",
+    "standingsUrl": "https://codeforces.com/gym/104683/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Отбор в ЦРОД 2022",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104687,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104687",
+    "standingsUrl": "https://codeforces.com/gym/104687/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2022-2023 ICPC Central Europe Regional Contest (CERC 22)",
     "startTime": 1669532400,
     "duration": 18000,
@@ -17916,5 +17937,55 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104686",
     "standingsUrl": "https://codeforces.com/gym/104686/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Квадраты и кубы",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104689,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104689",
+    "standingsUrl": "https://codeforces.com/gym/104689/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 Google Code Jam Round 1A (GCJ 21 Round 1A)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104688,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104688",
+    "standingsUrl": "https://codeforces.com/gym/104688/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Кубы и квадраты",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104691,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104691",
+    "standingsUrl": "https://codeforces.com/gym/104691/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 Google Code Jam Round 1B (GCJ 21 Round 1B)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104690,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104690",
+    "standingsUrl": "https://codeforces.com/gym/104690/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 Google Code Jam Round 1C (GCJ 21 Round 1C)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104692,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104692",
+    "standingsUrl": "https://codeforces.com/gym/104692/standings"
   }
 ]
