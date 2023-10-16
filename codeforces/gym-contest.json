@@ -17846,6 +17846,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2023 ICPC Columbia University Local Contest",
+    "startTime": 1697389200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104671,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104671",
+    "standingsUrl": "https://codeforces.com/gym/104671/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2021-2022 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2021)",
     "duration": 18000,
     "participantNumber": 0,
@@ -17998,5 +18009,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104692",
     "standingsUrl": "https://codeforces.com/gym/104692/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2023-2024, Вторая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104699,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104699",
+    "standingsUrl": "https://codeforces.com/gym/104699/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 Google Code Jam Round 2 (GCJ 21 Round 2)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104702,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104702",
+    "standingsUrl": "https://codeforces.com/gym/104702/standings"
   }
 ]
