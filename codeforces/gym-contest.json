@@ -18029,5 +18029,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104702",
     "standingsUrl": "https://codeforces.com/gym/104702/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "COMP4128 23T3 Contest 2",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104707,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104707",
+    "standingsUrl": "https://codeforces.com/gym/104707/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 Google Code Jam Round 1A (GCJ 22 Round 1A)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104709,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104709",
+    "standingsUrl": "https://codeforces.com/gym/104709/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 Google Code Jam Round 3 (GCJ 21 Round 3)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104708,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104708",
+    "standingsUrl": "https://codeforces.com/gym/104708/standings"
   }
 ]
