@@ -1354,17 +1354,6 @@
   },
   {
     "type": "codeforces/ioi",
-    "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
-    "startTime": 1668643200,
-    "duration": 1209540,
-    "participantNumber": 0,
-    "id": 1751,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1751",
-    "standingsUrl": "https://codeforces.com/contest/1751/standings"
-  },
-  {
-    "type": "codeforces/ioi",
     "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
     "startTime": 1668643200,
     "duration": 1209540,
@@ -1373,6 +1362,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1752",
     "standingsUrl": "https://codeforces.com/contest/1752/standings"
+  },
+  {
+    "type": "codeforces/ioi",
+    "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
+    "startTime": 1668643200,
+    "duration": 1209540,
+    "participantNumber": 0,
+    "id": 1751,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1751",
+    "standingsUrl": "https://codeforces.com/contest/1751/standings"
   },
   {
     "type": "codeforces/cf",
@@ -2795,17 +2795,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2022 - Elimination Round 3",
-    "startTime": 1639322100,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1585,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1585",
-    "standingsUrl": "https://codeforces.com/contest/1585/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 759 (Div. 2, based on Technocup 2022 Elimination Round 3)",
     "startTime": 1639322100,
     "duration": 7200,
@@ -2814,6 +2803,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1591",
     "standingsUrl": "https://codeforces.com/contest/1591/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2022 - Elimination Round 3",
+    "startTime": 1639322100,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1585,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1585",
+    "standingsUrl": "https://codeforces.com/contest/1585/standings"
   },
   {
     "type": "codeforces/cf",
@@ -2905,17 +2905,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2022 - Elimination Round 2",
-    "startTime": 1636869900,
-    "duration": 8100,
-    "participantNumber": 0,
-    "id": 1584,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1584",
-    "standingsUrl": "https://codeforces.com/contest/1584/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",
     "startTime": 1636869900,
     "duration": 8100,
@@ -2935,6 +2924,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1589",
     "standingsUrl": "https://codeforces.com/contest/1589/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2022 - Elimination Round 2",
+    "startTime": 1636869900,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 1584,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1584",
+    "standingsUrl": "https://codeforces.com/contest/1584/standings"
   },
   {
     "type": "codeforces/cf",
@@ -3037,17 +3037,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2022 - Elimination Round 1",
-    "startTime": 1634468700,
-    "duration": 8100,
-    "participantNumber": 0,
-    "id": 1583,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1583",
-    "standingsUrl": "https://codeforces.com/contest/1583/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)",
     "startTime": 1634468700,
     "duration": 8100,
@@ -3056,6 +3045,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1586",
     "standingsUrl": "https://codeforces.com/contest/1586/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2022 - Elimination Round 1",
+    "startTime": 1634468700,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 1583,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1583",
+    "standingsUrl": "https://codeforces.com/contest/1583/standings"
   },
   {
     "type": "codeforces/cf",
@@ -3455,17 +3455,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2021 - Elimination (Engine)",
-    "startTime": 1626532500,
-    "duration": 10800,
-    "participantNumber": 0,
-    "id": 1544,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1544",
-    "standingsUrl": "https://codeforces.com/contest/1544/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",
     "startTime": 1626532500,
     "duration": 10800,
@@ -3474,6 +3463,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1530",
     "standingsUrl": "https://codeforces.com/contest/1530/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2021 - Elimination (Engine)",
+    "startTime": 1626532500,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 1544,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1544",
+    "standingsUrl": "https://codeforces.com/contest/1544/standings"
   },
   {
     "type": "codeforces/cf",
@@ -4335,17 +4335,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2021 - Elimination Round 3",
-    "startTime": 1608476700,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1411,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1411",
-    "standingsUrl": "https://codeforces.com/contest/1411/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",
     "startTime": 1608476700,
     "duration": 7200,
@@ -4365,6 +4354,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1465",
     "standingsUrl": "https://codeforces.com/contest/1465/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2021 - Elimination Round 3",
+    "startTime": 1608476700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1411,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1411",
+    "standingsUrl": "https://codeforces.com/contest/1411/standings"
   },
   {
     "type": "codeforces/cf",
@@ -4478,17 +4478,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2021 - Elimination Round 2",
-    "startTime": 1606633500,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1415,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1415",
-    "standingsUrl": "https://codeforces.com/contest/1415/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 687 (Div. 1, based on Technocup 2021 Elimination Round 2)",
     "startTime": 1606633500,
     "duration": 7200,
@@ -4508,6 +4497,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1457",
     "standingsUrl": "https://codeforces.com/contest/1457/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2021 - Elimination Round 2",
+    "startTime": 1606633500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1415,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1415",
+    "standingsUrl": "https://codeforces.com/contest/1415/standings"
   },
   {
     "type": "codeforces/cf",
@@ -4698,17 +4698,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2021 - Elimination Round 1",
-    "startTime": 1603623900,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1413,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1413",
-    "standingsUrl": "https://codeforces.com/contest/1413/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 679 (Div. 1, based on Technocup 2021 Elimination Round 1)",
     "startTime": 1603623900,
     "duration": 7200,
@@ -4728,6 +4717,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1435",
     "standingsUrl": "https://codeforces.com/contest/1435/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2021 - Elimination Round 1",
+    "startTime": 1603623900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1413,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1413",
+    "standingsUrl": "https://codeforces.com/contest/1413/standings"
   },
   {
     "type": "codeforces/cf",
@@ -5963,17 +5963,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2019-2020 - Elimination Round (Engine)",
-    "startTime": 1582473900,
-    "duration": 9000,
-    "participantNumber": 0,
-    "id": 1310,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1310",
-    "standingsUrl": "https://codeforces.com/contest/1310/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",
     "startTime": 1582473900,
     "duration": 9000,
@@ -5993,6 +5982,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1315",
     "standingsUrl": "https://codeforces.com/contest/1315/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2019-2020 - Elimination Round (Engine)",
+    "startTime": 1582473900,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 1310,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1310",
+    "standingsUrl": "https://codeforces.com/contest/1310/standings"
   },
   {
     "type": "codeforces/cf",
@@ -6348,17 +6348,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2020 - Elimination Round 4",
-    "startTime": 1576321500,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1259,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1259",
-    "standingsUrl": "https://codeforces.com/contest/1259/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 606 (Div. 1, based on Technocup 2020 Elimination Round 4)",
     "startTime": 1576321500,
     "duration": 7200,
@@ -6378,6 +6367,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1277",
     "standingsUrl": "https://codeforces.com/contest/1277/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2020 - Elimination Round 4",
+    "startTime": 1576321500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1259,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1259",
+    "standingsUrl": "https://codeforces.com/contest/1259/standings"
   },
   {
     "type": "codeforces/cf",
@@ -6413,17 +6413,6 @@
     "standingsUrl": "https://codeforces.com/contest/1273/standings"
   },
   {
-    "type": "codeforces/ioi",
-    "name": "VK Cup 2019 - Квалификация (Mobile)",
-    "startTime": 1575580200,
-    "duration": 950400,
-    "participantNumber": 0,
-    "id": 1274,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1274",
-    "standingsUrl": "https://codeforces.com/contest/1274/standings"
-  },
-  {
     "type": "codeforces/icpc",
     "name": "VK Cup 2019 - Квалификация (Engine)",
     "startTime": 1575580200,
@@ -6433,6 +6422,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1275",
     "standingsUrl": "https://codeforces.com/contest/1275/standings"
+  },
+  {
+    "type": "codeforces/ioi",
+    "name": "VK Cup 2019 - Квалификация (Mobile)",
+    "startTime": 1575580200,
+    "duration": 950400,
+    "participantNumber": 0,
+    "id": 1274,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1274",
+    "standingsUrl": "https://codeforces.com/contest/1274/standings"
   },
   {
     "type": "codeforces/cf",
@@ -6491,17 +6491,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2020 - Elimination Round 3",
-    "startTime": 1574582700,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1227,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1227",
-    "standingsUrl": "https://codeforces.com/contest/1227/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",
     "startTime": 1574582700,
     "duration": 7200,
@@ -6521,6 +6510,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1262",
     "standingsUrl": "https://codeforces.com/contest/1262/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2020 - Elimination Round 3",
+    "startTime": 1574582700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1227,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1227",
+    "standingsUrl": "https://codeforces.com/contest/1227/standings"
   },
   {
     "type": "codeforces/cf",
@@ -6645,17 +6645,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2020 - Elimination Round 2",
-    "startTime": 1572087900,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1225,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1225",
-    "standingsUrl": "https://codeforces.com/contest/1225/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 596 (Div. 1, based on Technocup 2020 Elimination Round 2)",
     "startTime": 1572087900,
     "duration": 7200,
@@ -6675,6 +6664,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1247",
     "standingsUrl": "https://codeforces.com/contest/1247/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2020 - Elimination Round 2",
+    "startTime": 1572087900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1225,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1225",
+    "standingsUrl": "https://codeforces.com/contest/1225/standings"
   },
   {
     "type": "codeforces/cf",
@@ -6777,17 +6777,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2020 - Elimination Round 1",
-    "startTime": 1570374300,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1223,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1223",
-    "standingsUrl": "https://codeforces.com/contest/1223/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 591 (Div. 1, based on Technocup 2020 Elimination Round 1)",
     "startTime": 1570374300,
     "duration": 7200,
@@ -6807,6 +6796,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1241",
     "standingsUrl": "https://codeforces.com/contest/1241/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2020 - Elimination Round 1",
+    "startTime": 1570374300,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1223,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1223",
+    "standingsUrl": "https://codeforces.com/contest/1223/standings"
   },
   {
     "type": "codeforces/cf",
@@ -6876,17 +6876,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Dasha Code Championship - SPb Finals Round (only for onsite-finalists)",
-    "startTime": 1569143100,
-    "duration": 9000,
-    "participantNumber": 0,
-    "id": 1210,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1210",
-    "standingsUrl": "https://codeforces.com/contest/1210/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Dasha Code Championship - Novosibirsk Finals Round (only for onsite-finalists)",
     "startTime": 1569143100,
     "duration": 9000,
@@ -6895,6 +6884,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1231",
     "standingsUrl": "https://codeforces.com/contest/1231/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Dasha Code Championship - SPb Finals Round (only for onsite-finalists)",
+    "startTime": 1569143100,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 1210,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1210",
+    "standingsUrl": "https://codeforces.com/contest/1210/standings"
   },
   {
     "type": "codeforces/cf",
@@ -7569,17 +7569,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Forethought Future Cup - Final Round (Onsite Finalists Only)",
-    "startTime": 1556989500,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1147,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1147",
-    "standingsUrl": "https://codeforces.com/contest/1147/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 557 (Div. 1) [based on Forethought Future Cup - Final Round]",
     "startTime": 1556989500,
     "duration": 7200,
@@ -7599,6 +7588,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1162",
     "standingsUrl": "https://codeforces.com/contest/1162/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Forethought Future Cup - Final Round (Onsite Finalists Only)",
+    "startTime": 1556989500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1147,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1147",
+    "standingsUrl": "https://codeforces.com/contest/1147/standings"
   },
   {
     "type": "codeforces/cf",
@@ -8196,17 +8196,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2019 - Elimination Round 4",
-    "startTime": 1545572100,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1085,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1085",
-    "standingsUrl": "https://codeforces.com/contest/1085/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 528 (Div. 1, based on Technocup 2019 Elimination Round 4)",
     "startTime": 1545572100,
     "duration": 7200,
@@ -8226,6 +8215,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1087",
     "standingsUrl": "https://codeforces.com/contest/1087/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2019 - Elimination Round 4",
+    "startTime": 1545572100,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1085,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1085",
+    "standingsUrl": "https://codeforces.com/contest/1085/standings"
   },
   {
     "type": "codeforces/cf",
@@ -8372,17 +8372,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2019 - Elimination Round 3",
-    "startTime": 1542557100,
-    "duration": 8400,
-    "participantNumber": 0,
-    "id": 1032,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1032",
-    "standingsUrl": "https://codeforces.com/contest/1032/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 522 (Div. 1, based on Technocup 2019 Elimination Round 3)",
     "startTime": 1542557100,
     "duration": 8400,
@@ -8402,6 +8391,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1079",
     "standingsUrl": "https://codeforces.com/contest/1079/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2019 - Elimination Round 3",
+    "startTime": 1542557100,
+    "duration": 8400,
+    "participantNumber": 0,
+    "id": 1032,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1032",
+    "standingsUrl": "https://codeforces.com/contest/1032/standings"
   },
   {
     "type": "codeforces/cf",
@@ -8537,17 +8537,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2019 - Elimination Round 2",
-    "startTime": 1540109400,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1031,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1031",
-    "standingsUrl": "https://codeforces.com/contest/1031/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 517 (Div. 1, based on Technocup 2019 Elimination Round 2)",
     "startTime": 1540109400,
     "duration": 7200,
@@ -8567,6 +8556,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1072",
     "standingsUrl": "https://codeforces.com/contest/1072/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2019 - Elimination Round 2",
+    "startTime": 1540109400,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1031,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1031",
+    "standingsUrl": "https://codeforces.com/contest/1031/standings"
   },
   {
     "type": "codeforces/icpc",
@@ -8691,17 +8691,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2019 - Elimination Round 1",
-    "startTime": 1537707900,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 1030,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/1030",
-    "standingsUrl": "https://codeforces.com/contest/1030/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 512 (Div. 1, based on Technocup 2019 Elimination Round 1)",
     "startTime": 1537707900,
     "duration": 7200,
@@ -8721,6 +8710,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1058",
     "standingsUrl": "https://codeforces.com/contest/1058/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2019 - Elimination Round 1",
+    "startTime": 1537707900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1030,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1030",
+    "standingsUrl": "https://codeforces.com/contest/1030/standings"
   },
   {
     "type": "codeforces/cf",
@@ -9439,17 +9439,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2018 - Round 3",
-    "startTime": 1525007700,
-    "duration": 9000,
-    "participantNumber": 0,
-    "id": 925,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/925",
-    "standingsUrl": "https://codeforces.com/contest/925/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 477 (rated, Div. 1, based on VK Cup 2018 Round 3)",
     "startTime": 1525007700,
     "duration": 9000,
@@ -9469,6 +9458,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/967",
     "standingsUrl": "https://codeforces.com/contest/967/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2018 - Round 3",
+    "startTime": 1525007700,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 925,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/925",
+    "standingsUrl": "https://codeforces.com/contest/925/standings"
   },
   {
     "type": "codeforces/cf",
@@ -9582,17 +9582,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2018 - Round 2",
-    "startTime": 1521905700,
-    "duration": 8100,
-    "participantNumber": 0,
-    "id": 924,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/924",
-    "standingsUrl": "https://codeforces.com/contest/924/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 472 (rated, Div. 1, based on VK Cup 2018 Round 2)",
     "startTime": 1521905700,
     "duration": 8100,
@@ -9612,6 +9601,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/957",
     "standingsUrl": "https://codeforces.com/contest/957/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2018 - Round 2",
+    "startTime": 1521905700,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 924,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/924",
+    "standingsUrl": "https://codeforces.com/contest/924/standings"
   },
   {
     "type": "codeforces/cf",
@@ -9659,17 +9659,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2018 - Round 1",
-    "startTime": 1520696100,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 923,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/923",
-    "standingsUrl": "https://codeforces.com/contest/923/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 470 (rated, Div. 1, based on VK Cup 2018 Round 1)",
     "startTime": 1520696100,
     "duration": 7200,
@@ -9689,6 +9678,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/948",
     "standingsUrl": "https://codeforces.com/contest/948/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2018 - Round 1",
+    "startTime": 1520696100,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 923,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/923",
+    "standingsUrl": "https://codeforces.com/contest/923/standings"
   },
   {
     "type": "codeforces/cf",
@@ -10374,17 +10374,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2018 - Elimination Round 2",
-    "startTime": 1508054700,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 870,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/870",
-    "standingsUrl": "https://codeforces.com/contest/870/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 440 (Div. 1, based on Technocup 2018 Elimination Round 2)",
     "startTime": 1508054700,
     "duration": 7200,
@@ -10404,6 +10393,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/872",
     "standingsUrl": "https://codeforces.com/contest/872/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2018 - Elimination Round 2",
+    "startTime": 1508054700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 870,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/870",
+    "standingsUrl": "https://codeforces.com/contest/870/standings"
   },
   {
     "type": "codeforces/icpc",
@@ -10451,6 +10451,17 @@
   },
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round 437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",
+    "startTime": 1506791100,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 867,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/867",
+    "standingsUrl": "https://codeforces.com/contest/867/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists)",
     "startTime": 1506791100,
     "duration": 10800,
@@ -10470,17 +10481,6 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/866",
     "standingsUrl": "https://codeforces.com/contest/866/standings"
-  },
-  {
-    "type": "codeforces/cf",
-    "name": "Codeforces Round 437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",
-    "startTime": 1506791100,
-    "duration": 10800,
-    "participantNumber": 0,
-    "id": 867,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/867",
-    "standingsUrl": "https://codeforces.com/contest/867/standings"
   },
   {
     "type": "codeforces/cf",
@@ -11111,17 +11111,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2017 - Round 3",
-    "startTime": 1494171900,
-    "duration": 10800,
-    "participantNumber": 0,
-    "id": 773,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/773",
-    "standingsUrl": "https://codeforces.com/contest/773/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 412 (rated, Div. 1, based on VK Cup 2017 Round 3)",
     "startTime": 1494171900,
     "duration": 10800,
@@ -11141,6 +11130,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/807",
     "standingsUrl": "https://codeforces.com/contest/807/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2017 - Round 3",
+    "startTime": 1494171900,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 773,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/773",
+    "standingsUrl": "https://codeforces.com/contest/773/standings"
   },
   {
     "type": "codeforces/cf",
@@ -11210,17 +11210,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2017 - Round 2",
-    "startTime": 1492356900,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 772,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/772",
-    "standingsUrl": "https://codeforces.com/contest/772/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 409 (rated, Div. 1, based on VK Cup 2017 Round 2)",
     "startTime": 1492356900,
     "duration": 7200,
@@ -11240,6 +11229,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/801",
     "standingsUrl": "https://codeforces.com/contest/801/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2017 - Round 2",
+    "startTime": 1492356900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 772,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/772",
+    "standingsUrl": "https://codeforces.com/contest/772/standings"
   },
   {
     "type": "codeforces/icpc",
@@ -11353,17 +11353,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2017 - Round 1",
-    "startTime": 1489851300,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 771,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/771",
-    "standingsUrl": "https://codeforces.com/contest/771/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 405 (rated, Div. 1, based on VK Cup 2017 Round 1)",
     "startTime": 1489851300,
     "duration": 7200,
@@ -11383,6 +11372,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/791",
     "standingsUrl": "https://codeforces.com/contest/791/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2017 - Round 1",
+    "startTime": 1489851300,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 771,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/771",
+    "standingsUrl": "https://codeforces.com/contest/771/standings"
   },
   {
     "type": "codeforces/cf",
@@ -11683,17 +11683,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2017 - Elimination Round 3",
-    "startTime": 1482656700,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 748,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/748",
-    "standingsUrl": "https://codeforces.com/contest/748/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 389 (Div. 2, Rated, Based on Technocup 2017 - Elimination Round 3)",
     "startTime": 1482656700,
     "duration": 7200,
@@ -11702,6 +11691,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/752",
     "standingsUrl": "https://codeforces.com/contest/752/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2017 - Elimination Round 3",
+    "startTime": 1482656700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 748,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/748",
+    "standingsUrl": "https://codeforces.com/contest/748/standings"
   },
   {
     "type": "codeforces/cf",
@@ -11804,17 +11804,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 382 (Div. 2)",
-    "startTime": 1480264500,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 735,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/735",
-    "standingsUrl": "https://codeforces.com/contest/735/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 382 (Div. 1)",
     "startTime": 1480264500,
     "duration": 7200,
@@ -11823,6 +11812,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/736",
     "standingsUrl": "https://codeforces.com/contest/736/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 382 (Div. 2)",
+    "startTime": 1480264500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 735,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/735",
+    "standingsUrl": "https://codeforces.com/contest/735/standings"
   },
   {
     "type": "codeforces/cf",
@@ -11848,17 +11848,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Technocup 2017 - Elimination Round 2",
-    "startTime": 1479632700,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 729,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/729",
-    "standingsUrl": "https://codeforces.com/contest/729/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 380 (Div. 1, Rated, Based on Technocup 2017 - Elimination Round 2)",
     "startTime": 1479632700,
     "duration": 7200,
@@ -11878,6 +11867,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/738",
     "standingsUrl": "https://codeforces.com/contest/738/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Technocup 2017 - Elimination Round 2",
+    "startTime": 1479632700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 729,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/729",
+    "standingsUrl": "https://codeforces.com/contest/729/standings"
   },
   {
     "type": "codeforces/cf",
@@ -12530,14 +12530,14 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2016 - Round 3",
+    "name": "Codeforces Round 351 (VK Cup 2016 Round 3, Div. 1 Edition)",
     "startTime": 1462633500,
     "duration": 10800,
     "participantNumber": 0,
-    "id": 643,
+    "id": 674,
     "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/643",
-    "standingsUrl": "https://codeforces.com/contest/643/standings"
+    "contestUrl": "https://codeforces.com/contest/674",
+    "standingsUrl": "https://codeforces.com/contest/674/standings"
   },
   {
     "type": "codeforces/cf",
@@ -12552,14 +12552,14 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 351 (VK Cup 2016 Round 3, Div. 1 Edition)",
+    "name": "VK Cup 2016 - Round 3",
     "startTime": 1462633500,
     "duration": 10800,
     "participantNumber": 0,
-    "id": 674,
+    "id": 643,
     "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/674",
-    "standingsUrl": "https://codeforces.com/contest/674/standings"
+    "contestUrl": "https://codeforces.com/contest/643",
+    "standingsUrl": "https://codeforces.com/contest/643/standings"
   },
   {
     "type": "codeforces/cf",
@@ -12607,17 +12607,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2016 - Round 2",
-    "startTime": 1461515700,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 641,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/641",
-    "standingsUrl": "https://codeforces.com/contest/641/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 348 (VK Cup 2016 Round 2, Div. 1 Edition)",
     "startTime": 1461515700,
     "duration": 7200,
@@ -12637,6 +12626,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/669",
     "standingsUrl": "https://codeforces.com/contest/669/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2016 - Round 2",
+    "startTime": 1461515700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 641,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/641",
+    "standingsUrl": "https://codeforces.com/contest/641/standings"
   },
   {
     "type": "codeforces/icpc",
@@ -12750,17 +12750,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "VK Cup 2016 - Round 1 (Div.1 Edition)",
-    "startTime": 1459182900,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 657,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/657",
-    "standingsUrl": "https://codeforces.com/contest/657/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "VK Cup 2016 - Round 1 (Div. 2 Edition)",
     "startTime": 1459182900,
     "duration": 7200,
@@ -12769,6 +12758,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/658",
     "standingsUrl": "https://codeforces.com/contest/658/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "VK Cup 2016 - Round 1 (Div.1 Edition)",
+    "startTime": 1459182900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 657,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/657",
+    "standingsUrl": "https://codeforces.com/contest/657/standings"
   },
   {
     "type": "codeforces/cf",
@@ -13960,17 +13960,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 299 (Div. 2)",
-    "startTime": 1429029300,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 535,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/535",
-    "standingsUrl": "https://codeforces.com/contest/535/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 299 (Div. 1)",
     "startTime": 1429029300,
     "duration": 7200,
@@ -13979,6 +13968,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/536",
     "standingsUrl": "https://codeforces.com/contest/536/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 299 (Div. 2)",
+    "startTime": 1429029300,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 535,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/535",
+    "standingsUrl": "https://codeforces.com/contest/535/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14059,17 +14059,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 296 (Div. 2)",
-    "startTime": 1426610700,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 527,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/527",
-    "standingsUrl": "https://codeforces.com/contest/527/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 296 (Div. 1)",
     "startTime": 1426610700,
     "duration": 7200,
@@ -14078,6 +14067,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/528",
     "standingsUrl": "https://codeforces.com/contest/528/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 296 (Div. 2)",
+    "startTime": 1426610700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 527,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/527",
+    "standingsUrl": "https://codeforces.com/contest/527/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14103,17 +14103,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 295 (Div. 2)",
-    "startTime": 1425279600,
-    "duration": 7500,
-    "participantNumber": 0,
-    "id": 520,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/520",
-    "standingsUrl": "https://codeforces.com/contest/520/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 295 (Div. 1)",
     "startTime": 1425279600,
     "duration": 7500,
@@ -14122,6 +14111,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/521",
     "standingsUrl": "https://codeforces.com/contest/521/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 295 (Div. 2)",
+    "startTime": 1425279600,
+    "duration": 7500,
+    "participantNumber": 0,
+    "id": 520,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/520",
+    "standingsUrl": "https://codeforces.com/contest/520/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14147,17 +14147,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 292 (Div. 2)",
-    "startTime": 1424190900,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 515,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/515",
-    "standingsUrl": "https://codeforces.com/contest/515/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 292 (Div. 1)",
     "startTime": 1424190900,
     "duration": 7200,
@@ -14166,6 +14155,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/516",
     "standingsUrl": "https://codeforces.com/contest/516/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 292 (Div. 2)",
+    "startTime": 1424190900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 515,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/515",
+    "standingsUrl": "https://codeforces.com/contest/515/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14246,17 +14246,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 286 (Div. 2)",
-    "startTime": 1421586000,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 505,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/505",
-    "standingsUrl": "https://codeforces.com/contest/505/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 286 (Div. 1)",
     "startTime": 1421586000,
     "duration": 7200,
@@ -14268,14 +14257,14 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 285 (Div. 2)",
-    "startTime": 1421053200,
+    "name": "Codeforces Round 286 (Div. 2)",
+    "startTime": 1421586000,
     "duration": 7200,
     "participantNumber": 0,
-    "id": 501,
+    "id": 505,
     "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/501",
-    "standingsUrl": "https://codeforces.com/contest/501/standings"
+    "contestUrl": "https://codeforces.com/contest/505",
+    "standingsUrl": "https://codeforces.com/contest/505/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14287,6 +14276,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/504",
     "standingsUrl": "https://codeforces.com/contest/504/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 285 (Div. 2)",
+    "startTime": 1421053200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 501,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/501",
+    "standingsUrl": "https://codeforces.com/contest/501/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14323,17 +14323,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 283 (Div. 2)",
-    "startTime": 1418833800,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 496,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/496",
-    "standingsUrl": "https://codeforces.com/contest/496/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 283 (Div. 1)",
     "startTime": 1418833800,
     "duration": 7200,
@@ -14342,6 +14331,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/497",
     "standingsUrl": "https://codeforces.com/contest/497/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 283 (Div. 2)",
+    "startTime": 1418833800,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 496,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/496",
+    "standingsUrl": "https://codeforces.com/contest/496/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14499,17 +14499,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 274 (Div. 2)",
-    "startTime": 1413709200,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 479,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/479",
-    "standingsUrl": "https://codeforces.com/contest/479/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 274 (Div. 1)",
     "startTime": 1413709200,
     "duration": 7200,
@@ -14518,6 +14507,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/480",
     "standingsUrl": "https://codeforces.com/contest/480/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 274 (Div. 2)",
+    "startTime": 1413709200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 479,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/479",
+    "standingsUrl": "https://codeforces.com/contest/479/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14532,17 +14532,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 272 (Div. 2)",
-    "startTime": 1413122400,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 476,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/476",
-    "standingsUrl": "https://codeforces.com/contest/476/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 272 (Div. 1)",
     "startTime": 1413122400,
     "duration": 7200,
@@ -14551,6 +14540,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/477",
     "standingsUrl": "https://codeforces.com/contest/477/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 272 (Div. 2)",
+    "startTime": 1413122400,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 476,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/476",
+    "standingsUrl": "https://codeforces.com/contest/476/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14961,17 +14961,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 250 (Div. 2)",
-    "startTime": 1401627600,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 437,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/437",
-    "standingsUrl": "https://codeforces.com/contest/437/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 250 (Div. 1)",
     "startTime": 1401627600,
     "duration": 7200,
@@ -14980,6 +14969,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/438",
     "standingsUrl": "https://codeforces.com/contest/438/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 250 (Div. 2)",
+    "startTime": 1401627600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 437,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/437",
+    "standingsUrl": "https://codeforces.com/contest/437/standings"
   },
   {
     "type": "codeforces/cf",
@@ -14994,17 +14994,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 248 (Div. 2)",
-    "startTime": 1400914800,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 433,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/433",
-    "standingsUrl": "https://codeforces.com/contest/433/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 248 (Div. 1)",
     "startTime": 1400914800,
     "duration": 7200,
@@ -15013,6 +15002,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/434",
     "standingsUrl": "https://codeforces.com/contest/434/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 248 (Div. 2)",
+    "startTime": 1400914800,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 433,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/433",
+    "standingsUrl": "https://codeforces.com/contest/433/standings"
   },
   {
     "type": "codeforces/cf",
@@ -15159,17 +15159,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "RCC 2014 Warmup (Div. 2)",
-    "startTime": 1397749200,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 417,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/417",
-    "standingsUrl": "https://codeforces.com/contest/417/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "RCC 2014 Warmup (Div. 1)",
     "startTime": 1397749200,
     "duration": 7200,
@@ -15178,6 +15167,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/418",
     "standingsUrl": "https://codeforces.com/contest/418/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "RCC 2014 Warmup (Div. 2)",
+    "startTime": 1397749200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 417,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/417",
+    "standingsUrl": "https://codeforces.com/contest/417/standings"
   },
   {
     "type": "codeforces/icpc",
@@ -15258,17 +15258,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 238 (Div. 2)",
-    "startTime": 1395502200,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 405,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/405",
-    "standingsUrl": "https://codeforces.com/contest/405/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 238 (Div. 1)",
     "startTime": 1395502200,
     "duration": 7200,
@@ -15277,6 +15266,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/406",
     "standingsUrl": "https://codeforces.com/contest/406/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 238 (Div. 2)",
+    "startTime": 1395502200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 405,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/405",
+    "standingsUrl": "https://codeforces.com/contest/405/standings"
   },
   {
     "type": "codeforces/cf",
@@ -15291,17 +15291,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 236 (Div. 2)",
-    "startTime": 1394983800,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 402,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/402",
-    "standingsUrl": "https://codeforces.com/contest/402/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 236 (Div. 1)",
     "startTime": 1394983800,
     "duration": 7200,
@@ -15310,6 +15299,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/403",
     "standingsUrl": "https://codeforces.com/contest/403/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 236 (Div. 2)",
+    "startTime": 1394983800,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 402,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/402",
+    "standingsUrl": "https://codeforces.com/contest/402/standings"
   },
   {
     "type": "codeforces/cf",
@@ -15962,17 +15962,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 198 (Div. 2)",
-    "startTime": 1377876600,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 340,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/340",
-    "standingsUrl": "https://codeforces.com/contest/340/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 198 (Div. 1)",
     "startTime": 1377876600,
     "duration": 7200,
@@ -15981,6 +15970,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/341",
     "standingsUrl": "https://codeforces.com/contest/341/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 198 (Div. 2)",
+    "startTime": 1377876600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 340,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/340",
+    "standingsUrl": "https://codeforces.com/contest/340/standings"
   },
   {
     "type": "codeforces/cf",
@@ -15995,17 +15995,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 196 (Div. 2)",
-    "startTime": 1376668800,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 337,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/337",
-    "standingsUrl": "https://codeforces.com/contest/337/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 196 (Div. 1)",
     "startTime": 1376668800,
     "duration": 7200,
@@ -16014,6 +16003,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/338",
     "standingsUrl": "https://codeforces.com/contest/338/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 196 (Div. 2)",
+    "startTime": 1376668800,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 337,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/337",
+    "standingsUrl": "https://codeforces.com/contest/337/standings"
   },
   {
     "type": "codeforces/cf",
@@ -16688,17 +16688,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 167 (Div. 2)",
-    "startTime": 1360769400,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 272,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/272",
-    "standingsUrl": "https://codeforces.com/contest/272/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 167 (Div. 1)",
     "startTime": 1360769400,
     "duration": 7200,
@@ -16707,6 +16696,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/273",
     "standingsUrl": "https://codeforces.com/contest/273/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 167 (Div. 2)",
+    "startTime": 1360769400,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 272,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/272",
+    "standingsUrl": "https://codeforces.com/contest/272/standings"
   },
   {
     "type": "codeforces/cf",
@@ -16963,17 +16963,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 152 (Div. 2)",
-    "startTime": 1353857400,
-    "duration": 8100,
-    "participantNumber": 0,
-    "id": 248,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/248",
-    "standingsUrl": "https://codeforces.com/contest/248/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 152 (Div. 1)",
     "startTime": 1353857400,
     "duration": 8100,
@@ -16982,6 +16971,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/249",
     "standingsUrl": "https://codeforces.com/contest/249/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 152 (Div. 2)",
+    "startTime": 1353857400,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 248,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/248",
+    "standingsUrl": "https://codeforces.com/contest/248/standings"
   },
   {
     "type": "codeforces/cf",
@@ -17106,17 +17106,6 @@
   },
   {
     "type": "codeforces/cf",
-    "name": "Codeforces Round 145 (Div. 2, ACM-ICPC Rules)",
-    "startTime": 1350370800,
-    "duration": 12600,
-    "participantNumber": 0,
-    "id": 234,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/contest/234",
-    "standingsUrl": "https://codeforces.com/contest/234/standings"
-  },
-  {
-    "type": "codeforces/cf",
     "name": "Codeforces Round 145 (Div. 1, ACM-ICPC Rules)",
     "startTime": 1350370800,
     "duration": 7200,
@@ -17125,6 +17114,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/240",
     "standingsUrl": "https://codeforces.com/contest/240/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 145 (Div. 2, ACM-ICPC Rules)",
+    "startTime": 1350370800,
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 234,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/234",
+    "standingsUrl": "https://codeforces.com/contest/234/standings"
   },
   {
     "type": "codeforces/cf",
