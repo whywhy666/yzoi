@@ -1,9 +1,48 @@
 {
   "version": "0.1.16",
-  "updateTime": 1698440891,
+  "updateTime": 1698527263,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 230219842,
+            "pid": "1889C2",
+            "name": "Doremy's Drying Plan (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1698506757
+          },
+          {
+            "platform": "codeforces",
+            "id": 230208723,
+            "pid": "1889C1",
+            "name": "Doremy's Drying Plan (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1698505678
+          },
+          {
+            "platform": "codeforces",
+            "id": 230199178,
+            "pid": "1889B",
+            "name": "Doremy's Connecting Plan",
+            "verdict": "OK",
+            "creationTime": 1698504915
+          },
+          {
+            "platform": "codeforces",
+            "id": 230184367,
+            "pid": "1889A",
+            "name": "Qingshan Loves Strings 2",
+            "verdict": "OK",
+            "creationTime": 1698503991
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "0eec4ae528fa08fc1a9fa79ff6e7d46f7292175e"
+  "ref": "dee096576d1d1794df9a53bc1fee6d52b5815296"
 }

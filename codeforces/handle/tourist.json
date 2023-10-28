@@ -6,6 +6,109 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 230219842,
+      "creationTime": 1698506757,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1698503700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1889C2",
+        "name": "Doremy's Drying Plan (Hard Version)",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1889/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1889/submission/230219842"
+    },
+    {
+      "type": "codeforces",
+      "id": 230208723,
+      "creationTime": 1698505678,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1698503700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1889C1",
+        "name": "Doremy's Drying Plan (Easy Version)",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1889/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1889/submission/230208723"
+    },
+    {
+      "type": "codeforces",
+      "id": 230199178,
+      "creationTime": 1698504915,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1698503700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1889B",
+        "name": "Doremy's Connecting Plan",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1889/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1889/submission/230199178"
+    },
+    {
+      "type": "codeforces",
+      "id": 230184367,
+      "creationTime": 1698503991,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1698503700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1889A",
+        "name": "Qingshan Loves Strings 2",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1889/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1889/submission/230184367"
+    },
+    {
+      "type": "codeforces",
       "id": 226055202,
       "creationTime": 1696094152,
       "language": "GNU C++20 (64)",
@@ -114833,7 +114936,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3775,
+    "rating": 3557,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
