@@ -18248,5 +18248,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104745",
     "standingsUrl": "https://codeforces.com/gym/104745/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 ICPC East North America Regional Contest",
+    "startTime": 1698591600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104757,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104757",
+    "standingsUrl": "https://codeforces.com/gym/104757/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2023 ICPC Masters Mexico Regional #ICPCMX2023 Edition",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104758,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104758",
+    "standingsUrl": "https://codeforces.com/gym/104758/standings"
   }
 ]
