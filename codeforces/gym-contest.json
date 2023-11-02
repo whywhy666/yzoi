@@ -18269,5 +18269,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104758",
     "standingsUrl": "https://codeforces.com/gym/104758/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 ICPC NERC (NEERC), Kyrgyzstan Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104761,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104761",
+    "standingsUrl": "https://codeforces.com/gym/104761/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 ICPC NERC (NEERC), Kyrgyzstan Qualification Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104760,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104760",
+    "standingsUrl": "https://codeforces.com/gym/104760/standings"
   }
 ]
