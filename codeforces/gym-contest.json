@@ -18289,5 +18289,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104760",
     "standingsUrl": "https://codeforces.com/gym/104760/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 11-03-23 Div. 2 (Beginner)",
+    "startTime": 1699053300,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104763,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104763",
+    "standingsUrl": "https://codeforces.com/gym/104763/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 11-03-23 Div. 1 (Advanced)",
+    "startTime": 1699053300,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104764,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104764",
+    "standingsUrl": "https://codeforces.com/gym/104764/standings"
   }
 ]
