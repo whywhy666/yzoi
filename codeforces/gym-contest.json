@@ -18262,17 +18262,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Coding Challenge Beta - by AlgoRave",
-    "startTime": 1699188300,
-    "duration": 10800,
-    "participantNumber": 0,
-    "id": 104759,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/104759",
-    "standingsUrl": "https://codeforces.com/gym/104759/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "The 2023 ICPC Masters Mexico Regional #ICPCMX2023 Edition",
     "duration": 18000,
     "participantNumber": 0,
@@ -18333,5 +18322,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104767",
     "standingsUrl": "https://codeforces.com/gym/104767/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 China Collegiate Programming Contest (CCPC) Guilin Onsite (The 2nd Universal Cup. Stage 8: Guilin)",
+    "startTime": 1698541200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104768,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104768",
+    "standingsUrl": "https://codeforces.com/gym/104768/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The XXXI Saint-Petersburg High School Programming Contest (SpbKOSHP 2023) | Qualification for the XXIV Russia Open High School Programming Contest (VKOSHP 2023)",
+    "startTime": 1699088400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104770,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104770",
+    "standingsUrl": "https://codeforces.com/gym/104770/standings"
   }
 ]
