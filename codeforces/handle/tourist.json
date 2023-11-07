@@ -6,6 +6,162 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 231804844,
+      "creationTime": 1699374219,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1699367700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1893E",
+        "name": "Cacti Symphony",
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1893/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1893/submission/231804844"
+    },
+    {
+      "type": "codeforces",
+      "id": 231774336,
+      "creationTime": 1699371233,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1699367700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1893D",
+        "name": "Colorful Constructive",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1893/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1893/submission/231774336"
+    },
+    {
+      "type": "codeforces",
+      "id": 231765935,
+      "creationTime": 1699370168,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1699367700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1893C",
+        "name": "Freedom of Choice",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1893/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1893/submission/231765935"
+    },
+    {
+      "type": "codeforces",
+      "id": 231761516,
+      "creationTime": 1699369636,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1699367700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1893C",
+        "name": "Freedom of Choice",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1893/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1893/submission/231761516"
+    },
+    {
+      "type": "codeforces",
+      "id": 231752698,
+      "creationTime": 1699368683,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1699367700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1893B",
+        "name": "Neutral Tonality",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1893/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1893/submission/231752698"
+    },
+    {
+      "type": "codeforces",
+      "id": 231747730,
+      "creationTime": 1699368041,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1699367700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1893A",
+        "name": "Anonymous Informant",
+        "tags": [
+          "chinese remainder theorem",
+          "fft",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1893/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1893/submission/231747730"
+    },
+    {
+      "type": "codeforces",
       "id": 230219842,
       "creationTime": 1698506757,
       "language": "GNU C++20 (64)",
@@ -114939,7 +115095,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3557,
+    "rating": 3585,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
