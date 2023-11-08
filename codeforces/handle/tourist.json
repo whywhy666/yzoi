@@ -50,6 +50,7 @@
         "name": "Colorful Constructive",
         "tags": [
           "constructive algorithms",
+          "data structures",
           "greedy",
           "math"
         ],
@@ -76,6 +77,7 @@
         "name": "Freedom of Choice",
         "tags": [
           "brute force",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1893/problem/C"
@@ -101,6 +103,7 @@
         "name": "Freedom of Choice",
         "tags": [
           "brute force",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1893/problem/C"
@@ -152,8 +155,7 @@
         "id": "1893A",
         "name": "Anonymous Informant",
         "tags": [
-          "chinese remainder theorem",
-          "fft",
+          "brute force",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1893/problem/A"

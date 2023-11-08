@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1699391350,
+  "updateTime": 1699477740,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 231804844,
-            "pid": "1893E",
-            "name": "Cacti Symphony",
-            "verdict": "OK",
-            "creationTime": 1699374219
-          },
-          {
-            "platform": "codeforces",
-            "id": 231774336,
-            "pid": "1893D",
-            "name": "Colorful Constructive",
-            "verdict": "OK",
-            "creationTime": 1699371233
-          },
-          {
-            "platform": "codeforces",
-            "id": 231765935,
-            "pid": "1893C",
-            "name": "Freedom of Choice",
-            "verdict": "OK",
-            "creationTime": 1699370168
-          },
-          {
-            "platform": "codeforces",
-            "id": 231761516,
-            "pid": "1893C",
-            "name": "Freedom of Choice",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1699369636
-          },
-          {
-            "platform": "codeforces",
-            "id": 231752698,
-            "pid": "1893B",
-            "name": "Neutral Tonality",
-            "verdict": "OK",
-            "creationTime": 1699368683
-          },
-          {
-            "platform": "codeforces",
-            "id": 231747730,
-            "pid": "1893A",
-            "name": "Anonymous Informant",
-            "verdict": "OK",
-            "creationTime": 1699368041
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "c210358678036909c87a3f33b2b6616e6c81258e"
+  "ref": "b3396615f7c7f25aa6d35dcd6b5b674bb6c632b8"
 }
