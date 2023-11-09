@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1893E",
         "name": "Cacti Symphony",
+        "rating": 3500,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1893D",
         "name": "Colorful Constructive",
+        "rating": 2600,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "1893C",
         "name": "Freedom of Choice",
+        "rating": 2000,
         "tags": [
           "brute force",
           "greedy",
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "1893C",
         "name": "Freedom of Choice",
+        "rating": 2000,
         "tags": [
           "brute force",
           "greedy",
@@ -127,6 +131,7 @@
         "type": "codeforces",
         "id": "1893B",
         "name": "Neutral Tonality",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -154,8 +159,11 @@
         "type": "codeforces",
         "id": "1893A",
         "name": "Anonymous Informant",
+        "rating": 1400,
         "tags": [
           "brute force",
+          "dfs and similar",
+          "graphs",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1893/problem/A"
@@ -179,6 +187,7 @@
         "type": "codeforces",
         "id": "1889C2",
         "name": "Doremy's Drying Plan (Hard Version)",
+        "rating": 2600,
         "tags": [
           "data structures",
           "dp"
@@ -204,6 +213,7 @@
         "type": "codeforces",
         "id": "1889C1",
         "name": "Doremy's Drying Plan (Easy Version)",
+        "rating": 2000,
         "tags": [
           "brute force",
           "data structures",
@@ -232,6 +242,7 @@
         "type": "codeforces",
         "id": "1889B",
         "name": "Doremy's Connecting Plan",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -259,6 +270,7 @@
         "type": "codeforces",
         "id": "1889A",
         "name": "Qingshan Loves Strings 2",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -285,6 +297,7 @@
         "type": "codeforces",
         "id": "1874F",
         "name": "Jellyfish and OEIS",
+        "rating": 3500,
         "tags": [
           "dp"
         ],
@@ -309,6 +322,7 @@
         "type": "codeforces",
         "id": "1874D",
         "name": "Jellyfish and Miku",
+        "rating": 2800,
         "tags": [
           "divide and conquer",
           "dp",
@@ -336,6 +350,7 @@
         "type": "codeforces",
         "id": "1874D",
         "name": "Jellyfish and Miku",
+        "rating": 2800,
         "tags": [
           "divide and conquer",
           "dp",
@@ -363,6 +378,7 @@
         "type": "codeforces",
         "id": "1874E",
         "name": "Jellyfish and Hack",
+        "rating": 3000,
         "tags": [
           "dp",
           "math"
@@ -388,6 +404,7 @@
         "type": "codeforces",
         "id": "1874C",
         "name": "Jellyfish and EVA",
+        "rating": 2300,
         "tags": [
           "dp",
           "graphs",
@@ -416,6 +433,7 @@
         "type": "codeforces",
         "id": "1874B",
         "name": "Jellyfish and Math",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "brute force",
@@ -445,6 +463,7 @@
         "type": "codeforces",
         "id": "1874A",
         "name": "Jellyfish and Game",
+        "rating": 1200,
         "tags": [
           "brute force",
           "games",
