@@ -18436,5 +18436,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104778",
     "standingsUrl": "https://codeforces.com/gym/104778/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 CTU Open Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104783,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104783",
+    "standingsUrl": "https://codeforces.com/gym/104783/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 Romanian Collegiate Programming Contest (RCPC)",
+    "startTime": 1698566400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104782,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104782",
+    "standingsUrl": "https://codeforces.com/gym/104782/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2019-2020 CTU Open Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104784,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104784",
+    "standingsUrl": "https://codeforces.com/gym/104784/standings"
   }
 ]
