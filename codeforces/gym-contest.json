@@ -18480,6 +18480,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 2023 CCPC (Qinhuangdao) Onsite (The 2nd Universal Cup. Stage 9)",
+    "startTime": 1697331600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104787,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104787",
+    "standingsUrl": "https://codeforces.com/gym/104787/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "FIICode2023Round1",
     "startTime": 1679749500,
     "duration": 7200,
@@ -18488,5 +18499,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104786",
     "standingsUrl": "https://codeforces.com/gym/104786/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Innopolis Open 2024. Qualification Round 1",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104789,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104789",
+    "standingsUrl": "https://codeforces.com/gym/104789/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2023 CCPC (Qinhuangdao) Onsite Warmup",
+    "startTime": 1697266800,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 104791,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104791",
+    "standingsUrl": "https://codeforces.com/gym/104791/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 Benelux Algorithm Programming Contest (BAPC 23)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104790,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104790",
+    "standingsUrl": "https://codeforces.com/gym/104790/standings"
   }
 ]
