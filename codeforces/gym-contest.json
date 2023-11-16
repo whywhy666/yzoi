@@ -18262,6 +18262,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Concurso de programación ANIEI 2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104752,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104752",
+    "standingsUrl": "https://codeforces.com/gym/104752/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "LU ICPC Selection Contest 2023",
     "startTime": 1699454100,
     "duration": 18000,
@@ -18530,5 +18540,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104790",
     "standingsUrl": "https://codeforces.com/gym/104790/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #26 (Readall-Forces)",
+    "startTime": 1700145300,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 104802,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104802",
+    "standingsUrl": "https://codeforces.com/gym/104802/standings"
   }
 ]
