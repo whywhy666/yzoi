@@ -18543,6 +18543,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "NOIP2023",
+    "startTime": 1700267400,
+    "duration": 16200,
+    "participantNumber": 0,
+    "id": 104803,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104803",
+    "standingsUrl": "https://codeforces.com/gym/104803/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "TheForces Round #26 (Readall-Forces)",
     "startTime": 1700145300,
     "duration": 9000,
@@ -18551,5 +18562,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104802",
     "standingsUrl": "https://codeforces.com/gym/104802/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Central Russia Regional Contest, 2022",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104805,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104805",
+    "standingsUrl": "https://codeforces.com/gym/104805/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Central Russia Regional Contest, 2022, Qualification Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104804,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104804",
+    "standingsUrl": "https://codeforces.com/gym/104804/standings"
   }
 ]
