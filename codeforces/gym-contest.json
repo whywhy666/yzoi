@@ -18582,5 +18582,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104804",
     "standingsUrl": "https://codeforces.com/gym/104804/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 9th CCPC (Harbin) Onsite(The 2nd Universal Cup. Stage 10: Harbin)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104813,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104813",
+    "standingsUrl": "https://codeforces.com/gym/104813/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Республике Башкортостан 2023 (9 - 11 классы)",
+    "startTime": 1700715600,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104814,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104814",
+    "standingsUrl": "https://codeforces.com/gym/104814/standings"
   }
 ]
