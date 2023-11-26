@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1700946502,
+  "updateTime": 1701032941,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 234293051,
-            "pid": "1896H1",
-            "name": "Cyclic Hamming (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1700929529
-          },
-          {
-            "platform": "codeforces",
-            "id": 234282511,
-            "pid": "1896F",
-            "name": "Bracket Xoring",
-            "verdict": "OK",
-            "creationTime": 1700927569
-          },
-          {
-            "platform": "codeforces",
-            "id": 234260178,
-            "pid": "1896E",
-            "name": "Permutation Sorting",
-            "verdict": "OK",
-            "creationTime": 1700924845
-          },
-          {
-            "platform": "codeforces",
-            "id": 234253907,
-            "pid": "1896D",
-            "name": "Ones and Twos",
-            "verdict": "OK",
-            "creationTime": 1700924400
-          },
-          {
-            "platform": "codeforces",
-            "id": 234249255,
-            "pid": "1896C",
-            "name": "Matching Arrays",
-            "verdict": "OK",
-            "creationTime": 1700924118
-          },
-          {
-            "platform": "codeforces",
-            "id": 234245662,
-            "pid": "1896B",
-            "name": "AB Flipping",
-            "verdict": "OK",
-            "creationTime": 1700923934
-          },
-          {
-            "platform": "codeforces",
-            "id": 234244771,
-            "pid": "1896A",
-            "name": "Jagged Swaps",
-            "verdict": "OK",
-            "creationTime": 1700923840
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a097424cb23d98b7d685cedf3a49507fbdcc6c4d"
+  "ref": "a87a50472a11a844275b6d2bc36a8d2b54f05975"
 }

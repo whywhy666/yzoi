@@ -18603,5 +18603,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104814",
     "standingsUrl": "https://codeforces.com/gym/104814/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 Sun Yat-sen University Collegiate Programming Contest, Onsite",
+    "startTime": 1697247900,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104819,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104819",
+    "standingsUrl": "https://codeforces.com/gym/104819/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2023 ICPC Asia Nanjing Regional Contest (The 2nd Universal Cup. Stage 11: Nanjing)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104821,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104821",
+    "standingsUrl": "https://codeforces.com/gym/104821/standings"
   }
 ]

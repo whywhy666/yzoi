@@ -50,7 +50,8 @@
         "id": "1896F",
         "name": "Bracket Xoring",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/F"
       },
@@ -75,7 +76,8 @@
         "name": "Permutation Sorting",
         "tags": [
           "data structures",
-          "divide and conquer"
+          "fft",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/E"
       },
@@ -126,7 +128,7 @@
         "name": "Matching Arrays",
         "tags": [
           "binary search",
-          "graph matchings",
+          "constructive algorithms",
           "greedy",
           "sortings"
         ],
@@ -153,7 +155,8 @@
         "name": "AB Flipping",
         "tags": [
           "greedy",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/B"
       },
