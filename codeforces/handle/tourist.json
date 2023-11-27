@@ -22,6 +22,7 @@
         "id": "1896H1",
         "name": "Cyclic Hamming (Easy Version)",
         "tags": [
+          "brute force",
           "divide and conquer",
           "dp",
           "fft",
@@ -50,7 +51,9 @@
         "id": "1896F",
         "name": "Bracket Xoring",
         "tags": [
+          "bitmasks",
           "constructive algorithms",
+          "graph matchings",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/F"
@@ -76,7 +79,6 @@
         "name": "Permutation Sorting",
         "tags": [
           "data structures",
-          "fft",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/E"

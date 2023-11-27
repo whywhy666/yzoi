@@ -18606,17 +18606,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2023 Sun Yat-sen University Collegiate Programming Contest, Onsite",
-    "startTime": 1697247900,
-    "duration": 18000,
-    "participantNumber": 0,
-    "id": 104819,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/104819",
-    "standingsUrl": "https://codeforces.com/gym/104819/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "The 2023 ICPC Asia Nanjing Regional Contest (The 2nd Universal Cup. Stage 11: Nanjing)",
     "duration": 18000,
     "participantNumber": 0,
@@ -18624,5 +18613,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104821",
     "standingsUrl": "https://codeforces.com/gym/104821/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "РСО-Алания 2018-2023. Избранное",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104820,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104820",
+    "standingsUrl": "https://codeforces.com/gym/104820/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "RCPCamp 2023 Day 1",
+    "startTime": 1698489000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104822,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104822",
+    "standingsUrl": "https://codeforces.com/gym/104822/standings"
   }
 ]
