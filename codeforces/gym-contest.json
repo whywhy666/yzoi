@@ -18607,6 +18607,7 @@
   {
     "type": "codeforces/gym/icpc",
     "name": "The 2023 ICPC Asia Nanjing Regional Contest (The 2nd Universal Cup. Stage 11: Nanjing)",
+    "startTime": 1699147800,
     "duration": 18000,
     "participantNumber": 0,
     "id": 104821,
@@ -18666,6 +18667,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104824",
     "standingsUrl": "https://codeforces.com/gym/104824/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике 2023-2024, Краснодарский край",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 104829,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104829",
+    "standingsUrl": "https://codeforces.com/gym/104829/standings"
   },
   {
     "type": "codeforces/gym/icpc",
