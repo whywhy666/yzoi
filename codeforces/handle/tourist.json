@@ -6,6 +6,296 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 235106849,
+      "creationTime": 1701365260,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903D1",
+        "name": "Maximum And Queries (easy version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235106849"
+    },
+    {
+      "type": "codeforces",
+      "id": 235106690,
+      "creationTime": 1701365239,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903D2",
+        "name": "Maximum And Queries (hard version)",
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235106690"
+    },
+    {
+      "type": "codeforces",
+      "id": 235101908,
+      "creationTime": 1701364462,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903E",
+        "name": "Geo Game",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235101908"
+    },
+    {
+      "type": "codeforces",
+      "id": 235099278,
+      "creationTime": 1701364058,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903A",
+        "name": "Halloumi Boxes",
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235099278"
+    },
+    {
+      "type": "codeforces",
+      "id": 235099059,
+      "creationTime": 1701364023,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903B",
+        "name": "StORage room",
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235099059"
+    },
+    {
+      "type": "codeforces",
+      "id": 235098179,
+      "creationTime": 1701363891,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903C",
+        "name": "Theofanis' Nightmare",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235098179"
+    },
+    {
+      "type": "codeforces",
+      "id": 235097459,
+      "creationTime": 1701363783,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903F",
+        "name": "Babysitting",
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235097459"
+    },
+    {
+      "type": "codeforces",
+      "id": 235094943,
+      "creationTime": 1701363430,
+      "language": "GNU C++20 (64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903F",
+        "name": "Babysitting",
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235094943"
+    },
+    {
+      "type": "codeforces",
+      "id": 235093407,
+      "creationTime": 1701363221,
+      "language": "GNU C++20 (64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903F",
+        "name": "Babysitting",
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235093407"
+    },
+    {
+      "type": "codeforces",
+      "id": 235092126,
+      "creationTime": 1701363062,
+      "language": "GNU C++20 (64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903F",
+        "name": "Babysitting",
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235092126"
+    },
+    {
+      "type": "codeforces",
+      "id": 235091185,
+      "creationTime": 1701362950,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1701362100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1903F",
+        "name": "Babysitting",
+        "tags": [
+          "2-sat",
+          "binary search",
+          "data structures",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1903/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1903/submission/235091185"
+    },
+    {
+      "type": "codeforces",
       "id": 234293051,
       "creationTime": 1700929529,
       "language": "GNU C++20 (64)",
@@ -53,10 +343,10 @@
         "name": "Bracket Xoring",
         "rating": 2600,
         "tags": [
-          "bitmasks",
           "constructive algorithms",
-          "graph matchings",
-          "implementation"
+          "greedy",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1896/problem/F"
       },
