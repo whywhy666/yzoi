@@ -18709,5 +18709,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104832",
     "standingsUrl": "https://codeforces.com/gym/104832/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 12-01-23 Div. 2 (Beginner)",
+    "startTime": 1701475500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104835,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104835",
+    "standingsUrl": "https://codeforces.com/gym/104835/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 12-01-23 Div. 1 (Advanced)",
+    "startTime": 1701475500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104834,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104834",
+    "standingsUrl": "https://codeforces.com/gym/104834/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в городе Петрозаводске и республике Карелия 2023-2024 (все классы)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104836,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104836",
+    "standingsUrl": "https://codeforces.com/gym/104836/standings"
   }
 ]

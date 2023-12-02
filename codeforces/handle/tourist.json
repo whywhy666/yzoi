@@ -51,6 +51,7 @@
         "name": "Maximum And Queries (hard version)",
         "rating": 2500,
         "tags": [
+          "binary search",
           "bitmasks",
           "divide and conquer",
           "dp",
@@ -110,7 +111,8 @@
         "rating": 800,
         "tags": [
           "brute force",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/A"
       },
@@ -193,7 +195,8 @@
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -221,7 +224,8 @@
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -249,7 +253,8 @@
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -277,7 +282,8 @@
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
@@ -305,7 +311,8 @@
           "2-sat",
           "binary search",
           "data structures",
-          "graphs"
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/F"
       },
