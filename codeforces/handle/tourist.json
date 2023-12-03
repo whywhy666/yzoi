@@ -80,12 +80,14 @@
         "name": "Geo Game",
         "rating": 2000,
         "tags": [
-          "constructive algorithms",
+          "2-sat",
           "dp",
-          "games",
+          "expression parsing",
+          "graph matchings",
           "greedy",
           "interactive",
-          "math"
+          "math",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/E"
       },
@@ -167,7 +169,9 @@
         "tags": [
           "constructive algorithms",
           "dp",
-          "greedy"
+          "fft",
+          "greedy",
+          "hashing"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/C"
       },
