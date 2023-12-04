@@ -51,7 +51,6 @@
         "name": "Maximum And Queries (hard version)",
         "rating": 2500,
         "tags": [
-          "binary search",
           "bitmasks",
           "divide and conquer",
           "dp",
@@ -80,14 +79,9 @@
         "name": "Geo Game",
         "rating": 2000,
         "tags": [
-          "2-sat",
-          "dp",
-          "expression parsing",
-          "graph matchings",
           "greedy",
           "interactive",
-          "math",
-          "ternary search"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/E"
       },
@@ -168,10 +162,7 @@
         "rating": 1400,
         "tags": [
           "constructive algorithms",
-          "dp",
-          "fft",
-          "greedy",
-          "hashing"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1903/problem/C"
       },

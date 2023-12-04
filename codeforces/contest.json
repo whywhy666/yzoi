@@ -66,6 +66,17 @@
     "standingsUrl": "https://codeforces.com/contest/1901/standings"
   },
   {
+    "type": "codeforces/ioi",
+    "name": "ICPC 2023 Online Challenge powered by Huawei",
+    "startTime": 1700463600,
+    "duration": 1209600,
+    "participantNumber": 0,
+    "id": 1885,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1885",
+    "standingsUrl": "https://codeforces.com/contest/1885/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round 910 (Div. 2)",
     "startTime": 1700404500,
