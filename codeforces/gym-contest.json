@@ -18775,7 +18775,7 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "Муниципальный этап ВсОШ по информатике в Московской области (9-11 классы)",
+    "name": "Муниципальный этап ВсОШ по информатике в Московской области 2023-2024 (9-11 классы)",
     "duration": 14400,
     "participantNumber": 0,
     "id": 104845,
@@ -18795,7 +18795,7 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "Муниципальный этап ВсОШ по информатике в Московской области (7-8 классы)",
+    "name": "Муниципальный этап ВсОШ по информатике в Московской области 2023-2024 (7-8 классы)",
     "duration": 10800,
     "participantNumber": 0,
     "id": 104846,
@@ -18822,5 +18822,47 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104848",
     "standingsUrl": "https://codeforces.com/gym/104848/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Municipal stage of the All-Russian School Olympiad in Informatics in the Vologda Region 2023, grades 7-8",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104851,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104851",
+    "standingsUrl": "https://codeforces.com/gym/104851/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Липецкой области 2023 (9-11 классы)",
+    "startTime": 1702101600,
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 104853,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104853",
+    "standingsUrl": "https://codeforces.com/gym/104853/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Municipal stage of the All-Russian School Olympiad in Informatics in the Vologda Region 2023, grades 9-11",
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 104852,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104852",
+    "standingsUrl": "https://codeforces.com/gym/104852/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 ICPC, Swiss Subregional",
+    "startTime": 1702109700,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104854,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104854",
+    "standingsUrl": "https://codeforces.com/gym/104854/standings"
   }
 ]
