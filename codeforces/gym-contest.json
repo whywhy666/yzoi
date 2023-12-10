@@ -18856,6 +18856,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #27(3^3-Forces)",
+    "startTime": 1702218900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 104855,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104855",
+    "standingsUrl": "https://codeforces.com/gym/104855/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2023-2024 ICPC, Swiss Subregional",
     "startTime": 1702109700,
     "duration": 18000,
@@ -18864,5 +18875,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104854",
     "standingsUrl": "https://codeforces.com/gym/104854/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Москве, 2023, 9-11 классы",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 104856,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104856",
+    "standingsUrl": "https://codeforces.com/gym/104856/standings"
   }
 ]
