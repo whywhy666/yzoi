@@ -1,5 +1,16 @@
 [
   {
+    "type": "codeforces/icpc",
+    "name": "Kotlin Heroes: Episode 9 (Unrated, T-Shirts + Prizes!)",
+    "startTime": 1702305300,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 1910,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1910",
+    "standingsUrl": "https://codeforces.com/contest/1910/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round 914 (Div. 2)",
     "startTime": 1702137900,
@@ -42,6 +53,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/1906",
     "standingsUrl": "https://codeforces.com/contest/1906/standings"
+  },
+  {
+    "type": "codeforces/icpc",
+    "name": "Kotlin Heroes: Practice 9 (release 2)",
+    "startTime": 1701440700,
+    "duration": 864000,
+    "participantNumber": 0,
+    "id": 1911,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1911",
+    "standingsUrl": "https://codeforces.com/contest/1911/standings"
   },
   {
     "type": "codeforces/cf",
