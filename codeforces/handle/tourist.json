@@ -23,7 +23,8 @@
         "name": "Inverse Problem",
         "tags": [
           "*special",
-          "combinatorics"
+          "combinatorics",
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1910/problem/I"
       },
@@ -48,7 +49,8 @@
         "name": "Inverse Problem",
         "tags": [
           "*special",
-          "combinatorics"
+          "combinatorics",
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1910/problem/I"
       },
@@ -147,7 +149,9 @@
         "id": "1910H",
         "name": "Sum of Digits of Sums",
         "tags": [
-          "*special"
+          "*special",
+          "binary search",
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1910/problem/H"
       },
@@ -171,7 +175,9 @@
         "id": "1910H",
         "name": "Sum of Digits of Sums",
         "tags": [
-          "*special"
+          "*special",
+          "binary search",
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1910/problem/H"
       },
@@ -116017,7 +116023,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3486,
+    "rating": 3485,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
