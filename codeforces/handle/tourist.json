@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1910I",
         "name": "Inverse Problem",
+        "rating": 2700,
         "tags": [
           "*special",
           "combinatorics",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1910I",
         "name": "Inverse Problem",
+        "rating": 2700,
         "tags": [
           "*special",
           "combinatorics",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "1910G",
         "name": "Pool Records",
+        "rating": 2700,
         "tags": [
           "*special",
           "greedy"
@@ -98,6 +101,7 @@
         "type": "codeforces",
         "id": "1910J",
         "name": "Two Colors",
+        "rating": 2900,
         "tags": [
           "*special"
         ],
@@ -122,6 +126,7 @@
         "type": "codeforces",
         "id": "1910F",
         "name": "Build Railway Stations",
+        "rating": 2000,
         "tags": [
           "*special",
           "greedy",
@@ -148,6 +153,7 @@
         "type": "codeforces",
         "id": "1910H",
         "name": "Sum of Digits of Sums",
+        "rating": 2400,
         "tags": [
           "*special",
           "binary search",
@@ -174,6 +180,7 @@
         "type": "codeforces",
         "id": "1910H",
         "name": "Sum of Digits of Sums",
+        "rating": 2400,
         "tags": [
           "*special",
           "binary search",
@@ -200,6 +207,7 @@
         "type": "codeforces",
         "id": "1910E",
         "name": "Maximum Sum Subarrays",
+        "rating": 2100,
         "tags": [
           "*special",
           "dp"
@@ -225,6 +233,7 @@
         "type": "codeforces",
         "id": "1910D",
         "name": "Remove and Add",
+        "rating": 1800,
         "tags": [
           "*special",
           "greedy"
@@ -250,6 +259,7 @@
         "type": "codeforces",
         "id": "1910C",
         "name": "Poisonous Swamp",
+        "rating": 1600,
         "tags": [
           "*special",
           "*special",
@@ -277,6 +287,7 @@
         "type": "codeforces",
         "id": "1910B",
         "name": "Security Guard",
+        "rating": 1700,
         "tags": [
           "*special",
           "greedy"
@@ -302,6 +313,7 @@
         "type": "codeforces",
         "id": "1910A",
         "name": "Username",
+        "rating": 1100,
         "tags": [
           "*special",
           "implementation"
