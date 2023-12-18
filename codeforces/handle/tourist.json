@@ -6,6 +6,186 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 237765417,
+      "creationTime": 1702912186,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1702910100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1913F",
+        "name": "Palindromic Problem",
+        "tags": [
+          "binary search",
+          "data structures",
+          "hashing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1913/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1913/submission/237765417"
+    },
+    {
+      "type": "codeforces",
+      "id": 237747038,
+      "creationTime": 1702910988,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1702910100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1913E",
+        "name": "Matrix Problem",
+        "tags": [
+          "flows",
+          "graph matchings",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1913/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1913/submission/237747038"
+    },
+    {
+      "type": "codeforces",
+      "id": 237746021,
+      "creationTime": 1702910932,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1702910100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1913E",
+        "name": "Matrix Problem",
+        "tags": [
+          "flows",
+          "graph matchings",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1913/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1913/submission/237746021"
+    },
+    {
+      "type": "codeforces",
+      "id": 237741941,
+      "creationTime": 1702910708,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1702910100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1913D",
+        "name": "Array Collapse",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "divide and conquer",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1913/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1913/submission/237741941"
+    },
+    {
+      "type": "codeforces",
+      "id": 237735693,
+      "creationTime": 1702910406,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1702910100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1913C",
+        "name": "Game with Multiset",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1913/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1913/submission/237735693"
+    },
+    {
+      "type": "codeforces",
+      "id": 237734023,
+      "creationTime": 1702910307,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1702910100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1913B",
+        "name": "Swap and Delete",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1913/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1913/submission/237734023"
+    },
+    {
+      "type": "codeforces",
+      "id": 237733399,
+      "creationTime": 1702910218,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1702910100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1913A",
+        "name": "Rating Increase",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1913/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1913/submission/237733399"
+    },
+    {
+      "type": "codeforces",
       "id": 236806001,
       "creationTime": 1702310801,
       "language": "Kotlin 1.9",
