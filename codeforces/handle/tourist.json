@@ -25,6 +25,7 @@
           "binary search",
           "data structures",
           "hashing",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1913/problem/F"
@@ -101,10 +102,10 @@
         "id": "1913D",
         "name": "Array Collapse",
         "tags": [
-          "constructive algorithms",
           "data structures",
           "divide and conquer",
-          "dp"
+          "dp",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1913/problem/D"
       },
@@ -130,6 +131,7 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1913/problem/C"
