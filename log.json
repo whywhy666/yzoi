@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1703365706,
+  "updateTime": 1703452097,
   "history": {
     "user": [
       {
@@ -8,59 +8,51 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 238567745,
-            "pid": "1909G",
-            "name": "Pumping Lemma",
+            "id": 238702895,
+            "pid": "1917F",
+            "name": "Construct Tree",
             "verdict": "OK",
-            "creationTime": 1703349017
+            "creationTime": 1703430640
           },
           {
             "platform": "codeforces",
-            "id": 238549530,
-            "pid": "1909E",
-            "name": "Multiple Lamps",
+            "id": 238698863,
+            "pid": "1917E",
+            "name": "Construct Matrix",
             "verdict": "OK",
-            "creationTime": 1703346325
+            "creationTime": 1703430207
           },
           {
             "platform": "codeforces",
-            "id": 238533209,
-            "pid": "1909F1",
-            "name": "Small Permutation Problem (Easy Version)",
+            "id": 238693207,
+            "pid": "1917D",
+            "name": "Yet Another Inversions Problem",
             "verdict": "OK",
-            "creationTime": 1703344510
+            "creationTime": 1703429662
           },
           {
             "platform": "codeforces",
-            "id": 238513131,
-            "pid": "1909D",
-            "name": "Split Plus K",
+            "id": 238680690,
+            "pid": "1917C",
+            "name": "Watering an Array",
             "verdict": "OK",
-            "creationTime": 1703342824
+            "creationTime": 1703428898
           },
           {
             "platform": "codeforces",
-            "id": 238507749,
-            "pid": "1909C",
-            "name": "Heavy Intervals",
+            "id": 238676561,
+            "pid": "1917B",
+            "name": "Erase First or Second Letter",
             "verdict": "OK",
-            "creationTime": 1703342458
+            "creationTime": 1703428642
           },
           {
             "platform": "codeforces",
-            "id": 238504797,
-            "pid": "1909B",
-            "name": "Make Almost Equal With Mod",
+            "id": 238676366,
+            "pid": "1917A",
+            "name": "Least Product",
             "verdict": "OK",
-            "creationTime": 1703342268
-          },
-          {
-            "platform": "codeforces",
-            "id": 238504449,
-            "pid": "1909A",
-            "name": "Distinct Buttons",
-            "verdict": "OK",
-            "creationTime": 1703342193
+            "creationTime": 1703428582
           }
         ],
         "newContests": []
@@ -68,5 +60,5 @@
     ],
     "contest": []
   },
-  "ref": "dbc2e616381e625d76aaeecdfe25b8c3a6f067eb"
+  "ref": "3e822177b75a64eabdeed5afc2547697b73d8184"
 }

@@ -6,6 +6,163 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 238702895,
+      "creationTime": 1703430640,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703428500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1917F",
+        "name": "Construct Tree",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1917/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1917/submission/238702895"
+    },
+    {
+      "type": "codeforces",
+      "id": 238698863,
+      "creationTime": 1703430207,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703428500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1917E",
+        "name": "Construct Matrix",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1917/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1917/submission/238698863"
+    },
+    {
+      "type": "codeforces",
+      "id": 238693207,
+      "creationTime": 1703429662,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703428500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1917D",
+        "name": "Yet Another Inversions Problem",
+        "tags": [
+          "bitmasks",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1917/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1917/submission/238693207"
+    },
+    {
+      "type": "codeforces",
+      "id": 238680690,
+      "creationTime": 1703428898,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703428500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1917C",
+        "name": "Watering an Array",
+        "tags": [
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1917/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1917/submission/238680690"
+    },
+    {
+      "type": "codeforces",
+      "id": 238676561,
+      "creationTime": 1703428642,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703428500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1917B",
+        "name": "Erase First or Second Letter",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1917/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1917/submission/238676561"
+    },
+    {
+      "type": "codeforces",
+      "id": 238676366,
+      "creationTime": 1703428582,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703428500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1917A",
+        "name": "Least Product",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1917/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1917/submission/238676366"
+    },
+    {
+      "type": "codeforces",
       "id": 238567745,
       "creationTime": 1703349017,
       "language": "GNU C++20 (64)",
@@ -23,6 +180,7 @@
         "name": "Pumping Lemma",
         "tags": [
           "hashing",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/G"
@@ -47,6 +205,7 @@
         "id": "1909E",
         "name": "Multiple Lamps",
         "tags": [
+          "bitmasks",
           "brute force",
           "constructive algorithms",
           "number theory"
@@ -126,6 +285,8 @@
         "name": "Heavy Intervals",
         "tags": [
           "constructive algorithms",
+          "data structures",
+          "dsu",
           "greedy",
           "math",
           "sortings"
@@ -152,6 +313,7 @@
         "id": "1909B",
         "name": "Make Almost Equal With Mod",
         "tags": [
+          "constructive algorithms",
           "math",
           "number theory"
         ],
@@ -177,7 +339,8 @@
         "id": "1909A",
         "name": "Distinct Buttons",
         "tags": [
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/A"
       },
