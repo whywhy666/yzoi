@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1703452097,
+  "updateTime": 1703538520,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 238702895,
-            "pid": "1917F",
-            "name": "Construct Tree",
-            "verdict": "OK",
-            "creationTime": 1703430640
-          },
-          {
-            "platform": "codeforces",
-            "id": 238698863,
-            "pid": "1917E",
-            "name": "Construct Matrix",
-            "verdict": "OK",
-            "creationTime": 1703430207
-          },
-          {
-            "platform": "codeforces",
-            "id": 238693207,
-            "pid": "1917D",
-            "name": "Yet Another Inversions Problem",
-            "verdict": "OK",
-            "creationTime": 1703429662
-          },
-          {
-            "platform": "codeforces",
-            "id": 238680690,
-            "pid": "1917C",
-            "name": "Watering an Array",
-            "verdict": "OK",
-            "creationTime": 1703428898
-          },
-          {
-            "platform": "codeforces",
-            "id": 238676561,
-            "pid": "1917B",
-            "name": "Erase First or Second Letter",
-            "verdict": "OK",
-            "creationTime": 1703428642
-          },
-          {
-            "platform": "codeforces",
-            "id": 238676366,
-            "pid": "1917A",
-            "name": "Least Product",
-            "verdict": "OK",
-            "creationTime": 1703428582
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "3e822177b75a64eabdeed5afc2547697b73d8184"
+  "ref": "769dc17a18a1a44c7d0adf870523c40f397c3b69"
 }

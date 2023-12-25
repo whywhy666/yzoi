@@ -49,8 +49,8 @@
         "id": "1917E",
         "name": "Construct Matrix",
         "tags": [
-          "bitmasks",
           "constructive algorithms",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/E"
@@ -75,8 +75,9 @@
         "id": "1917D",
         "name": "Yet Another Inversions Problem",
         "tags": [
-          "bitmasks",
+          "combinatorics",
           "data structures",
+          "divide and conquer",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/D"
@@ -103,6 +104,7 @@
         "tags": [
           "brute force",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/C"
@@ -129,6 +131,7 @@
         "tags": [
           "brute force",
           "combinatorics",
+          "data structures",
           "dp",
           "strings"
         ],
@@ -116557,7 +116560,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3374,
+    "rating": 3375,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
