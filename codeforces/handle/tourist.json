@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1917F",
         "name": "Construct Tree",
+        "rating": 2500,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "1917E",
         "name": "Construct Matrix",
+        "rating": 2500,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -74,11 +76,14 @@
         "type": "codeforces",
         "id": "1917D",
         "name": "Yet Another Inversions Problem",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "data structures",
           "divide and conquer",
-          "math"
+          "implementation",
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/D"
       },
@@ -101,6 +106,7 @@
         "type": "codeforces",
         "id": "1917C",
         "name": "Watering an Array",
+        "rating": 1600,
         "tags": [
           "brute force",
           "greedy",
@@ -128,6 +134,7 @@
         "type": "codeforces",
         "id": "1917B",
         "name": "Erase First or Second Letter",
+        "rating": 1100,
         "tags": [
           "brute force",
           "combinatorics",
@@ -156,6 +163,7 @@
         "type": "codeforces",
         "id": "1917A",
         "name": "Least Product",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -181,6 +189,7 @@
         "type": "codeforces",
         "id": "1909G",
         "name": "Pumping Lemma",
+        "rating": 3000,
         "tags": [
           "hashing",
           "string suffix structures",
@@ -207,6 +216,7 @@
         "type": "codeforces",
         "id": "1909E",
         "name": "Multiple Lamps",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "brute force",
@@ -234,7 +244,9 @@
         "type": "codeforces",
         "id": "1909F1",
         "name": "Small Permutation Problem (Easy Version)",
+        "rating": 2200,
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
           "math"
@@ -260,6 +272,7 @@
         "type": "codeforces",
         "id": "1909D",
         "name": "Split Plus K",
+        "rating": 1900,
         "tags": [
           "greedy",
           "math",
@@ -286,6 +299,7 @@
         "type": "codeforces",
         "id": "1909C",
         "name": "Heavy Intervals",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -315,7 +329,9 @@
         "type": "codeforces",
         "id": "1909B",
         "name": "Make Almost Equal With Mod",
+        "rating": 1200,
         "tags": [
+          "bitmasks",
           "constructive algorithms",
           "math",
           "number theory"
@@ -341,6 +357,7 @@
         "type": "codeforces",
         "id": "1909A",
         "name": "Distinct Buttons",
+        "rating": 800,
         "tags": [
           "implementation",
           "math"
@@ -366,6 +383,7 @@
         "type": "codeforces",
         "id": "1913F",
         "name": "Palindromic Problem",
+        "rating": 2800,
         "tags": [
           "binary search",
           "data structures",
@@ -394,6 +412,7 @@
         "type": "codeforces",
         "id": "1913E",
         "name": "Matrix Problem",
+        "rating": 2400,
         "tags": [
           "flows",
           "graphs"
@@ -419,6 +438,7 @@
         "type": "codeforces",
         "id": "1913E",
         "name": "Matrix Problem",
+        "rating": 2400,
         "tags": [
           "flows",
           "graphs"
@@ -444,6 +464,7 @@
         "type": "codeforces",
         "id": "1913D",
         "name": "Array Collapse",
+        "rating": 2100,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -471,6 +492,7 @@
         "type": "codeforces",
         "id": "1913C",
         "name": "Game with Multiset",
+        "rating": 1300,
         "tags": [
           "binary search",
           "bitmasks",
@@ -498,6 +520,7 @@
         "type": "codeforces",
         "id": "1913B",
         "name": "Swap and Delete",
+        "rating": 1000,
         "tags": [
           "strings"
         ],
@@ -522,6 +545,7 @@
         "type": "codeforces",
         "id": "1913A",
         "name": "Rating Increase",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
