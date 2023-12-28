@@ -6,6 +6,186 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 239259154,
+      "creationTime": 1703775115,
+      "language": "GNU C++20 (64)",
+      "verdict": "CHALLENGED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703774100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1915G",
+        "name": "Bicycles",
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "implementation",
+          "shortest paths",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1915/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1915/submission/239259154"
+    },
+    {
+      "type": "codeforces",
+      "id": 239244948,
+      "creationTime": 1703774739,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703774100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1915F",
+        "name": "Greetings",
+        "tags": [
+          "data structures",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1915/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1915/submission/239244948"
+    },
+    {
+      "type": "codeforces",
+      "id": 239237656,
+      "creationTime": 1703774590,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703774100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1915E",
+        "name": "Romantic Glasses",
+        "tags": [
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1915/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1915/submission/239237656"
+    },
+    {
+      "type": "codeforces",
+      "id": 239231373,
+      "creationTime": 1703774454,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703774100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1915D",
+        "name": "Unnatural Language Processing",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1915/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1915/submission/239231373"
+    },
+    {
+      "type": "codeforces",
+      "id": 239224570,
+      "creationTime": 1703774333,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703774100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1915C",
+        "name": "Can I Square?",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1915/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1915/submission/239224570"
+    },
+    {
+      "type": "codeforces",
+      "id": 239219272,
+      "creationTime": 1703774260,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703774100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1915B",
+        "name": "Not Quite Latin Square",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1915/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1915/submission/239219272"
+    },
+    {
+      "type": "codeforces",
+      "id": 239214796,
+      "creationTime": 1703774201,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1703774100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1915A",
+        "name": "Odd One Out",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1915/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1915/submission/239214796"
+    },
+    {
+      "type": "codeforces",
       "id": 238702895,
       "creationTime": 1703430640,
       "language": "GNU C++20 (64)",

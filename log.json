@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1703711354,
+  "updateTime": 1703797719,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 239259154,
+            "pid": "1915G",
+            "name": "Bicycles",
+            "verdict": "CHALLENGED",
+            "creationTime": 1703775115
+          },
+          {
+            "platform": "codeforces",
+            "id": 239244948,
+            "pid": "1915F",
+            "name": "Greetings",
+            "verdict": "OK",
+            "creationTime": 1703774739
+          },
+          {
+            "platform": "codeforces",
+            "id": 239237656,
+            "pid": "1915E",
+            "name": "Romantic Glasses",
+            "verdict": "OK",
+            "creationTime": 1703774590
+          },
+          {
+            "platform": "codeforces",
+            "id": 239231373,
+            "pid": "1915D",
+            "name": "Unnatural Language Processing",
+            "verdict": "OK",
+            "creationTime": 1703774454
+          },
+          {
+            "platform": "codeforces",
+            "id": 239224570,
+            "pid": "1915C",
+            "name": "Can I Square?",
+            "verdict": "OK",
+            "creationTime": 1703774333
+          },
+          {
+            "platform": "codeforces",
+            "id": 239219272,
+            "pid": "1915B",
+            "name": "Not Quite Latin Square",
+            "verdict": "OK",
+            "creationTime": 1703774260
+          },
+          {
+            "platform": "codeforces",
+            "id": 239214796,
+            "pid": "1915A",
+            "name": "Odd One Out",
+            "verdict": "OK",
+            "creationTime": 1703774201
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "55c44865bcadcef23746799d5bce13fffc022833"
+  "ref": "d0a5649ecb8daf2e10ac892ad268b7d931211838"
 }
