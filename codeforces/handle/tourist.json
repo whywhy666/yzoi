@@ -52,7 +52,8 @@
         "name": "Greetings",
         "tags": [
           "data structures",
-          "divide and conquer"
+          "divide and conquer",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1915/problem/F"
       },
@@ -129,6 +130,7 @@
         "id": "1915C",
         "name": "Can I Square?",
         "tags": [
+          "binary search",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1915/problem/C"
@@ -178,6 +180,7 @@
         "id": "1915A",
         "name": "Odd One Out",
         "tags": [
+          "bitmasks",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1915/problem/A"
@@ -260,7 +263,6 @@
         "tags": [
           "combinatorics",
           "data structures",
-          "divide and conquer",
           "implementation",
           "math",
           "number theory"
@@ -372,7 +374,6 @@
         "rating": 3000,
         "tags": [
           "hashing",
-          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1909/problem/G"
