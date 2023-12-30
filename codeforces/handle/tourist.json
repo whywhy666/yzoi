@@ -6,6 +6,238 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 239676992,
+      "creationTime": 1703950920,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916H2",
+        "name": "Matrix Rank (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "geometry",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/H2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239676992"
+    },
+    {
+      "type": "codeforces",
+      "id": 239670774,
+      "creationTime": 1703950421,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916H1",
+        "name": "Matrix Rank (Easy Version)",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239670774"
+    },
+    {
+      "type": "codeforces",
+      "id": 239662258,
+      "creationTime": 1703949815,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916H1",
+        "name": "Matrix Rank (Easy Version)",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239662258"
+    },
+    {
+      "type": "codeforces",
+      "id": 239649097,
+      "creationTime": 1703949063,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916E",
+        "name": "Happy Life in University",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239649097"
+    },
+    {
+      "type": "codeforces",
+      "id": 239641329,
+      "creationTime": 1703948673,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916D",
+        "name": "Mathematical Problem",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239641329"
+    },
+    {
+      "type": "codeforces",
+      "id": 239639783,
+      "creationTime": 1703948598,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916D",
+        "name": "Mathematical Problem",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239639783"
+    },
+    {
+      "type": "codeforces",
+      "id": 239631347,
+      "creationTime": 1703948251,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916C",
+        "name": "Training Before the Olympiad",
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239631347"
+    },
+    {
+      "type": "codeforces",
+      "id": 239622918,
+      "creationTime": 1703947919,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916B",
+        "name": "Two Divisors",
+        "tags": [
+          "constructive algorithms",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239622918"
+    },
+    {
+      "type": "codeforces",
+      "id": 239622756,
+      "creationTime": 1703947877,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1703947800
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1916A",
+        "name": "2023",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1916/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1916/submission/239622756"
+    },
+    {
+      "type": "codeforces",
       "id": 239259154,
       "creationTime": 1703775115,
       "language": "GNU C++20 (64)",
@@ -22,7 +254,6 @@
         "id": "1915G",
         "name": "Bicycles",
         "tags": [
-          "dp",
           "graphs",
           "greedy",
           "implementation",
@@ -235,7 +466,6 @@
         "rating": 2500,
         "tags": [
           "constructive algorithms",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1917/problem/E"
@@ -116766,7 +116996,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3375,
+    "rating": 3330,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
