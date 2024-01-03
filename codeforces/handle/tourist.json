@@ -411,6 +411,7 @@
         "name": "Not Quite Latin Square",
         "rating": 800,
         "tags": [
+          "bitmasks",
           "brute force",
           "implementation"
         ],
