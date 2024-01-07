@@ -6,6 +6,417 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 240605747,
+      "creationTime": 1704565247,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -442918400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919G",
+        "name": "Tree LGM",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240605747"
+    },
+    {
+      "type": "codeforces",
+      "id": 240605608,
+      "creationTime": 1704565183,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -442918464
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919G",
+        "name": "Tree LGM",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240605608"
+    },
+    {
+      "type": "codeforces",
+      "id": 240602637,
+      "creationTime": 1704563969,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -442919678
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919G",
+        "name": "Tree LGM",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240602637"
+    },
+    {
+      "type": "codeforces",
+      "id": 240602416,
+      "creationTime": 1704563900,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -442919747
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919G",
+        "name": "Tree LGM",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240602416"
+    },
+    {
+      "type": "codeforces",
+      "id": 240602155,
+      "creationTime": 1704563827,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -442919820
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919G",
+        "name": "Tree LGM",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240602155"
+    },
+    {
+      "type": "codeforces",
+      "id": 240601763,
+      "creationTime": 1704563724,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -442919923
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919G",
+        "name": "Tree LGM",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240601763"
+    },
+    {
+      "type": "codeforces",
+      "id": 240598051,
+      "creationTime": 1704560689,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919G",
+        "name": "Tree LGM",
+        "rating": 3500,
+        "tags": [
+          "constructive algorithms",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240598051"
+    },
+    {
+      "type": "codeforces",
+      "id": 240569596,
+      "creationTime": 1704556658,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919F2",
+        "name": "Wine Factory (Hard Version)",
+        "rating": 2800,
+        "tags": [
+          "data structures",
+          "dp",
+          "flows",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240569596"
+    },
+    {
+      "type": "codeforces",
+      "id": 240555797,
+      "creationTime": 1704555131,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919F1",
+        "name": "Wine Factory (Easy Version)",
+        "rating": 2300,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240555797"
+    },
+    {
+      "type": "codeforces",
+      "id": 240537261,
+      "creationTime": 1704553595,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919E",
+        "name": "Counting Prefixes",
+        "rating": 2600,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240537261"
+    },
+    {
+      "type": "codeforces",
+      "id": 240514581,
+      "creationTime": 1704552438,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919D",
+        "name": "01 Tree",
+        "rating": 2100,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy",
+          "implementation",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240514581"
+    },
+    {
+      "type": "codeforces",
+      "id": 240512108,
+      "creationTime": 1704552359,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919D",
+        "name": "01 Tree",
+        "rating": 2100,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "greedy",
+          "implementation",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240512108"
+    },
+    {
+      "type": "codeforces",
+      "id": 240500173,
+      "creationTime": 1704551947,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919C",
+        "name": "Grouping Increases",
+        "rating": 1400,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240500173"
+    },
+    {
+      "type": "codeforces",
+      "id": 240495674,
+      "creationTime": 1704551827,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919B",
+        "name": "Plus-Minus Split",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240495674"
+    },
+    {
+      "type": "codeforces",
+      "id": 240494291,
+      "creationTime": 1704551752,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1704551701
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919A",
+        "name": "Wallet Exchange",
+        "rating": 800,
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/240494291"
+    },
+    {
+      "type": "codeforces",
       "id": 239676992,
       "creationTime": 1703950920,
       "language": "GNU C++20 (64)",
@@ -26,7 +437,8 @@
           "combinatorics",
           "dp",
           "math",
-          "matrices"
+          "matrices",
+          "string suffix structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/H2"
       },
@@ -139,6 +551,7 @@
         "tags": [
           "brute force",
           "constructive algorithms",
+          "geometry",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/D"
@@ -166,6 +579,7 @@
         "tags": [
           "brute force",
           "constructive algorithms",
+          "geometry",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1916/problem/D"
@@ -117024,7 +117438,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3330,
+    "rating": 3375,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
