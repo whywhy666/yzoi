@@ -240,7 +240,8 @@
         "name": "Wine Factory (Easy Version)",
         "rating": 2300,
         "tags": [
-          "data structures"
+          "data structures",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/F1"
       },
@@ -408,7 +409,7 @@
         "name": "Wallet Exchange",
         "rating": 800,
         "tags": [
-          "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/A"
