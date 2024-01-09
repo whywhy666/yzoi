@@ -214,7 +214,7 @@
         "tags": [
           "data structures",
           "dp",
-          "flows",
+          "greedy",
           "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/1919/problem/F2"
@@ -267,6 +267,7 @@
         "rating": 2600,
         "tags": [
           "combinatorics",
+          "constructive algorithms",
           "dp",
           "math"
         ],
@@ -297,6 +298,7 @@
           "data structures",
           "divide and conquer",
           "dp",
+          "dsu",
           "greedy",
           "implementation",
           "sortings",
@@ -329,6 +331,7 @@
           "data structures",
           "divide and conquer",
           "dp",
+          "dsu",
           "greedy",
           "implementation",
           "sortings",
