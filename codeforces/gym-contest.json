@@ -19184,6 +19184,17 @@
     "standingsUrl": "https://codeforces.com/gym/104936/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "SLPC 2024 Open Division",
+    "startTime": 1706986800,
+    "duration": 16200,
+    "participantNumber": 0,
+    "id": 104941,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104941",
+    "standingsUrl": "https://codeforces.com/gym/104941/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "2023-2024 Всероссийская олимпиада школьников по информатике, региональный этап, 1 тур",
     "duration": 18000,
