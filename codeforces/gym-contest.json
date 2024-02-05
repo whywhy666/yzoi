@@ -19195,6 +19195,16 @@
     "standingsUrl": "https://codeforces.com/gym/104941/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 ICPC Southwestern European Regional Contest (SWERC 2023)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104945,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104945",
+    "standingsUrl": "https://codeforces.com/gym/104945/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "2023-2024 Всероссийская олимпиада школьников по информатике, региональный этап, 1 тур",
     "duration": 18000,
@@ -19213,5 +19223,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104950",
     "standingsUrl": "https://codeforces.com/gym/104950/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2023-2024, Первая личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104959,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104959",
+    "standingsUrl": "https://codeforces.com/gym/104959/standings"
   }
 ]
