@@ -19306,5 +19306,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/104974",
     "standingsUrl": "https://codeforces.com/gym/104974/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2023 ICPC Asia Hangzhou Regional Contest (The 2nd Universal Cup. Stage 22: Hangzhou)",
+    "startTime": 1702170000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 104976,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/104976",
+    "standingsUrl": "https://codeforces.com/gym/104976/standings"
   }
 ]
