@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1708117708,
+  "updateTime": 1708204069,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 246867010,
+            "pid": "1930G",
+            "name": "Prefix Max Set Counting",
+            "verdict": "OK",
+            "creationTime": 1708184663
+          },
+          {
+            "platform": "codeforces",
+            "id": 246851106,
+            "pid": "1930F",
+            "name": "Maximize the Difference",
+            "verdict": "OK",
+            "creationTime": 1708182473
+          },
+          {
+            "platform": "codeforces",
+            "id": 246847093,
+            "pid": "1930E",
+            "name": "2..3...4.... Wonderful! Wonderful!",
+            "verdict": "OK",
+            "creationTime": 1708182068
+          },
+          {
+            "platform": "codeforces",
+            "id": 246841402,
+            "pid": "1930D2",
+            "name": "Sum over all Substrings (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1708181587
+          },
+          {
+            "platform": "codeforces",
+            "id": 246839130,
+            "pid": "1930D1",
+            "name": "Sum over all Substrings (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1708181429
+          },
+          {
+            "platform": "codeforces",
+            "id": 246831660,
+            "pid": "1930C",
+            "name": "Lexicographically Largest",
+            "verdict": "OK",
+            "creationTime": 1708180997
+          },
+          {
+            "platform": "codeforces",
+            "id": 246824744,
+            "pid": "1930B",
+            "name": "Permutation Printing",
+            "verdict": "OK",
+            "creationTime": 1708180697
+          },
+          {
+            "platform": "codeforces",
+            "id": 246820744,
+            "pid": "1930A",
+            "name": "Maximise The Score",
+            "verdict": "OK",
+            "creationTime": 1708180558
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "4fdc6466a3907fa773c5be17eef5e07245b76fd9"
+  "ref": "7742d2083633116789e7bea8b741f4f52131c43b"
 }

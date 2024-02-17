@@ -6,6 +6,210 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 246867010,
+      "creationTime": 1708184663,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930G",
+        "name": "Prefix Max Set Counting",
+        "tags": [
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246867010"
+    },
+    {
+      "type": "codeforces",
+      "id": 246851106,
+      "creationTime": 1708182473,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930F",
+        "name": "Maximize the Difference",
+        "tags": [
+          "bitmasks",
+          "dfs and similar"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246851106"
+    },
+    {
+      "type": "codeforces",
+      "id": 246847093,
+      "creationTime": 1708182068,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930E",
+        "name": "2..3...4.... Wonderful! Wonderful!",
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246847093"
+    },
+    {
+      "type": "codeforces",
+      "id": 246841402,
+      "creationTime": 1708181587,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930D2",
+        "name": "Sum over all Substrings (Hard Version)",
+        "tags": [
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246841402"
+    },
+    {
+      "type": "codeforces",
+      "id": 246839130,
+      "creationTime": 1708181429,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930D1",
+        "name": "Sum over all Substrings (Easy Version)",
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246839130"
+    },
+    {
+      "type": "codeforces",
+      "id": 246831660,
+      "creationTime": 1708180997,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930C",
+        "name": "Lexicographically Largest",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246831660"
+    },
+    {
+      "type": "codeforces",
+      "id": 246824744,
+      "creationTime": 1708180697,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930B",
+        "name": "Permutation Printing",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246824744"
+    },
+    {
+      "type": "codeforces",
+      "id": 246820744,
+      "creationTime": 1708180558,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708180500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1930A",
+        "name": "Maximise The Score",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1930/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1930/submission/246820744"
+    },
+    {
+      "type": "codeforces",
       "id": 240605747,
       "creationTime": 1704565247,
       "language": "GNU C++20 (64)",
@@ -117445,7 +117649,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3375,
+    "rating": 3396,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
