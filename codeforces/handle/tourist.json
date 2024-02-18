@@ -6,6 +6,213 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 247022562,
+      "creationTime": 1708259617,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932G",
+        "name": "Moving Platforms",
+        "tags": [
+          "graphs",
+          "math",
+          "number theory",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/247022562"
+    },
+    {
+      "type": "codeforces",
+      "id": 247012703,
+      "creationTime": 1708259046,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932F",
+        "name": "Feed Cats",
+        "tags": [
+          "data structures",
+          "dp",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/247012703"
+    },
+    {
+      "type": "codeforces",
+      "id": 247004855,
+      "creationTime": 1708258645,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932E",
+        "name": "Final Countdown",
+        "tags": [
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/247004855"
+    },
+    {
+      "type": "codeforces",
+      "id": 247001764,
+      "creationTime": 1708258510,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932D",
+        "name": "Card Game",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/247001764"
+    },
+    {
+      "type": "codeforces",
+      "id": 246994609,
+      "creationTime": 1708258230,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932C",
+        "name": "LR-remainders",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/246994609"
+    },
+    {
+      "type": "codeforces",
+      "id": 246990951,
+      "creationTime": 1708258107,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932A",
+        "name": "Thorns and Coins",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/246990951"
+    },
+    {
+      "type": "codeforces",
+      "id": 246989651,
+      "creationTime": 1708258050,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932B",
+        "name": "Chaya Calendar",
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/246989651"
+    },
+    {
+      "type": "codeforces",
+      "id": 246989216,
+      "creationTime": 1708257991,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708257900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1932A",
+        "name": "Thorns and Coins",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1932/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1932/submission/246989216"
+    },
+    {
+      "type": "codeforces",
       "id": 246867010,
       "creationTime": 1708184663,
       "language": "GNU C++20 (64)",
@@ -22,6 +229,8 @@
         "id": "1930G",
         "name": "Prefix Max Set Counting",
         "tags": [
+          "data structures",
+          "dp",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/G"
@@ -47,6 +256,7 @@
         "name": "Maximize the Difference",
         "tags": [
           "bitmasks",
+          "brute force",
           "dfs and similar"
         ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/F"
@@ -97,7 +307,9 @@
         "name": "Sum over all Substrings (Hard Version)",
         "tags": [
           "dp",
+          "dsu",
           "greedy",
+          "implementation",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/D2"
@@ -149,6 +361,7 @@
         "id": "1930C",
         "name": "Lexicographically Largest",
         "tags": [
+          "binary search",
           "constructive algorithms",
           "data structures",
           "greedy",
@@ -176,6 +389,7 @@
         "id": "1930B",
         "name": "Permutation Printing",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "math"
         ],

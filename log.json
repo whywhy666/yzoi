@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1708204069,
+  "updateTime": 1708290484,
   "history": {
     "user": [
       {
@@ -8,67 +8,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 246867010,
-            "pid": "1930G",
-            "name": "Prefix Max Set Counting",
+            "id": 247022562,
+            "pid": "1932G",
+            "name": "Moving Platforms",
             "verdict": "OK",
-            "creationTime": 1708184663
+            "creationTime": 1708259617
           },
           {
             "platform": "codeforces",
-            "id": 246851106,
-            "pid": "1930F",
-            "name": "Maximize the Difference",
+            "id": 247012703,
+            "pid": "1932F",
+            "name": "Feed Cats",
             "verdict": "OK",
-            "creationTime": 1708182473
+            "creationTime": 1708259046
           },
           {
             "platform": "codeforces",
-            "id": 246847093,
-            "pid": "1930E",
-            "name": "2..3...4.... Wonderful! Wonderful!",
+            "id": 247004855,
+            "pid": "1932E",
+            "name": "Final Countdown",
             "verdict": "OK",
-            "creationTime": 1708182068
+            "creationTime": 1708258645
           },
           {
             "platform": "codeforces",
-            "id": 246841402,
-            "pid": "1930D2",
-            "name": "Sum over all Substrings (Hard Version)",
+            "id": 247001764,
+            "pid": "1932D",
+            "name": "Card Game",
             "verdict": "OK",
-            "creationTime": 1708181587
+            "creationTime": 1708258510
           },
           {
             "platform": "codeforces",
-            "id": 246839130,
-            "pid": "1930D1",
-            "name": "Sum over all Substrings (Easy Version)",
+            "id": 246994609,
+            "pid": "1932C",
+            "name": "LR-remainders",
             "verdict": "OK",
-            "creationTime": 1708181429
+            "creationTime": 1708258230
           },
           {
             "platform": "codeforces",
-            "id": 246831660,
-            "pid": "1930C",
-            "name": "Lexicographically Largest",
+            "id": 246990951,
+            "pid": "1932A",
+            "name": "Thorns and Coins",
             "verdict": "OK",
-            "creationTime": 1708180997
+            "creationTime": 1708258107
           },
           {
             "platform": "codeforces",
-            "id": 246824744,
-            "pid": "1930B",
-            "name": "Permutation Printing",
+            "id": 246989651,
+            "pid": "1932B",
+            "name": "Chaya Calendar",
             "verdict": "OK",
-            "creationTime": 1708180697
+            "creationTime": 1708258050
           },
           {
             "platform": "codeforces",
-            "id": 246820744,
-            "pid": "1930A",
-            "name": "Maximise The Score",
-            "verdict": "OK",
-            "creationTime": 1708180558
+            "id": 246989216,
+            "pid": "1932A",
+            "name": "Thorns and Coins",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1708257991
           }
         ],
         "newContests": []
@@ -76,5 +76,5 @@
     ],
     "contest": []
   },
-  "ref": "7742d2083633116789e7bea8b741f4f52131c43b"
+  "ref": "7886d82cdac3e6e704dc77e3ef1197bbe235b413"
 }
