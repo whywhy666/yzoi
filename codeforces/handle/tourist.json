@@ -6,6 +6,191 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 247259965,
+      "creationTime": 1708354370,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708353300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1926G",
+        "name": "Vlad and Trouble at MIT",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "flows",
+          "graphs",
+          "greedy",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1926/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1926/submission/247259965"
+    },
+    {
+      "type": "codeforces",
+      "id": 247249782,
+      "creationTime": 1708354019,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708353300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1926F",
+        "name": "Vlad and Avoiding X",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1926/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1926/submission/247249782"
+    },
+    {
+      "type": "codeforces",
+      "id": 247241693,
+      "creationTime": 1708353756,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708353300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1926E",
+        "name": "Vlad and an Odd Ordering",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "data structures",
+          "dp",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1926/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1926/submission/247241693"
+    },
+    {
+      "type": "codeforces",
+      "id": 247238123,
+      "creationTime": 1708353654,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708353300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1926D",
+        "name": "Vlad and Division",
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1926/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1926/submission/247238123"
+    },
+    {
+      "type": "codeforces",
+      "id": 247231806,
+      "creationTime": 1708353513,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708353300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1926C",
+        "name": "Vlad and a Sum of Sum of Digits",
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1926/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1926/submission/247231806"
+    },
+    {
+      "type": "codeforces",
+      "id": 247226892,
+      "creationTime": 1708353445,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708353300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1926B",
+        "name": "Vlad and Shapes",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1926/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1926/submission/247226892"
+    },
+    {
+      "type": "codeforces",
+      "id": 247220757,
+      "creationTime": 1708353365,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1708353300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1926A",
+        "name": "Vlad and the Best of Five",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1926/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1926/submission/247220757"
+    },
+    {
+      "type": "codeforces",
       "id": 247022562,
       "creationTime": 1708259617,
       "language": "GNU C++20 (64)",
@@ -129,7 +314,8 @@
           "brute force",
           "data structures",
           "implementation",
-          "math"
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1932/problem/C"
       },

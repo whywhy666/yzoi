@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1708290484,
+  "updateTime": 1708377005,
   "history": {
     "user": [
       {
@@ -8,67 +8,59 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 247022562,
-            "pid": "1932G",
-            "name": "Moving Platforms",
+            "id": 247259965,
+            "pid": "1926G",
+            "name": "Vlad and Trouble at MIT",
             "verdict": "OK",
-            "creationTime": 1708259617
+            "creationTime": 1708354370
           },
           {
             "platform": "codeforces",
-            "id": 247012703,
-            "pid": "1932F",
-            "name": "Feed Cats",
+            "id": 247249782,
+            "pid": "1926F",
+            "name": "Vlad and Avoiding X",
             "verdict": "OK",
-            "creationTime": 1708259046
+            "creationTime": 1708354019
           },
           {
             "platform": "codeforces",
-            "id": 247004855,
-            "pid": "1932E",
-            "name": "Final Countdown",
+            "id": 247241693,
+            "pid": "1926E",
+            "name": "Vlad and an Odd Ordering",
             "verdict": "OK",
-            "creationTime": 1708258645
+            "creationTime": 1708353756
           },
           {
             "platform": "codeforces",
-            "id": 247001764,
-            "pid": "1932D",
-            "name": "Card Game",
+            "id": 247238123,
+            "pid": "1926D",
+            "name": "Vlad and Division",
             "verdict": "OK",
-            "creationTime": 1708258510
+            "creationTime": 1708353654
           },
           {
             "platform": "codeforces",
-            "id": 246994609,
-            "pid": "1932C",
-            "name": "LR-remainders",
+            "id": 247231806,
+            "pid": "1926C",
+            "name": "Vlad and a Sum of Sum of Digits",
             "verdict": "OK",
-            "creationTime": 1708258230
+            "creationTime": 1708353513
           },
           {
             "platform": "codeforces",
-            "id": 246990951,
-            "pid": "1932A",
-            "name": "Thorns and Coins",
+            "id": 247226892,
+            "pid": "1926B",
+            "name": "Vlad and Shapes",
             "verdict": "OK",
-            "creationTime": 1708258107
+            "creationTime": 1708353445
           },
           {
             "platform": "codeforces",
-            "id": 246989651,
-            "pid": "1932B",
-            "name": "Chaya Calendar",
+            "id": 247220757,
+            "pid": "1926A",
+            "name": "Vlad and the Best of Five",
             "verdict": "OK",
-            "creationTime": 1708258050
-          },
-          {
-            "platform": "codeforces",
-            "id": 246989216,
-            "pid": "1932A",
-            "name": "Thorns and Coins",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1708257991
+            "creationTime": 1708353365
           }
         ],
         "newContests": []
@@ -76,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "7886d82cdac3e6e704dc77e3ef1197bbe235b413"
+  "ref": "7197588db5b548cc2e33515c784791670e331ce1"
 }
