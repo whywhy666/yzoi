@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1708377005,
+  "updateTime": 1708463321,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 247259965,
-            "pid": "1926G",
-            "name": "Vlad and Trouble at MIT",
-            "verdict": "OK",
-            "creationTime": 1708354370
-          },
-          {
-            "platform": "codeforces",
-            "id": 247249782,
-            "pid": "1926F",
-            "name": "Vlad and Avoiding X",
-            "verdict": "OK",
-            "creationTime": 1708354019
-          },
-          {
-            "platform": "codeforces",
-            "id": 247241693,
-            "pid": "1926E",
-            "name": "Vlad and an Odd Ordering",
-            "verdict": "OK",
-            "creationTime": 1708353756
-          },
-          {
-            "platform": "codeforces",
-            "id": 247238123,
-            "pid": "1926D",
-            "name": "Vlad and Division",
-            "verdict": "OK",
-            "creationTime": 1708353654
-          },
-          {
-            "platform": "codeforces",
-            "id": 247231806,
-            "pid": "1926C",
-            "name": "Vlad and a Sum of Sum of Digits",
-            "verdict": "OK",
-            "creationTime": 1708353513
-          },
-          {
-            "platform": "codeforces",
-            "id": 247226892,
-            "pid": "1926B",
-            "name": "Vlad and Shapes",
-            "verdict": "OK",
-            "creationTime": 1708353445
-          },
-          {
-            "platform": "codeforces",
-            "id": 247220757,
-            "pid": "1926A",
-            "name": "Vlad and the Best of Five",
-            "verdict": "OK",
-            "creationTime": 1708353365
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "7197588db5b548cc2e33515c784791670e331ce1"
+  "ref": "008d69f7ad0f0fb48cab9ca0159e05a79ded68f4"
 }

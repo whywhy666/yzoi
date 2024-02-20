@@ -24,7 +24,6 @@
         "tags": [
           "dfs and similar",
           "dp",
-          "flows",
           "graphs",
           "greedy",
           "implementation",
@@ -54,7 +53,9 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "brute force",
+          "combinatorics",
+          "dfs and similar",
+          "dp",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1926/problem/F"
@@ -159,6 +160,7 @@
         "id": "1926B",
         "name": "Vlad and Shapes",
         "tags": [
+          "geometry",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1926/problem/B"
@@ -467,6 +469,7 @@
         "id": "1930E",
         "name": "2..3...4.... Wonderful! Wonderful!",
         "tags": [
+          "brute force",
           "combinatorics",
           "math"
         ],
