@@ -470,6 +470,7 @@
         "name": "2..3...4.... Wonderful! Wonderful!",
         "tags": [
           "combinatorics",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1930/problem/E"
@@ -494,6 +495,8 @@
         "id": "1930D2",
         "name": "Sum over all Substrings (Hard Version)",
         "tags": [
+          "bitmasks",
+          "divide and conquer",
           "dp",
           "dsu",
           "greedy",
