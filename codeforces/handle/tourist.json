@@ -6,6 +6,226 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 247926735,
+      "creationTime": 1708701312,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923F",
+        "name": "Shrink-Reverse",
+        "tags": [
+          "greedy",
+          "greedy",
+          "greedy",
+          "greedy",
+          "string suffix structures",
+          "string suffix structures",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247926735"
+    },
+    {
+      "type": "codeforces",
+      "id": 247907637,
+      "creationTime": 1708699946,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923E",
+        "name": "Count Paths",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247907637"
+    },
+    {
+      "type": "codeforces",
+      "id": 247903362,
+      "creationTime": 1708699653,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923D",
+        "name": "Slimes",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247903362"
+    },
+    {
+      "type": "codeforces",
+      "id": 247901978,
+      "creationTime": 1708699571,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923D",
+        "name": "Slimes",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247901978"
+    },
+    {
+      "type": "codeforces",
+      "id": 247896441,
+      "creationTime": 1708699260,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923C",
+        "name": "Find B",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247896441"
+    },
+    {
+      "type": "codeforces",
+      "id": 247895061,
+      "creationTime": 1708699187,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923C",
+        "name": "Find B",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247895061"
+    },
+    {
+      "type": "codeforces",
+      "id": 247893401,
+      "creationTime": 1708699086,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923B",
+        "name": "Monsters Attack!",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247893401"
+    },
+    {
+      "type": "codeforces",
+      "id": 247892642,
+      "creationTime": 1708698967,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1708698900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1923A",
+        "name": "Moving Chips",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1923/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1923/submission/247892642"
+    },
+    {
+      "type": "codeforces",
       "id": 247259965,
       "creationTime": 1708354370,
       "language": "GNU C++20 (64)",
@@ -24,6 +244,7 @@
         "tags": [
           "dfs and similar",
           "dp",
+          "flows",
           "graphs",
           "greedy",
           "implementation",
@@ -118054,7 +118275,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3396,
+    "rating": 3395,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
