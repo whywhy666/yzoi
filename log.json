@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1708722531,
+  "updateTime": 1708808885,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 247926735,
-            "pid": "1923F",
-            "name": "Shrink-Reverse",
-            "verdict": "OK",
-            "creationTime": 1708701312
-          },
-          {
-            "platform": "codeforces",
-            "id": 247907637,
-            "pid": "1923E",
-            "name": "Count Paths",
-            "verdict": "OK",
-            "creationTime": 1708699946
-          },
-          {
-            "platform": "codeforces",
-            "id": 247903362,
-            "pid": "1923D",
-            "name": "Slimes",
-            "verdict": "OK",
-            "creationTime": 1708699653
-          },
-          {
-            "platform": "codeforces",
-            "id": 247901978,
-            "pid": "1923D",
-            "name": "Slimes",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1708699571
-          },
-          {
-            "platform": "codeforces",
-            "id": 247896441,
-            "pid": "1923C",
-            "name": "Find B",
-            "verdict": "OK",
-            "creationTime": 1708699260
-          },
-          {
-            "platform": "codeforces",
-            "id": 247895061,
-            "pid": "1923C",
-            "name": "Find B",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1708699187
-          },
-          {
-            "platform": "codeforces",
-            "id": 247893401,
-            "pid": "1923B",
-            "name": "Monsters Attack!",
-            "verdict": "OK",
-            "creationTime": 1708699086
-          },
-          {
-            "platform": "codeforces",
-            "id": 247892642,
-            "pid": "1923A",
-            "name": "Moving Chips",
-            "verdict": "OK",
-            "creationTime": 1708698967
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8f4af19d297b1b12e7f2e831ae041e522c96df96"
+  "ref": "add7cf575498618aa59b8e6912fc2aca81047266"
 }

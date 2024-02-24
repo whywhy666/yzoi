@@ -22,11 +22,8 @@
         "id": "1923F",
         "name": "Shrink-Reverse",
         "tags": [
+          "binary search",
           "greedy",
-          "greedy",
-          "greedy",
-          "greedy",
-          "string suffix structures",
           "string suffix structures",
           "strings"
         ],
@@ -56,7 +53,7 @@
           "dfs and similar",
           "divide and conquer",
           "dp",
-          "dsu",
+          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/E"
@@ -82,9 +79,10 @@
         "name": "Slimes",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
-          "dp",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/D"
       },
@@ -109,9 +107,10 @@
         "name": "Slimes",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
-          "dp",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/D"
       },
@@ -137,9 +136,7 @@
         "tags": [
           "constructive algorithms",
           "data structures",
-          "dp",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/C"
       },
@@ -165,9 +162,7 @@
         "tags": [
           "constructive algorithms",
           "data structures",
-          "dp",
-          "greedy",
-          "math"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/C"
       },
@@ -274,7 +269,6 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "combinatorics",
           "dfs and similar",
           "dp",
           "implementation"
