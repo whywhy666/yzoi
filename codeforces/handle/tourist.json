@@ -24,8 +24,11 @@
         "tags": [
           "binary search",
           "greedy",
+          "hashing",
+          "implementation",
           "string suffix structures",
-          "strings"
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/F"
       },
@@ -51,8 +54,8 @@
         "tags": [
           "data structures",
           "dfs and similar",
-          "divide and conquer",
           "dp",
+          "dsu",
           "graphs",
           "trees"
         ],
