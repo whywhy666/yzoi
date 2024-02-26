@@ -23,6 +23,7 @@
         "name": "Shrink-Reverse",
         "tags": [
           "binary search",
+          "brute force",
           "greedy",
           "hashing",
           "implementation",
@@ -56,6 +57,7 @@
           "dfs and similar",
           "dp",
           "dsu",
+          "fft",
           "graphs",
           "trees"
         ],
@@ -138,7 +140,6 @@
         "name": "Find B",
         "tags": [
           "constructive algorithms",
-          "data structures",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/C"
@@ -164,7 +165,6 @@
         "name": "Find B",
         "tags": [
           "constructive algorithms",
-          "data structures",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1923/problem/C"
