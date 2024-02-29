@@ -6,6 +6,241 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 248981250,
+      "creationTime": 1709231995,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -438251652
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936E",
+        "name": "Yet Yet Another Permutation Problem",
+        "tags": [
+          "divide and conquer",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248981250"
+    },
+    {
+      "type": "codeforces",
+      "id": 248969707,
+      "creationTime": 1709224252,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936E",
+        "name": "Yet Yet Another Permutation Problem",
+        "tags": [
+          "divide and conquer",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248969707"
+    },
+    {
+      "type": "codeforces",
+      "id": 248948695,
+      "creationTime": 1709221798,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936D",
+        "name": "Bitwise Paradox",
+        "tags": [
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248948695"
+    },
+    {
+      "type": "codeforces",
+      "id": 248941116,
+      "creationTime": 1709220937,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936D",
+        "name": "Bitwise Paradox",
+        "tags": [
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248941116"
+    },
+    {
+      "type": "codeforces",
+      "id": 248939310,
+      "creationTime": 1709220737,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936D",
+        "name": "Bitwise Paradox",
+        "tags": [
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248939310"
+    },
+    {
+      "type": "codeforces",
+      "id": 248923821,
+      "creationTime": 1709219121,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936C",
+        "name": "Pokémon Arena",
+        "tags": [
+          "data structures",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248923821"
+    },
+    {
+      "type": "codeforces",
+      "id": 248923147,
+      "creationTime": 1709219056,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936C",
+        "name": "Pokémon Arena",
+        "tags": [
+          "data structures",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248923147"
+    },
+    {
+      "type": "codeforces",
+      "id": 248914647,
+      "creationTime": 1709218255,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936A",
+        "name": "Bitwise Operation Wizard",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248914647"
+    },
+    {
+      "type": "codeforces",
+      "id": 248909886,
+      "creationTime": 1709217884,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709217300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1936B",
+        "name": "Pinball",
+        "tags": [
+          "binary search",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1936/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1936/submission/248909886"
+    },
+    {
+      "type": "codeforces",
       "id": 247926735,
       "creationTime": 1708701312,
       "language": "GNU C++20 (64)",

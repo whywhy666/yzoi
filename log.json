@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1709154551,
+  "updateTime": 1709241072,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 248981250,
+            "pid": "1936E",
+            "name": "Yet Yet Another Permutation Problem",
+            "verdict": "OK",
+            "creationTime": 1709231995
+          },
+          {
+            "platform": "codeforces",
+            "id": 248969707,
+            "pid": "1936E",
+            "name": "Yet Yet Another Permutation Problem",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1709224252
+          },
+          {
+            "platform": "codeforces",
+            "id": 248948695,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "verdict": "OK",
+            "creationTime": 1709221798
+          },
+          {
+            "platform": "codeforces",
+            "id": 248941116,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709220937
+          },
+          {
+            "platform": "codeforces",
+            "id": 248939310,
+            "pid": "1936D",
+            "name": "Bitwise Paradox",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709220737
+          },
+          {
+            "platform": "codeforces",
+            "id": 248923821,
+            "pid": "1936C",
+            "name": "Pokémon Arena",
+            "verdict": "OK",
+            "creationTime": 1709219121
+          },
+          {
+            "platform": "codeforces",
+            "id": 248923147,
+            "pid": "1936C",
+            "name": "Pokémon Arena",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709219056
+          },
+          {
+            "platform": "codeforces",
+            "id": 248914647,
+            "pid": "1936A",
+            "name": "Bitwise Operation Wizard",
+            "verdict": "OK",
+            "creationTime": 1709218255
+          },
+          {
+            "platform": "codeforces",
+            "id": 248909886,
+            "pid": "1936B",
+            "name": "Pinball",
+            "verdict": "OK",
+            "creationTime": 1709217884
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "aacf2c9879bd1d1a80399d4a61bfb491d44a9350"
+  "ref": "67ff9c477c2012c06222151abfa5564afba53576"
 }
