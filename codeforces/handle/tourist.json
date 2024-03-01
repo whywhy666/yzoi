@@ -6,6 +6,272 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 249123429,
+      "creationTime": 1709305694,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934D2",
+        "name": "XOR Break --- Game Version",
+        "tags": [
+          "bitmasks",
+          "games",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249123429"
+    },
+    {
+      "type": "codeforces",
+      "id": 249123121,
+      "creationTime": 1709305659,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934D2",
+        "name": "XOR Break --- Game Version",
+        "tags": [
+          "bitmasks",
+          "games",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249123121"
+    },
+    {
+      "type": "codeforces",
+      "id": 249121823,
+      "creationTime": 1709305525,
+      "language": "GNU C++20 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934D2",
+        "name": "XOR Break --- Game Version",
+        "tags": [
+          "bitmasks",
+          "games",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249121823"
+    },
+    {
+      "type": "codeforces",
+      "id": 249119151,
+      "creationTime": 1709305238,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934D2",
+        "name": "XOR Break --- Game Version",
+        "tags": [
+          "bitmasks",
+          "games",
+          "greedy",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249119151"
+    },
+    {
+      "type": "codeforces",
+      "id": 249117757,
+      "creationTime": 1709305089,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934D1",
+        "name": "XOR Break --- Solo Version",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249117757"
+    },
+    {
+      "type": "codeforces",
+      "id": 249110998,
+      "creationTime": 1709304493,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934C",
+        "name": "Find a Mine",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249110998"
+    },
+    {
+      "type": "codeforces",
+      "id": 249109280,
+      "creationTime": 1709304382,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934C",
+        "name": "Find a Mine",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249109280"
+    },
+    {
+      "type": "codeforces",
+      "id": 249103140,
+      "creationTime": 1709304048,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934A",
+        "name": "Too Min Too Max",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249103140"
+    },
+    {
+      "type": "codeforces",
+      "id": 249100728,
+      "creationTime": 1709303911,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934B",
+        "name": "Yet Another Coin Problem",
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249100728"
+    },
+    {
+      "type": "codeforces",
+      "id": 249099932,
+      "creationTime": 1709303814,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1709303700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1934A",
+        "name": "Too Min Too Max",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1934/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1934/submission/249099932"
+    },
+    {
+      "type": "codeforces",
       "id": 248981250,
       "creationTime": 1709231995,
       "language": "GNU C++20 (64)",
@@ -74,6 +340,7 @@
         "id": "1936D",
         "name": "Bitwise Paradox",
         "tags": [
+          "bitmasks",
           "data structures",
           "greedy",
           "two pointers"
@@ -100,6 +367,7 @@
         "id": "1936D",
         "name": "Bitwise Paradox",
         "tags": [
+          "bitmasks",
           "data structures",
           "greedy",
           "two pointers"
@@ -126,6 +394,7 @@
         "id": "1936D",
         "name": "Bitwise Paradox",
         "tags": [
+          "bitmasks",
           "data structures",
           "greedy",
           "two pointers"
@@ -152,6 +421,7 @@
         "id": "1936C",
         "name": "Pokémon Arena",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "graphs",
           "shortest paths"
@@ -178,6 +448,7 @@
         "id": "1936C",
         "name": "Pokémon Arena",
         "tags": [
+          "constructive algorithms",
           "data structures",
           "graphs",
           "shortest paths"
@@ -232,8 +503,12 @@
         "id": "1936B",
         "name": "Pinball",
         "tags": [
+          "2-sat",
           "binary search",
-          "implementation"
+          "data structures",
+          "fft",
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1936/problem/B"
       },
@@ -118505,7 +118780,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3395,
+    "rating": 3434,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1709241072,
+  "updateTime": 1709327408,
   "history": {
     "user": [
       {
@@ -8,75 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 248981250,
-            "pid": "1936E",
-            "name": "Yet Yet Another Permutation Problem",
+            "id": 249123429,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
             "verdict": "OK",
-            "creationTime": 1709231995
+            "creationTime": 1709305694
           },
           {
             "platform": "codeforces",
-            "id": 248969707,
-            "pid": "1936E",
-            "name": "Yet Yet Another Permutation Problem",
+            "id": 249123121,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709305659
+          },
+          {
+            "platform": "codeforces",
+            "id": 249121823,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
             "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1709224252
+            "creationTime": 1709305525
           },
           {
             "platform": "codeforces",
-            "id": 248948695,
-            "pid": "1936D",
-            "name": "Bitwise Paradox",
+            "id": 249119151,
+            "pid": "1934D2",
+            "name": "XOR Break --- Game Version",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1709305238
+          },
+          {
+            "platform": "codeforces",
+            "id": 249117757,
+            "pid": "1934D1",
+            "name": "XOR Break --- Solo Version",
             "verdict": "OK",
-            "creationTime": 1709221798
+            "creationTime": 1709305089
           },
           {
             "platform": "codeforces",
-            "id": 248941116,
-            "pid": "1936D",
-            "name": "Bitwise Paradox",
+            "id": 249110998,
+            "pid": "1934C",
+            "name": "Find a Mine",
+            "verdict": "OK",
+            "creationTime": 1709304493
+          },
+          {
+            "platform": "codeforces",
+            "id": 249109280,
+            "pid": "1934C",
+            "name": "Find a Mine",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1709220937
+            "creationTime": 1709304382
           },
           {
             "platform": "codeforces",
-            "id": 248939310,
-            "pid": "1936D",
-            "name": "Bitwise Paradox",
+            "id": 249103140,
+            "pid": "1934A",
+            "name": "Too Min Too Max",
+            "verdict": "OK",
+            "creationTime": 1709304048
+          },
+          {
+            "platform": "codeforces",
+            "id": 249100728,
+            "pid": "1934B",
+            "name": "Yet Another Coin Problem",
+            "verdict": "OK",
+            "creationTime": 1709303911
+          },
+          {
+            "platform": "codeforces",
+            "id": 249099932,
+            "pid": "1934A",
+            "name": "Too Min Too Max",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1709220737
-          },
-          {
-            "platform": "codeforces",
-            "id": 248923821,
-            "pid": "1936C",
-            "name": "Pokémon Arena",
-            "verdict": "OK",
-            "creationTime": 1709219121
-          },
-          {
-            "platform": "codeforces",
-            "id": 248923147,
-            "pid": "1936C",
-            "name": "Pokémon Arena",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1709219056
-          },
-          {
-            "platform": "codeforces",
-            "id": 248914647,
-            "pid": "1936A",
-            "name": "Bitwise Operation Wizard",
-            "verdict": "OK",
-            "creationTime": 1709218255
-          },
-          {
-            "platform": "codeforces",
-            "id": 248909886,
-            "pid": "1936B",
-            "name": "Pinball",
-            "verdict": "OK",
-            "creationTime": 1709217884
+            "creationTime": 1709303814
           }
         ],
         "newContests": []
@@ -84,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "67ff9c477c2012c06222151abfa5564afba53576"
+  "ref": "6d04461773c239b2ddbe16746d82457e6ccd5e34"
 }
