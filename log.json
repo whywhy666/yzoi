@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1709327408,
+  "updateTime": 1709413685,
   "history": {
     "user": [
       {
@@ -8,83 +8,203 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 249123429,
-            "pid": "1934D2",
-            "name": "XOR Break --- Game Version",
+            "id": 249262136,
+            "pid": "1938M",
+            "name": "Zig-zag",
             "verdict": "OK",
-            "creationTime": 1709305694
+            "creationTime": 1709362979
           },
           {
             "platform": "codeforces",
-            "id": 249123121,
-            "pid": "1934D2",
-            "name": "XOR Break --- Game Version",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1709305659
+            "id": 249257955,
+            "pid": "1938I",
+            "name": "Symmetric Boundary",
+            "verdict": "OK",
+            "creationTime": 1709361378
           },
           {
             "platform": "codeforces",
-            "id": 249121823,
-            "pid": "1934D2",
-            "name": "XOR Break --- Game Version",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1709305525
+            "id": 249257822,
+            "pid": "1938I",
+            "name": "Symmetric Boundary",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1709361326
           },
           {
             "platform": "codeforces",
-            "id": 249119151,
-            "pid": "1934D2",
-            "name": "XOR Break --- Game Version",
+            "id": 249257608,
+            "pid": "1938I",
+            "name": "Symmetric Boundary",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1709361230
+          },
+          {
+            "platform": "codeforces",
+            "id": 249257475,
+            "pid": "1938I",
+            "name": "Symmetric Boundary",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1709361177
+          },
+          {
+            "platform": "codeforces",
+            "id": 249253345,
+            "pid": "1938A",
+            "name": "Antiparticle Antiphysics",
+            "verdict": "OK",
+            "creationTime": 1709359515
+          },
+          {
+            "platform": "codeforces",
+            "id": 249242907,
+            "pid": "1938L",
+            "name": "XOR Operations",
+            "verdict": "OK",
+            "creationTime": 1709354648
+          },
+          {
+            "platform": "codeforces",
+            "id": 249242751,
+            "pid": "1938L",
+            "name": "XOR Operations",
             "verdict": "RUNTIME_ERROR",
-            "creationTime": 1709305238
+            "creationTime": 1709354570
           },
           {
             "platform": "codeforces",
-            "id": 249117757,
-            "pid": "1934D1",
-            "name": "XOR Break --- Solo Version",
+            "id": 249242654,
+            "pid": "1938L",
+            "name": "XOR Operations",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1709354513
+          },
+          {
+            "platform": "codeforces",
+            "id": 249241194,
+            "pid": "1938B",
+            "name": "Attraction Score",
             "verdict": "OK",
-            "creationTime": 1709305089
+            "creationTime": 1709353674
           },
           {
             "platform": "codeforces",
-            "id": 249110998,
-            "pid": "1934C",
-            "name": "Find a Mine",
-            "verdict": "OK",
-            "creationTime": 1709304493
+            "id": 249241173,
+            "pid": "1938B",
+            "name": "Attraction Score",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1709353663
           },
           {
             "platform": "codeforces",
-            "id": 249109280,
-            "pid": "1934C",
-            "name": "Find a Mine",
+            "id": 249241100,
+            "pid": "1938B",
+            "name": "Attraction Score",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1709304382
+            "creationTime": 1709353616
           },
           {
             "platform": "codeforces",
-            "id": 249103140,
-            "pid": "1934A",
-            "name": "Too Min Too Max",
+            "id": 249239501,
+            "pid": "1938D",
+            "name": "Bánh Bò",
             "verdict": "OK",
-            "creationTime": 1709304048
+            "creationTime": 1709352706
           },
           {
             "platform": "codeforces",
-            "id": 249100728,
-            "pid": "1934B",
-            "name": "Yet Another Coin Problem",
+            "id": 249235882,
+            "pid": "1938E",
+            "name": "Duplicates",
             "verdict": "OK",
-            "creationTime": 1709303911
+            "creationTime": 1709350494
           },
           {
             "platform": "codeforces",
-            "id": 249099932,
-            "pid": "1934A",
-            "name": "Too Min Too Max",
+            "id": 249235661,
+            "pid": "1938E",
+            "name": "Duplicates",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1709303814
+            "creationTime": 1709350357
+          },
+          {
+            "platform": "codeforces",
+            "id": 249234921,
+            "pid": "1938K",
+            "name": "Tree Quiz",
+            "verdict": "OK",
+            "creationTime": 1709349934
+          },
+          {
+            "platform": "codeforces",
+            "id": 249234434,
+            "pid": "1938K",
+            "name": "Tree Quiz",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709349650
+          },
+          {
+            "platform": "codeforces",
+            "id": 249233054,
+            "pid": "1938G",
+            "name": "Personality Test",
+            "verdict": "OK",
+            "creationTime": 1709348835
+          },
+          {
+            "platform": "codeforces",
+            "id": 249232330,
+            "pid": "1938F",
+            "name": "Forming Groups",
+            "verdict": "OK",
+            "creationTime": 1709348369
+          },
+          {
+            "platform": "codeforces",
+            "id": 249232261,
+            "pid": "1938F",
+            "name": "Forming Groups",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709348332
+          },
+          {
+            "platform": "codeforces",
+            "id": 249231807,
+            "pid": "1938C",
+            "name": "Bit Counting Sequence",
+            "verdict": "OK",
+            "creationTime": 1709348030
+          },
+          {
+            "platform": "codeforces",
+            "id": 249231460,
+            "pid": "1938J",
+            "name": "There and Back Again",
+            "verdict": "OK",
+            "creationTime": 1709347752
+          },
+          {
+            "platform": "codeforces",
+            "id": 249231322,
+            "pid": "1938H",
+            "name": "Pho Restaurant",
+            "verdict": "OK",
+            "creationTime": 1709347636
+          },
+          {
+            "platform": "codeforces",
+            "id": 249231274,
+            "pid": "1938H",
+            "name": "Pho Restaurant",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709347592
+          },
+          {
+            "platform": "codeforces",
+            "id": 249231220,
+            "pid": "1938J",
+            "name": "There and Back Again",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709347536
           }
         ],
         "newContests": []
@@ -92,5 +212,5 @@
     ],
     "contest": []
   },
-  "ref": "6d04461773c239b2ddbe16746d82457e6ccd5e34"
+  "ref": "d6139dd93358e0afa4d391f25187ef875bc7a3ff"
 }

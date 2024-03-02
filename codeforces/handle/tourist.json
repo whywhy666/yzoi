@@ -6,6 +6,631 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 249262136,
+      "creationTime": 1709362979,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938M",
+        "name": "Zig-zag",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/M"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249262136"
+    },
+    {
+      "type": "codeforces",
+      "id": 249257955,
+      "creationTime": 1709361378,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938I",
+        "name": "Symmetric Boundary",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249257955"
+    },
+    {
+      "type": "codeforces",
+      "id": 249257822,
+      "creationTime": 1709361326,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938I",
+        "name": "Symmetric Boundary",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249257822"
+    },
+    {
+      "type": "codeforces",
+      "id": 249257608,
+      "creationTime": 1709361230,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938I",
+        "name": "Symmetric Boundary",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249257608"
+    },
+    {
+      "type": "codeforces",
+      "id": 249257475,
+      "creationTime": 1709361177,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938I",
+        "name": "Symmetric Boundary",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249257475"
+    },
+    {
+      "type": "codeforces",
+      "id": 249253345,
+      "creationTime": 1709359515,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938A",
+        "name": "Antiparticle Antiphysics",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249253345"
+    },
+    {
+      "type": "codeforces",
+      "id": 249242907,
+      "creationTime": 1709354648,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938L",
+        "name": "XOR Operations",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/L"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249242907"
+    },
+    {
+      "type": "codeforces",
+      "id": 249242751,
+      "creationTime": 1709354570,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938L",
+        "name": "XOR Operations",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/L"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249242751"
+    },
+    {
+      "type": "codeforces",
+      "id": 249242654,
+      "creationTime": 1709354513,
+      "language": "GNU C++20 (64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938L",
+        "name": "XOR Operations",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/L"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249242654"
+    },
+    {
+      "type": "codeforces",
+      "id": 249241194,
+      "creationTime": 1709353674,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938B",
+        "name": "Attraction Score",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249241194"
+    },
+    {
+      "type": "codeforces",
+      "id": 249241173,
+      "creationTime": 1709353663,
+      "language": "GNU C++20 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938B",
+        "name": "Attraction Score",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249241173"
+    },
+    {
+      "type": "codeforces",
+      "id": 249241100,
+      "creationTime": 1709353616,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938B",
+        "name": "Attraction Score",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249241100"
+    },
+    {
+      "type": "codeforces",
+      "id": 249239501,
+      "creationTime": 1709352706,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938D",
+        "name": "Bánh Bò",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249239501"
+    },
+    {
+      "type": "codeforces",
+      "id": 249235882,
+      "creationTime": 1709350494,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938E",
+        "name": "Duplicates",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249235882"
+    },
+    {
+      "type": "codeforces",
+      "id": 249235661,
+      "creationTime": 1709350357,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938E",
+        "name": "Duplicates",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249235661"
+    },
+    {
+      "type": "codeforces",
+      "id": 249234921,
+      "creationTime": 1709349934,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938K",
+        "name": "Tree Quiz",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249234921"
+    },
+    {
+      "type": "codeforces",
+      "id": 249234434,
+      "creationTime": 1709349650,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938K",
+        "name": "Tree Quiz",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249234434"
+    },
+    {
+      "type": "codeforces",
+      "id": 249233054,
+      "creationTime": 1709348835,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938G",
+        "name": "Personality Test",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249233054"
+    },
+    {
+      "type": "codeforces",
+      "id": 249232330,
+      "creationTime": 1709348369,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938F",
+        "name": "Forming Groups",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249232330"
+    },
+    {
+      "type": "codeforces",
+      "id": 249232261,
+      "creationTime": 1709348332,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938F",
+        "name": "Forming Groups",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249232261"
+    },
+    {
+      "type": "codeforces",
+      "id": 249231807,
+      "creationTime": 1709348030,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938C",
+        "name": "Bit Counting Sequence",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249231807"
+    },
+    {
+      "type": "codeforces",
+      "id": 249231460,
+      "creationTime": 1709347752,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938J",
+        "name": "There and Back Again",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249231460"
+    },
+    {
+      "type": "codeforces",
+      "id": 249231322,
+      "creationTime": 1709347636,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938H",
+        "name": "Pho Restaurant",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249231322"
+    },
+    {
+      "type": "codeforces",
+      "id": 249231274,
+      "creationTime": 1709347592,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938H",
+        "name": "Pho Restaurant",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249231274"
+    },
+    {
+      "type": "codeforces",
+      "id": 249231220,
+      "creationTime": 1709347536,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "ksun48",
+          "tourist",
+          "ko_osaga"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1709346900,
+        "teamName": "sudokoo"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1938J",
+        "name": "There and Back Again",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1938/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1938/submission/249231220"
+    },
+    {
+      "type": "codeforces",
       "id": 249123429,
       "creationTime": 1709305694,
       "language": "GNU C++20 (64)",
@@ -156,7 +781,9 @@
         "id": "1934C",
         "name": "Find a Mine",
         "tags": [
+          "binary search",
           "constructive algorithms",
+          "geometry",
           "greedy",
           "interactive",
           "math"
@@ -183,7 +810,9 @@
         "id": "1934C",
         "name": "Find a Mine",
         "tags": [
+          "binary search",
           "constructive algorithms",
+          "geometry",
           "greedy",
           "interactive",
           "math"
@@ -238,7 +867,8 @@
         "tags": [
           "brute force",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1934/problem/B"
       },
@@ -421,10 +1051,12 @@
         "id": "1936C",
         "name": "Pokémon Arena",
         "tags": [
-          "constructive algorithms",
           "data structures",
           "graphs",
-          "shortest paths"
+          "greedy",
+          "implementation",
+          "shortest paths",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1936/problem/C"
       },
@@ -448,10 +1080,12 @@
         "id": "1936C",
         "name": "Pokémon Arena",
         "tags": [
-          "constructive algorithms",
           "data structures",
           "graphs",
-          "shortest paths"
+          "greedy",
+          "implementation",
+          "shortest paths",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1936/problem/C"
       },
@@ -503,10 +1137,8 @@
         "id": "1936B",
         "name": "Pinball",
         "tags": [
-          "2-sat",
           "binary search",
           "data structures",
-          "fft",
           "math",
           "two pointers"
         ],
