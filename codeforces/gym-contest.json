@@ -19400,5 +19400,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105006",
     "standingsUrl": "https://codeforces.com/gym/105006/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 USACO.Guide Informatics Tournament",
+    "startTime": 1709402400,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105009,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105009",
+    "standingsUrl": "https://codeforces.com/gym/105009/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2023-2024, Третья личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105011,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105011",
+    "standingsUrl": "https://codeforces.com/gym/105011/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Winter Cup 6.0 Online Mirror Contest",
+    "startTime": 1709472600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105010,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105010",
+    "standingsUrl": "https://codeforces.com/gym/105010/standings"
   }
 ]
