@@ -19432,5 +19432,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105010",
     "standingsUrl": "https://codeforces.com/gym/105010/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Bay Area Programming Contest 2024",
+    "startTime": 1709497800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105012,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105012",
+    "standingsUrl": "https://codeforces.com/gym/105012/standings"
   }
 ]
