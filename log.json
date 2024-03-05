@@ -1,9 +1,104 @@
 {
   "version": "0.1.16",
-  "updateTime": 1709586567,
+  "updateTime": 1709672965,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 249799449,
+            "pid": "1935F",
+            "name": "Andrey's Tree",
+            "verdict": "OK",
+            "creationTime": 1709652811
+          },
+          {
+            "platform": "codeforces",
+            "id": 249798495,
+            "pid": "1935F",
+            "name": "Andrey's Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709652719
+          },
+          {
+            "platform": "codeforces",
+            "id": 249793028,
+            "pid": "1935F",
+            "name": "Andrey's Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709652200
+          },
+          {
+            "platform": "codeforces",
+            "id": 249792628,
+            "pid": "1935F",
+            "name": "Andrey's Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709652167
+          },
+          {
+            "platform": "codeforces",
+            "id": 249790761,
+            "pid": "1935F",
+            "name": "Andrey's Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709652008
+          },
+          {
+            "platform": "codeforces",
+            "id": 249772393,
+            "pid": "1935E",
+            "name": "Distance Learning Courses in MAC",
+            "verdict": "OK",
+            "creationTime": 1709650722
+          },
+          {
+            "platform": "codeforces",
+            "id": 249771760,
+            "pid": "1935E",
+            "name": "Distance Learning Courses in MAC",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1709650683
+          },
+          {
+            "platform": "codeforces",
+            "id": 249757361,
+            "pid": "1935D",
+            "name": "Exam in MAC",
+            "verdict": "OK",
+            "creationTime": 1709649984
+          },
+          {
+            "platform": "codeforces",
+            "id": 249751053,
+            "pid": "1935C",
+            "name": "Messenger in MAC",
+            "verdict": "OK",
+            "creationTime": 1709649727
+          },
+          {
+            "platform": "codeforces",
+            "id": 249746384,
+            "pid": "1935B",
+            "name": "Informatics in MAC",
+            "verdict": "OK",
+            "creationTime": 1709649519
+          },
+          {
+            "platform": "codeforces",
+            "id": 249745431,
+            "pid": "1935A",
+            "name": "Entertainment in MAC",
+            "verdict": "OK",
+            "creationTime": 1709649379
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "059846d7de474f0513d4a14b742ae62584187c89"
+  "ref": "e1b0b91b9b0c9032f8ae5194d95e2c836baea9ea"
 }
