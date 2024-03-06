@@ -19435,6 +19435,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 19th Southeast University Programming Contest (Summer)",
+    "startTime": 1685505600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105013,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105013",
+    "standingsUrl": "https://codeforces.com/gym/105013/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Bay Area Programming Contest 2024",
     "startTime": 1709497800,
     "duration": 10800,
