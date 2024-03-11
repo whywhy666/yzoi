@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1710104884,
+  "updateTime": 1710191415,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 250703694,
+            "pid": "1941G",
+            "name": "Rudolf and Subway",
+            "verdict": "OK",
+            "creationTime": 1710169553
+          },
+          {
+            "platform": "codeforces",
+            "id": 250693301,
+            "pid": "1941F",
+            "name": "Rudolf and Imbalance",
+            "verdict": "OK",
+            "creationTime": 1710169177
+          },
+          {
+            "platform": "codeforces",
+            "id": 250682877,
+            "pid": "1941E",
+            "name": "Rudolf and k Bridges",
+            "verdict": "OK",
+            "creationTime": 1710168822
+          },
+          {
+            "platform": "codeforces",
+            "id": 250661974,
+            "pid": "1941D",
+            "name": "Rudolf and the Ball Game",
+            "verdict": "OK",
+            "creationTime": 1710168154
+          },
+          {
+            "platform": "codeforces",
+            "id": 250656325,
+            "pid": "1941C",
+            "name": "Rudolf and the Ugly String",
+            "verdict": "OK",
+            "creationTime": 1710168008
+          },
+          {
+            "platform": "codeforces",
+            "id": 250650352,
+            "pid": "1941B",
+            "name": "Rudolf and 121",
+            "verdict": "OK",
+            "creationTime": 1710167875
+          },
+          {
+            "platform": "codeforces",
+            "id": 250648064,
+            "pid": "1941A",
+            "name": "Rudolf and the Ticket",
+            "verdict": "OK",
+            "creationTime": 1710167788
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "17d5a5aa5df2c4430a9afa322082c1b1cbd7de81"
+  "ref": "19571df8209727ca187380a41498d66a30fc4886"
 }

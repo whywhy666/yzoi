@@ -6,6 +6,184 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 250703694,
+      "creationTime": 1710169553,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1710167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1941G",
+        "name": "Rudolf and Subway",
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1941/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1941/submission/250703694"
+    },
+    {
+      "type": "codeforces",
+      "id": 250693301,
+      "creationTime": 1710169177,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1710167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1941F",
+        "name": "Rudolf and Imbalance",
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1941/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1941/submission/250693301"
+    },
+    {
+      "type": "codeforces",
+      "id": 250682877,
+      "creationTime": 1710168822,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1710167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1941E",
+        "name": "Rudolf and k Bridges",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1941/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1941/submission/250682877"
+    },
+    {
+      "type": "codeforces",
+      "id": 250661974,
+      "creationTime": 1710168154,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1710167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1941D",
+        "name": "Rudolf and the Ball Game",
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1941/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1941/submission/250661974"
+    },
+    {
+      "type": "codeforces",
+      "id": 250656325,
+      "creationTime": 1710168008,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1710167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1941C",
+        "name": "Rudolf and the Ugly String",
+        "tags": [
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1941/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1941/submission/250656325"
+    },
+    {
+      "type": "codeforces",
+      "id": 250650352,
+      "creationTime": 1710167875,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1710167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1941B",
+        "name": "Rudolf and 121",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1941/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1941/submission/250650352"
+    },
+    {
+      "type": "codeforces",
+      "id": 250648064,
+      "creationTime": 1710167788,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1710167700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1941A",
+        "name": "Rudolf and the Ticket",
+        "tags": [
+          "math",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1941/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1941/submission/250648064"
+    },
+    {
+      "type": "codeforces",
       "id": 249799449,
       "creationTime": 1709652811,
       "language": "C++20 (GCC 13-64)",
