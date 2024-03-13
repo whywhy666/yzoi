@@ -21,7 +21,9 @@
         "type": "codeforces",
         "id": "1941G",
         "name": "Rudolf and Subway",
+        "rating": 2000,
         "tags": [
+          "constructive algorithms",
           "dfs and similar",
           "graphs",
           "shortest paths"
@@ -47,6 +49,7 @@
         "type": "codeforces",
         "id": "1941F",
         "name": "Rudolf and Imbalance",
+        "rating": 1800,
         "tags": [
           "binary search",
           "greedy",
@@ -74,6 +77,7 @@
         "type": "codeforces",
         "id": "1941E",
         "name": "Rudolf and k Bridges",
+        "rating": 1600,
         "tags": [
           "binary search",
           "data structures",
@@ -101,6 +105,7 @@
         "type": "codeforces",
         "id": "1941D",
         "name": "Rudolf and the Ball Game",
+        "rating": 1200,
         "tags": [
           "dp",
           "implementation"
@@ -126,6 +131,7 @@
         "type": "codeforces",
         "id": "1941C",
         "name": "Rudolf and the Ugly String",
+        "rating": 900,
         "tags": [
           "dp",
           "strings"
@@ -151,6 +157,7 @@
         "type": "codeforces",
         "id": "1941B",
         "name": "Rudolf and 121",
+        "rating": 1000,
         "tags": [
           "brute force",
           "dp",
@@ -178,6 +185,7 @@
         "type": "codeforces",
         "id": "1941A",
         "name": "Rudolf and the Ticket",
+        "rating": 800,
         "tags": [
           "brute force",
           "math"
@@ -203,6 +211,7 @@
         "type": "codeforces",
         "id": "1935F",
         "name": "Andrey's Tree",
+        "rating": 2800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -234,6 +243,7 @@
         "type": "codeforces",
         "id": "1935F",
         "name": "Andrey's Tree",
+        "rating": 2800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -265,6 +275,7 @@
         "type": "codeforces",
         "id": "1935F",
         "name": "Andrey's Tree",
+        "rating": 2800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -296,6 +307,7 @@
         "type": "codeforces",
         "id": "1935F",
         "name": "Andrey's Tree",
+        "rating": 2800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -327,6 +339,7 @@
         "type": "codeforces",
         "id": "1935F",
         "name": "Andrey's Tree",
+        "rating": 2800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -358,6 +371,7 @@
         "type": "codeforces",
         "id": "1935E",
         "name": "Distance Learning Courses in MAC",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "brute force",
@@ -386,6 +400,7 @@
         "type": "codeforces",
         "id": "1935E",
         "name": "Distance Learning Courses in MAC",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "brute force",
@@ -414,6 +429,7 @@
         "type": "codeforces",
         "id": "1935D",
         "name": "Exam in MAC",
+        "rating": 1800,
         "tags": [
           "binary search",
           "combinatorics",
@@ -441,6 +457,7 @@
         "type": "codeforces",
         "id": "1935C",
         "name": "Messenger in MAC",
+        "rating": 1800,
         "tags": [
           "binary search",
           "brute force",
@@ -471,6 +488,7 @@
         "type": "codeforces",
         "id": "1935B",
         "name": "Informatics in MAC",
+        "rating": 1200,
         "tags": [
           "constructive algorithms"
         ],
@@ -495,6 +513,7 @@
         "type": "codeforces",
         "id": "1935A",
         "name": "Entertainment in MAC",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "strings"
@@ -523,6 +542,7 @@
         "type": "codeforces",
         "id": "1938M",
         "name": "Zig-zag",
+        "rating": 3500,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/M"
       },
@@ -548,6 +568,7 @@
         "type": "codeforces",
         "id": "1938I",
         "name": "Symmetric Boundary",
+        "rating": 2800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/I"
       },
@@ -573,6 +594,7 @@
         "type": "codeforces",
         "id": "1938I",
         "name": "Symmetric Boundary",
+        "rating": 2800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/I"
       },
@@ -598,6 +620,7 @@
         "type": "codeforces",
         "id": "1938I",
         "name": "Symmetric Boundary",
+        "rating": 2800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/I"
       },
@@ -623,6 +646,7 @@
         "type": "codeforces",
         "id": "1938I",
         "name": "Symmetric Boundary",
+        "rating": 2800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/I"
       },
@@ -648,6 +672,7 @@
         "type": "codeforces",
         "id": "1938A",
         "name": "Antiparticle Antiphysics",
+        "rating": 3500,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/A"
       },
@@ -673,6 +698,7 @@
         "type": "codeforces",
         "id": "1938L",
         "name": "XOR Operations",
+        "rating": 2800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/L"
       },
@@ -698,6 +724,7 @@
         "type": "codeforces",
         "id": "1938L",
         "name": "XOR Operations",
+        "rating": 2800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/L"
       },
@@ -723,6 +750,7 @@
         "type": "codeforces",
         "id": "1938L",
         "name": "XOR Operations",
+        "rating": 2800,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/L"
       },
@@ -748,6 +776,7 @@
         "type": "codeforces",
         "id": "1938B",
         "name": "Attraction Score",
+        "rating": 3000,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/B"
       },
@@ -773,6 +802,7 @@
         "type": "codeforces",
         "id": "1938B",
         "name": "Attraction Score",
+        "rating": 3000,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/B"
       },
@@ -798,6 +828,7 @@
         "type": "codeforces",
         "id": "1938B",
         "name": "Attraction Score",
+        "rating": 3000,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/B"
       },
@@ -823,6 +854,7 @@
         "type": "codeforces",
         "id": "1938D",
         "name": "Bánh Bò",
+        "rating": 3300,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/D"
       },
@@ -848,6 +880,7 @@
         "type": "codeforces",
         "id": "1938E",
         "name": "Duplicates",
+        "rating": 2200,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/E"
       },
@@ -873,6 +906,7 @@
         "type": "codeforces",
         "id": "1938E",
         "name": "Duplicates",
+        "rating": 2200,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/E"
       },
@@ -898,6 +932,7 @@
         "type": "codeforces",
         "id": "1938K",
         "name": "Tree Quiz",
+        "rating": 2400,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/K"
       },
@@ -923,6 +958,7 @@
         "type": "codeforces",
         "id": "1938K",
         "name": "Tree Quiz",
+        "rating": 2400,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/K"
       },
@@ -948,6 +984,7 @@
         "type": "codeforces",
         "id": "1938G",
         "name": "Personality Test",
+        "rating": 2300,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/G"
       },
@@ -973,6 +1010,7 @@
         "type": "codeforces",
         "id": "1938F",
         "name": "Forming Groups",
+        "rating": 2400,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/F"
       },
@@ -998,6 +1036,7 @@
         "type": "codeforces",
         "id": "1938F",
         "name": "Forming Groups",
+        "rating": 2400,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/F"
       },
@@ -1023,6 +1062,7 @@
         "type": "codeforces",
         "id": "1938C",
         "name": "Bit Counting Sequence",
+        "rating": 1900,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/C"
       },
@@ -1048,6 +1088,7 @@
         "type": "codeforces",
         "id": "1938J",
         "name": "There and Back Again",
+        "rating": 2100,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/J"
       },
@@ -1073,6 +1114,7 @@
         "type": "codeforces",
         "id": "1938H",
         "name": "Pho Restaurant",
+        "rating": 1600,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/H"
       },
@@ -1098,6 +1140,7 @@
         "type": "codeforces",
         "id": "1938H",
         "name": "Pho Restaurant",
+        "rating": 1600,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/H"
       },
@@ -1123,6 +1166,7 @@
         "type": "codeforces",
         "id": "1938J",
         "name": "There and Back Again",
+        "rating": 2100,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/1938/problem/J"
       },
@@ -1145,6 +1189,7 @@
         "type": "codeforces",
         "id": "1934D2",
         "name": "XOR Break --- Game Version",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "games",
@@ -1172,6 +1217,7 @@
         "type": "codeforces",
         "id": "1934D2",
         "name": "XOR Break --- Game Version",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "games",
@@ -1199,6 +1245,7 @@
         "type": "codeforces",
         "id": "1934D2",
         "name": "XOR Break --- Game Version",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "games",
@@ -1226,6 +1273,7 @@
         "type": "codeforces",
         "id": "1934D2",
         "name": "XOR Break --- Game Version",
+        "rating": 2400,
         "tags": [
           "bitmasks",
           "games",
@@ -1253,6 +1301,7 @@
         "type": "codeforces",
         "id": "1934D1",
         "name": "XOR Break --- Solo Version",
+        "rating": 2100,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -1279,6 +1328,7 @@
         "type": "codeforces",
         "id": "1934C",
         "name": "Find a Mine",
+        "rating": 1700,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -1308,6 +1358,7 @@
         "type": "codeforces",
         "id": "1934C",
         "name": "Find a Mine",
+        "rating": 1700,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -1337,6 +1388,7 @@
         "type": "codeforces",
         "id": "1934A",
         "name": "Too Min Too Max",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -1362,6 +1414,7 @@
         "type": "codeforces",
         "id": "1934B",
         "name": "Yet Another Coin Problem",
+        "rating": 1200,
         "tags": [
           "brute force",
           "dp",
@@ -1389,6 +1442,7 @@
         "type": "codeforces",
         "id": "1934A",
         "name": "Too Min Too Max",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -1414,6 +1468,7 @@
         "type": "codeforces",
         "id": "1936E",
         "name": "Yet Yet Another Permutation Problem",
+        "rating": 3400,
         "tags": [
           "divide and conquer",
           "fft",
@@ -1440,6 +1495,7 @@
         "type": "codeforces",
         "id": "1936E",
         "name": "Yet Yet Another Permutation Problem",
+        "rating": 3400,
         "tags": [
           "divide and conquer",
           "fft",
@@ -1466,6 +1522,7 @@
         "type": "codeforces",
         "id": "1936D",
         "name": "Bitwise Paradox",
+        "rating": 3100,
         "tags": [
           "binary search",
           "bitmasks",
@@ -1494,6 +1551,7 @@
         "type": "codeforces",
         "id": "1936D",
         "name": "Bitwise Paradox",
+        "rating": 3100,
         "tags": [
           "binary search",
           "bitmasks",
@@ -1522,6 +1580,7 @@
         "type": "codeforces",
         "id": "1936D",
         "name": "Bitwise Paradox",
+        "rating": 3100,
         "tags": [
           "binary search",
           "bitmasks",
@@ -1550,6 +1609,7 @@
         "type": "codeforces",
         "id": "1936C",
         "name": "Pokémon Arena",
+        "rating": 2400,
         "tags": [
           "data structures",
           "graphs",
@@ -1579,6 +1639,7 @@
         "type": "codeforces",
         "id": "1936C",
         "name": "Pokémon Arena",
+        "rating": 2400,
         "tags": [
           "data structures",
           "graphs",
@@ -1608,6 +1669,7 @@
         "type": "codeforces",
         "id": "1936A",
         "name": "Bitwise Operation Wizard",
+        "rating": 1700,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -1636,6 +1698,7 @@
         "type": "codeforces",
         "id": "1936B",
         "name": "Pinball",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -1664,6 +1727,7 @@
         "type": "codeforces",
         "id": "1923F",
         "name": "Shrink-Reverse",
+        "rating": 2800,
         "tags": [
           "binary search",
           "brute force",
@@ -1694,6 +1758,7 @@
         "type": "codeforces",
         "id": "1923E",
         "name": "Count Paths",
+        "rating": 2000,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -1723,6 +1788,7 @@
         "type": "codeforces",
         "id": "1923D",
         "name": "Slimes",
+        "rating": 1800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -1751,6 +1817,7 @@
         "type": "codeforces",
         "id": "1923D",
         "name": "Slimes",
+        "rating": 1800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -1779,6 +1846,7 @@
         "type": "codeforces",
         "id": "1923C",
         "name": "Find B",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -1804,6 +1872,7 @@
         "type": "codeforces",
         "id": "1923C",
         "name": "Find B",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -1829,6 +1898,7 @@
         "type": "codeforces",
         "id": "1923B",
         "name": "Monsters Attack!",
+        "rating": 1100,
         "tags": [
           "dp",
           "greedy",
@@ -1855,6 +1925,7 @@
         "type": "codeforces",
         "id": "1923A",
         "name": "Moving Chips",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -1880,6 +1951,7 @@
         "type": "codeforces",
         "id": "1926G",
         "name": "Vlad and Trouble at MIT",
+        "rating": 1900,
         "tags": [
           "dfs and similar",
           "dp",
@@ -1910,6 +1982,7 @@
         "type": "codeforces",
         "id": "1926F",
         "name": "Vlad and Avoiding X",
+        "rating": 2200,
         "tags": [
           "bitmasks",
           "brute force",
@@ -1938,6 +2011,7 @@
         "type": "codeforces",
         "id": "1926E",
         "name": "Vlad and an Odd Ordering",
+        "rating": 1500,
         "tags": [
           "binary search",
           "bitmasks",
@@ -1968,6 +2042,7 @@
         "type": "codeforces",
         "id": "1926D",
         "name": "Vlad and Division",
+        "rating": 1300,
         "tags": [
           "bitmasks",
           "greedy"
@@ -1993,6 +2068,7 @@
         "type": "codeforces",
         "id": "1926C",
         "name": "Vlad and a Sum of Sum of Digits",
+        "rating": 1200,
         "tags": [
           "dp",
           "implementation"
@@ -2018,6 +2094,7 @@
         "type": "codeforces",
         "id": "1926B",
         "name": "Vlad and Shapes",
+        "rating": 800,
         "tags": [
           "geometry",
           "implementation"
@@ -2043,6 +2120,7 @@
         "type": "codeforces",
         "id": "1926A",
         "name": "Vlad and the Best of Five",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -2067,6 +2145,7 @@
         "type": "codeforces",
         "id": "1932G",
         "name": "Moving Platforms",
+        "rating": 2300,
         "tags": [
           "graphs",
           "math",
@@ -2094,6 +2173,7 @@
         "type": "codeforces",
         "id": "1932F",
         "name": "Feed Cats",
+        "rating": 1900,
         "tags": [
           "data structures",
           "dp",
@@ -2120,6 +2200,7 @@
         "type": "codeforces",
         "id": "1932E",
         "name": "Final Countdown",
+        "rating": 1600,
         "tags": [
           "implementation",
           "math",
@@ -2146,6 +2227,7 @@
         "type": "codeforces",
         "id": "1932D",
         "name": "Card Game",
+        "rating": 1400,
         "tags": [
           "greedy",
           "implementation"
@@ -2171,6 +2253,7 @@
         "type": "codeforces",
         "id": "1932C",
         "name": "LR-remainders",
+        "rating": 1400,
         "tags": [
           "brute force",
           "data structures",
@@ -2199,6 +2282,7 @@
         "type": "codeforces",
         "id": "1932A",
         "name": "Thorns and Coins",
+        "rating": 800,
         "tags": [
           "dp",
           "greedy",
@@ -2225,6 +2309,7 @@
         "type": "codeforces",
         "id": "1932B",
         "name": "Chaya Calendar",
+        "rating": 1100,
         "tags": [
           "number theory"
         ],
@@ -2249,6 +2334,7 @@
         "type": "codeforces",
         "id": "1932A",
         "name": "Thorns and Coins",
+        "rating": 800,
         "tags": [
           "dp",
           "greedy",
@@ -2275,6 +2361,7 @@
         "type": "codeforces",
         "id": "1930G",
         "name": "Prefix Max Set Counting",
+        "rating": 3100,
         "tags": [
           "data structures",
           "dp",
@@ -2301,6 +2388,7 @@
         "type": "codeforces",
         "id": "1930F",
         "name": "Maximize the Difference",
+        "rating": 2700,
         "tags": [
           "bitmasks",
           "brute force",
@@ -2327,6 +2415,7 @@
         "type": "codeforces",
         "id": "1930E",
         "name": "2..3...4.... Wonderful! Wonderful!",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "dp",
@@ -2353,6 +2442,7 @@
         "type": "codeforces",
         "id": "1930D2",
         "name": "Sum over all Substrings (Hard Version)",
+        "rating": 2100,
         "tags": [
           "bitmasks",
           "divide and conquer",
@@ -2383,6 +2473,7 @@
         "type": "codeforces",
         "id": "1930D1",
         "name": "Sum over all Substrings (Easy Version)",
+        "rating": 1800,
         "tags": [
           "brute force",
           "dp",
@@ -2410,6 +2501,7 @@
         "type": "codeforces",
         "id": "1930C",
         "name": "Lexicographically Largest",
+        "rating": 1700,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -2438,6 +2530,7 @@
         "type": "codeforces",
         "id": "1930B",
         "name": "Permutation Printing",
+        "rating": 1000,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -2464,6 +2557,7 @@
         "type": "codeforces",
         "id": "1930A",
         "name": "Maximise The Score",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"
