@@ -6,6 +6,193 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 251472376,
+      "creationTime": 1710515590,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710513300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1948G",
+        "name": "MST with Matching",
+        "tags": [
+          "bitmasks",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1948/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1948/submission/251472376"
+    },
+    {
+      "type": "codeforces",
+      "id": 251455000,
+      "creationTime": 1710514750,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710513300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1948E",
+        "name": "Clique Partition",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1948/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1948/submission/251455000"
+    },
+    {
+      "type": "codeforces",
+      "id": 251446403,
+      "creationTime": 1710514398,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710513300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1948F",
+        "name": "Rare Coins",
+        "tags": [
+          "combinatorics",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1948/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1948/submission/251446403"
+    },
+    {
+      "type": "codeforces",
+      "id": 251428147,
+      "creationTime": 1710513766,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710513300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1948D",
+        "name": "Tandem Repeats?",
+        "tags": [
+          "brute force",
+          "dp",
+          "strings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1948/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1948/submission/251428147"
+    },
+    {
+      "type": "codeforces",
+      "id": 251425049,
+      "creationTime": 1710513677,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710513300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1948C",
+        "name": "Arrow Path",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1948/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1948/submission/251425049"
+    },
+    {
+      "type": "codeforces",
+      "id": 251421706,
+      "creationTime": 1710513587,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710513300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1948B",
+        "name": "Array Fix",
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1948/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1948/submission/251421706"
+    },
+    {
+      "type": "codeforces",
+      "id": 251419288,
+      "creationTime": 1710513515,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710513300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1948A",
+        "name": "Special Characters",
+        "tags": [
+          "brute force",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1948/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1948/submission/251419288"
+    },
+    {
+      "type": "codeforces",
       "id": 250703694,
       "creationTime": 1710169553,
       "language": "C++17 (GCC 7-32)",
@@ -107,6 +294,7 @@
         "name": "Rudolf and the Ball Game",
         "rating": 1200,
         "tags": [
+          "dfs and similar",
           "dp",
           "implementation"
         ],
@@ -134,6 +322,7 @@
         "rating": 900,
         "tags": [
           "dp",
+          "greedy",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1941/problem/C"
