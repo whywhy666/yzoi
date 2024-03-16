@@ -6,6 +6,188 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 251755986,
+      "creationTime": 1710603836,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710599700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1943E2",
+        "name": "MEX Game 2 (Hard Version)",
+        "tags": [
+          "binary search",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1943/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1943/submission/251755986"
+    },
+    {
+      "type": "codeforces",
+      "id": 251743400,
+      "creationTime": 1710602701,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710599700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1943E1",
+        "name": "MEX Game 2 (Easy Version)",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1943/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1943/submission/251743400"
+    },
+    {
+      "type": "codeforces",
+      "id": 251730537,
+      "creationTime": 1710601717,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710599700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1943D2",
+        "name": "Counting Is Fun (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1943/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1943/submission/251730537"
+    },
+    {
+      "type": "codeforces",
+      "id": 251727886,
+      "creationTime": 1710601527,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710599700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1943D1",
+        "name": "Counting Is Fun (Easy Version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1943/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1943/submission/251727886"
+    },
+    {
+      "type": "codeforces",
+      "id": 251715534,
+      "creationTime": 1710600632,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710599700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1943C",
+        "name": "Tree Compass",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1943/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1943/submission/251715534"
+    },
+    {
+      "type": "codeforces",
+      "id": 251709195,
+      "creationTime": 1710600223,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710599700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1943B",
+        "name": "Non-Palindromic Substring",
+        "tags": [
+          "hashing",
+          "implementation",
+          "math",
+          "probabilities",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1943/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1943/submission/251709195"
+    },
+    {
+      "type": "codeforces",
+      "id": 251701793,
+      "creationTime": 1710599825,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1710599700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1943A",
+        "name": "MEX Game 1",
+        "tags": [
+          "brute force",
+          "games",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1943/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1943/submission/251701793"
+    },
+    {
+      "type": "codeforces",
       "id": 251472376,
       "creationTime": 1710515590,
       "language": "C++17 (GCC 7-32)",
@@ -23,7 +205,8 @@
         "name": "MST with Matching",
         "tags": [
           "bitmasks",
-          "brute force"
+          "brute force",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/G"
       },
@@ -47,13 +230,10 @@
         "id": "1948E",
         "name": "Clique Partition",
         "tags": [
-          "binary search",
           "constructive algorithms",
-          "data structures",
-          "dfs and similar",
-          "dp",
           "graphs",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/E"
       },
@@ -105,6 +285,8 @@
         "tags": [
           "brute force",
           "dp",
+          "expression parsing",
+          "hashing",
           "strings",
           "two pointers"
         ],
@@ -185,7 +367,8 @@
         "name": "Special Characters",
         "tags": [
           "brute force",
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/A"
       },

@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1710536892,
+  "updateTime": 1710623292,
   "history": {
     "user": [
       {
@@ -8,59 +8,59 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 251472376,
-            "pid": "1948G",
-            "name": "MST with Matching",
+            "id": 251755986,
+            "pid": "1943E2",
+            "name": "MEX Game 2 (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1710515590
+            "creationTime": 1710603836
           },
           {
             "platform": "codeforces",
-            "id": 251455000,
-            "pid": "1948E",
-            "name": "Clique Partition",
+            "id": 251743400,
+            "pid": "1943E1",
+            "name": "MEX Game 2 (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1710514750
+            "creationTime": 1710602701
           },
           {
             "platform": "codeforces",
-            "id": 251446403,
-            "pid": "1948F",
-            "name": "Rare Coins",
+            "id": 251730537,
+            "pid": "1943D2",
+            "name": "Counting Is Fun (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1710514398
+            "creationTime": 1710601717
           },
           {
             "platform": "codeforces",
-            "id": 251428147,
-            "pid": "1948D",
-            "name": "Tandem Repeats?",
+            "id": 251727886,
+            "pid": "1943D1",
+            "name": "Counting Is Fun (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1710513766
+            "creationTime": 1710601527
           },
           {
             "platform": "codeforces",
-            "id": 251425049,
-            "pid": "1948C",
-            "name": "Arrow Path",
+            "id": 251715534,
+            "pid": "1943C",
+            "name": "Tree Compass",
             "verdict": "OK",
-            "creationTime": 1710513677
+            "creationTime": 1710600632
           },
           {
             "platform": "codeforces",
-            "id": 251421706,
-            "pid": "1948B",
-            "name": "Array Fix",
+            "id": 251709195,
+            "pid": "1943B",
+            "name": "Non-Palindromic Substring",
             "verdict": "OK",
-            "creationTime": 1710513587
+            "creationTime": 1710600223
           },
           {
             "platform": "codeforces",
-            "id": 251419288,
-            "pid": "1948A",
-            "name": "Special Characters",
+            "id": 251701793,
+            "pid": "1943A",
+            "name": "MEX Game 1",
             "verdict": "OK",
-            "creationTime": 1710513515
+            "creationTime": 1710599825
           }
         ],
         "newContests": []
@@ -68,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "2cba44fd24b18478a494a5d2066bbd38403feed6"
+  "ref": "9c44a157e2b06c3655bf677a1e731b1119145c98"
 }
