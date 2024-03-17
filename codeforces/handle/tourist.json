@@ -126,6 +126,8 @@
         "tags": [
           "constructive algorithms",
           "dfs and similar",
+          "graph matchings",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1943/problem/C"
@@ -150,10 +152,10 @@
         "id": "1943B",
         "name": "Non-Palindromic Substring",
         "tags": [
+          "data structures",
           "hashing",
           "implementation",
           "math",
-          "probabilities",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1943/problem/B"
@@ -286,7 +288,6 @@
           "brute force",
           "dp",
           "expression parsing",
-          "hashing",
           "strings",
           "two pointers"
         ],
@@ -367,8 +368,7 @@
         "name": "Special Characters",
         "tags": [
           "brute force",
-          "constructive algorithms",
-          "greedy"
+          "constructive algorithms"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/A"
       },
@@ -120379,7 +120379,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3434,
+    "rating": 3572,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1710623292,
+  "updateTime": 1710709824,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 251755986,
-            "pid": "1943E2",
-            "name": "MEX Game 2 (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1710603836
-          },
-          {
-            "platform": "codeforces",
-            "id": 251743400,
-            "pid": "1943E1",
-            "name": "MEX Game 2 (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1710602701
-          },
-          {
-            "platform": "codeforces",
-            "id": 251730537,
-            "pid": "1943D2",
-            "name": "Counting Is Fun (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1710601717
-          },
-          {
-            "platform": "codeforces",
-            "id": 251727886,
-            "pid": "1943D1",
-            "name": "Counting Is Fun (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1710601527
-          },
-          {
-            "platform": "codeforces",
-            "id": 251715534,
-            "pid": "1943C",
-            "name": "Tree Compass",
-            "verdict": "OK",
-            "creationTime": 1710600632
-          },
-          {
-            "platform": "codeforces",
-            "id": 251709195,
-            "pid": "1943B",
-            "name": "Non-Palindromic Substring",
-            "verdict": "OK",
-            "creationTime": 1710600223
-          },
-          {
-            "platform": "codeforces",
-            "id": 251701793,
-            "pid": "1943A",
-            "name": "MEX Game 1",
-            "verdict": "OK",
-            "creationTime": 1710599825
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9c44a157e2b06c3655bf677a1e731b1119145c98"
+  "ref": "52a131a4c48e4c42597020fcbde3cfb477ff5bc3"
 }
