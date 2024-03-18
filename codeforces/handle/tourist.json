@@ -100,7 +100,8 @@
         "name": "Counting Is Fun (Easy Version)",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1943/problem/D1"
       },
@@ -126,7 +127,6 @@
         "tags": [
           "constructive algorithms",
           "dfs and similar",
-          "graph matchings",
           "greedy",
           "trees"
         ],
@@ -180,7 +180,6 @@
         "id": "1943A",
         "name": "MEX Game 1",
         "tags": [
-          "brute force",
           "games",
           "greedy"
         ],
@@ -208,6 +207,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "dsu",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/G"
@@ -286,8 +286,6 @@
         "name": "Tandem Repeats?",
         "tags": [
           "brute force",
-          "dp",
-          "expression parsing",
           "strings",
           "two pointers"
         ],
@@ -313,6 +311,8 @@
         "id": "1948C",
         "name": "Arrow Path",
         "tags": [
+          "brute force",
+          "constructive algorithms",
           "dfs and similar",
           "dp",
           "graphs",
