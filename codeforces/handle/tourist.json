@@ -99,6 +99,7 @@
         "id": "1943D1",
         "name": "Counting Is Fun (Easy Version)",
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
           "math"
@@ -152,7 +153,6 @@
         "id": "1943B",
         "name": "Non-Palindromic Substring",
         "tags": [
-          "data structures",
           "hashing",
           "implementation",
           "math",
@@ -232,6 +232,7 @@
         "id": "1948E",
         "name": "Clique Partition",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "graphs",
           "greedy",
