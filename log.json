@@ -1,9 +1,64 @@
 {
   "version": "0.1.16",
-  "updateTime": 1711055442,
+  "updateTime": 1711141775,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 252762720,
+            "pid": "1946F",
+            "name": "Nobody is needed",
+            "verdict": "OK",
+            "creationTime": 1711119556
+          },
+          {
+            "platform": "codeforces",
+            "id": 252754481,
+            "pid": "1946E",
+            "name": "Girl Permutation",
+            "verdict": "OK",
+            "creationTime": 1711118932
+          },
+          {
+            "platform": "codeforces",
+            "id": 252751769,
+            "pid": "1946D",
+            "name": "Birthday Gift",
+            "verdict": "OK",
+            "creationTime": 1711118760
+          },
+          {
+            "platform": "codeforces",
+            "id": 252747090,
+            "pid": "1946C",
+            "name": "Tree Cutting",
+            "verdict": "OK",
+            "creationTime": 1711118482
+          },
+          {
+            "platform": "codeforces",
+            "id": 252744313,
+            "pid": "1946B",
+            "name": "Maximum Sum",
+            "verdict": "OK",
+            "creationTime": 1711118315
+          },
+          {
+            "platform": "codeforces",
+            "id": 252743500,
+            "pid": "1946A",
+            "name": "Median of an Array",
+            "verdict": "OK",
+            "creationTime": 1711118174
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "74896b07fc56301a225a1cc3e522a3321a5d4403"
+  "ref": "b063de8aab56096becfc9401899889255e24607a"
 }

@@ -19536,5 +19536,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105030",
     "standingsUrl": "https://codeforces.com/gym/105030/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXVIII Spain Olympiad in Informatics, Day 2",
+    "startTime": 1710664200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105047,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105047",
+    "standingsUrl": "https://codeforces.com/gym/105047/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXVIII Spain Olympiad in Informatics, Day 1",
+    "startTime": 1710599400,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105046,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105046",
+    "standingsUrl": "https://codeforces.com/gym/105046/standings"
   }
 ]

@@ -6,6 +6,168 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 252762720,
+      "creationTime": 1711119556,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711118100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1946F",
+        "name": "Nobody is needed",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1946/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1946/submission/252762720"
+    },
+    {
+      "type": "codeforces",
+      "id": 252754481,
+      "creationTime": 1711118932,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711118100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1946E",
+        "name": "Girl Permutation",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1946/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1946/submission/252754481"
+    },
+    {
+      "type": "codeforces",
+      "id": 252751769,
+      "creationTime": 1711118760,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711118100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1946D",
+        "name": "Birthday Gift",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "dsu",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1946/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1946/submission/252751769"
+    },
+    {
+      "type": "codeforces",
+      "id": 252747090,
+      "creationTime": 1711118482,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711118100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1946C",
+        "name": "Tree Cutting",
+        "tags": [
+          "binary search",
+          "dp",
+          "greedy",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1946/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1946/submission/252747090"
+    },
+    {
+      "type": "codeforces",
+      "id": 252744313,
+      "creationTime": 1711118315,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711118100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1946B",
+        "name": "Maximum Sum",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1946/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1946/submission/252744313"
+    },
+    {
+      "type": "codeforces",
+      "id": 252743500,
+      "creationTime": 1711118174,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711118100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1946A",
+        "name": "Median of an Array",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1946/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1946/submission/252743500"
+    },
+    {
+      "type": "codeforces",
       "id": 251755986,
       "creationTime": 1710603836,
       "language": "C++17 (GCC 7-32)",
@@ -207,7 +369,9 @@
         "tags": [
           "bitmasks",
           "brute force",
-          "dsu"
+          "dsu",
+          "graph matchings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1948/problem/G"
       },
