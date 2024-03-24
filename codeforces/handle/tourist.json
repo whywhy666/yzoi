@@ -6,6 +6,499 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 253100542,
+      "creationTime": 1711291615,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949H",
+        "name": "Division Avoidance",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253100542"
+    },
+    {
+      "type": "codeforces",
+      "id": 253099248,
+      "creationTime": 1711291034,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949H",
+        "name": "Division Avoidance",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253099248"
+    },
+    {
+      "type": "codeforces",
+      "id": 253097528,
+      "creationTime": 1711290325,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949H",
+        "name": "Division Avoidance",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253097528"
+    },
+    {
+      "type": "codeforces",
+      "id": 253096052,
+      "creationTime": 1711289671,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949H",
+        "name": "Division Avoidance",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253096052"
+    },
+    {
+      "type": "codeforces",
+      "id": 253092951,
+      "creationTime": 1711288257,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949H",
+        "name": "Division Avoidance",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253092951"
+    },
+    {
+      "type": "codeforces",
+      "id": 253092093,
+      "creationTime": 1711287874,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949H",
+        "name": "Division Avoidance",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253092093"
+    },
+    {
+      "type": "codeforces",
+      "id": 253091164,
+      "creationTime": 1711287493,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949E",
+        "name": "Damage per Second",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253091164"
+    },
+    {
+      "type": "codeforces",
+      "id": 253090806,
+      "creationTime": 1711287335,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949E",
+        "name": "Damage per Second",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253090806"
+    },
+    {
+      "type": "codeforces",
+      "id": 253086398,
+      "creationTime": 1711285376,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949H",
+        "name": "Division Avoidance",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253086398"
+    },
+    {
+      "type": "codeforces",
+      "id": 253083914,
+      "creationTime": 1711284265,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949D",
+        "name": "Funny or Scary?",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253083914"
+    },
+    {
+      "type": "codeforces",
+      "id": 253083561,
+      "creationTime": 1711284105,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949K",
+        "name": "Make Triangle",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253083561"
+    },
+    {
+      "type": "codeforces",
+      "id": 253082387,
+      "creationTime": 1711283569,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949K",
+        "name": "Make Triangle",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253082387"
+    },
+    {
+      "type": "codeforces",
+      "id": 253078193,
+      "creationTime": 1711281580,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949J",
+        "name": "Amanda the Amoeba",
+        "tags": [
+          "graphs",
+          "implementation",
+          "trees",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253078193"
+    },
+    {
+      "type": "codeforces",
+      "id": 253074340,
+      "creationTime": 1711279841,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949A",
+        "name": "Grove",
+        "tags": [
+          "dp",
+          "dp",
+          "dp",
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253074340"
+    },
+    {
+      "type": "codeforces",
+      "id": 253069520,
+      "creationTime": 1711277715,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949G",
+        "name": "Scooter",
+        "tags": [
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253069520"
+    },
+    {
+      "type": "codeforces",
+      "id": 253065095,
+      "creationTime": 1711275820,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949F",
+        "name": "Dating",
+        "tags": [
+          "greedy",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253065095"
+    },
+    {
+      "type": "codeforces",
+      "id": 253063942,
+      "creationTime": 1711275297,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949C",
+        "name": "Annual Ants' Gathering",
+        "tags": [
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253063942"
+    },
+    {
+      "type": "codeforces",
+      "id": 253063116,
+      "creationTime": 1711274925,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949I",
+        "name": "Disks",
+        "tags": [
+          "dfs and similar",
+          "geometry",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253063116"
+    },
+    {
+      "type": "codeforces",
+      "id": 253062467,
+      "creationTime": 1711274619,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist",
+          "ecnerwala"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711274400,
+        "teamName": "dw my perception of the difficulties was not exactly spot on"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1949B",
+        "name": "Charming Meals",
+        "tags": [
+          "brute force",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1949/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1949/submission/253062467"
+    },
+    {
+      "type": "codeforces",
       "id": 252762720,
       "creationTime": 1711119556,
       "language": "C++20 (GCC 13-64)",
@@ -83,7 +576,6 @@
           "bitmasks",
           "brute force",
           "constructive algorithms",
-          "dsu",
           "greedy",
           "implementation"
         ],
