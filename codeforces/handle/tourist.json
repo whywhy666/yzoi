@@ -24,6 +24,7 @@
         "id": "1949H",
         "name": "Division Avoidance",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/H"
@@ -50,6 +51,7 @@
         "id": "1949H",
         "name": "Division Avoidance",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/H"
@@ -76,6 +78,7 @@
         "id": "1949H",
         "name": "Division Avoidance",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/H"
@@ -102,6 +105,7 @@
         "id": "1949H",
         "name": "Division Avoidance",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/H"
@@ -128,6 +132,7 @@
         "id": "1949H",
         "name": "Division Avoidance",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/H"
@@ -154,6 +159,7 @@
         "id": "1949H",
         "name": "Division Avoidance",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/H"
@@ -234,6 +240,7 @@
         "id": "1949H",
         "name": "Division Avoidance",
         "tags": [
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/H"
@@ -370,8 +377,10 @@
         "name": "Grove",
         "tags": [
           "brute force",
+          "dfs and similar",
           "dp",
-          "geometry"
+          "geometry",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/1949/problem/A"
       },
@@ -540,8 +549,7 @@
           "brute force",
           "data structures",
           "dp",
-          "math",
-          "number theory"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1946/problem/F"
       },
