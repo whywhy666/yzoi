@@ -19539,6 +19539,17 @@
   },
   {
     "type": "codeforces/gym/ioi",
+    "name": "Финал олимпиады НТО: информационная безопасность. Секция - информатика",
+    "startTime": 1711213200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105043,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105043",
+    "standingsUrl": "https://codeforces.com/gym/105043/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
     "name": "XXVIII Spain Olympiad in Informatics, Day 2",
     "startTime": 1710664200,
     "duration": 14400,
@@ -19600,5 +19611,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105053",
     "standingsUrl": "https://codeforces.com/gym/105053/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UDESC Selection Contest 2023-2",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105055,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105055",
+    "standingsUrl": "https://codeforces.com/gym/105055/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "International Odoo Programming Contest 2024",
+    "startTime": 1711477800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105056,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105056",
+    "standingsUrl": "https://codeforces.com/gym/105056/standings"
   }
 ]
