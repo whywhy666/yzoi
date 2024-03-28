@@ -6,6 +6,236 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 253693446,
+      "creationTime": 1711638263,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950G",
+        "name": "Shuffling Songs",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253693446"
+    },
+    {
+      "type": "codeforces",
+      "id": 253681401,
+      "creationTime": 1711637876,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950G",
+        "name": "Shuffling Songs",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253681401"
+    },
+    {
+      "type": "codeforces",
+      "id": 253676756,
+      "creationTime": 1711637734,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950F",
+        "name": "0, 1, 2, Tree!",
+        "tags": [
+          "greedy",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253676756"
+    },
+    {
+      "type": "codeforces",
+      "id": 253670442,
+      "creationTime": 1711637557,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950E",
+        "name": "Nearly Shortest Repeating Substring",
+        "tags": [
+          "brute force",
+          "implementation",
+          "number theory",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253670442"
+    },
+    {
+      "type": "codeforces",
+      "id": 253667136,
+      "creationTime": 1711637469,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950D",
+        "name": "Product of Binary Decimals",
+        "tags": [
+          "dp",
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253667136"
+    },
+    {
+      "type": "codeforces",
+      "id": 253658615,
+      "creationTime": 1711637317,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950C",
+        "name": "Clock Conversion",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253658615"
+    },
+    {
+      "type": "codeforces",
+      "id": 253649807,
+      "creationTime": 1711637218,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950B",
+        "name": "Upscaling",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253649807"
+    },
+    {
+      "type": "codeforces",
+      "id": 253647013,
+      "creationTime": 1711637170,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950A",
+        "name": "Stair, Peak, or Neither?",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253647013"
+    },
+    {
+      "type": "codeforces",
+      "id": 253646768,
+      "creationTime": 1711637144,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1711637100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1950A",
+        "name": "Stair, Peak, or Neither?",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1950/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1950/submission/253646768"
+    },
+    {
+      "type": "codeforces",
       "id": 253100542,
       "creationTime": 1711291615,
       "language": "C++20 (GCC 13-64)",
@@ -605,7 +835,6 @@
           "bitmasks",
           "brute force",
           "constructive algorithms",
-          "dsu",
           "greedy",
           "implementation"
         ],

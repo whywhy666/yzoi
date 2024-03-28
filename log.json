@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1711573703,
+  "updateTime": 1711660173,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 253693446,
+            "pid": "1950G",
+            "name": "Shuffling Songs",
+            "verdict": "OK",
+            "creationTime": 1711638263
+          },
+          {
+            "platform": "codeforces",
+            "id": 253681401,
+            "pid": "1950G",
+            "name": "Shuffling Songs",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1711637876
+          },
+          {
+            "platform": "codeforces",
+            "id": 253676756,
+            "pid": "1950F",
+            "name": "0, 1, 2, Tree!",
+            "verdict": "OK",
+            "creationTime": 1711637734
+          },
+          {
+            "platform": "codeforces",
+            "id": 253670442,
+            "pid": "1950E",
+            "name": "Nearly Shortest Repeating Substring",
+            "verdict": "OK",
+            "creationTime": 1711637557
+          },
+          {
+            "platform": "codeforces",
+            "id": 253667136,
+            "pid": "1950D",
+            "name": "Product of Binary Decimals",
+            "verdict": "OK",
+            "creationTime": 1711637469
+          },
+          {
+            "platform": "codeforces",
+            "id": 253658615,
+            "pid": "1950C",
+            "name": "Clock Conversion",
+            "verdict": "OK",
+            "creationTime": 1711637317
+          },
+          {
+            "platform": "codeforces",
+            "id": 253649807,
+            "pid": "1950B",
+            "name": "Upscaling",
+            "verdict": "OK",
+            "creationTime": 1711637218
+          },
+          {
+            "platform": "codeforces",
+            "id": 253647013,
+            "pid": "1950A",
+            "name": "Stair, Peak, or Neither?",
+            "verdict": "OK",
+            "creationTime": 1711637170
+          },
+          {
+            "platform": "codeforces",
+            "id": 253646768,
+            "pid": "1950A",
+            "name": "Stair, Peak, or Neither?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1711637144
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "997cf576de7f94aa09c97b2a2c66331cc61d6807"
+  "ref": "6b8f5a43786a37b19800bc2143ab542baf11c52a"
 }
