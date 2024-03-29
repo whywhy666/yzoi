@@ -23,9 +23,12 @@
         "name": "Shuffling Songs",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "dp",
           "graphs",
-          "implementation"
+          "hashing",
+          "implementation",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1950/problem/G"
       },
@@ -50,9 +53,12 @@
         "name": "Shuffling Songs",
         "tags": [
           "bitmasks",
+          "dfs and similar",
           "dp",
           "graphs",
-          "implementation"
+          "hashing",
+          "implementation",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1950/problem/G"
       },
@@ -76,8 +82,10 @@
         "id": "1950F",
         "name": "0, 1, 2, Tree!",
         "tags": [
+          "bitmasks",
+          "brute force",
           "greedy",
-          "math",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1950/problem/F"
@@ -129,6 +137,7 @@
         "id": "1950D",
         "name": "Product of Binary Decimals",
         "tags": [
+          "brute force",
           "dp",
           "implementation",
           "number theory"
@@ -776,10 +785,10 @@
         "name": "Nobody is needed",
         "rating": 2500,
         "tags": [
-          "brute force",
+          "2-sat",
           "data structures",
-          "dp",
-          "math"
+          "dfs and similar",
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/1946/problem/F"
       },
