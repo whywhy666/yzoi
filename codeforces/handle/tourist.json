@@ -6,6 +6,208 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 254161327,
+      "creationTime": 1711813833,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942F",
+        "name": "Farmer John's Favorite Function",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254161327"
+    },
+    {
+      "type": "codeforces",
+      "id": 254147291,
+      "creationTime": 1711812068,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942G",
+        "name": "Bessie and Cards",
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254147291"
+    },
+    {
+      "type": "codeforces",
+      "id": 254139068,
+      "creationTime": 1711811143,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942D",
+        "name": "Learning to Paint",
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254139068"
+    },
+    {
+      "type": "codeforces",
+      "id": 254131679,
+      "creationTime": 1711810403,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942E",
+        "name": "Farm Game",
+        "tags": [
+          "combinatorics",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254131679"
+    },
+    {
+      "type": "codeforces",
+      "id": 254126373,
+      "creationTime": 1711809961,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942C2",
+        "name": "Bessie's Birthday Cake (Hard Version)",
+        "tags": [
+          "geometry",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254126373"
+    },
+    {
+      "type": "codeforces",
+      "id": 254123140,
+      "creationTime": 1711809744,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942C1",
+        "name": "Bessie's Birthday Cake (Easy Version)",
+        "tags": [
+          "brute force",
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254123140"
+    },
+    {
+      "type": "codeforces",
+      "id": 254120381,
+      "creationTime": 1711809583,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942B",
+        "name": "Bessie and MEX",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254120381"
+    },
+    {
+      "type": "codeforces",
+      "id": 254117266,
+      "creationTime": 1711809378,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711809300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1942A",
+        "name": "Farmer John's Challenge",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1942/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1942/submission/254117266"
+    },
+    {
+      "type": "codeforces",
       "id": 253693446,
       "creationTime": 1711638263,
       "language": "C++20 (GCC 13-64)",
@@ -701,6 +903,7 @@
         "name": "Annual Ants' Gathering",
         "tags": [
           "dfs and similar",
+          "dp",
           "greedy",
           "trees"
         ],
@@ -121325,7 +121528,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3572,
+    "rating": 3565,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
