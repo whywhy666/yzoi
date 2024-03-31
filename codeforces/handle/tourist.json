@@ -22,7 +22,10 @@
         "id": "1942F",
         "name": "Farmer John's Favorite Function",
         "tags": [
-          "data structures"
+          "brute force",
+          "data structures",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/F"
       },
@@ -73,7 +76,8 @@
         "tags": [
           "data structures",
           "dp",
-          "greedy"
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/D"
       },
@@ -98,7 +102,9 @@
         "name": "Farm Game",
         "tags": [
           "combinatorics",
-          "games"
+          "dp",
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/E"
       },
@@ -148,8 +154,8 @@
         "id": "1942C1",
         "name": "Bessie's Birthday Cake (Easy Version)",
         "tags": [
-          "brute force",
           "geometry",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/C1"
@@ -175,7 +181,6 @@
         "name": "Bessie and MEX",
         "tags": [
           "constructive algorithms",
-          "data structures",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/B"
@@ -200,7 +205,8 @@
         "id": "1942A",
         "name": "Farmer John's Challenge",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/A"
       },

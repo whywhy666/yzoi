@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1711832882,
+  "updateTime": 1711919294,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 254161327,
-            "pid": "1942F",
-            "name": "Farmer John's Favorite Function",
-            "verdict": "OK",
-            "creationTime": 1711813833
-          },
-          {
-            "platform": "codeforces",
-            "id": 254147291,
-            "pid": "1942G",
-            "name": "Bessie and Cards",
-            "verdict": "OK",
-            "creationTime": 1711812068
-          },
-          {
-            "platform": "codeforces",
-            "id": 254139068,
-            "pid": "1942D",
-            "name": "Learning to Paint",
-            "verdict": "OK",
-            "creationTime": 1711811143
-          },
-          {
-            "platform": "codeforces",
-            "id": 254131679,
-            "pid": "1942E",
-            "name": "Farm Game",
-            "verdict": "OK",
-            "creationTime": 1711810403
-          },
-          {
-            "platform": "codeforces",
-            "id": 254126373,
-            "pid": "1942C2",
-            "name": "Bessie's Birthday Cake (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1711809961
-          },
-          {
-            "platform": "codeforces",
-            "id": 254123140,
-            "pid": "1942C1",
-            "name": "Bessie's Birthday Cake (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1711809744
-          },
-          {
-            "platform": "codeforces",
-            "id": 254120381,
-            "pid": "1942B",
-            "name": "Bessie and MEX",
-            "verdict": "OK",
-            "creationTime": 1711809583
-          },
-          {
-            "platform": "codeforces",
-            "id": 254117266,
-            "pid": "1942A",
-            "name": "Farmer John's Challenge",
-            "verdict": "OK",
-            "creationTime": 1711809378
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f6031e5514b3c1b965dbb2515815b8a4fbfd68ef"
+  "ref": "1e86fa5679a067db479402b8f656f71b9c0763e0"
 }

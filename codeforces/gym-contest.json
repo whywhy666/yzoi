@@ -19664,5 +19664,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105058",
     "standingsUrl": "https://codeforces.com/gym/105058/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #29 (Clown-Forces)",
+    "startTime": 1711896000,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105062,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105062",
+    "standingsUrl": "https://codeforces.com/gym/105062/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Teamscode Spring 2024 (Advanced Division)",
+    "startTime": 1711823400,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105067,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105067",
+    "standingsUrl": "https://codeforces.com/gym/105067/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Teamscode Spring 2024 (Novice Division)",
+    "startTime": 1711823400,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105066,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105066",
+    "standingsUrl": "https://codeforces.com/gym/105066/standings"
   }
 ]
