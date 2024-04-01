@@ -19677,6 +19677,17 @@
     "standingsUrl": "https://codeforces.com/gym/105062/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC-de-Tryst 2024",
+    "startTime": 1711893600,
+    "duration": 16200,
+    "participantNumber": 0,
+    "id": 105064,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105064",
+    "standingsUrl": "https://codeforces.com/gym/105064/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Teamscode Spring 2024 (Advanced Division)",
     "startTime": 1711823400,
@@ -19697,5 +19708,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105066",
     "standingsUrl": "https://codeforces.com/gym/105066/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 5th FanRuan Cup Southeast University Programming Contest （Winter）",
+    "startTime": 1711962000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105069,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105069",
+    "standingsUrl": "https://codeforces.com/gym/105069/standings"
   }
 ]

@@ -6,6 +6,81 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 254459830,
+      "creationTime": 1711982188,
+      "language": "Python 3",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1952A",
+        "name": "Are You a Robot, Again?",
+        "tags": [
+          "expression parsing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1952/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1952/submission/254459830"
+    },
+    {
+      "type": "codeforces",
+      "id": 254459444,
+      "creationTime": 1711982173,
+      "language": "Python 3",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1952A",
+        "name": "Are You a Robot, Again?",
+        "tags": [
+          "expression parsing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1952/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1952/submission/254459444"
+    },
+    {
+      "type": "codeforces",
+      "id": 254459144,
+      "creationTime": 1711982159,
+      "language": "Python 3",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1711982100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1952A",
+        "name": "Are You a Robot, Again?",
+        "tags": [
+          "expression parsing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1952/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1952/submission/254459144"
+    },
+    {
+      "type": "codeforces",
       "id": 254161327,
       "creationTime": 1711813833,
       "language": "C++20 (GCC 13-64)",
@@ -50,6 +125,7 @@
         "name": "Bessie and Cards",
         "tags": [
           "combinatorics",
+          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/G"
@@ -74,9 +150,12 @@
         "id": "1942D",
         "name": "Learning to Paint",
         "tags": [
+          "binary search",
           "data structures",
+          "dfs and similar",
           "dp",
           "greedy",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/D"
@@ -102,8 +181,8 @@
         "name": "Farm Game",
         "tags": [
           "combinatorics",
-          "dp",
           "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/E"

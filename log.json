@@ -1,9 +1,40 @@
 {
   "version": "0.1.16",
-  "updateTime": 1711919294,
+  "updateTime": 1712005739,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 254459830,
+            "pid": "1952A",
+            "name": "Are You a Robot, Again?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1711982188
+          },
+          {
+            "platform": "codeforces",
+            "id": 254459444,
+            "pid": "1952A",
+            "name": "Are You a Robot, Again?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1711982173
+          },
+          {
+            "platform": "codeforces",
+            "id": 254459144,
+            "pid": "1952A",
+            "name": "Are You a Robot, Again?",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1711982159
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1e86fa5679a067db479402b8f656f71b9c0763e0"
+  "ref": "c38630989032f1aaaf3d41556b5d0f3093bedfc1"
 }

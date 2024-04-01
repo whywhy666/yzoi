@@ -1,5 +1,16 @@
 [
   {
+    "type": "codeforces/icpc",
+    "name": "April Fools Day Contest 2024",
+    "startTime": 1711982100,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 1952,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/1952",
+    "standingsUrl": "https://codeforces.com/contest/1952/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
     "startTime": 1711809300,
