@@ -23,6 +23,8 @@
         "name": "Are You a Robot, Again?",
         "tags": [
           "expression parsing",
+          "graphs",
+          "matrices",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -48,6 +50,8 @@
         "name": "Are You a Robot, Again?",
         "tags": [
           "expression parsing",
+          "graphs",
+          "matrices",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -73,6 +77,8 @@
         "name": "Are You a Robot, Again?",
         "tags": [
           "expression parsing",
+          "graphs",
+          "matrices",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -125,7 +131,7 @@
         "name": "Bessie and Cards",
         "tags": [
           "combinatorics",
-          "fft",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1942/problem/G"
