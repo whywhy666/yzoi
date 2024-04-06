@@ -19730,5 +19730,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105071",
     "standingsUrl": "https://codeforces.com/gym/105071/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC x WiCS Contest 04-05-23 (UT Internal)",
+    "startTime": 1712358600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105079,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105079",
+    "standingsUrl": "https://codeforces.com/gym/105079/standings"
   }
 ]
