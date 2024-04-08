@@ -1,9 +1,104 @@
 {
   "version": "0.1.16",
-  "updateTime": 1712524180,
+  "updateTime": 1712610551,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 255693805,
+            "pid": "1955D",
+            "name": "Inaccurate Subsequence Search",
+            "verdict": "OK",
+            "creationTime": 1712589932
+          },
+          {
+            "platform": "codeforces",
+            "id": 255691129,
+            "pid": "1955F",
+            "name": "Unfair Game",
+            "verdict": "OK",
+            "creationTime": 1712589754
+          },
+          {
+            "platform": "codeforces",
+            "id": 255672975,
+            "pid": "1955H",
+            "name": "The Most Reckless Defense",
+            "verdict": "OK",
+            "creationTime": 1712588641
+          },
+          {
+            "platform": "codeforces",
+            "id": 255662591,
+            "pid": "1955G",
+            "name": "GCD on a grid",
+            "verdict": "OK",
+            "creationTime": 1712588068
+          },
+          {
+            "platform": "codeforces",
+            "id": 255657731,
+            "pid": "1955F",
+            "name": "Unfair Game",
+            "verdict": "OK",
+            "creationTime": 1712587820
+          },
+          {
+            "platform": "codeforces",
+            "id": 255652928,
+            "pid": "1955E",
+            "name": "Long Inversions",
+            "verdict": "OK",
+            "creationTime": 1712587593
+          },
+          {
+            "platform": "codeforces",
+            "id": 255649193,
+            "pid": "1955C",
+            "name": "Inhabitant of the Deep Sea",
+            "verdict": "OK",
+            "creationTime": 1712587427
+          },
+          {
+            "platform": "codeforces",
+            "id": 255646104,
+            "pid": "1955D",
+            "name": "Inaccurate Subsequence Search",
+            "verdict": "OK",
+            "creationTime": 1712587300
+          },
+          {
+            "platform": "codeforces",
+            "id": 255639822,
+            "pid": "1955C",
+            "name": "Inhabitant of the Deep Sea",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1712587127
+          },
+          {
+            "platform": "codeforces",
+            "id": 255635300,
+            "pid": "1955B",
+            "name": "Progressive Square",
+            "verdict": "OK",
+            "creationTime": 1712587040
+          },
+          {
+            "platform": "codeforces",
+            "id": 255633369,
+            "pid": "1955A",
+            "name": "Yogurt Sale",
+            "verdict": "OK",
+            "creationTime": 1712586955
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "10ae8d7865e6a3d67a356d50cdcd2f581a7bbf40"
+  "ref": "e51463fa9d9de5628f7fce48ba81aa6f4d34c0cd"
 }

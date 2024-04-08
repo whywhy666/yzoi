@@ -6,6 +6,297 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 255693805,
+      "creationTime": 1712589932,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955D",
+        "name": "Inaccurate Subsequence Search",
+        "tags": [
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255693805"
+    },
+    {
+      "type": "codeforces",
+      "id": 255691129,
+      "creationTime": 1712589754,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955F",
+        "name": "Unfair Game",
+        "tags": [
+          "dp",
+          "games",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255691129"
+    },
+    {
+      "type": "codeforces",
+      "id": 255672975,
+      "creationTime": 1712588641,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955H",
+        "name": "The Most Reckless Defense",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "constructive algorithms",
+          "dp",
+          "flows",
+          "graph matchings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255672975"
+    },
+    {
+      "type": "codeforces",
+      "id": 255662591,
+      "creationTime": 1712588068,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955G",
+        "name": "GCD on a grid",
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255662591"
+    },
+    {
+      "type": "codeforces",
+      "id": 255657731,
+      "creationTime": 1712587820,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955F",
+        "name": "Unfair Game",
+        "tags": [
+          "dp",
+          "games",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255657731"
+    },
+    {
+      "type": "codeforces",
+      "id": 255652928,
+      "creationTime": 1712587593,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955E",
+        "name": "Long Inversions",
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255652928"
+    },
+    {
+      "type": "codeforces",
+      "id": 255649193,
+      "creationTime": 1712587427,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955C",
+        "name": "Inhabitant of the Deep Sea",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255649193"
+    },
+    {
+      "type": "codeforces",
+      "id": 255646104,
+      "creationTime": 1712587300,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955D",
+        "name": "Inaccurate Subsequence Search",
+        "tags": [
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255646104"
+    },
+    {
+      "type": "codeforces",
+      "id": 255639822,
+      "creationTime": 1712587127,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955C",
+        "name": "Inhabitant of the Deep Sea",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255639822"
+    },
+    {
+      "type": "codeforces",
+      "id": 255635300,
+      "creationTime": 1712587040,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955B",
+        "name": "Progressive Square",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255635300"
+    },
+    {
+      "type": "codeforces",
+      "id": 255633369,
+      "creationTime": 1712586955,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1712586900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1955A",
+        "name": "Yogurt Sale",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1955/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1955/submission/255633369"
+    },
+    {
+      "type": "codeforces",
       "id": 254459830,
       "creationTime": 1711982188,
       "language": "Python 3",
