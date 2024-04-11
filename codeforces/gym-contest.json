@@ -19761,5 +19761,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105093",
     "standingsUrl": "https://codeforces.com/gym/105093/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ТИИМ 2023-2024, Заключительный этап (8-9 классы)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105101,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105101",
+    "standingsUrl": "https://codeforces.com/gym/105101/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ТИИМ 2023-2024, Заключительный этап (10-11 классы)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105102,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105102",
+    "standingsUrl": "https://codeforces.com/gym/105102/standings"
   }
 ]
