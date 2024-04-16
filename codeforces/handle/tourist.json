@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1955D",
         "name": "Inaccurate Subsequence Search",
+        "rating": 1400,
         "tags": [
           "data structures",
           "two pointers"
@@ -46,6 +47,7 @@
         "type": "codeforces",
         "id": "1955F",
         "name": "Unfair Game",
+        "rating": 1800,
         "tags": [
           "dp",
           "games",
@@ -74,6 +76,7 @@
         "type": "codeforces",
         "id": "1955H",
         "name": "The Most Reckless Defense",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "brute force",
@@ -104,6 +107,7 @@
         "type": "codeforces",
         "id": "1955G",
         "name": "GCD on a grid",
+        "rating": 1900,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -133,6 +137,7 @@
         "type": "codeforces",
         "id": "1955F",
         "name": "Unfair Game",
+        "rating": 1800,
         "tags": [
           "dp",
           "games",
@@ -161,6 +166,7 @@
         "type": "codeforces",
         "id": "1955E",
         "name": "Long Inversions",
+        "rating": 1700,
         "tags": [
           "brute force",
           "greedy",
@@ -188,6 +194,7 @@
         "type": "codeforces",
         "id": "1955C",
         "name": "Inhabitant of the Deep Sea",
+        "rating": 1300,
         "tags": [
           "greedy",
           "implementation",
@@ -214,6 +221,7 @@
         "type": "codeforces",
         "id": "1955D",
         "name": "Inaccurate Subsequence Search",
+        "rating": 1400,
         "tags": [
           "data structures",
           "two pointers"
@@ -239,6 +247,7 @@
         "type": "codeforces",
         "id": "1955C",
         "name": "Inhabitant of the Deep Sea",
+        "rating": 1300,
         "tags": [
           "greedy",
           "implementation",
@@ -265,6 +274,7 @@
         "type": "codeforces",
         "id": "1955B",
         "name": "Progressive Square",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -292,6 +302,7 @@
         "type": "codeforces",
         "id": "1955A",
         "name": "Yogurt Sale",
+        "rating": 800,
         "tags": [
           "math"
         ],
@@ -388,6 +399,7 @@
         "type": "codeforces",
         "id": "1942F",
         "name": "Farmer John's Favorite Function",
+        "rating": 2700,
         "tags": [
           "brute force",
           "data structures",
@@ -415,6 +427,7 @@
         "type": "codeforces",
         "id": "1942G",
         "name": "Bessie and Cards",
+        "rating": 2800,
         "tags": [
           "combinatorics",
           "dp",
@@ -441,6 +454,7 @@
         "type": "codeforces",
         "id": "1942D",
         "name": "Learning to Paint",
+        "rating": 2100,
         "tags": [
           "binary search",
           "data structures",
@@ -471,6 +485,7 @@
         "type": "codeforces",
         "id": "1942E",
         "name": "Farm Game",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "games"
@@ -496,6 +511,7 @@
         "type": "codeforces",
         "id": "1942C2",
         "name": "Bessie's Birthday Cake (Hard Version)",
+        "rating": 1700,
         "tags": [
           "geometry",
           "greedy",
@@ -522,6 +538,7 @@
         "type": "codeforces",
         "id": "1942C1",
         "name": "Bessie's Birthday Cake (Easy Version)",
+        "rating": 1300,
         "tags": [
           "geometry",
           "greedy",
@@ -548,6 +565,7 @@
         "type": "codeforces",
         "id": "1942B",
         "name": "Bessie and MEX",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "math"
@@ -573,6 +591,7 @@
         "type": "codeforces",
         "id": "1942A",
         "name": "Farmer John's Challenge",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -598,6 +617,7 @@
         "type": "codeforces",
         "id": "1950G",
         "name": "Shuffling Songs",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "dfs and similar",
@@ -628,6 +648,7 @@
         "type": "codeforces",
         "id": "1950G",
         "name": "Shuffling Songs",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "dfs and similar",
@@ -658,6 +679,7 @@
         "type": "codeforces",
         "id": "1950F",
         "name": "0, 1, 2, Tree!",
+        "rating": 1700,
         "tags": [
           "bitmasks",
           "brute force",
@@ -686,6 +708,7 @@
         "type": "codeforces",
         "id": "1950E",
         "name": "Nearly Shortest Repeating Substring",
+        "rating": 1500,
         "tags": [
           "brute force",
           "implementation",
@@ -713,6 +736,7 @@
         "type": "codeforces",
         "id": "1950D",
         "name": "Product of Binary Decimals",
+        "rating": 1100,
         "tags": [
           "brute force",
           "dp",
@@ -740,6 +764,7 @@
         "type": "codeforces",
         "id": "1950C",
         "name": "Clock Conversion",
+        "rating": 800,
         "tags": [
           "implementation",
           "math"
@@ -765,6 +790,7 @@
         "type": "codeforces",
         "id": "1950B",
         "name": "Upscaling",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -789,6 +815,7 @@
         "type": "codeforces",
         "id": "1950A",
         "name": "Stair, Peak, or Neither?",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -813,6 +840,7 @@
         "type": "codeforces",
         "id": "1950A",
         "name": "Stair, Peak, or Neither?",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
