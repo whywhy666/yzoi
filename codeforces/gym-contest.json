@@ -19802,5 +19802,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105114",
     "standingsUrl": "https://codeforces.com/gym/105114/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада 1С 2024, предметный тур",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105116,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105116",
+    "standingsUrl": "https://codeforces.com/gym/105116/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Подмосковная олимпиада школьников – 2024, Заключительный этап",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105118,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105118",
+    "standingsUrl": "https://codeforces.com/gym/105118/standings"
   }
 ]
