@@ -19784,6 +19784,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "UTPC Spring 2024 Open Contest",
+    "startTime": 1713636000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105109,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105109",
+    "standingsUrl": "https://codeforces.com/gym/105109/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2023-2024 ICPC Northwestern European Regional Programming Contest (NWERC 2023)",
     "duration": 18000,
     "participantNumber": 0,
@@ -19822,5 +19833,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105118",
     "standingsUrl": "https://codeforces.com/gym/105118/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "BioCode 2024",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105123,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105123",
+    "standingsUrl": "https://codeforces.com/gym/105123/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "XXVI Interregional Programming Olympiad, Vologda SU, 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105122,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105122",
+    "standingsUrl": "https://codeforces.com/gym/105122/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT 2024 Spring Invitational Qualification",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105125,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105125",
+    "standingsUrl": "https://codeforces.com/gym/105125/standings"
   }
 ]
