@@ -6,6 +6,225 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 258740820,
+      "creationTime": 1714404896,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969F",
+        "name": "Card Pairing",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258740820"
+    },
+    {
+      "type": "codeforces",
+      "id": 258739925,
+      "creationTime": 1714404778,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969F",
+        "name": "Card Pairing",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258739925"
+    },
+    {
+      "type": "codeforces",
+      "id": 258720683,
+      "creationTime": 1714402637,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969E",
+        "name": "Unique Array",
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258720683"
+    },
+    {
+      "type": "codeforces",
+      "id": 258714184,
+      "creationTime": 1714402116,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969C",
+        "name": "Minimizing the Sum",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258714184"
+    },
+    {
+      "type": "codeforces",
+      "id": 258714051,
+      "creationTime": 1714402103,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969C",
+        "name": "Minimizing the Sum",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258714051"
+    },
+    {
+      "type": "codeforces",
+      "id": 258711950,
+      "creationTime": 1714401963,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969D",
+        "name": "Shop Game",
+        "tags": [
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258711950"
+    },
+    {
+      "type": "codeforces",
+      "id": 258706648,
+      "creationTime": 1714401636,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "SKIPPED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969C",
+        "name": "Minimizing the Sum",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258706648"
+    },
+    {
+      "type": "codeforces",
+      "id": 258704158,
+      "creationTime": 1714401476,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969B",
+        "name": "Shifts and Sorting",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258704158"
+    },
+    {
+      "type": "codeforces",
+      "id": 258703553,
+      "creationTime": 1714401385,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714401301
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1969A",
+        "name": "Two Friends",
+        "tags": [
+          "graphs",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1969/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1969/submission/258703553"
+    },
+    {
+      "type": "codeforces",
       "id": 255693805,
       "creationTime": 1712589932,
       "language": "C++20 (GCC 13-64)",

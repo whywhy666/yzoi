@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1714338570,
+  "updateTime": 1714424975,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 258740820,
+            "pid": "1969F",
+            "name": "Card Pairing",
+            "verdict": "OK",
+            "creationTime": 1714404896
+          },
+          {
+            "platform": "codeforces",
+            "id": 258739925,
+            "pid": "1969F",
+            "name": "Card Pairing",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1714404778
+          },
+          {
+            "platform": "codeforces",
+            "id": 258720683,
+            "pid": "1969E",
+            "name": "Unique Array",
+            "verdict": "OK",
+            "creationTime": 1714402637
+          },
+          {
+            "platform": "codeforces",
+            "id": 258714184,
+            "pid": "1969C",
+            "name": "Minimizing the Sum",
+            "verdict": "OK",
+            "creationTime": 1714402116
+          },
+          {
+            "platform": "codeforces",
+            "id": 258714051,
+            "pid": "1969C",
+            "name": "Minimizing the Sum",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1714402103
+          },
+          {
+            "platform": "codeforces",
+            "id": 258711950,
+            "pid": "1969D",
+            "name": "Shop Game",
+            "verdict": "OK",
+            "creationTime": 1714401963
+          },
+          {
+            "platform": "codeforces",
+            "id": 258706648,
+            "pid": "1969C",
+            "name": "Minimizing the Sum",
+            "verdict": "SKIPPED",
+            "creationTime": 1714401636
+          },
+          {
+            "platform": "codeforces",
+            "id": 258704158,
+            "pid": "1969B",
+            "name": "Shifts and Sorting",
+            "verdict": "OK",
+            "creationTime": 1714401476
+          },
+          {
+            "platform": "codeforces",
+            "id": 258703553,
+            "pid": "1969A",
+            "name": "Two Friends",
+            "verdict": "OK",
+            "creationTime": 1714401385
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "57bff7a88a7b0213949246ed85b76a5d11300632"
+  "ref": "3202b818deee17b124c5b00331907e771bbc62fe"
 }
