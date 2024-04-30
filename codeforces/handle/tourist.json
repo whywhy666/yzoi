@@ -6,6 +6,187 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 258916135,
+      "creationTime": 1714495297,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714487700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1967E2",
+        "name": "Again Counting Arrays (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1967/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1967/submission/258916135"
+    },
+    {
+      "type": "codeforces",
+      "id": 258904834,
+      "creationTime": 1714492780,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714487700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1967E1",
+        "name": "Again Counting Arrays (Easy Version)",
+        "tags": [
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1967/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1967/submission/258904834"
+    },
+    {
+      "type": "codeforces",
+      "id": 258893511,
+      "creationTime": 1714490808,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714487700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1967D",
+        "name": "Long Way to be Non-decreasing",
+        "tags": [
+          "binary search",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1967/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1967/submission/258893511"
+    },
+    {
+      "type": "codeforces",
+      "id": 258884312,
+      "creationTime": 1714489595,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714487700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1967C",
+        "name": "Fenwick Tree",
+        "tags": [
+          "combinatorics",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1967/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1967/submission/258884312"
+    },
+    {
+      "type": "codeforces",
+      "id": 258880311,
+      "creationTime": 1714489154,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714487700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1967B2",
+        "name": "Reverse Card (Hard Version)",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1967/problem/B2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1967/submission/258880311"
+    },
+    {
+      "type": "codeforces",
+      "id": 258869431,
+      "creationTime": 1714488254,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714487700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1967B1",
+        "name": "Reverse Card (Easy Version)",
+        "tags": [
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1967/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1967/submission/258869431"
+    },
+    {
+      "type": "codeforces",
+      "id": 258865187,
+      "creationTime": 1714487948,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1714487700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1967A",
+        "name": "Permutation Counting",
+        "tags": [
+          "binary search",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1967/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1967/submission/258865187"
+    },
+    {
+      "type": "codeforces",
       "id": 258740820,
       "creationTime": 1714404896,
       "language": "C++20 (GCC 13-64)",
@@ -21,7 +202,10 @@
         "type": "codeforces",
         "id": "1969F",
         "name": "Card Pairing",
-        "tags": [],
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1969/submission/258740820"
@@ -43,7 +227,10 @@
         "type": "codeforces",
         "id": "1969F",
         "name": "Card Pairing",
-        "tags": [],
+        "tags": [
+          "dp",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
       },
       "submissionUrl": "https://codeforces.com/contest/1969/submission/258739925"
@@ -66,8 +253,9 @@
         "id": "1969E",
         "name": "Unique Array",
         "tags": [
+          "binary search",
           "data structures",
-          "dp",
+          "divide and conquer",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/E"

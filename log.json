@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1714424975,
+  "updateTime": 1714511465,
   "history": {
     "user": [
       {
@@ -8,75 +8,59 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 258740820,
-            "pid": "1969F",
-            "name": "Card Pairing",
+            "id": 258916135,
+            "pid": "1967E2",
+            "name": "Again Counting Arrays (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1714404896
+            "creationTime": 1714495297
           },
           {
             "platform": "codeforces",
-            "id": 258739925,
-            "pid": "1969F",
-            "name": "Card Pairing",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1714404778
-          },
-          {
-            "platform": "codeforces",
-            "id": 258720683,
-            "pid": "1969E",
-            "name": "Unique Array",
+            "id": 258904834,
+            "pid": "1967E1",
+            "name": "Again Counting Arrays (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1714402637
+            "creationTime": 1714492780
           },
           {
             "platform": "codeforces",
-            "id": 258714184,
-            "pid": "1969C",
-            "name": "Minimizing the Sum",
+            "id": 258893511,
+            "pid": "1967D",
+            "name": "Long Way to be Non-decreasing",
             "verdict": "OK",
-            "creationTime": 1714402116
+            "creationTime": 1714490808
           },
           {
             "platform": "codeforces",
-            "id": 258714051,
-            "pid": "1969C",
-            "name": "Minimizing the Sum",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1714402103
-          },
-          {
-            "platform": "codeforces",
-            "id": 258711950,
-            "pid": "1969D",
-            "name": "Shop Game",
+            "id": 258884312,
+            "pid": "1967C",
+            "name": "Fenwick Tree",
             "verdict": "OK",
-            "creationTime": 1714401963
+            "creationTime": 1714489595
           },
           {
             "platform": "codeforces",
-            "id": 258706648,
-            "pid": "1969C",
-            "name": "Minimizing the Sum",
-            "verdict": "SKIPPED",
-            "creationTime": 1714401636
-          },
-          {
-            "platform": "codeforces",
-            "id": 258704158,
-            "pid": "1969B",
-            "name": "Shifts and Sorting",
+            "id": 258880311,
+            "pid": "1967B2",
+            "name": "Reverse Card (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1714401476
+            "creationTime": 1714489154
           },
           {
             "platform": "codeforces",
-            "id": 258703553,
-            "pid": "1969A",
-            "name": "Two Friends",
+            "id": 258869431,
+            "pid": "1967B1",
+            "name": "Reverse Card (Easy Version)",
             "verdict": "OK",
-            "creationTime": 1714401385
+            "creationTime": 1714488254
+          },
+          {
+            "platform": "codeforces",
+            "id": 258865187,
+            "pid": "1967A",
+            "name": "Permutation Counting",
+            "verdict": "OK",
+            "creationTime": 1714487948
           }
         ],
         "newContests": []
@@ -84,5 +68,5 @@
     ],
     "contest": []
   },
-  "ref": "3202b818deee17b124c5b00331907e771bbc62fe"
+  "ref": "15553a8e50dfee36ab5b33e6bfa0ac19037a30e6"
 }
