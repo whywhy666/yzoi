@@ -47,6 +47,7 @@
         "id": "1967E1",
         "name": "Again Counting Arrays (Easy Version)",
         "tags": [
+          "combinatorics",
           "dp",
           "fft",
           "math"
@@ -74,6 +75,7 @@
         "name": "Long Way to be Non-decreasing",
         "tags": [
           "binary search",
+          "dfs and similar",
           "implementation",
           "two pointers"
         ],
@@ -100,6 +102,8 @@
         "name": "Fenwick Tree",
         "tags": [
           "combinatorics",
+          "data structures",
+          "dp",
           "math",
           "matrices"
         ],
@@ -125,6 +129,7 @@
         "id": "1967B2",
         "name": "Reverse Card (Hard Version)",
         "tags": [
+          "brute force",
           "math",
           "number theory"
         ],
@@ -256,6 +261,7 @@
           "binary search",
           "data structures",
           "divide and conquer",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/E"
@@ -122338,7 +122344,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3565,
+    "rating": 3690,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }

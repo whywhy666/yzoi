@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1714511465,
+  "updateTime": 1714597773,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 258916135,
-            "pid": "1967E2",
-            "name": "Again Counting Arrays (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1714495297
-          },
-          {
-            "platform": "codeforces",
-            "id": 258904834,
-            "pid": "1967E1",
-            "name": "Again Counting Arrays (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1714492780
-          },
-          {
-            "platform": "codeforces",
-            "id": 258893511,
-            "pid": "1967D",
-            "name": "Long Way to be Non-decreasing",
-            "verdict": "OK",
-            "creationTime": 1714490808
-          },
-          {
-            "platform": "codeforces",
-            "id": 258884312,
-            "pid": "1967C",
-            "name": "Fenwick Tree",
-            "verdict": "OK",
-            "creationTime": 1714489595
-          },
-          {
-            "platform": "codeforces",
-            "id": 258880311,
-            "pid": "1967B2",
-            "name": "Reverse Card (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1714489154
-          },
-          {
-            "platform": "codeforces",
-            "id": 258869431,
-            "pid": "1967B1",
-            "name": "Reverse Card (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1714488254
-          },
-          {
-            "platform": "codeforces",
-            "id": 258865187,
-            "pid": "1967A",
-            "name": "Permutation Counting",
-            "verdict": "OK",
-            "creationTime": 1714487948
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "15553a8e50dfee36ab5b33e6bfa0ac19037a30e6"
+  "ref": "d864246518fc19465d1d377821b04946ff8373bc"
 }
