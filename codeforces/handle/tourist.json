@@ -78,6 +78,7 @@
           "dfs and similar",
           "graphs",
           "implementation",
+          "shortest paths",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1967/problem/D"
@@ -184,6 +185,8 @@
         "id": "1967A",
         "name": "Permutation Counting",
         "tags": [
+          "binary search",
+          "greedy",
           "implementation",
           "math",
           "sortings"
