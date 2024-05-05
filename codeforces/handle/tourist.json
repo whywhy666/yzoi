@@ -103,12 +103,12 @@
         "id": "1967C",
         "name": "Fenwick Tree",
         "tags": [
+          "bitmasks",
           "brute force",
           "combinatorics",
           "data structures",
           "dp",
           "math",
-          "matrices",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1967/problem/C"
@@ -215,6 +215,7 @@
         "tags": [
           "dp",
           "greedy",
+          "hashing",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
@@ -241,6 +242,7 @@
         "tags": [
           "dp",
           "greedy",
+          "hashing",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1969/problem/F"
