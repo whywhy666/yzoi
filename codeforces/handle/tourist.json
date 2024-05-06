@@ -212,6 +212,7 @@
         "type": "codeforces",
         "id": "1969F",
         "name": "Card Pairing",
+        "rating": 3000,
         "tags": [
           "dp",
           "greedy",
@@ -239,6 +240,7 @@
         "type": "codeforces",
         "id": "1969F",
         "name": "Card Pairing",
+        "rating": 3000,
         "tags": [
           "dp",
           "greedy",
@@ -266,6 +268,7 @@
         "type": "codeforces",
         "id": "1969E",
         "name": "Unique Array",
+        "rating": 2400,
         "tags": [
           "binary search",
           "data structures",
@@ -294,6 +297,7 @@
         "type": "codeforces",
         "id": "1969C",
         "name": "Minimizing the Sum",
+        "rating": 1700,
         "tags": [
           "dp",
           "implementation"
@@ -319,6 +323,7 @@
         "type": "codeforces",
         "id": "1969C",
         "name": "Minimizing the Sum",
+        "rating": 1700,
         "tags": [
           "dp",
           "implementation"
@@ -344,6 +349,7 @@
         "type": "codeforces",
         "id": "1969D",
         "name": "Shop Game",
+        "rating": 1900,
         "tags": [
           "data structures",
           "greedy",
@@ -371,6 +377,7 @@
         "type": "codeforces",
         "id": "1969C",
         "name": "Minimizing the Sum",
+        "rating": 1700,
         "tags": [
           "dp",
           "implementation"
@@ -396,6 +403,7 @@
         "type": "codeforces",
         "id": "1969B",
         "name": "Shifts and Sorting",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -421,6 +429,7 @@
         "type": "codeforces",
         "id": "1969A",
         "name": "Two Friends",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "implementation",
