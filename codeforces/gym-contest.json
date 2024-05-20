@@ -20024,5 +20024,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105170",
     "standingsUrl": "https://codeforces.com/gym/105170/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2024 CCPC National Invitational Contest (Northeast), The 18th Northeast Collegiate Programming Contest",
+    "startTime": 1684458000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105173,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105173",
+    "standingsUrl": "https://codeforces.com/gym/105173/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 22nd Sichuan University Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105174,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105174",
+    "standingsUrl": "https://codeforces.com/gym/105174/standings"
   }
 ]
