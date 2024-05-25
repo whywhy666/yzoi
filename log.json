@@ -1,9 +1,96 @@
 {
   "version": "0.1.16",
-  "updateTime": 1716584984,
+  "updateTime": 1716671339,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 262620370,
+            "pid": "1975G",
+            "name": "Zimpha Fan Club",
+            "verdict": "OK",
+            "creationTime": 1716666667
+          },
+          {
+            "platform": "codeforces",
+            "id": 262612241,
+            "pid": "1975H",
+            "name": "378QAQ and Core",
+            "verdict": "OK",
+            "creationTime": 1716658332
+          },
+          {
+            "platform": "codeforces",
+            "id": 262603334,
+            "pid": "1975H",
+            "name": "378QAQ and Core",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1716656135
+          },
+          {
+            "platform": "codeforces",
+            "id": 262584629,
+            "pid": "1975G",
+            "name": "Zimpha Fan Club",
+            "verdict": "OK",
+            "creationTime": 1716652859
+          },
+          {
+            "platform": "codeforces",
+            "id": 262558741,
+            "pid": "1975E",
+            "name": "Chain Queries",
+            "verdict": "OK",
+            "creationTime": 1716650217
+          },
+          {
+            "platform": "codeforces",
+            "id": 262544594,
+            "pid": "1975F",
+            "name": "Set",
+            "verdict": "OK",
+            "creationTime": 1716649250
+          },
+          {
+            "platform": "codeforces",
+            "id": 262526751,
+            "pid": "1975D",
+            "name": "Paint the Tree",
+            "verdict": "OK",
+            "creationTime": 1716648240
+          },
+          {
+            "platform": "codeforces",
+            "id": 262522755,
+            "pid": "1975A",
+            "name": "Bazoka and Mocha's Array",
+            "verdict": "OK",
+            "creationTime": 1716647990
+          },
+          {
+            "platform": "codeforces",
+            "id": 262522159,
+            "pid": "1975C",
+            "name": "Chamo and Mocha's Array",
+            "verdict": "OK",
+            "creationTime": 1716647942
+          },
+          {
+            "platform": "codeforces",
+            "id": 262521205,
+            "pid": "1975B",
+            "name": "378QAQ and Mocha's Array",
+            "verdict": "OK",
+            "creationTime": 1716647820
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "3c32d20132bf5dfaec398b9c1acf94781be0d854"
+  "ref": "295db79d0c622618d52ae6b36af5852e905e3496"
 }

@@ -6,6 +6,265 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 262620370,
+      "creationTime": 1716666667,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -430816980
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975G",
+        "name": "Zimpha Fan Club",
+        "tags": [
+          "fft",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262620370"
+    },
+    {
+      "type": "codeforces",
+      "id": 262612241,
+      "creationTime": 1716658332,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975H",
+        "name": "378QAQ and Core",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262612241"
+    },
+    {
+      "type": "codeforces",
+      "id": 262603334,
+      "creationTime": 1716656135,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975H",
+        "name": "378QAQ and Core",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262603334"
+    },
+    {
+      "type": "codeforces",
+      "id": 262584629,
+      "creationTime": 1716652859,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975G",
+        "name": "Zimpha Fan Club",
+        "tags": [
+          "fft",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262584629"
+    },
+    {
+      "type": "codeforces",
+      "id": 262558741,
+      "creationTime": 1716650217,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975E",
+        "name": "Chain Queries",
+        "tags": [
+          "data structures",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262558741"
+    },
+    {
+      "type": "codeforces",
+      "id": 262544594,
+      "creationTime": 1716649250,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975F",
+        "name": "Set",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dfs and similar",
+          "divide and conquer",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262544594"
+    },
+    {
+      "type": "codeforces",
+      "id": 262526751,
+      "creationTime": 1716648240,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975D",
+        "name": "Paint the Tree",
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262526751"
+    },
+    {
+      "type": "codeforces",
+      "id": 262522755,
+      "creationTime": 1716647990,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975A",
+        "name": "Bazoka and Mocha's Array",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262522755"
+    },
+    {
+      "type": "codeforces",
+      "id": 262522159,
+      "creationTime": 1716647942,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975C",
+        "name": "Chamo and Mocha's Array",
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262522159"
+    },
+    {
+      "type": "codeforces",
+      "id": 262521205,
+      "creationTime": 1716647820,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1716647700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1975B",
+        "name": "378QAQ and Mocha's Array",
+        "tags": [
+          "brute force",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1975/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1975/submission/262521205"
+    },
+    {
+      "type": "codeforces",
       "id": 260834243,
       "creationTime": 1715619425,
       "language": "Kotlin 1.7",
@@ -122980,7 +123239,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3690,
+    "rating": 3757,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
