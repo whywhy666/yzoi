@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1716671339,
+  "updateTime": 1716757809,
   "history": {
     "user": [
       {
@@ -8,83 +8,67 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 262620370,
-            "pid": "1975G",
-            "name": "Zimpha Fan Club",
+            "id": 262754165,
+            "pid": "1977E",
+            "name": "Tensor",
             "verdict": "OK",
-            "creationTime": 1716666667
+            "creationTime": 1716736930
           },
           {
             "platform": "codeforces",
-            "id": 262612241,
-            "pid": "1975H",
-            "name": "378QAQ and Core",
-            "verdict": "OK",
-            "creationTime": 1716658332
-          },
-          {
-            "platform": "codeforces",
-            "id": 262603334,
-            "pid": "1975H",
-            "name": "378QAQ and Core",
+            "id": 262742727,
+            "pid": "1977E",
+            "name": "Tensor",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1716656135
+            "creationTime": 1716735494
           },
           {
             "platform": "codeforces",
-            "id": 262584629,
-            "pid": "1975G",
-            "name": "Zimpha Fan Club",
+            "id": 262735956,
+            "pid": "1977D",
+            "name": "XORificator",
             "verdict": "OK",
-            "creationTime": 1716652859
+            "creationTime": 1716735027
           },
           {
             "platform": "codeforces",
-            "id": 262558741,
-            "pid": "1975E",
-            "name": "Chain Queries",
+            "id": 262731600,
+            "pid": "1977C",
+            "name": "Nikita and LCM",
             "verdict": "OK",
-            "creationTime": 1716650217
+            "creationTime": 1716734755
           },
           {
             "platform": "codeforces",
-            "id": 262544594,
-            "pid": "1975F",
-            "name": "Set",
+            "id": 262719839,
+            "pid": "1977B",
+            "name": "Binary Colouring",
             "verdict": "OK",
-            "creationTime": 1716649250
+            "creationTime": 1716734237
           },
           {
             "platform": "codeforces",
-            "id": 262526751,
-            "pid": "1975D",
-            "name": "Paint the Tree",
+            "id": 262717136,
+            "pid": "1977A",
+            "name": "Little Nikita",
             "verdict": "OK",
-            "creationTime": 1716648240
+            "creationTime": 1716734140
           },
           {
             "platform": "codeforces",
-            "id": 262522755,
-            "pid": "1975A",
-            "name": "Bazoka and Mocha's Array",
+            "id": 262631844,
+            "pid": "1975H",
+            "name": "378QAQ and Core",
             "verdict": "OK",
-            "creationTime": 1716647990
+            "creationTime": 1716681182
           },
           {
             "platform": "codeforces",
-            "id": 262522159,
-            "pid": "1975C",
-            "name": "Chamo and Mocha's Array",
-            "verdict": "OK",
-            "creationTime": 1716647942
-          },
-          {
-            "platform": "codeforces",
-            "id": 262521205,
-            "pid": "1975B",
-            "name": "378QAQ and Mocha's Array",
-            "verdict": "OK",
-            "creationTime": 1716647820
+            "id": 262631654,
+            "pid": "1975H",
+            "name": "378QAQ and Core",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1716680743
           }
         ],
         "newContests": []
@@ -92,5 +76,5 @@
     ],
     "contest": []
   },
-  "ref": "295db79d0c622618d52ae6b36af5852e905e3496"
+  "ref": "0f6e9226e15d4f14805a06ac80633767d4d8d3a9"
 }

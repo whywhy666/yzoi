@@ -20049,6 +20049,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 20th Southeast University Programming Contest (Summer)",
+    "startTime": 1716703200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105172,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105172",
+    "standingsUrl": "https://codeforces.com/gym/105172/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 22nd Sichuan University Programming Contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -20067,5 +20078,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105176",
     "standingsUrl": "https://codeforces.com/gym/105176/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XX Нижегородская городская олимпиада школьников по информатике им. В. Д. Лелюха",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105183,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105183",
+    "standingsUrl": "https://codeforces.com/gym/105183/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 22nd UESTC Programming Contest - Final",
+    "startTime": 1712376000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105182,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105182",
+    "standingsUrl": "https://codeforces.com/gym/105182/standings"
   }
 ]
