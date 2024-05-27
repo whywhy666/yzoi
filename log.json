@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1716757809,
+  "updateTime": 1716844260,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 262754165,
-            "pid": "1977E",
-            "name": "Tensor",
-            "verdict": "OK",
-            "creationTime": 1716736930
-          },
-          {
-            "platform": "codeforces",
-            "id": 262742727,
-            "pid": "1977E",
-            "name": "Tensor",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1716735494
-          },
-          {
-            "platform": "codeforces",
-            "id": 262735956,
-            "pid": "1977D",
-            "name": "XORificator",
-            "verdict": "OK",
-            "creationTime": 1716735027
-          },
-          {
-            "platform": "codeforces",
-            "id": 262731600,
-            "pid": "1977C",
-            "name": "Nikita and LCM",
-            "verdict": "OK",
-            "creationTime": 1716734755
-          },
-          {
-            "platform": "codeforces",
-            "id": 262719839,
-            "pid": "1977B",
-            "name": "Binary Colouring",
-            "verdict": "OK",
-            "creationTime": 1716734237
-          },
-          {
-            "platform": "codeforces",
-            "id": 262717136,
-            "pid": "1977A",
-            "name": "Little Nikita",
-            "verdict": "OK",
-            "creationTime": 1716734140
-          },
-          {
-            "platform": "codeforces",
-            "id": 262631844,
-            "pid": "1975H",
-            "name": "378QAQ and Core",
-            "verdict": "OK",
-            "creationTime": 1716681182
-          },
-          {
-            "platform": "codeforces",
-            "id": 262631654,
-            "pid": "1975H",
-            "name": "378QAQ and Core",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1716680743
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "0f6e9226e15d4f14805a06ac80633767d4d8d3a9"
+  "ref": "b8df510c533b91350cf6eb89fa522ca3381b3084"
 }

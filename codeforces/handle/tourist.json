@@ -24,7 +24,6 @@
         "tags": [
           "constructive algorithms",
           "graphs",
-          "implementation",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1977/problem/E"
@@ -51,7 +50,6 @@
         "tags": [
           "constructive algorithms",
           "graphs",
-          "implementation",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1977/problem/E"
@@ -157,8 +155,6 @@
         "id": "1977A",
         "name": "Little Nikita",
         "tags": [
-          "dfs and similar",
-          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1977/problem/A"
@@ -234,6 +230,7 @@
         "name": "Zimpha Fan Club",
         "tags": [
           "fft",
+          "greedy",
           "math",
           "strings"
         ],
@@ -310,6 +307,7 @@
         "name": "Zimpha Fan Club",
         "tags": [
           "fft",
+          "greedy",
           "math",
           "strings"
         ],
@@ -339,6 +337,7 @@
           "data structures",
           "dfs and similar",
           "implementation",
+          "shortest paths",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1975/problem/E"
@@ -392,6 +391,7 @@
         "id": "1975D",
         "name": "Paint the Tree",
         "tags": [
+          "brute force",
           "dfs and similar",
           "dp",
           "greedy",
@@ -421,6 +421,7 @@
         "name": "Bazoka and Mocha's Array",
         "tags": [
           "brute force",
+          "greedy",
           "implementation",
           "sortings"
         ],
@@ -473,6 +474,7 @@
         "name": "378QAQ and Mocha's Array",
         "tags": [
           "brute force",
+          "greedy",
           "math",
           "sortings"
         ],
