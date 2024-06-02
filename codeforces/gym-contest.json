@@ -20130,5 +20130,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105186",
     "standingsUrl": "https://codeforces.com/gym/105186/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Пригласительный этап ВсОШ по информатике, 2024",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105193,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105193",
+    "standingsUrl": "https://codeforces.com/gym/105193/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, Москва, 2020",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105195,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105195",
+    "standingsUrl": "https://codeforces.com/gym/105195/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, Москва, 2021",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105194,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105194",
+    "standingsUrl": "https://codeforces.com/gym/105194/standings"
   }
 ]
