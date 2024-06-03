@@ -20142,6 +20142,17 @@
     "standingsUrl": "https://codeforces.com/gym/105193/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "Cupertino Informatics Tournament Online Mirror",
+    "startTime": 1717354800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105192,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105192",
+    "standingsUrl": "https://codeforces.com/gym/105192/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Муниципальный этап ВсОШ по информатике, Москва, 2020",
     "duration": 10800,
