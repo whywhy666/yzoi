@@ -20191,5 +20191,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105204",
     "standingsUrl": "https://codeforces.com/gym/105204/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "VitebskOpen Junior",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105206,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105206",
+    "standingsUrl": "https://codeforces.com/gym/105206/standings"
   }
 ]
