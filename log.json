@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1717967426,
+  "updateTime": 1718053876,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 264938707,
-            "pid": "1984H",
-            "name": "Tower Capturing",
-            "verdict": "OK",
-            "creationTime": 1717950107
-          },
-          {
-            "platform": "codeforces",
-            "id": 264920861,
-            "pid": "1984G",
-            "name": "Magic Trick II",
-            "verdict": "OK",
-            "creationTime": 1717947853
-          },
-          {
-            "platform": "codeforces",
-            "id": 264906446,
-            "pid": "1984F",
-            "name": "Reconstruction",
-            "verdict": "OK",
-            "creationTime": 1717946413
-          },
-          {
-            "platform": "codeforces",
-            "id": 264901694,
-            "pid": "1984E",
-            "name": "Shuffle",
-            "verdict": "OK",
-            "creationTime": 1717946015
-          },
-          {
-            "platform": "codeforces",
-            "id": 264893993,
-            "pid": "1984D",
-            "name": "''a'' String Problem",
-            "verdict": "OK",
-            "creationTime": 1717945449
-          },
-          {
-            "platform": "codeforces",
-            "id": 264887262,
-            "pid": "1984C2",
-            "name": "Magnitude (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1717945016
-          },
-          {
-            "platform": "codeforces",
-            "id": 264884173,
-            "pid": "1984C2",
-            "name": "Magnitude (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1717944830
-          },
-          {
-            "platform": "codeforces",
-            "id": 264874368,
-            "pid": "1984C1",
-            "name": "Magnitude (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1717944332
-          },
-          {
-            "platform": "codeforces",
-            "id": 264865594,
-            "pid": "1984B",
-            "name": "Large Addition",
-            "verdict": "OK",
-            "creationTime": 1717943940
-          },
-          {
-            "platform": "codeforces",
-            "id": 264862909,
-            "pid": "1984A",
-            "name": "Strange Splitting",
-            "verdict": "OK",
-            "creationTime": 1717943807
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9337b5f4ea17dcd486cafddacf2be6a350aaab44"
+  "ref": "63da9f2ae89f0a058ace2097798f4d80758249d8"
 }

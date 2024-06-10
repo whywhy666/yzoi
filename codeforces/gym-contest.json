@@ -19887,6 +19887,16 @@
     "standingsUrl": "https://codeforces.com/gym/105137/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "III Олимпиада классов при механико-математическом факультете МГУ имени М.В.Ломоносова по программированию 2024",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105136,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105136",
+    "standingsUrl": "https://codeforces.com/gym/105136/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "The 2024 International Collegiate Programming Contest in Hubei Province, China",
     "startTime": 1714183200,
@@ -20212,5 +20222,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105206",
     "standingsUrl": "https://codeforces.com/gym/105206/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Vitebsk Open 2024 day 1",
+    "startTime": 1718013600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105212,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105212",
+    "standingsUrl": "https://codeforces.com/gym/105212/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC Fall 2023 - Day 1: Jeroen Op de Beek Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105214,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105214",
+    "standingsUrl": "https://codeforces.com/gym/105214/standings"
   }
 ]
