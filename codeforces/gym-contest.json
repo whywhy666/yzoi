@@ -20225,6 +20225,17 @@
   },
   {
     "type": "codeforces/gym/ioi",
+    "name": "Vitebsk Open 2024 day 2",
+    "startTime": 1718091000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105213,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105213",
+    "standingsUrl": "https://codeforces.com/gym/105213/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
     "name": "Vitebsk Open 2024 day 1",
     "startTime": 1718013600,
     "duration": 18000,
@@ -20243,5 +20254,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105214",
     "standingsUrl": "https://codeforces.com/gym/105214/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 ICPC Gran Premio de Mexico 2da Fecha",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105216,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105216",
+    "standingsUrl": "https://codeforces.com/gym/105216/standings"
   }
 ]

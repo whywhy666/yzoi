@@ -6,6 +6,321 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 265300578,
+      "creationTime": 1718119253,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985H2",
+        "name": "Maximize the Largest Component (Hard Version)",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "dsu",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/H2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265300578"
+    },
+    {
+      "type": "codeforces",
+      "id": 265300302,
+      "creationTime": 1718119237,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985H1",
+        "name": "Maximize the Largest Component (Easy Version)",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265300302"
+    },
+    {
+      "type": "codeforces",
+      "id": 265274866,
+      "creationTime": 1718118059,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985H2",
+        "name": "Maximize the Largest Component (Hard Version)",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "dsu",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/H2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265274866"
+    },
+    {
+      "type": "codeforces",
+      "id": 265272760,
+      "creationTime": 1718117979,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985H1",
+        "name": "Maximize the Largest Component (Easy Version)",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265272760"
+    },
+    {
+      "type": "codeforces",
+      "id": 265245818,
+      "creationTime": 1718117162,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985G",
+        "name": "D-Function",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265245818"
+    },
+    {
+      "type": "codeforces",
+      "id": 265240490,
+      "creationTime": 1718117046,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985D",
+        "name": "Manhattan Circle",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265240490"
+    },
+    {
+      "type": "codeforces",
+      "id": 265238371,
+      "creationTime": 1718117016,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985F",
+        "name": "Final Boss",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265238371"
+    },
+    {
+      "type": "codeforces",
+      "id": 265230975,
+      "creationTime": 1718116848,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985E",
+        "name": "Secret Box",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265230975"
+    },
+    {
+      "type": "codeforces",
+      "id": 265224248,
+      "creationTime": 1718116730,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985D",
+        "name": "Manhattan Circle",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265224248"
+    },
+    {
+      "type": "codeforces",
+      "id": 265219570,
+      "creationTime": 1718116666,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985C",
+        "name": "Good Prefixes",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265219570"
+    },
+    {
+      "type": "codeforces",
+      "id": 265214132,
+      "creationTime": 1718116606,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985B",
+        "name": "Maximum Multiple Sum",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265214132"
+    },
+    {
+      "type": "codeforces",
+      "id": 265212092,
+      "creationTime": 1718116572,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1718116500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1985A",
+        "name": "Creating Words",
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1985/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1985/submission/265212092"
+    },
+    {
+      "type": "codeforces",
       "id": 264938707,
       "creationTime": 1717950107,
       "language": "C++20 (GCC 13-64)",
@@ -23,6 +338,7 @@
         "name": "Tower Capturing",
         "rating": 3300,
         "tags": [
+          "combinatorics",
           "dp",
           "geometry"
         ],
@@ -161,7 +477,8 @@
         "tags": [
           "combinatorics",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/C2"
       },
@@ -188,7 +505,8 @@
         "tags": [
           "combinatorics",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1984/problem/C2"
       },
