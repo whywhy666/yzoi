@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1718141581,
+  "updateTime": 1718226638,
   "history": {
     "user": [
       {
@@ -8,99 +8,75 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 265300578,
-            "pid": "1985H2",
-            "name": "Maximize the Largest Component (Hard Version)",
+            "id": 265535157,
+            "pid": "786B",
+            "name": "Legacy",
             "verdict": "OK",
-            "creationTime": 1718119253
+            "creationTime": 1718221912
           },
           {
             "platform": "codeforces",
-            "id": 265300302,
-            "pid": "1985H1",
-            "name": "Maximize the Largest Component (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1718119237
-          },
-          {
-            "platform": "codeforces",
-            "id": 265274866,
-            "pid": "1985H2",
-            "name": "Maximize the Largest Component (Hard Version)",
+            "id": 265535041,
+            "pid": "786B",
+            "name": "Legacy",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1718118059
+            "creationTime": 1718221822
           },
           {
             "platform": "codeforces",
-            "id": 265272760,
-            "pid": "1985H1",
-            "name": "Maximize the Largest Component (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1718117979
-          },
-          {
-            "platform": "codeforces",
-            "id": 265245818,
-            "pid": "1985G",
-            "name": "D-Function",
+            "id": 265534755,
+            "pid": "786B",
+            "name": "Legacy",
             "verdict": "OK",
-            "creationTime": 1718117162
+            "creationTime": 1718221611
           },
           {
             "platform": "codeforces",
-            "id": 265240490,
-            "pid": "1985D",
-            "name": "Manhattan Circle",
+            "id": 265534405,
+            "pid": "786B",
+            "name": "Legacy",
             "verdict": "OK",
-            "creationTime": 1718117046
+            "creationTime": 1718221351
           },
           {
             "platform": "codeforces",
-            "id": 265238371,
-            "pid": "1985F",
-            "name": "Final Boss",
+            "id": 265516796,
+            "pid": "1208D",
+            "name": "Restore Permutation",
             "verdict": "OK",
-            "creationTime": 1718117016
+            "creationTime": 1718211192
           },
           {
             "platform": "codeforces",
-            "id": 265230975,
-            "pid": "1985E",
-            "name": "Secret Box",
+            "id": 265516715,
+            "pid": "1208D",
+            "name": "Restore Permutation",
             "verdict": "OK",
-            "creationTime": 1718116848
+            "creationTime": 1718211158
           },
           {
             "platform": "codeforces",
-            "id": 265224248,
-            "pid": "1985D",
-            "name": "Manhattan Circle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1718116730
-          },
-          {
-            "platform": "codeforces",
-            "id": 265219570,
-            "pid": "1985C",
-            "name": "Good Prefixes",
+            "id": 265516365,
+            "pid": "1208D",
+            "name": "Restore Permutation",
             "verdict": "OK",
-            "creationTime": 1718116666
+            "creationTime": 1718211009
           },
           {
             "platform": "codeforces",
-            "id": 265214132,
-            "pid": "1985B",
-            "name": "Maximum Multiple Sum",
+            "id": 265509460,
+            "pid": "52C",
+            "name": "Circular RMQ",
             "verdict": "OK",
-            "creationTime": 1718116606
+            "creationTime": 1718207700
           },
           {
             "platform": "codeforces",
-            "id": 265212092,
-            "pid": "1985A",
-            "name": "Creating Words",
+            "id": 265506319,
+            "pid": "380C",
+            "name": "Sereja and Brackets",
             "verdict": "OK",
-            "creationTime": 1718116572
+            "creationTime": 1718205595
           }
         ],
         "newContests": []
@@ -108,5 +84,5 @@
     ],
     "contest": []
   },
-  "ref": "dc134dd27e57e52a9c80e7bf711a7fcd9358e4de"
+  "ref": "17a76d3b83a9fbeaacf07512df702d2ddbb1c29b"
 }
