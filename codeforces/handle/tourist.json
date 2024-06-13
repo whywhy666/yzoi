@@ -379,7 +379,6 @@
         "id": "1985G",
         "name": "D-Function",
         "tags": [
-          "bitmasks",
           "combinatorics",
           "math",
           "number theory"
@@ -432,7 +431,6 @@
         "name": "Final Boss",
         "tags": [
           "binary search",
-          "brute force",
           "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/1985/problem/F"
@@ -508,8 +506,7 @@
         "id": "1985C",
         "name": "Good Prefixes",
         "tags": [
-          "greedy",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1985/problem/C"
       },
