@@ -20142,6 +20142,17 @@
     "standingsUrl": "https://codeforces.com/gym/105186/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "Al-Baath Collegiate Programming Contest 2024",
+    "startTime": 1718272800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105190,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105190",
+    "standingsUrl": "https://codeforces.com/gym/105190/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Пригласительный этап ВсОШ по информатике, 2024",
     "duration": 7200,

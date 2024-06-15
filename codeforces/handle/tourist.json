@@ -636,6 +636,7 @@
         "name": "Reconstruction",
         "rating": 2500,
         "tags": [
+          "brute force",
           "dp",
           "math"
         ],
