@@ -20275,5 +20275,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105216",
     "standingsUrl": "https://codeforces.com/gym/105216/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HIAST Collegiate Programming Contest 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105223,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105223",
+    "standingsUrl": "https://codeforces.com/gym/105223/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2024 Sichuan Provincial Collegiate Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105222,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105222",
+    "standingsUrl": "https://codeforces.com/gym/105222/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MOI2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105224,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105224",
+    "standingsUrl": "https://codeforces.com/gym/105224/standings"
   }
 ]
