@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1718572221,
+  "updateTime": 1718658644,
   "history": {
     "user": [
       {
@@ -8,107 +8,83 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 266112450,
+            "id": 266235467,
             "pid": "101B",
             "name": "Buses",
             "verdict": "OK",
-            "creationTime": 1718571393
+            "creationTime": 1718656977
           },
           {
             "platform": "codeforces",
-            "id": 266112316,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718571239
-          },
-          {
-            "platform": "codeforces",
-            "id": 266112153,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1718571060
-          },
-          {
-            "platform": "codeforces",
-            "id": 266112138,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1718571042
-          },
-          {
-            "platform": "codeforces",
-            "id": 266112088,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1718570978
-          },
-          {
-            "platform": "codeforces",
-            "id": 266111765,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718570566
-          },
-          {
-            "platform": "codeforces",
-            "id": 266111547,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718570300
-          },
-          {
-            "platform": "codeforces",
-            "id": 266109990,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718568635
-          },
-          {
-            "platform": "codeforces",
-            "id": 266109183,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718567846
-          },
-          {
-            "platform": "codeforces",
-            "id": 266109015,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718567695
-          },
-          {
-            "platform": "codeforces",
-            "id": 266076940,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718549369
-          },
-          {
-            "platform": "codeforces",
-            "id": 266076553,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718549181
-          },
-          {
-            "platform": "codeforces",
-            "id": 266067064,
+            "id": 266235204,
             "pid": "101B",
             "name": "Buses",
             "verdict": "RUNTIME_ERROR",
-            "creationTime": 1718544872
+            "creationTime": 1718656713
+          },
+          {
+            "platform": "codeforces",
+            "id": 266230747,
+            "pid": "1771F",
+            "name": "Hossam and Range Minimum Query",
+            "verdict": "OK",
+            "creationTime": 1718652795
+          },
+          {
+            "platform": "codeforces",
+            "id": 266229942,
+            "pid": "484E",
+            "name": "Sign on Fence",
+            "verdict": "OK",
+            "creationTime": 1718652102
+          },
+          {
+            "platform": "codeforces",
+            "id": 266229796,
+            "pid": "484E",
+            "name": "Sign on Fence",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1718651965
+          },
+          {
+            "platform": "codeforces",
+            "id": 266229146,
+            "pid": "786C",
+            "name": "Till I Collapse",
+            "verdict": "OK",
+            "creationTime": 1718651486
+          },
+          {
+            "platform": "codeforces",
+            "id": 266115145,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "creationTime": 1718575052
+          },
+          {
+            "platform": "codeforces",
+            "id": 266115129,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718575031
+          },
+          {
+            "platform": "codeforces",
+            "id": 266115105,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718575007
+          },
+          {
+            "platform": "codeforces",
+            "id": 266115089,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1718574987
           }
         ],
         "newContests": []
@@ -116,5 +92,5 @@
     ],
     "contest": []
   },
-  "ref": "ac2dc067cae0784654421e0439aaa89aebc1726a"
+  "ref": "a5dde2abb0a84aae5646358ce76fd1c64413d5d9"
 }

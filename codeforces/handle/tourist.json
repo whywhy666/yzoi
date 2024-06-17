@@ -6,6 +6,279 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 266235467,
+      "creationTime": 1718656977,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428826670
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101B",
+        "name": "Buses",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/101/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/101/submission/266235467"
+    },
+    {
+      "type": "codeforces",
+      "id": 266235204,
+      "creationTime": 1718656713,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428826934
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101B",
+        "name": "Buses",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/101/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/101/submission/266235204"
+    },
+    {
+      "type": "codeforces",
+      "id": 266230747,
+      "creationTime": 1718652795,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428830852
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1771F",
+        "name": "Hossam and Range Minimum Query",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "data structures",
+          "hashing",
+          "probabilities",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1771/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1771/submission/266230747"
+    },
+    {
+      "type": "codeforces",
+      "id": 266229942,
+      "creationTime": 1718652102,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428831545
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/266229942"
+    },
+    {
+      "type": "codeforces",
+      "id": 266229796,
+      "creationTime": 1718651965,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428831682
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/266229796"
+    },
+    {
+      "type": "codeforces",
+      "id": 266229146,
+      "creationTime": 1718651486,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428832161
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "786C",
+        "name": "Till I Collapse",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/786/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/786/submission/266229146"
+    },
+    {
+      "type": "codeforces",
+      "id": 266115145,
+      "creationTime": 1718575052,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428908595
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101B",
+        "name": "Buses",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/101/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/101/submission/266115145"
+    },
+    {
+      "type": "codeforces",
+      "id": 266115129,
+      "creationTime": 1718575031,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428908616
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101B",
+        "name": "Buses",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/101/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/101/submission/266115129"
+    },
+    {
+      "type": "codeforces",
+      "id": 266115105,
+      "creationTime": 1718575007,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428908640
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101B",
+        "name": "Buses",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/101/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/101/submission/266115105"
+    },
+    {
+      "type": "codeforces",
+      "id": 266115089,
+      "creationTime": 1718574987,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -428908660
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101B",
+        "name": "Buses",
+        "rating": 1700,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/101/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/101/submission/266115089"
+    },
+    {
+      "type": "codeforces",
       "id": 266112450,
       "creationTime": 1718571393,
       "language": "C++20 (GCC 13-64)",
