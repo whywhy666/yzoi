@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1718658644,
+  "updateTime": 1718745002,
   "history": {
     "user": [
       {
@@ -8,83 +8,131 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 266235467,
-            "pid": "101B",
-            "name": "Buses",
+            "id": 266247743,
+            "pid": "484E",
+            "name": "Sign on Fence",
             "verdict": "OK",
-            "creationTime": 1718656977
+            "creationTime": 1718674662
           },
           {
             "platform": "codeforces",
-            "id": 266235204,
+            "id": 266247705,
+            "pid": "484E",
+            "name": "Sign on Fence",
+            "verdict": "OK",
+            "creationTime": 1718674611
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246938,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718673494
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246394,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672661
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246370,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672627
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246364,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672612
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246333,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672578
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246327,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672564
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246295,
             "pid": "101B",
             "name": "Buses",
             "verdict": "RUNTIME_ERROR",
-            "creationTime": 1718656713
+            "creationTime": 1718672503
           },
           {
             "platform": "codeforces",
-            "id": 266230747,
+            "id": 266246290,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1718672491
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246268,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672460
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246254,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672436
+          },
+          {
+            "platform": "codeforces",
+            "id": 266246068,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672131
+          },
+          {
+            "platform": "codeforces",
+            "id": 266245991,
+            "pid": "101B",
+            "name": "Buses",
+            "verdict": "OK",
+            "creationTime": 1718672013
+          },
+          {
+            "platform": "codeforces",
+            "id": 266244623,
             "pid": "1771F",
             "name": "Hossam and Range Minimum Query",
             "verdict": "OK",
-            "creationTime": 1718652795
+            "creationTime": 1718669713
           },
           {
             "platform": "codeforces",
-            "id": 266229942,
-            "pid": "484E",
-            "name": "Sign on Fence",
+            "id": 266244427,
+            "pid": "1771F",
+            "name": "Hossam and Range Minimum Query",
             "verdict": "OK",
-            "creationTime": 1718652102
-          },
-          {
-            "platform": "codeforces",
-            "id": 266229796,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1718651965
-          },
-          {
-            "platform": "codeforces",
-            "id": 266229146,
-            "pid": "786C",
-            "name": "Till I Collapse",
-            "verdict": "OK",
-            "creationTime": 1718651486
-          },
-          {
-            "platform": "codeforces",
-            "id": 266115145,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "MEMORY_LIMIT_EXCEEDED",
-            "creationTime": 1718575052
-          },
-          {
-            "platform": "codeforces",
-            "id": 266115129,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718575031
-          },
-          {
-            "platform": "codeforces",
-            "id": 266115105,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "OK",
-            "creationTime": 1718575007
-          },
-          {
-            "platform": "codeforces",
-            "id": 266115089,
-            "pid": "101B",
-            "name": "Buses",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1718574987
+            "creationTime": 1718669406
           }
         ],
         "newContests": []
@@ -92,5 +140,5 @@
     ],
     "contest": []
   },
-  "ref": "a5dde2abb0a84aae5646358ce76fd1c64413d5d9"
+  "ref": "110911ede6c6a8dcfe06e4cc91645abf6cf3e851"
 }

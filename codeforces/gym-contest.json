@@ -20306,5 +20306,47 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105224",
     "standingsUrl": "https://codeforces.com/gym/105224/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CPG Training Contest - 1",
+    "startTime": 1718700300,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 105227,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105227",
+    "standingsUrl": "https://codeforces.com/gym/105227/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2024 Shanghai Collegiate Programming Contest",
+    "startTime": 1718503200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105229,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105229",
+    "standingsUrl": "https://codeforces.com/gym/105229/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "SanSi Cup 2023",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105228,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105228",
+    "standingsUrl": "https://codeforces.com/gym/105228/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC Bolivia Pre-National Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105230,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105230",
+    "standingsUrl": "https://codeforces.com/gym/105230/standings"
   }
 ]
