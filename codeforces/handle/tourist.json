@@ -1328,6 +1328,7 @@
         "type": "codeforces",
         "id": "1985H2",
         "name": "Maximize the Largest Component (Hard Version)",
+        "rating": 2200,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -1356,6 +1357,7 @@
         "type": "codeforces",
         "id": "1985H1",
         "name": "Maximize the Largest Component (Easy Version)",
+        "rating": 1700,
         "tags": [
           "brute force",
           "data structures",
@@ -1385,6 +1387,7 @@
         "type": "codeforces",
         "id": "1985H2",
         "name": "Maximize the Largest Component (Hard Version)",
+        "rating": 2200,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -1413,6 +1416,7 @@
         "type": "codeforces",
         "id": "1985H1",
         "name": "Maximize the Largest Component (Easy Version)",
+        "rating": 1700,
         "tags": [
           "brute force",
           "data structures",
@@ -1442,6 +1446,7 @@
         "type": "codeforces",
         "id": "1985G",
         "name": "D-Function",
+        "rating": 1600,
         "tags": [
           "combinatorics",
           "math",
@@ -1468,6 +1473,7 @@
         "type": "codeforces",
         "id": "1985D",
         "name": "Manhattan Circle",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -1493,6 +1499,7 @@
         "type": "codeforces",
         "id": "1985F",
         "name": "Final Boss",
+        "rating": 1500,
         "tags": [
           "binary search",
           "data structures"
@@ -1518,6 +1525,7 @@
         "type": "codeforces",
         "id": "1985E",
         "name": "Secret Box",
+        "rating": 1200,
         "tags": [
           "brute force",
           "combinatorics",
@@ -1544,6 +1552,7 @@
         "type": "codeforces",
         "id": "1985D",
         "name": "Manhattan Circle",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -1569,6 +1578,7 @@
         "type": "codeforces",
         "id": "1985C",
         "name": "Good Prefixes",
+        "rating": 1000,
         "tags": [
           "greedy"
         ],
@@ -1593,6 +1603,7 @@
         "type": "codeforces",
         "id": "1985B",
         "name": "Maximum Multiple Sum",
+        "rating": 800,
         "tags": [
           "brute force",
           "math",
@@ -1619,6 +1630,7 @@
         "type": "codeforces",
         "id": "1985A",
         "name": "Creating Words",
+        "rating": 800,
         "tags": [
           "implementation",
           "strings"

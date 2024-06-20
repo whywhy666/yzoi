@@ -20206,6 +20206,28 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "IME++ Open Contest 2024",
+    "startTime": 1718816400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105201,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105201",
+    "standingsUrl": "https://codeforces.com/gym/105201/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "IME++ Starters Try-outs 2024",
+    "startTime": 1718817300,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105200,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105200",
+    "standingsUrl": "https://codeforces.com/gym/105200/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "ВКОШП.Junior 2024",
     "duration": 14400,
     "participantNumber": 0,
