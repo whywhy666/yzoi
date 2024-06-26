@@ -6,6 +6,171 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 267355095,
+      "creationTime": 1719328202,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1719326100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1982E",
+        "name": "Number of k-good subarrays",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "math",
+          "meet-in-the-middle"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1982/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1982/submission/267355095"
+    },
+    {
+      "type": "codeforces",
+      "id": 267349544,
+      "creationTime": 1719327732,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1719326100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1982F",
+        "name": "Sorting Problem Again",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1982/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1982/submission/267349544"
+    },
+    {
+      "type": "codeforces",
+      "id": 267335896,
+      "creationTime": 1719326758,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1719326100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1982D",
+        "name": "Beauty of the mountains",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1982/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1982/submission/267335896"
+    },
+    {
+      "type": "codeforces",
+      "id": 267331673,
+      "creationTime": 1719326481,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1719326100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1982C",
+        "name": "Boring Day",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1982/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1982/submission/267331673"
+    },
+    {
+      "type": "codeforces",
+      "id": 267328269,
+      "creationTime": 1719326298,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1719326100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1982B",
+        "name": "Collatz Conjecture",
+        "tags": [
+          "brute force",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1982/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1982/submission/267328269"
+    },
+    {
+      "type": "codeforces",
+      "id": 267326853,
+      "creationTime": 1719326168,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1719326100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1982A",
+        "name": "Soccer",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1982/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1982/submission/267326853"
+    },
+    {
+      "type": "codeforces",
       "id": 266247743,
       "creationTime": 1718674662,
       "language": "C++20 (GCC 13-64)",

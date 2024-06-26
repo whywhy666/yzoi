@@ -1,9 +1,64 @@
 {
   "version": "0.1.16",
-  "updateTime": 1719263431,
+  "updateTime": 1719436272,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 267355095,
+            "pid": "1982E",
+            "name": "Number of k-good subarrays",
+            "verdict": "OK",
+            "creationTime": 1719328202
+          },
+          {
+            "platform": "codeforces",
+            "id": 267349544,
+            "pid": "1982F",
+            "name": "Sorting Problem Again",
+            "verdict": "OK",
+            "creationTime": 1719327732
+          },
+          {
+            "platform": "codeforces",
+            "id": 267335896,
+            "pid": "1982D",
+            "name": "Beauty of the mountains",
+            "verdict": "OK",
+            "creationTime": 1719326758
+          },
+          {
+            "platform": "codeforces",
+            "id": 267331673,
+            "pid": "1982C",
+            "name": "Boring Day",
+            "verdict": "OK",
+            "creationTime": 1719326481
+          },
+          {
+            "platform": "codeforces",
+            "id": 267328269,
+            "pid": "1982B",
+            "name": "Collatz Conjecture",
+            "verdict": "OK",
+            "creationTime": 1719326298
+          },
+          {
+            "platform": "codeforces",
+            "id": 267326853,
+            "pid": "1982A",
+            "name": "Soccer",
+            "verdict": "OK",
+            "creationTime": 1719326168
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "51feb089a160b79cf9cf397934e96a9f9cca3ecd"
+  "ref": "8120bcdc59836012ff12f490b2fafd1e227cac9f"
 }
