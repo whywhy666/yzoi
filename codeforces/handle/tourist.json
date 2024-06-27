@@ -6,6 +6,1089 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 267783992,
+      "creationTime": 1719518130,
+      "language": "C++20 (GCC 13-64)",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427965517
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267783992"
+    },
+    {
+      "type": "codeforces",
+      "id": 267781608,
+      "creationTime": 1719515798,
+      "language": "C++20 (GCC 13-64)",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427967849
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "446C",
+        "name": "DZY Loves Fibonacci Numbers",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/446/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/446/submission/267781608"
+    },
+    {
+      "type": "codeforces",
+      "id": 267780995,
+      "creationTime": 1719515329,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427968318
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "446C",
+        "name": "DZY Loves Fibonacci Numbers",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/446/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/446/submission/267780995"
+    },
+    {
+      "type": "codeforces",
+      "id": 267780670,
+      "creationTime": 1719515131,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427968516
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "446C",
+        "name": "DZY Loves Fibonacci Numbers",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/446/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/446/submission/267780670"
+    },
+    {
+      "type": "codeforces",
+      "id": 267780544,
+      "creationTime": 1719515046,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427968601
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "446C",
+        "name": "DZY Loves Fibonacci Numbers",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/446/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/446/submission/267780544"
+    },
+    {
+      "type": "codeforces",
+      "id": 267777382,
+      "creationTime": 1719513133,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427970514
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "446C",
+        "name": "DZY Loves Fibonacci Numbers",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/446/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/446/submission/267777382"
+    },
+    {
+      "type": "codeforces",
+      "id": 267777190,
+      "creationTime": 1719513016,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427970631
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "446C",
+        "name": "DZY Loves Fibonacci Numbers",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/446/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/446/submission/267777190"
+    },
+    {
+      "type": "codeforces",
+      "id": 267776854,
+      "creationTime": 1719512814,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427970833
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "446C",
+        "name": "DZY Loves Fibonacci Numbers",
+        "rating": 2400,
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/446/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/446/submission/267776854"
+    },
+    {
+      "type": "codeforces",
+      "id": 267774952,
+      "creationTime": 1719511813,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427971834
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "445E",
+        "name": "DZY Loves Colors",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/445/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/445/submission/267774952"
+    },
+    {
+      "type": "codeforces",
+      "id": 267774717,
+      "creationTime": 1719511697,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427971950
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "445E",
+        "name": "DZY Loves Colors",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/445/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/445/submission/267774717"
+    },
+    {
+      "type": "codeforces",
+      "id": 267773882,
+      "creationTime": 1719511296,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427972351
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "445E",
+        "name": "DZY Loves Colors",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/445/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/445/submission/267773882"
+    },
+    {
+      "type": "codeforces",
+      "id": 267773739,
+      "creationTime": 1719511232,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427972415
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "445E",
+        "name": "DZY Loves Colors",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/445/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/445/submission/267773739"
+    },
+    {
+      "type": "codeforces",
+      "id": 267769765,
+      "creationTime": 1719509268,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427974379
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "445E",
+        "name": "DZY Loves Colors",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/445/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/445/submission/267769765"
+    },
+    {
+      "type": "codeforces",
+      "id": 267766309,
+      "creationTime": 1719507811,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427975836
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "445E",
+        "name": "DZY Loves Colors",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/445/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/445/submission/267766309"
+    },
+    {
+      "type": "codeforces",
+      "id": 267762271,
+      "creationTime": 1719506486,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427977161
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "445E",
+        "name": "DZY Loves Colors",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/445/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/445/submission/267762271"
+    },
+    {
+      "type": "codeforces",
+      "id": 267756015,
+      "creationTime": 1719505696,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427977951
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "438D",
+        "name": "The Child and Sequence",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/438/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/438/submission/267756015"
+    },
+    {
+      "type": "codeforces",
+      "id": 267744696,
+      "creationTime": 1719504454,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427979193
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267744696"
+    },
+    {
+      "type": "codeforces",
+      "id": 267744649,
+      "creationTime": 1719504448,
+      "language": "C++14 (GCC 6-32)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427979199
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267744649"
+    },
+    {
+      "type": "codeforces",
+      "id": 267744428,
+      "creationTime": 1719504427,
+      "language": "C++14 (GCC 6-32)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427979220
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267744428"
+    },
+    {
+      "type": "codeforces",
+      "id": 267744361,
+      "creationTime": 1719504420,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427979227
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267744361"
+    },
+    {
+      "type": "codeforces",
+      "id": 267742483,
+      "creationTime": 1719504226,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427979421
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267742483"
+    },
+    {
+      "type": "codeforces",
+      "id": 267740791,
+      "creationTime": 1719504053,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989F",
+        "name": "Simultaneous Coloring",
+        "tags": [
+          "dfs and similar",
+          "divide and conquer",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267740791"
+    },
+    {
+      "type": "codeforces",
+      "id": 267711316,
+      "creationTime": 1719501499,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989F",
+        "name": "Simultaneous Coloring",
+        "tags": [
+          "dfs and similar",
+          "divide and conquer",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267711316"
+    },
+    {
+      "type": "codeforces",
+      "id": 267707470,
+      "creationTime": 1719501234,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989F",
+        "name": "Simultaneous Coloring",
+        "tags": [
+          "dfs and similar",
+          "divide and conquer",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267707470"
+    },
+    {
+      "type": "codeforces",
+      "id": 267700191,
+      "creationTime": 1719500767,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989F",
+        "name": "Simultaneous Coloring",
+        "tags": [
+          "dfs and similar",
+          "divide and conquer",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267700191"
+    },
+    {
+      "type": "codeforces",
+      "id": 267686019,
+      "creationTime": 1719499977,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989E",
+        "name": "Distance to Different",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267686019"
+    },
+    {
+      "type": "codeforces",
+      "id": 267680276,
+      "creationTime": 1719499685,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989D",
+        "name": "Smithing Skill",
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267680276"
+    },
+    {
+      "type": "codeforces",
+      "id": 267674713,
+      "creationTime": 1719499391,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989C",
+        "name": "Two Movies",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267674713"
+    },
+    {
+      "type": "codeforces",
+      "id": 267669871,
+      "creationTime": 1719499115,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989B",
+        "name": "Substring and Subsequence",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "graphs",
+          "greedy",
+          "hashing",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267669871"
+    },
+    {
+      "type": "codeforces",
+      "id": 267669118,
+      "creationTime": 1719499003,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1719498900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1989A",
+        "name": "Catch the Coin",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1989/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1989/submission/267669118"
+    },
+    {
+      "type": "codeforces",
+      "id": 267667754,
+      "creationTime": 1719498228,
+      "language": "C++17 (GCC 7-32)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427985419
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267667754"
+    },
+    {
+      "type": "codeforces",
+      "id": 267667740,
+      "creationTime": 1719498220,
+      "language": "C++14 (GCC 6-32)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427985427
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267667740"
+    },
+    {
+      "type": "codeforces",
+      "id": 267667703,
+      "creationTime": 1719498205,
+      "language": "C++14 (GCC 6-32)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427985442
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267667703"
+    },
+    {
+      "type": "codeforces",
+      "id": 267666918,
+      "creationTime": 1719497786,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427985861
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267666918"
+    },
+    {
+      "type": "codeforces",
+      "id": 267666220,
+      "creationTime": 1719497398,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427986249
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267666220"
+    },
+    {
+      "type": "codeforces",
+      "id": 267665332,
+      "creationTime": 1719496965,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427986682
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267665332"
+    },
+    {
+      "type": "codeforces",
+      "id": 267665231,
+      "creationTime": 1719496914,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427986733
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267665231"
+    },
+    {
+      "type": "codeforces",
+      "id": 267665191,
+      "creationTime": 1719496895,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427986752
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267665191"
+    },
+    {
+      "type": "codeforces",
+      "id": 267665066,
+      "creationTime": 1719496825,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427986822
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1093E",
+        "name": "Intersection of Permutations",
+        "rating": 2400,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1093/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1093/submission/267665066"
+    },
+    {
+      "type": "codeforces",
+      "id": 267650126,
+      "creationTime": 1719489392,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427994255
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919F2",
+        "name": "Wine Factory (Hard Version)",
+        "rating": 2800,
+        "tags": [
+          "data structures",
+          "dp",
+          "flows",
+          "greedy",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/267650126"
+    },
+    {
+      "type": "codeforces",
+      "id": 267649982,
+      "creationTime": 1719489325,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427994322
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919F2",
+        "name": "Wine Factory (Hard Version)",
+        "rating": 2800,
+        "tags": [
+          "data structures",
+          "dp",
+          "flows",
+          "greedy",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/267649982"
+    },
+    {
+      "type": "codeforces",
+      "id": 267644998,
+      "creationTime": 1719486851,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427996796
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1919F1",
+        "name": "Wine Factory (Easy Version)",
+        "rating": 2300,
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1919/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1919/submission/267644998"
+    },
+    {
+      "type": "codeforces",
       "id": 267355095,
       "creationTime": 1719328202,
       "language": "C++20 (GCC 13-64)",
@@ -21,10 +1104,10 @@
         "type": "codeforces",
         "id": "1982E",
         "name": "Number of k-good subarrays",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "combinatorics",
-          "data structures",
           "divide and conquer",
           "dp",
           "math",
@@ -51,9 +1134,11 @@
         "type": "codeforces",
         "id": "1982F",
         "name": "Sorting Problem Again",
+        "rating": 2600,
         "tags": [
           "binary search",
-          "data structures"
+          "data structures",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1982/problem/F"
       },
@@ -76,6 +1161,7 @@
         "type": "codeforces",
         "id": "1982D",
         "name": "Beauty of the mountains",
+        "rating": 1700,
         "tags": [
           "brute force",
           "data structures",
@@ -104,6 +1190,7 @@
         "type": "codeforces",
         "id": "1982C",
         "name": "Boring Day",
+        "rating": 1200,
         "tags": [
           "binary search",
           "data structures",
@@ -132,6 +1219,7 @@
         "type": "codeforces",
         "id": "1982B",
         "name": "Collatz Conjecture",
+        "rating": 1200,
         "tags": [
           "brute force",
           "implementation",
@@ -159,6 +1247,7 @@
         "type": "codeforces",
         "id": "1982A",
         "name": "Soccer",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation",
