@@ -6,9 +6,110 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 267807488,
+      "creationTime": 1719554102,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427929545
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267807488"
+    },
+    {
+      "type": "codeforces",
+      "id": 267807419,
+      "creationTime": 1719554063,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427929584
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267807419"
+    },
+    {
+      "type": "codeforces",
+      "id": 267806289,
+      "creationTime": 1719553498,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427930149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267806289"
+    },
+    {
+      "type": "codeforces",
+      "id": 267802735,
+      "creationTime": 1719551130,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427932517
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "341D",
+        "name": "Iahub and Xors",
+        "rating": 2500,
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/341/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/341/submission/267802735"
+    },
+    {
+      "type": "codeforces",
       "id": 267783992,
       "creationTime": 1719518130,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
           "tourist"
@@ -33,6 +134,7 @@
       "id": 267781608,
       "creationTime": 1719515798,
       "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
       "author": {
         "members": [
           "tourist"
@@ -547,7 +649,7 @@
       "id": 267740791,
       "creationTime": 1719504053,
       "language": "C++17 (GCC 7-32)",
-      "verdict": "OK",
+      "verdict": "CHALLENGED",
       "author": {
         "members": [
           "tourist"
@@ -665,7 +767,8 @@
         "name": "Distance to Different",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1989/problem/E"
       },
@@ -693,7 +796,8 @@
           "dp",
           "greedy",
           "math",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1989/problem/D"
       },
