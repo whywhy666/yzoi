@@ -1,48 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1719609095,
+  "updateTime": 1719695418,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 267807488,
-            "pid": "341D",
-            "name": "Iahub and Xors",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1719554102
-          },
-          {
-            "platform": "codeforces",
-            "id": 267807419,
-            "pid": "341D",
-            "name": "Iahub and Xors",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1719554063
-          },
-          {
-            "platform": "codeforces",
-            "id": 267806289,
-            "pid": "341D",
-            "name": "Iahub and Xors",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1719553498
-          },
-          {
-            "platform": "codeforces",
-            "id": 267802735,
-            "pid": "341D",
-            "name": "Iahub and Xors",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1719551130
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "0c1b67abef7a64bab83b11da277611ab708c62b9"
+  "ref": "ef30185e5b2f028049ae0a1c2e87afd20f878d8b"
 }

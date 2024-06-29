@@ -661,6 +661,7 @@
         "type": "codeforces",
         "id": "1989F",
         "name": "Simultaneous Coloring",
+        "rating": 3000,
         "tags": [
           "dfs and similar",
           "divide and conquer",
@@ -687,6 +688,7 @@
         "type": "codeforces",
         "id": "1989F",
         "name": "Simultaneous Coloring",
+        "rating": 3000,
         "tags": [
           "dfs and similar",
           "divide and conquer",
@@ -713,6 +715,7 @@
         "type": "codeforces",
         "id": "1989F",
         "name": "Simultaneous Coloring",
+        "rating": 3000,
         "tags": [
           "dfs and similar",
           "divide and conquer",
@@ -739,6 +742,7 @@
         "type": "codeforces",
         "id": "1989F",
         "name": "Simultaneous Coloring",
+        "rating": 3000,
         "tags": [
           "dfs and similar",
           "divide and conquer",
@@ -765,6 +769,7 @@
         "type": "codeforces",
         "id": "1989E",
         "name": "Distance to Different",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "dp",
@@ -791,6 +796,7 @@
         "type": "codeforces",
         "id": "1989D",
         "name": "Smithing Skill",
+        "rating": 1900,
         "tags": [
           "brute force",
           "dp",
@@ -820,6 +826,7 @@
         "type": "codeforces",
         "id": "1989C",
         "name": "Two Movies",
+        "rating": 1400,
         "tags": [
           "greedy"
         ],
@@ -844,8 +851,8 @@
         "type": "codeforces",
         "id": "1989B",
         "name": "Substring and Subsequence",
+        "rating": 1200,
         "tags": [
-          "bitmasks",
           "brute force",
           "dp",
           "graphs",
@@ -875,6 +882,7 @@
         "type": "codeforces",
         "id": "1989A",
         "name": "Catch the Coin",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -1211,6 +1219,7 @@
         "rating": 2300,
         "tags": [
           "bitmasks",
+          "brute force",
           "combinatorics",
           "divide and conquer",
           "dp",
