@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1719781867,
+  "updateTime": 1719868250,
   "history": {
     "user": [
       {
@@ -8,123 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 268225099,
-            "pid": "1987H",
-            "name": "Fumo Temple",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719772557
-          },
-          {
-            "platform": "codeforces",
-            "id": 268220958,
-            "pid": "1987H",
-            "name": "Fumo Temple",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719768896
-          },
-          {
-            "platform": "codeforces",
-            "id": 268220425,
-            "pid": "1987H",
-            "name": "Fumo Temple",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719768856
-          },
-          {
-            "platform": "codeforces",
-            "id": 268219505,
-            "pid": "1987H",
-            "name": "Fumo Temple",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1719768743
-          },
-          {
-            "platform": "codeforces",
-            "id": 268209905,
-            "pid": "1987G2",
-            "name": "Spinning Round (Hard Version)",
+            "id": 268380288,
+            "pid": "1557A",
+            "name": "Ezzat and Two Subsequences",
             "verdict": "OK",
-            "creationTime": 1719767011
+            "creationTime": 1719867084
           },
           {
             "platform": "codeforces",
-            "id": 268183559,
-            "pid": "1987G1",
-            "name": "Spinning Round (Easy Version)",
+            "id": 268380245,
+            "pid": "1557A",
+            "name": "Ezzat and Two Subsequences",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1719867055
+          },
+          {
+            "platform": "codeforces",
+            "id": 268380210,
+            "pid": "1557A",
+            "name": "Ezzat and Two Subsequences",
             "verdict": "OK",
-            "creationTime": 1719762517
-          },
-          {
-            "platform": "codeforces",
-            "id": 268174297,
-            "pid": "1987G1",
-            "name": "Spinning Round (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719761281
-          },
-          {
-            "platform": "codeforces",
-            "id": 268162641,
-            "pid": "1987F1",
-            "name": "Interesting Problem (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1719760019
-          },
-          {
-            "platform": "codeforces",
-            "id": 268162505,
-            "pid": "1987F2",
-            "name": "Interesting Problem (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1719760005
-          },
-          {
-            "platform": "codeforces",
-            "id": 268161431,
-            "pid": "1987F2",
-            "name": "Interesting Problem (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1719759899
-          },
-          {
-            "platform": "codeforces",
-            "id": 268152628,
-            "pid": "1987E",
-            "name": "Wonderful Tree!",
-            "verdict": "OK",
-            "creationTime": 1719759037
-          },
-          {
-            "platform": "codeforces",
-            "id": 268147683,
-            "pid": "1987D",
-            "name": "World is Mine",
-            "verdict": "OK",
-            "creationTime": 1719758686
-          },
-          {
-            "platform": "codeforces",
-            "id": 268143974,
-            "pid": "1987C",
-            "name": "Basil's Garden",
-            "verdict": "OK",
-            "creationTime": 1719758430
-          },
-          {
-            "platform": "codeforces",
-            "id": 268136942,
-            "pid": "1987B",
-            "name": "K-Sort",
-            "verdict": "OK",
-            "creationTime": 1719758210
-          },
-          {
-            "platform": "codeforces",
-            "id": 268135342,
-            "pid": "1987A",
-            "name": "Upload More RAM",
-            "verdict": "OK",
-            "creationTime": 1719758135
+            "creationTime": 1719867028
           }
         ],
         "newContests": []
@@ -132,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "a11adb32f702b3c339789e08c5203089a422dc34"
+  "ref": "06a8936a8d9724264439b89572d3c9c0fe306591"
 }

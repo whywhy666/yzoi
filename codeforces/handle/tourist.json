@@ -6,6 +6,87 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 268380288,
+      "creationTime": 1719867084,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427616563
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1557A",
+        "name": "Ezzat and Two Subsequences",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1557/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1557/submission/268380288"
+    },
+    {
+      "type": "codeforces",
+      "id": 268380245,
+      "creationTime": 1719867055,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427616592
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1557A",
+        "name": "Ezzat and Two Subsequences",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1557/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1557/submission/268380245"
+    },
+    {
+      "type": "codeforces",
+      "id": 268380210,
+      "creationTime": 1719867028,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427616619
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1557A",
+        "name": "Ezzat and Two Subsequences",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1557/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1557/submission/268380210"
+    },
+    {
+      "type": "codeforces",
       "id": 268225099,
       "creationTime": 1719772557,
       "language": "C++20 (GCC 13-64)",
@@ -318,6 +399,7 @@
         "id": "1987C",
         "name": "Basil's Garden",
         "tags": [
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/C"
