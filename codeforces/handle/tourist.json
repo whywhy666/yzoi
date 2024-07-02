@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 268383290,
+      "creationTime": 1719869671,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -427613976
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1987C",
+        "name": "Basil's Garden",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1987/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1987/submission/268383290"
+    },
+    {
+      "type": "codeforces",
       "id": 268380288,
       "creationTime": 1719867084,
       "language": "C++20 (GCC 13-64)",
@@ -199,7 +224,9 @@
         "id": "1987G2",
         "name": "Spinning Round (Hard Version)",
         "tags": [
-          "dp"
+          "divide and conquer",
+          "dp",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/G2"
       },
@@ -374,8 +401,7 @@
         "name": "World is Mine",
         "tags": [
           "dp",
-          "games",
-          "greedy"
+          "games"
         ],
         "problemUrl": "https://codeforces.com/contest/1987/problem/D"
       },
@@ -1306,12 +1332,8 @@
         "rating": 1200,
         "tags": [
           "brute force",
-          "dp",
-          "graphs",
           "greedy",
-          "hashing",
-          "strings",
-          "trees"
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1989/problem/B"
       },
