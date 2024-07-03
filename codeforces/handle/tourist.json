@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1987C",
         "name": "Basil's Garden",
+        "rating": 1200,
         "tags": [
           "dp",
           "greedy"
@@ -127,6 +128,7 @@
         "type": "codeforces",
         "id": "1987H",
         "name": "Fumo Temple",
+        "rating": 3500,
         "tags": [
           "interactive"
         ],
@@ -151,6 +153,7 @@
         "type": "codeforces",
         "id": "1987H",
         "name": "Fumo Temple",
+        "rating": 3500,
         "tags": [
           "interactive"
         ],
@@ -175,6 +178,7 @@
         "type": "codeforces",
         "id": "1987H",
         "name": "Fumo Temple",
+        "rating": 3500,
         "tags": [
           "interactive"
         ],
@@ -199,6 +203,7 @@
         "type": "codeforces",
         "id": "1987H",
         "name": "Fumo Temple",
+        "rating": 3500,
         "tags": [
           "interactive"
         ],
@@ -223,6 +228,7 @@
         "type": "codeforces",
         "id": "1987G2",
         "name": "Spinning Round (Hard Version)",
+        "rating": 3500,
         "tags": [
           "divide and conquer",
           "dp",
@@ -249,7 +255,9 @@
         "type": "codeforces",
         "id": "1987G1",
         "name": "Spinning Round (Easy Version)",
+        "rating": 2900,
         "tags": [
+          "divide and conquer",
           "dp",
           "trees"
         ],
@@ -274,7 +282,9 @@
         "type": "codeforces",
         "id": "1987G1",
         "name": "Spinning Round (Easy Version)",
+        "rating": 2900,
         "tags": [
+          "divide and conquer",
           "dp",
           "trees"
         ],
@@ -299,6 +309,7 @@
         "type": "codeforces",
         "id": "1987F1",
         "name": "Interesting Problem (Easy Version)",
+        "rating": 2500,
         "tags": [
           "dp"
         ],
@@ -323,6 +334,7 @@
         "type": "codeforces",
         "id": "1987F2",
         "name": "Interesting Problem (Hard Version)",
+        "rating": 2600,
         "tags": [
           "dp"
         ],
@@ -347,6 +359,7 @@
         "type": "codeforces",
         "id": "1987F2",
         "name": "Interesting Problem (Hard Version)",
+        "rating": 2600,
         "tags": [
           "dp"
         ],
@@ -371,10 +384,14 @@
         "type": "codeforces",
         "id": "1987E",
         "name": "Wonderful Tree!",
+        "rating": 2000,
         "tags": [
           "brute force",
+          "data structures",
           "dfs and similar",
           "dp",
+          "dsu",
+          "flows",
           "greedy",
           "trees"
         ],
@@ -399,6 +416,7 @@
         "type": "codeforces",
         "id": "1987D",
         "name": "World is Mine",
+        "rating": 1800,
         "tags": [
           "dp",
           "games"
@@ -424,6 +442,7 @@
         "type": "codeforces",
         "id": "1987C",
         "name": "Basil's Garden",
+        "rating": 1200,
         "tags": [
           "dp",
           "greedy"
@@ -449,6 +468,7 @@
         "type": "codeforces",
         "id": "1987B",
         "name": "K-Sort",
+        "rating": 1000,
         "tags": [
           "greedy"
         ],
@@ -473,6 +493,7 @@
         "type": "codeforces",
         "id": "1987A",
         "name": "Upload More RAM",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
