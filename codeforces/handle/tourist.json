@@ -391,7 +391,6 @@
           "dfs and similar",
           "dp",
           "dsu",
-          "flows",
           "greedy",
           "trees"
         ],
@@ -1327,7 +1326,8 @@
         "name": "Two Movies",
         "rating": 1400,
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1989/problem/C"
       },

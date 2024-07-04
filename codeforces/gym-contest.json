@@ -20413,5 +20413,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105245",
     "standingsUrl": "https://codeforces.com/gym/105245/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 ICPC World Finals",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105255,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105255",
+    "standingsUrl": "https://codeforces.com/gym/105255/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2022 ICPC World Finals",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105254,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105254",
+    "standingsUrl": "https://codeforces.com/gym/105254/standings"
   }
 ]
