@@ -6,6 +6,191 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 269939496,
+      "creationTime": 1720709931,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1720708500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1992G",
+        "name": "Ultra-Meow",
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1992/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1992/submission/269939496"
+    },
+    {
+      "type": "codeforces",
+      "id": 269929644,
+      "creationTime": 1720709585,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1720708500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1992F",
+        "name": "Valuable Cards",
+        "tags": [
+          "dp",
+          "greedy",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1992/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1992/submission/269929644"
+    },
+    {
+      "type": "codeforces",
+      "id": 269922218,
+      "creationTime": 1720709323,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1720708500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1992E",
+        "name": "Novice's Mistake",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1992/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1992/submission/269922218"
+    },
+    {
+      "type": "codeforces",
+      "id": 269912482,
+      "creationTime": 1720709013,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1720708500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1992D",
+        "name": "Test of Love",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1992/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1992/submission/269912482"
+    },
+    {
+      "type": "codeforces",
+      "id": 269905466,
+      "creationTime": 1720708807,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1720708500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1992C",
+        "name": "Gorilla and Permutation",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1992/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1992/submission/269905466"
+    },
+    {
+      "type": "codeforces",
+      "id": 269900356,
+      "creationTime": 1720708668,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1720708500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1992B",
+        "name": "Angry Monk",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1992/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1992/submission/269900356"
+    },
+    {
+      "type": "codeforces",
+      "id": 269898709,
+      "creationTime": 1720708571,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1720708500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1992A",
+        "name": "Only Pluses",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1992/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1992/submission/269898709"
+    },
+    {
+      "type": "codeforces",
       "id": 268383290,
       "creationTime": 1719869671,
       "language": "C++20 (GCC 13-64)",

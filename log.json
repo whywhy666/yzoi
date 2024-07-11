@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1720645826,
+  "updateTime": 1720732311,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 269939496,
+            "pid": "1992G",
+            "name": "Ultra-Meow",
+            "verdict": "OK",
+            "creationTime": 1720709931
+          },
+          {
+            "platform": "codeforces",
+            "id": 269929644,
+            "pid": "1992F",
+            "name": "Valuable Cards",
+            "verdict": "OK",
+            "creationTime": 1720709585
+          },
+          {
+            "platform": "codeforces",
+            "id": 269922218,
+            "pid": "1992E",
+            "name": "Novice's Mistake",
+            "verdict": "OK",
+            "creationTime": 1720709323
+          },
+          {
+            "platform": "codeforces",
+            "id": 269912482,
+            "pid": "1992D",
+            "name": "Test of Love",
+            "verdict": "OK",
+            "creationTime": 1720709013
+          },
+          {
+            "platform": "codeforces",
+            "id": 269905466,
+            "pid": "1992C",
+            "name": "Gorilla and Permutation",
+            "verdict": "OK",
+            "creationTime": 1720708807
+          },
+          {
+            "platform": "codeforces",
+            "id": 269900356,
+            "pid": "1992B",
+            "name": "Angry Monk",
+            "verdict": "OK",
+            "creationTime": 1720708668
+          },
+          {
+            "platform": "codeforces",
+            "id": 269898709,
+            "pid": "1992A",
+            "name": "Only Pluses",
+            "verdict": "OK",
+            "creationTime": 1720708571
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "989772637b64fe06f200c3db211bba253522c2b5"
+  "ref": "d61876aa0c6ade8402744789628c1ef73bea4044"
 }
