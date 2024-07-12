@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "1992G",
         "name": "Ultra-Meow",
+        "rating": 2000,
         "tags": [
           "combinatorics",
           "math",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "1992F",
         "name": "Valuable Cards",
+        "rating": 1900,
         "tags": [
           "dp",
           "greedy",
@@ -74,6 +76,7 @@
         "type": "codeforces",
         "id": "1992E",
         "name": "Novice's Mistake",
+        "rating": 1700,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "1992D",
         "name": "Test of Love",
+        "rating": 1200,
         "tags": [
           "dp",
           "greedy",
@@ -127,6 +131,7 @@
         "type": "codeforces",
         "id": "1992C",
         "name": "Gorilla and Permutation",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "math"
@@ -152,6 +157,7 @@
         "type": "codeforces",
         "id": "1992B",
         "name": "Angry Monk",
+        "rating": 800,
         "tags": [
           "greedy",
           "math",
@@ -178,6 +184,7 @@
         "type": "codeforces",
         "id": "1992A",
         "name": "Only Pluses",
+        "rating": 800,
         "tags": [
           "brute force",
           "constructive algorithms",
