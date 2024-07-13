@@ -24,6 +24,7 @@
         "rating": 2000,
         "tags": [
           "combinatorics",
+          "dp",
           "math",
           "number theory"
         ],
@@ -50,6 +51,7 @@
         "name": "Valuable Cards",
         "rating": 1900,
         "tags": [
+          "brute force",
           "dp",
           "greedy",
           "number theory",
