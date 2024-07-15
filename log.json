@@ -1,9 +1,64 @@
 {
   "version": "0.1.16",
-  "updateTime": 1720991402,
+  "updateTime": 1721077873,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 270682239,
+            "pid": "1988E",
+            "name": "Range Minimum Sum",
+            "verdict": "OK",
+            "creationTime": 1721056304
+          },
+          {
+            "platform": "codeforces",
+            "id": 270679660,
+            "pid": "1988E",
+            "name": "Range Minimum Sum",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1721056144
+          },
+          {
+            "platform": "codeforces",
+            "id": 270656605,
+            "pid": "1988D",
+            "name": "The Omnipotent Monster Killer",
+            "verdict": "OK",
+            "creationTime": 1721054858
+          },
+          {
+            "platform": "codeforces",
+            "id": 270650896,
+            "pid": "1988C",
+            "name": "Increasing Sequence with Fixed OR",
+            "verdict": "OK",
+            "creationTime": 1721054543
+          },
+          {
+            "platform": "codeforces",
+            "id": 270647308,
+            "pid": "1988B",
+            "name": "Make Majority",
+            "verdict": "OK",
+            "creationTime": 1721054325
+          },
+          {
+            "platform": "codeforces",
+            "id": 270646081,
+            "pid": "1988A",
+            "name": "Split the Multiset",
+            "verdict": "OK",
+            "creationTime": 1721054137
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "6070075168ba9dcfa4e50f2baa5ae6f8ec18fd0f"
+  "ref": "d384382a530b18a7aca08d694396bed0761ecda1"
 }

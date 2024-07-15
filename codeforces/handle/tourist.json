@@ -6,6 +6,164 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 270682239,
+      "creationTime": 1721056304,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721054100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1988E",
+        "name": "Range Minimum Sum",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1988/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1988/submission/270682239"
+    },
+    {
+      "type": "codeforces",
+      "id": 270679660,
+      "creationTime": 1721056144,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721054100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1988E",
+        "name": "Range Minimum Sum",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1988/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1988/submission/270679660"
+    },
+    {
+      "type": "codeforces",
+      "id": 270656605,
+      "creationTime": 1721054858,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721054100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1988D",
+        "name": "The Omnipotent Monster Killer",
+        "tags": [
+          "brute force",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1988/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1988/submission/270656605"
+    },
+    {
+      "type": "codeforces",
+      "id": 270650896,
+      "creationTime": 1721054543,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721054100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1988C",
+        "name": "Increasing Sequence with Fixed OR",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1988/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1988/submission/270650896"
+    },
+    {
+      "type": "codeforces",
+      "id": 270647308,
+      "creationTime": 1721054325,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721054100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1988B",
+        "name": "Make Majority",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1988/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1988/submission/270647308"
+    },
+    {
+      "type": "codeforces",
+      "id": 270646081,
+      "creationTime": 1721054137,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721054100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1988A",
+        "name": "Split the Multiset",
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1988/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1988/submission/270646081"
+    },
+    {
+      "type": "codeforces",
       "id": 269939496,
       "creationTime": 1720709931,
       "language": "C++20 (GCC 13-64)",
