@@ -20477,5 +20477,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105259",
     "standingsUrl": "https://codeforces.com/gym/105259/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXIV Spain Olympiad in Informatics, Day 1",
+    "duration": 16200,
+    "participantNumber": 0,
+    "id": 105263,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105263",
+    "standingsUrl": "https://codeforces.com/gym/105263/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Game of Coders 3.0",
+    "startTime": 1721145900,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105262,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105262",
+    "standingsUrl": "https://codeforces.com/gym/105262/standings"
   }
 ]

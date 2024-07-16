@@ -77,8 +77,8 @@
         "name": "The Omnipotent Monster Killer",
         "tags": [
           "brute force",
+          "dfs and similar",
           "dp",
-          "graphs",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1988/problem/D"
@@ -129,7 +129,8 @@
         "id": "1988B",
         "name": "Make Majority",
         "tags": [
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1988/problem/B"
       },
@@ -154,7 +155,6 @@
         "name": "Split the Multiset",
         "tags": [
           "brute force",
-          "dp",
           "greedy",
           "math"
         ],
@@ -240,6 +240,7 @@
         "tags": [
           "brute force",
           "constructive algorithms",
+          "implementation",
           "math",
           "strings"
         ],
