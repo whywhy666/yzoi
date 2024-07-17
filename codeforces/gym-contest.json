@@ -20498,5 +20498,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105262",
     "standingsUrl": "https://codeforces.com/gym/105262/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2024 Syrian Virtual University Collegiate Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105264,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105264",
+    "standingsUrl": "https://codeforces.com/gym/105264/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "中国计算机应用技术大赛 - 全国算法精英大赛（2024总决赛）",
+    "startTime": 1721091600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105267,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105267",
+    "standingsUrl": "https://codeforces.com/gym/105267/standings"
   }
 ]
