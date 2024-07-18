@@ -6,6 +6,267 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 271268810,
+      "creationTime": 1721323756,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -426159891
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994H",
+        "name": "Fortnite",
+        "tags": [
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271268810"
+    },
+    {
+      "type": "codeforces",
+      "id": 271261236,
+      "creationTime": 1721320128,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994H",
+        "name": "Fortnite",
+        "tags": [
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271261236"
+    },
+    {
+      "type": "codeforces",
+      "id": 271259687,
+      "creationTime": 1721319886,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994H",
+        "name": "Fortnite",
+        "tags": [
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271259687"
+    },
+    {
+      "type": "codeforces",
+      "id": 271229872,
+      "creationTime": 1721315745,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994G",
+        "name": "Minecraft",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271229872"
+    },
+    {
+      "type": "codeforces",
+      "id": 271214789,
+      "creationTime": 1721314502,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994F",
+        "name": "Stardew Valley",
+        "tags": [
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271214789"
+    },
+    {
+      "type": "codeforces",
+      "id": 271208462,
+      "creationTime": 1721314130,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994E",
+        "name": "Wooden Game",
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271208462"
+    },
+    {
+      "type": "codeforces",
+      "id": 271202405,
+      "creationTime": 1721313831,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994D",
+        "name": "Funny Game",
+        "tags": [
+          "constructive algorithms",
+          "dsu",
+          "graphs",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271202405"
+    },
+    {
+      "type": "codeforces",
+      "id": 271199233,
+      "creationTime": 1721313673,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994C",
+        "name": "Hungry Games",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271199233"
+    },
+    {
+      "type": "codeforces",
+      "id": 271196298,
+      "creationTime": 1721313523,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994B",
+        "name": "Fun Game",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271196298"
+    },
+    {
+      "type": "codeforces",
+      "id": 271195365,
+      "creationTime": 1721313424,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1721313300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1994A",
+        "name": "Diverse Game",
+        "tags": [
+          "constructive algorithms",
+          "graph matchings",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1994/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1994/submission/271195365"
+    },
+    {
+      "type": "codeforces",
       "id": 270682239,
       "creationTime": 1721056304,
       "language": "C++20 (GCC 13-64)",
@@ -127601,7 +127862,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3803,
+    "rating": 3880,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
