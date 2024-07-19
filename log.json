@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1721337022,
+  "updateTime": 1721423419,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 271268810,
-            "pid": "1994H",
-            "name": "Fortnite",
-            "verdict": "OK",
-            "creationTime": 1721323756
-          },
-          {
-            "platform": "codeforces",
-            "id": 271261236,
-            "pid": "1994H",
-            "name": "Fortnite",
-            "verdict": "OK",
-            "creationTime": 1721320128
-          },
-          {
-            "platform": "codeforces",
-            "id": 271259687,
-            "pid": "1994H",
-            "name": "Fortnite",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721319886
-          },
-          {
-            "platform": "codeforces",
-            "id": 271229872,
-            "pid": "1994G",
-            "name": "Minecraft",
-            "verdict": "OK",
-            "creationTime": 1721315745
-          },
-          {
-            "platform": "codeforces",
-            "id": 271214789,
-            "pid": "1994F",
-            "name": "Stardew Valley",
-            "verdict": "OK",
-            "creationTime": 1721314502
-          },
-          {
-            "platform": "codeforces",
-            "id": 271208462,
-            "pid": "1994E",
-            "name": "Wooden Game",
-            "verdict": "OK",
-            "creationTime": 1721314130
-          },
-          {
-            "platform": "codeforces",
-            "id": 271202405,
-            "pid": "1994D",
-            "name": "Funny Game",
-            "verdict": "OK",
-            "creationTime": 1721313831
-          },
-          {
-            "platform": "codeforces",
-            "id": 271199233,
-            "pid": "1994C",
-            "name": "Hungry Games",
-            "verdict": "OK",
-            "creationTime": 1721313673
-          },
-          {
-            "platform": "codeforces",
-            "id": 271196298,
-            "pid": "1994B",
-            "name": "Fun Game",
-            "verdict": "OK",
-            "creationTime": 1721313523
-          },
-          {
-            "platform": "codeforces",
-            "id": 271195365,
-            "pid": "1994A",
-            "name": "Diverse Game",
-            "verdict": "OK",
-            "creationTime": 1721313424
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "35a8feaac6718979d552d35c90de13a4f5f4a43b"
+  "ref": "1d4c231486615a60cbc2600b3abce22e74e29c6d"
 }

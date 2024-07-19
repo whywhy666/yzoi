@@ -22,6 +22,7 @@
         "id": "1994H",
         "name": "Fortnite",
         "tags": [
+          "constructive algorithms",
           "interactive",
           "math"
         ],
@@ -47,6 +48,7 @@
         "id": "1994H",
         "name": "Fortnite",
         "tags": [
+          "constructive algorithms",
           "interactive",
           "math"
         ],
@@ -72,6 +74,7 @@
         "id": "1994H",
         "name": "Fortnite",
         "tags": [
+          "constructive algorithms",
           "interactive",
           "math"
         ],
@@ -124,8 +127,11 @@
         "id": "1994F",
         "name": "Stardew Valley",
         "tags": [
+          "constructive algorithms",
           "dfs and similar",
-          "graphs"
+          "dsu",
+          "graphs",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/F"
       },
@@ -152,6 +158,7 @@
           "bitmasks",
           "greedy",
           "math",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/E"
@@ -179,8 +186,10 @@
           "constructive algorithms",
           "dsu",
           "graphs",
+          "greedy",
           "math",
-          "number theory"
+          "number theory",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/D"
       },
@@ -205,7 +214,6 @@
         "name": "Hungry Games",
         "tags": [
           "binary search",
-          "data structures",
           "dp",
           "two pointers"
         ],
@@ -233,6 +241,7 @@
         "tags": [
           "bitmasks",
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/B"
@@ -258,7 +267,6 @@
         "name": "Diverse Game",
         "tags": [
           "constructive algorithms",
-          "graph matchings",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/A"
