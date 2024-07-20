@@ -6,6 +6,312 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 271602914,
+      "creationTime": 1721490312,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990F",
+        "name": "Polygonal Segments",
+        "tags": [
+          "data structures",
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271602914"
+    },
+    {
+      "type": "codeforces",
+      "id": 271601112,
+      "creationTime": 1721490139,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990F",
+        "name": "Polygonal Segments",
+        "tags": [
+          "data structures",
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271601112"
+    },
+    {
+      "type": "codeforces",
+      "id": 271598367,
+      "creationTime": 1721489891,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990F",
+        "name": "Polygonal Segments",
+        "tags": [
+          "data structures",
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271598367"
+    },
+    {
+      "type": "codeforces",
+      "id": 271597390,
+      "creationTime": 1721489799,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990F",
+        "name": "Polygonal Segments",
+        "tags": [
+          "data structures",
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271597390"
+    },
+    {
+      "type": "codeforces",
+      "id": 271574976,
+      "creationTime": 1721488048,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990E2",
+        "name": "Catch the Mole(Hard Version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "interactive",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271574976"
+    },
+    {
+      "type": "codeforces",
+      "id": 271574612,
+      "creationTime": 1721488025,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990E1",
+        "name": "Catch the Mole(Easy Version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "interactive",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271574612"
+    },
+    {
+      "type": "codeforces",
+      "id": 271571616,
+      "creationTime": 1721487827,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990E1",
+        "name": "Catch the Mole(Easy Version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "interactive",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271571616"
+    },
+    {
+      "type": "codeforces",
+      "id": 271555197,
+      "creationTime": 1721487028,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990D",
+        "name": "Grid Puzzle",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271555197"
+    },
+    {
+      "type": "codeforces",
+      "id": 271553076,
+      "creationTime": 1721486923,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990D",
+        "name": "Grid Puzzle",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271553076"
+    },
+    {
+      "type": "codeforces",
+      "id": 271548194,
+      "creationTime": 1721486693,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990C",
+        "name": "Mad MAD Sum",
+        "tags": [
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271548194"
+    },
+    {
+      "type": "codeforces",
+      "id": 271540356,
+      "creationTime": 1721486380,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990B",
+        "name": "Array Craft",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271540356"
+    },
+    {
+      "type": "codeforces",
+      "id": 271536259,
+      "creationTime": 1721486184,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1721486100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1990A",
+        "name": "Submission Bait",
+        "tags": [
+          "games",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1990/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1990/submission/271536259"
+    },
+    {
+      "type": "codeforces",
       "id": 271268810,
       "creationTime": 1721323756,
       "language": "C++20 (GCC 13-64)",
@@ -22,9 +328,15 @@
         "id": "1994H",
         "name": "Fortnite",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
+          "games",
+          "greedy",
+          "hashing",
           "interactive",
-          "math"
+          "math",
+          "number theory",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/H"
       },
@@ -48,9 +360,15 @@
         "id": "1994H",
         "name": "Fortnite",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
+          "games",
+          "greedy",
+          "hashing",
           "interactive",
-          "math"
+          "math",
+          "number theory",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/H"
       },
@@ -74,9 +392,15 @@
         "id": "1994H",
         "name": "Fortnite",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
+          "games",
+          "greedy",
+          "hashing",
           "interactive",
-          "math"
+          "math",
+          "number theory",
+          "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/H"
       },
@@ -290,6 +614,7 @@
         "type": "codeforces",
         "id": "1988E",
         "name": "Range Minimum Sum",
+        "rating": 2300,
         "tags": [
           "binary search",
           "brute force",
@@ -318,6 +643,7 @@
         "type": "codeforces",
         "id": "1988E",
         "name": "Range Minimum Sum",
+        "rating": 2300,
         "tags": [
           "binary search",
           "brute force",
@@ -346,6 +672,7 @@
         "type": "codeforces",
         "id": "1988D",
         "name": "The Omnipotent Monster Killer",
+        "rating": 2000,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -373,6 +700,7 @@
         "type": "codeforces",
         "id": "1988C",
         "name": "Increasing Sequence with Fixed OR",
+        "rating": 1300,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -399,6 +727,7 @@
         "type": "codeforces",
         "id": "1988B",
         "name": "Make Majority",
+        "rating": 900,
         "tags": [
           "greedy",
           "implementation"
@@ -424,6 +753,7 @@
         "type": "codeforces",
         "id": "1988A",
         "name": "Split the Multiset",
+        "rating": 900,
         "tags": [
           "brute force",
           "greedy",
