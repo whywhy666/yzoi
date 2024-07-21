@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1721509802,
+  "updateTime": 1721596166,
   "history": {
     "user": [
       {
@@ -8,99 +8,91 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 271602914,
-            "pid": "1990F",
-            "name": "Polygonal Segments",
+            "id": 271830408,
+            "pid": "1691F",
+            "name": "K-Set Tree",
             "verdict": "OK",
-            "creationTime": 1721490312
+            "creationTime": 1721595430
           },
           {
             "platform": "codeforces",
-            "id": 271601112,
-            "pid": "1990F",
-            "name": "Polygonal Segments",
+            "id": 271818430,
+            "pid": "1324F",
+            "name": "Maximum White Subtree",
+            "verdict": "OK",
+            "creationTime": 1721590961
+          },
+          {
+            "platform": "codeforces",
+            "id": 271814519,
+            "pid": "1187E",
+            "name": "Tree Painting",
+            "verdict": "OK",
+            "creationTime": 1721590534
+          },
+          {
+            "platform": "codeforces",
+            "id": 271813880,
+            "pid": "1984E",
+            "name": "Shuffle",
+            "verdict": "OK",
+            "creationTime": 1721590071
+          },
+          {
+            "platform": "codeforces",
+            "id": 271813228,
+            "pid": "633F",
+            "name": "The Chocolate Spree",
+            "verdict": "OK",
+            "creationTime": 1721589580
+          },
+          {
+            "platform": "codeforces",
+            "id": 271812768,
+            "pid": "960E",
+            "name": "Alternating Tree",
+            "verdict": "OK",
+            "creationTime": 1721589283
+          },
+          {
+            "platform": "codeforces",
+            "id": 271812196,
+            "pid": "627D",
+            "name": "Preorder Test",
+            "verdict": "OK",
+            "creationTime": 1721588882
+          },
+          {
+            "platform": "codeforces",
+            "id": 271811992,
+            "pid": "627D",
+            "name": "Preorder Test",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1721490139
+            "creationTime": 1721588746
           },
           {
             "platform": "codeforces",
-            "id": 271598367,
-            "pid": "1990F",
-            "name": "Polygonal Segments",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721489891
-          },
-          {
-            "platform": "codeforces",
-            "id": 271597390,
-            "pid": "1990F",
-            "name": "Polygonal Segments",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721489799
-          },
-          {
-            "platform": "codeforces",
-            "id": 271574976,
-            "pid": "1990E2",
-            "name": "Catch the Mole(Hard Version)",
+            "id": 271810486,
+            "pid": "592D",
+            "name": "Super M",
             "verdict": "OK",
-            "creationTime": 1721488048
+            "creationTime": 1721587757
           },
           {
             "platform": "codeforces",
-            "id": 271574612,
-            "pid": "1990E1",
-            "name": "Catch the Mole(Easy Version)",
+            "id": 271809851,
+            "pid": "543D",
+            "name": "Road Improvement",
             "verdict": "OK",
-            "creationTime": 1721488025
+            "creationTime": 1721587320
           },
           {
             "platform": "codeforces",
-            "id": 271571616,
-            "pid": "1990E1",
-            "name": "Catch the Mole(Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721487827
-          },
-          {
-            "platform": "codeforces",
-            "id": 271555197,
-            "pid": "1990D",
-            "name": "Grid Puzzle",
+            "id": 271809050,
+            "pid": "219D",
+            "name": "Choosing Capital for Treeland",
             "verdict": "OK",
-            "creationTime": 1721487028
-          },
-          {
-            "platform": "codeforces",
-            "id": 271553076,
-            "pid": "1990D",
-            "name": "Grid Puzzle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721486923
-          },
-          {
-            "platform": "codeforces",
-            "id": 271548194,
-            "pid": "1990C",
-            "name": "Mad MAD Sum",
-            "verdict": "OK",
-            "creationTime": 1721486693
-          },
-          {
-            "platform": "codeforces",
-            "id": 271540356,
-            "pid": "1990B",
-            "name": "Array Craft",
-            "verdict": "OK",
-            "creationTime": 1721486380
-          },
-          {
-            "platform": "codeforces",
-            "id": 271536259,
-            "pid": "1990A",
-            "name": "Submission Bait",
-            "verdict": "OK",
-            "creationTime": 1721486184
+            "creationTime": 1721586835
           }
         ],
         "newContests": []
@@ -108,5 +100,5 @@
     ],
     "contest": []
   },
-  "ref": "f5aaa460f5144b057f73644cef42a424d5573989"
+  "ref": "5d989eae33a6e3159ef727c0ac2294a821301a70"
 }

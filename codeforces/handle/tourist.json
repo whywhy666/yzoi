@@ -6,6 +6,317 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 271830408,
+      "creationTime": 1721595430,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425888217
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1691F",
+        "name": "K-Set Tree",
+        "rating": 2500,
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1691/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1691/submission/271830408"
+    },
+    {
+      "type": "codeforces",
+      "id": 271818430,
+      "creationTime": 1721590961,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425892686
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1324F",
+        "name": "Maximum White Subtree",
+        "rating": 1800,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1324/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1324/submission/271818430"
+    },
+    {
+      "type": "codeforces",
+      "id": 271814519,
+      "creationTime": 1721590534,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425893113
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1187E",
+        "name": "Tree Painting",
+        "rating": 2100,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1187/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1187/submission/271814519"
+    },
+    {
+      "type": "codeforces",
+      "id": 271813880,
+      "creationTime": 1721590071,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425893576
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1984E",
+        "name": "Shuffle",
+        "rating": 2400,
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1984/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1984/submission/271813880"
+    },
+    {
+      "type": "codeforces",
+      "id": 271813228,
+      "creationTime": 1721589580,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425894067
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "633F",
+        "name": "The Chocolate Spree",
+        "rating": 2600,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/633/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/633/submission/271813228"
+    },
+    {
+      "type": "codeforces",
+      "id": 271812768,
+      "creationTime": 1721589283,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425894364
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "960E",
+        "name": "Alternating Tree",
+        "rating": 2300,
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/960/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/960/submission/271812768"
+    },
+    {
+      "type": "codeforces",
+      "id": 271812196,
+      "creationTime": 1721588882,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425894765
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "627D",
+        "name": "Preorder Test",
+        "rating": 2600,
+        "tags": [
+          "binary search",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/627/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/627/submission/271812196"
+    },
+    {
+      "type": "codeforces",
+      "id": 271811992,
+      "creationTime": 1721588746,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425894901
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "627D",
+        "name": "Preorder Test",
+        "rating": 2600,
+        "tags": [
+          "binary search",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/627/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/627/submission/271811992"
+    },
+    {
+      "type": "codeforces",
+      "id": 271810486,
+      "creationTime": 1721587757,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425895890
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "592D",
+        "name": "Super M",
+        "rating": 2200,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/592/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/592/submission/271810486"
+    },
+    {
+      "type": "codeforces",
+      "id": 271809851,
+      "creationTime": 1721587320,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425896327
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "543D",
+        "name": "Road Improvement",
+        "rating": 2300,
+        "tags": [
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/543/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/543/submission/271809851"
+    },
+    {
+      "type": "codeforces",
+      "id": 271809050,
+      "creationTime": 1721586835,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425896812
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "219D",
+        "name": "Choosing Capital for Treeland",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/219/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/219/submission/271809050"
+    },
+    {
+      "type": "codeforces",
       "id": 271602914,
       "creationTime": 1721490312,
       "language": "C++20 (GCC 13-64)",
@@ -23,7 +334,8 @@
         "name": "Polygonal Segments",
         "tags": [
           "data structures",
-          "geometry"
+          "divide and conquer",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"
       },
@@ -48,7 +360,8 @@
         "name": "Polygonal Segments",
         "tags": [
           "data structures",
-          "geometry"
+          "divide and conquer",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"
       },
@@ -73,7 +386,8 @@
         "name": "Polygonal Segments",
         "tags": [
           "data structures",
-          "geometry"
+          "divide and conquer",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"
       },
@@ -98,7 +412,8 @@
         "name": "Polygonal Segments",
         "tags": [
           "data structures",
-          "geometry"
+          "divide and conquer",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"
       },
@@ -124,6 +439,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "dfs and similar",
           "interactive",
           "trees"
         ],
@@ -150,6 +466,7 @@
         "name": "Catch the Mole(Easy Version)",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
           "interactive",
           "trees"
@@ -177,6 +494,7 @@
         "name": "Catch the Mole(Easy Version)",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "data structures",
           "interactive",
           "trees"
@@ -205,7 +523,8 @@
         "tags": [
           "bitmasks",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/D"
       },
@@ -231,7 +550,8 @@
         "tags": [
           "bitmasks",
           "dp",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/D"
       },
@@ -255,7 +575,9 @@
         "id": "1990C",
         "name": "Mad MAD Sum",
         "tags": [
-          "brute force"
+          "brute force",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/C"
       },
@@ -279,7 +601,8 @@
         "id": "1990B",
         "name": "Array Craft",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/B"
       },
@@ -303,7 +626,9 @@
         "id": "1990A",
         "name": "Submission Bait",
         "tags": [
+          "brute force",
           "games",
+          "greedy",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/A"
@@ -757,6 +1082,7 @@
         "tags": [
           "brute force",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1988/problem/A"
