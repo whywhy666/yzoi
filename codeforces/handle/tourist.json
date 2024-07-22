@@ -6,6 +6,92 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 271835034,
+      "creationTime": 1721600333,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425883314
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1796E",
+        "name": "Colored Subgraphs",
+        "rating": 2500,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "games",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1796/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1796/submission/271835034"
+    },
+    {
+      "type": "codeforces",
+      "id": 271833786,
+      "creationTime": 1721598902,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425884745
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1294F",
+        "name": "Three Paths on a Tree",
+        "rating": 2000,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1294/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1294/submission/271833786"
+    },
+    {
+      "type": "codeforces",
+      "id": 271833239,
+      "creationTime": 1721598264,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425885383
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1156D",
+        "name": "0-1-Tree",
+        "rating": 2200,
+        "tags": [
+          "dfs and similar",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1156/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1156/submission/271833239"
+    },
+    {
+      "type": "codeforces",
       "id": 271830408,
       "creationTime": 1721595430,
       "language": "C++20 (GCC 13-64)",
@@ -440,6 +526,7 @@
           "binary search",
           "data structures",
           "dfs and similar",
+          "implementation",
           "interactive",
           "trees"
         ],
@@ -468,6 +555,7 @@
           "binary search",
           "constructive algorithms",
           "data structures",
+          "dfs and similar",
           "interactive",
           "trees"
         ],
@@ -496,6 +584,7 @@
           "binary search",
           "constructive algorithms",
           "data structures",
+          "dfs and similar",
           "interactive",
           "trees"
         ],
@@ -807,7 +896,6 @@
           "bitmasks",
           "greedy",
           "math",
-          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/E"
@@ -834,6 +922,7 @@
         "tags": [
           "constructive algorithms",
           "dsu",
+          "graph matchings",
           "graphs",
           "greedy",
           "math",
