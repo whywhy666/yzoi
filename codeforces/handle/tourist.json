@@ -6,6 +6,126 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 272220681,
+      "creationTime": 1721772267,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425711380
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E2",
+        "name": "Let Me Teach You a Lesson (Hard Version)",
+        "tags": [
+          "2-sat",
+          "bitmasks",
+          "data structures",
+          "dp",
+          "graphs",
+          "matrices",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272220681"
+    },
+    {
+      "type": "codeforces",
+      "id": 272220662,
+      "creationTime": 1721772246,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425711401
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E2",
+        "name": "Let Me Teach You a Lesson (Hard Version)",
+        "tags": [
+          "2-sat",
+          "bitmasks",
+          "data structures",
+          "dp",
+          "graphs",
+          "matrices",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272220662"
+    },
+    {
+      "type": "codeforces",
+      "id": 272220645,
+      "creationTime": 1721772224,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425711423
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E2",
+        "name": "Let Me Teach You a Lesson (Hard Version)",
+        "tags": [
+          "2-sat",
+          "bitmasks",
+          "data structures",
+          "dp",
+          "graphs",
+          "matrices",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272220645"
+    },
+    {
+      "type": "codeforces",
+      "id": 272220625,
+      "creationTime": 1721772200,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -425711447
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1995E2",
+        "name": "Let Me Teach You a Lesson (Hard Version)",
+        "tags": [
+          "2-sat",
+          "bitmasks",
+          "data structures",
+          "dp",
+          "graphs",
+          "matrices",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1995/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1995/submission/272220625"
+    },
+    {
+      "type": "codeforces",
       "id": 272201136,
       "creationTime": 1721758234,
       "language": "C++20 (GCC 13-64)",
@@ -22,7 +142,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
+          "2-sat",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -47,7 +169,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
+          "2-sat",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -72,7 +196,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
+          "2-sat",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -97,7 +223,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
+          "2-sat",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -125,6 +253,7 @@
           "2-sat",
           "bitmasks",
           "data structures",
+          "dp",
           "graphs",
           "matrices",
           "two pointers"
@@ -151,6 +280,7 @@
         "id": "1995B2",
         "name": "Bouquet (Hard Version)",
         "tags": [
+          "binary search",
           "data structures",
           "greedy",
           "math",
@@ -179,7 +309,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
+          "2-sat",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -204,7 +336,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
+          "2-sat",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -229,7 +363,9 @@
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
         "tags": [
+          "2-sat",
           "data structures",
+          "dp",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/E1"
@@ -255,12 +391,7 @@
         "name": "Cases",
         "tags": [
           "bitmasks",
-          "brute force",
-          "combinatorics",
-          "dfs and similar",
           "dp",
-          "graphs",
-          "greedy",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/D"
@@ -285,11 +416,10 @@
         "id": "1995C",
         "name": "Squaring",
         "tags": [
-          "data structures",
+          "brute force",
+          "constructive algorithms",
           "greedy",
           "implementation",
-          "math",
-          "math",
           "math",
           "number theory"
         ],
@@ -316,8 +446,8 @@
         "name": "Bouquet (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
           "greedy",
-          "sortings",
           "sortings",
           "two pointers"
         ],
@@ -343,24 +473,10 @@
         "id": "1995A",
         "name": "Diagonals",
         "tags": [
-          "2-sat",
-          "binary search",
-          "bitmasks",
           "brute force",
-          "chinese remainder theorem",
-          "combinatorics",
-          "constructive algorithms",
-          "data structures",
-          "expression parsing",
-          "fft",
-          "flows",
           "greedy",
           "implementation",
-          "math",
-          "meet-in-the-middle",
-          "string suffix structures",
-          "ternary search",
-          "trees"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1995/problem/A"
       },
@@ -965,6 +1081,7 @@
         "tags": [
           "data structures",
           "divide and conquer",
+          "greedy",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"
@@ -991,6 +1108,7 @@
         "tags": [
           "data structures",
           "divide and conquer",
+          "greedy",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"
@@ -1017,6 +1135,7 @@
         "tags": [
           "data structures",
           "divide and conquer",
+          "greedy",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"
@@ -1043,6 +1162,7 @@
         "tags": [
           "data structures",
           "divide and conquer",
+          "greedy",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1990/problem/F"

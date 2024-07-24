@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1721769185,
+  "updateTime": 1721855475,
   "history": {
     "user": [
       {
@@ -8,163 +8,35 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 272201136,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1721758234
-          },
-          {
-            "platform": "codeforces",
-            "id": 272200771,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1721758083
-          },
-          {
-            "platform": "codeforces",
-            "id": 272200682,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1721758049
-          },
-          {
-            "platform": "codeforces",
-            "id": 272200669,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1721758044
-          },
-          {
-            "platform": "codeforces",
-            "id": 272130977,
+            "id": 272220681,
             "pid": "1995E2",
             "name": "Let Me Teach You a Lesson (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1721748873
+            "creationTime": 1721772267
           },
           {
             "platform": "codeforces",
-            "id": 272121062,
-            "pid": "1995B2",
-            "name": "Bouquet (Hard Version)",
+            "id": 272220662,
+            "pid": "1995E2",
+            "name": "Let Me Teach You a Lesson (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1721747994
+            "creationTime": 1721772246
           },
           {
             "platform": "codeforces",
-            "id": 272118069,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
+            "id": 272220645,
+            "pid": "1995E2",
+            "name": "Let Me Teach You a Lesson (Hard Version)",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1721772224
+          },
+          {
+            "platform": "codeforces",
+            "id": 272220625,
+            "pid": "1995E2",
+            "name": "Let Me Teach You a Lesson (Hard Version)",
             "verdict": "OK",
-            "creationTime": 1721747729
-          },
-          {
-            "platform": "codeforces",
-            "id": 272116440,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1721747585
-          },
-          {
-            "platform": "codeforces",
-            "id": 272113575,
-            "pid": "1995E1",
-            "name": "Let Me Teach You a Lesson (Easy Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1721747332
-          },
-          {
-            "platform": "codeforces",
-            "id": 272104574,
-            "pid": "1995D",
-            "name": "Cases",
-            "verdict": "OK",
-            "creationTime": 1721746544
-          },
-          {
-            "platform": "codeforces",
-            "id": 272099722,
-            "pid": "1995C",
-            "name": "Squaring",
-            "verdict": "OK",
-            "creationTime": 1721746148
-          },
-          {
-            "platform": "codeforces",
-            "id": 272094269,
-            "pid": "1995B1",
-            "name": "Bouquet (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1721745760
-          },
-          {
-            "platform": "codeforces",
-            "id": 272090302,
-            "pid": "1995A",
-            "name": "Diagonals",
-            "verdict": "OK",
-            "creationTime": 1721745372
-          },
-          {
-            "platform": "codeforces",
-            "id": 272081242,
-            "pid": "1136E",
-            "name": "Nastya Hasn't Written a Legend",
-            "verdict": "OK",
-            "creationTime": 1721741726
-          },
-          {
-            "platform": "codeforces",
-            "id": 272079995,
-            "pid": "1136E",
-            "name": "Nastya Hasn't Written a Legend",
-            "verdict": "OK",
-            "creationTime": 1721741136
-          },
-          {
-            "platform": "codeforces",
-            "id": 272078264,
-            "pid": "1136E",
-            "name": "Nastya Hasn't Written a Legend",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721740428
-          },
-          {
-            "platform": "codeforces",
-            "id": 272078032,
-            "pid": "1136E",
-            "name": "Nastya Hasn't Written a Legend",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721740332
-          },
-          {
-            "platform": "codeforces",
-            "id": 272077918,
-            "pid": "1136E",
-            "name": "Nastya Hasn't Written a Legend",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1721740285
-          },
-          {
-            "platform": "codeforces",
-            "id": 272077699,
-            "pid": "1136E",
-            "name": "Nastya Hasn't Written a Legend",
-            "verdict": "OK",
-            "creationTime": 1721740209
-          },
-          {
-            "platform": "codeforces",
-            "id": 272077465,
-            "pid": "1136E",
-            "name": "Nastya Hasn't Written a Legend",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1721740113
+            "creationTime": 1721772200
           }
         ],
         "newContests": []
@@ -172,5 +44,5 @@
     ],
     "contest": []
   },
-  "ref": "222a140805e5df95d78081ba938f37b4cd2918ec"
+  "ref": "f9ed9c8859bc926843a08614791c6e90df0d88dd"
 }
