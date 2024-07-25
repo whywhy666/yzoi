@@ -391,6 +391,7 @@
         "name": "Cases",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
           "strings"
         ],
@@ -1079,6 +1080,7 @@
         "id": "1990F",
         "name": "Polygonal Segments",
         "tags": [
+          "brute force",
           "data structures",
           "divide and conquer",
           "greedy",
@@ -1106,6 +1108,7 @@
         "id": "1990F",
         "name": "Polygonal Segments",
         "tags": [
+          "brute force",
           "data structures",
           "divide and conquer",
           "greedy",
@@ -1133,6 +1136,7 @@
         "id": "1990F",
         "name": "Polygonal Segments",
         "tags": [
+          "brute force",
           "data structures",
           "divide and conquer",
           "greedy",
@@ -1160,6 +1164,7 @@
         "id": "1990F",
         "name": "Polygonal Segments",
         "tags": [
+          "brute force",
           "data structures",
           "divide and conquer",
           "greedy",
@@ -1504,6 +1509,7 @@
           "bitmasks",
           "brute force",
           "dp",
+          "graphs",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1994/problem/G"

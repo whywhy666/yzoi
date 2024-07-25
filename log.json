@@ -1,48 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1721855475,
+  "updateTime": 1721941902,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 272220681,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1721772267
-          },
-          {
-            "platform": "codeforces",
-            "id": 272220662,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1721772246
-          },
-          {
-            "platform": "codeforces",
-            "id": 272220645,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1721772224
-          },
-          {
-            "platform": "codeforces",
-            "id": 272220625,
-            "pid": "1995E2",
-            "name": "Let Me Teach You a Lesson (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1721772200
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f9ed9c8859bc926843a08614791c6e90df0d88dd"
+  "ref": "704c7b76cd7b52c53c91a9559bb7b37ca708d24e"
 }
