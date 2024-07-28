@@ -6,6 +6,269 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 273210632,
+      "creationTime": 1722185317,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991H",
+        "name": "Prime Split Game",
+        "tags": [
+          "fft",
+          "games",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273210632"
+    },
+    {
+      "type": "codeforces",
+      "id": 273180456,
+      "creationTime": 1722181239,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991G",
+        "name": "Grid Reset",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273180456"
+    },
+    {
+      "type": "codeforces",
+      "id": 273160781,
+      "creationTime": 1722179206,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991F",
+        "name": "Triangle Formation",
+        "tags": [
+          "brute force",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273160781"
+    },
+    {
+      "type": "codeforces",
+      "id": 273155879,
+      "creationTime": 1722178764,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991F",
+        "name": "Triangle Formation",
+        "tags": [
+          "brute force",
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273155879"
+    },
+    {
+      "type": "codeforces",
+      "id": 273150868,
+      "creationTime": 1722178359,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991E",
+        "name": "Coloring Game",
+        "tags": [
+          "games",
+          "graphs",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273150868"
+    },
+    {
+      "type": "codeforces",
+      "id": 273143134,
+      "creationTime": 1722177846,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991D",
+        "name": "Prime XOR Coloring",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "graphs",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273143134"
+    },
+    {
+      "type": "codeforces",
+      "id": 273139495,
+      "creationTime": 1722177654,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991C",
+        "name": "Absolute Zero",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273139495"
+    },
+    {
+      "type": "codeforces",
+      "id": 273137234,
+      "creationTime": 1722177567,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991C",
+        "name": "Absolute Zero",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273137234"
+    },
+    {
+      "type": "codeforces",
+      "id": 273133106,
+      "creationTime": 1722177447,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991B",
+        "name": "AND Reconstruction",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273133106"
+    },
+    {
+      "type": "codeforces",
+      "id": 273130858,
+      "creationTime": 1722177346,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1722177300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1991A",
+        "name": "Maximize the Last Element",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1991/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1991/submission/273130858"
+    },
+    {
+      "type": "codeforces",
       "id": 272220681,
       "creationTime": 1721772267,
       "language": "C++20 (GCC 13-64)",
@@ -21,6 +284,7 @@
         "type": "codeforces",
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
+        "rating": 2900,
         "tags": [
           "data structures",
           "dp",
@@ -48,6 +312,7 @@
         "type": "codeforces",
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
+        "rating": 2900,
         "tags": [
           "data structures",
           "dp",
@@ -75,6 +340,7 @@
         "type": "codeforces",
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
+        "rating": 2900,
         "tags": [
           "data structures",
           "dp",
@@ -102,6 +368,7 @@
         "type": "codeforces",
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
+        "rating": 2900,
         "tags": [
           "data structures",
           "dp",
@@ -129,7 +396,9 @@
         "type": "codeforces",
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
+        "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -156,7 +425,9 @@
         "type": "codeforces",
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
+        "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -183,7 +454,9 @@
         "type": "codeforces",
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
+        "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -210,7 +483,9 @@
         "type": "codeforces",
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
+        "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -237,6 +512,7 @@
         "type": "codeforces",
         "id": "1995E2",
         "name": "Let Me Teach You a Lesson (Hard Version)",
+        "rating": 2900,
         "tags": [
           "data structures",
           "dp",
@@ -264,6 +540,7 @@
         "type": "codeforces",
         "id": "1995B2",
         "name": "Bouquet (Hard Version)",
+        "rating": 1700,
         "tags": [
           "binary search",
           "data structures",
@@ -293,7 +570,9 @@
         "type": "codeforces",
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
+        "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -320,7 +599,9 @@
         "type": "codeforces",
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
+        "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -347,7 +628,9 @@
         "type": "codeforces",
         "id": "1995E1",
         "name": "Let Me Teach You a Lesson (Easy Version)",
+        "rating": 2700,
         "tags": [
+          "2-sat",
           "data structures",
           "dp",
           "matrices",
@@ -374,6 +657,7 @@
         "type": "codeforces",
         "id": "1995D",
         "name": "Cases",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "brute force",
@@ -401,6 +685,7 @@
         "type": "codeforces",
         "id": "1995C",
         "name": "Squaring",
+        "rating": 1800,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -430,6 +715,7 @@
         "type": "codeforces",
         "id": "1995B1",
         "name": "Bouquet (Easy Version)",
+        "rating": 1100,
         "tags": [
           "binary search",
           "brute force",
@@ -458,6 +744,7 @@
         "type": "codeforces",
         "id": "1995A",
         "name": "Diagonals",
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",
@@ -1064,6 +1351,7 @@
         "type": "codeforces",
         "id": "1990F",
         "name": "Polygonal Segments",
+        "rating": 2800,
         "tags": [
           "brute force",
           "data structures",
@@ -1093,6 +1381,7 @@
         "type": "codeforces",
         "id": "1990F",
         "name": "Polygonal Segments",
+        "rating": 2800,
         "tags": [
           "brute force",
           "data structures",
@@ -1122,6 +1411,7 @@
         "type": "codeforces",
         "id": "1990F",
         "name": "Polygonal Segments",
+        "rating": 2800,
         "tags": [
           "brute force",
           "data structures",
@@ -1151,6 +1441,7 @@
         "type": "codeforces",
         "id": "1990F",
         "name": "Polygonal Segments",
+        "rating": 2800,
         "tags": [
           "brute force",
           "data structures",
@@ -1180,6 +1471,7 @@
         "type": "codeforces",
         "id": "1990E2",
         "name": "Catch the Mole(Hard Version)",
+        "rating": 2600,
         "tags": [
           "binary search",
           "data structures",
@@ -1209,6 +1501,7 @@
         "type": "codeforces",
         "id": "1990E1",
         "name": "Catch the Mole(Easy Version)",
+        "rating": 2500,
         "tags": [
           "binary search",
           "data structures",
@@ -1237,6 +1530,7 @@
         "type": "codeforces",
         "id": "1990E1",
         "name": "Catch the Mole(Easy Version)",
+        "rating": 2500,
         "tags": [
           "binary search",
           "data structures",
@@ -1265,6 +1559,7 @@
         "type": "codeforces",
         "id": "1990D",
         "name": "Grid Puzzle",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -1293,6 +1588,7 @@
         "type": "codeforces",
         "id": "1990D",
         "name": "Grid Puzzle",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -1321,6 +1617,7 @@
         "type": "codeforces",
         "id": "1990C",
         "name": "Mad MAD Sum",
+        "rating": 1500,
         "tags": [
           "brute force",
           "greedy",
@@ -1347,6 +1644,7 @@
         "type": "codeforces",
         "id": "1990B",
         "name": "Array Craft",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -1372,6 +1670,7 @@
         "type": "codeforces",
         "id": "1990A",
         "name": "Submission Bait",
+        "rating": 900,
         "tags": [
           "brute force",
           "games",
@@ -1399,6 +1698,7 @@
         "type": "codeforces",
         "id": "1994H",
         "name": "Fortnite",
+        "rating": 3500,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -1431,6 +1731,7 @@
         "type": "codeforces",
         "id": "1994H",
         "name": "Fortnite",
+        "rating": 3500,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -1463,6 +1764,7 @@
         "type": "codeforces",
         "id": "1994H",
         "name": "Fortnite",
+        "rating": 3500,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -1495,6 +1797,7 @@
         "type": "codeforces",
         "id": "1994G",
         "name": "Minecraft",
+        "rating": 2600,
         "tags": [
           "bitmasks",
           "brute force",
@@ -1523,6 +1826,7 @@
         "type": "codeforces",
         "id": "1994F",
         "name": "Stardew Valley",
+        "rating": 2500,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -1550,6 +1854,7 @@
         "type": "codeforces",
         "id": "1994E",
         "name": "Wooden Game",
+        "rating": 2000,
         "tags": [
           "bitmasks",
           "greedy",
@@ -1577,6 +1882,7 @@
         "type": "codeforces",
         "id": "1994D",
         "name": "Funny Game",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "dsu",
@@ -1607,6 +1913,7 @@
         "type": "codeforces",
         "id": "1994C",
         "name": "Hungry Games",
+        "rating": 1600,
         "tags": [
           "binary search",
           "dp",
@@ -1633,6 +1940,7 @@
         "type": "codeforces",
         "id": "1994B",
         "name": "Fun Game",
+        "rating": 1100,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -1660,6 +1968,7 @@
         "type": "codeforces",
         "id": "1994A",
         "name": "Diverse Game",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -129273,7 +129582,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3880,
+    "rating": 3947,
     "maxRank": "legendary grandmaster",
     "maxRating": 3979
   }
