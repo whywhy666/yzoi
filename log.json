@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1722201088,
+  "updateTime": 1722287516,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 273210632,
-            "pid": "1991H",
-            "name": "Prime Split Game",
-            "verdict": "OK",
-            "creationTime": 1722185317
-          },
-          {
-            "platform": "codeforces",
-            "id": 273180456,
-            "pid": "1991G",
-            "name": "Grid Reset",
-            "verdict": "OK",
-            "creationTime": 1722181239
-          },
-          {
-            "platform": "codeforces",
-            "id": 273160781,
-            "pid": "1991F",
-            "name": "Triangle Formation",
-            "verdict": "OK",
-            "creationTime": 1722179206
-          },
-          {
-            "platform": "codeforces",
-            "id": 273155879,
-            "pid": "1991F",
-            "name": "Triangle Formation",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1722178764
-          },
-          {
-            "platform": "codeforces",
-            "id": 273150868,
-            "pid": "1991E",
-            "name": "Coloring Game",
-            "verdict": "OK",
-            "creationTime": 1722178359
-          },
-          {
-            "platform": "codeforces",
-            "id": 273143134,
-            "pid": "1991D",
-            "name": "Prime XOR Coloring",
-            "verdict": "OK",
-            "creationTime": 1722177846
-          },
-          {
-            "platform": "codeforces",
-            "id": 273139495,
-            "pid": "1991C",
-            "name": "Absolute Zero",
-            "verdict": "OK",
-            "creationTime": 1722177654
-          },
-          {
-            "platform": "codeforces",
-            "id": 273137234,
-            "pid": "1991C",
-            "name": "Absolute Zero",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1722177567
-          },
-          {
-            "platform": "codeforces",
-            "id": 273133106,
-            "pid": "1991B",
-            "name": "AND Reconstruction",
-            "verdict": "OK",
-            "creationTime": 1722177447
-          },
-          {
-            "platform": "codeforces",
-            "id": 273130858,
-            "pid": "1991A",
-            "name": "Maximize the Last Element",
-            "verdict": "OK",
-            "creationTime": 1722177346
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "580c2b8de550327f11e0477b647a7d528222d91f"
+  "ref": "36ede3e651f83fec3f3dcae135d703ca0c31d076"
 }

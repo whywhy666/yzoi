@@ -50,7 +50,8 @@
         "name": "Grid Reset",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/G"
       },
@@ -74,8 +75,8 @@
         "id": "1991F",
         "name": "Triangle Formation",
         "tags": [
+          "bitmasks",
           "brute force",
-          "data structures",
           "greedy",
           "math",
           "sortings"
@@ -102,8 +103,8 @@
         "id": "1991F",
         "name": "Triangle Formation",
         "tags": [
+          "bitmasks",
           "brute force",
-          "data structures",
           "greedy",
           "math",
           "sortings"
@@ -130,8 +131,11 @@
         "id": "1991E",
         "name": "Coloring Game",
         "tags": [
+          "constructive algorithms",
+          "dfs and similar",
           "games",
           "graphs",
+          "greedy",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/E"
@@ -159,6 +163,7 @@
           "bitmasks",
           "constructive algorithms",
           "graphs",
+          "greedy",
           "math",
           "number theory"
         ],
@@ -185,6 +190,7 @@
         "name": "Absolute Zero",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/C"
@@ -210,6 +216,7 @@
         "name": "Absolute Zero",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1991/problem/C"
