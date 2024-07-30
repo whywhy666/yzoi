@@ -49,6 +49,7 @@
         "id": "1991G",
         "name": "Grid Reset",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
           "greedy",
           "implementation"
@@ -75,7 +76,6 @@
         "id": "1991F",
         "name": "Triangle Formation",
         "tags": [
-          "bitmasks",
           "brute force",
           "greedy",
           "math",
@@ -103,7 +103,6 @@
         "id": "1991F",
         "name": "Triangle Formation",
         "tags": [
-          "bitmasks",
           "brute force",
           "greedy",
           "math",
