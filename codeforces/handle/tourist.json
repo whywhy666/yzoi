@@ -6,6 +6,209 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 274755917,
+      "creationTime": 1722955857,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999G2",
+        "name": "Ruler (hard version)",
+        "tags": [
+          "binary search",
+          "interactive",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274755917"
+    },
+    {
+      "type": "codeforces",
+      "id": 274750701,
+      "creationTime": 1722955728,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999G1",
+        "name": "Ruler (easy version)",
+        "tags": [
+          "binary search",
+          "interactive",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/G1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274750701"
+    },
+    {
+      "type": "codeforces",
+      "id": 274741514,
+      "creationTime": 1722955557,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999F",
+        "name": "Expected Median",
+        "tags": [
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274741514"
+    },
+    {
+      "type": "codeforces",
+      "id": 274738972,
+      "creationTime": 1722955452,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954901
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999E",
+        "name": "Triple Operations",
+        "tags": [
+          "dp",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274738972"
+    },
+    {
+      "type": "codeforces",
+      "id": 274734334,
+      "creationTime": 1722955302,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999D",
+        "name": "Slavic's Exam",
+        "tags": [
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274734334"
+    },
+    {
+      "type": "codeforces",
+      "id": 274727796,
+      "creationTime": 1722955164,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999C",
+        "name": "Showering",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274727796"
+    },
+    {
+      "type": "codeforces",
+      "id": 274723857,
+      "creationTime": 1722955098,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999A",
+        "name": "A+B Again?",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274723857"
+    },
+    {
+      "type": "codeforces",
+      "id": 274723277,
+      "creationTime": 1722955090,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1722954900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1999B",
+        "name": "Card Game",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1999/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1999/submission/274723277"
+    },
+    {
+      "type": "codeforces",
       "id": 273210632,
       "creationTime": 1722185317,
       "language": "C++20 (GCC 13-64)",
