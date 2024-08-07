@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1722978642,
+  "updateTime": 1723065167,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 274755917,
-            "pid": "1999G2",
-            "name": "Ruler (hard version)",
-            "verdict": "OK",
-            "creationTime": 1722955857
-          },
-          {
-            "platform": "codeforces",
-            "id": 274750701,
-            "pid": "1999G1",
-            "name": "Ruler (easy version)",
-            "verdict": "OK",
-            "creationTime": 1722955728
-          },
-          {
-            "platform": "codeforces",
-            "id": 274741514,
-            "pid": "1999F",
-            "name": "Expected Median",
-            "verdict": "OK",
-            "creationTime": 1722955557
-          },
-          {
-            "platform": "codeforces",
-            "id": 274738972,
-            "pid": "1999E",
-            "name": "Triple Operations",
-            "verdict": "OK",
-            "creationTime": 1722955452
-          },
-          {
-            "platform": "codeforces",
-            "id": 274734334,
-            "pid": "1999D",
-            "name": "Slavic's Exam",
-            "verdict": "OK",
-            "creationTime": 1722955302
-          },
-          {
-            "platform": "codeforces",
-            "id": 274727796,
-            "pid": "1999C",
-            "name": "Showering",
-            "verdict": "OK",
-            "creationTime": 1722955164
-          },
-          {
-            "platform": "codeforces",
-            "id": 274723857,
-            "pid": "1999A",
-            "name": "A+B Again?",
-            "verdict": "OK",
-            "creationTime": 1722955098
-          },
-          {
-            "platform": "codeforces",
-            "id": 274723277,
-            "pid": "1999B",
-            "name": "Card Game",
-            "verdict": "OK",
-            "creationTime": 1722955090
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "ddaba62bfce314efdfabe63c7d6caf8ecb36a120"
+  "ref": "0630c03b512008bc9304ed30fd714ef826279606"
 }
