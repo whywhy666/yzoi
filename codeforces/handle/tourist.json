@@ -23,7 +23,6 @@
         "name": "Ruler (hard version)",
         "tags": [
           "binary search",
-          "greedy",
           "interactive",
           "ternary search"
         ],
@@ -50,8 +49,7 @@
         "name": "Ruler (easy version)",
         "tags": [
           "binary search",
-          "interactive",
-          "ternary search"
+          "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/1999/problem/G1"
       },
@@ -152,6 +150,7 @@
         "id": "1999C",
         "name": "Showering",
         "tags": [
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1999/problem/C"
@@ -202,6 +201,7 @@
         "name": "Card Game",
         "tags": [
           "brute force",
+          "constructive algorithms",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1999/problem/B"
