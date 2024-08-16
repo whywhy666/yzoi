@@ -23,6 +23,7 @@
         "name": "Ksyusha and the Loaded Set",
         "tags": [
           "binary search",
+          "brute force",
           "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/2000/problem/H"
@@ -229,6 +230,7 @@
         "type": "codeforces",
         "id": "1999G2",
         "name": "Ruler (hard version)",
+        "rating": 1700,
         "tags": [
           "binary search",
           "interactive",
@@ -255,6 +257,7 @@
         "type": "codeforces",
         "id": "1999G1",
         "name": "Ruler (easy version)",
+        "rating": 1500,
         "tags": [
           "binary search",
           "interactive"
@@ -280,6 +283,7 @@
         "type": "codeforces",
         "id": "1999F",
         "name": "Expected Median",
+        "rating": 1500,
         "tags": [
           "combinatorics",
           "math"
@@ -305,6 +309,7 @@
         "type": "codeforces",
         "id": "1999E",
         "name": "Triple Operations",
+        "rating": 1300,
         "tags": [
           "dp",
           "implementation",
@@ -331,6 +336,7 @@
         "type": "codeforces",
         "id": "1999D",
         "name": "Slavic's Exam",
+        "rating": 1100,
         "tags": [
           "greedy",
           "implementation",
@@ -357,6 +363,7 @@
         "type": "codeforces",
         "id": "1999C",
         "name": "Showering",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
@@ -382,6 +389,7 @@
         "type": "codeforces",
         "id": "1999A",
         "name": "A+B Again?",
+        "rating": 800,
         "tags": [
           "implementation",
           "math"
@@ -407,6 +415,7 @@
         "type": "codeforces",
         "id": "1999B",
         "name": "Card Game",
+        "rating": 1000,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -433,6 +442,7 @@
         "type": "codeforces",
         "id": "1991H",
         "name": "Prime Split Game",
+        "rating": 3300,
         "tags": [
           "bitmasks",
           "dp",
@@ -462,6 +472,7 @@
         "type": "codeforces",
         "id": "1991G",
         "name": "Grid Reset",
+        "rating": 2700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -488,6 +499,7 @@
         "type": "codeforces",
         "id": "1991F",
         "name": "Triangle Formation",
+        "rating": 2200,
         "tags": [
           "brute force",
           "greedy",
@@ -516,6 +528,7 @@
         "type": "codeforces",
         "id": "1991F",
         "name": "Triangle Formation",
+        "rating": 2200,
         "tags": [
           "brute force",
           "greedy",
@@ -544,6 +557,7 @@
         "type": "codeforces",
         "id": "1991E",
         "name": "Coloring Game",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -573,6 +587,7 @@
         "type": "codeforces",
         "id": "1991D",
         "name": "Prime XOR Coloring",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -602,6 +617,7 @@
         "type": "codeforces",
         "id": "1991C",
         "name": "Absolute Zero",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -628,6 +644,7 @@
         "type": "codeforces",
         "id": "1991C",
         "name": "Absolute Zero",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -654,6 +671,7 @@
         "type": "codeforces",
         "id": "1991B",
         "name": "AND Reconstruction",
+        "rating": 1100,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -680,6 +698,7 @@
         "type": "codeforces",
         "id": "1991A",
         "name": "Maximize the Last Element",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
