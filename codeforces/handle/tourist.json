@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2000H",
         "name": "Ksyusha and the Loaded Set",
+        "rating": 2200,
         "tags": [
           "binary search",
           "brute force",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2000G",
         "name": "Call During the Journey",
+        "rating": 2100,
         "tags": [
           "binary search",
           "brute force",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "2000F",
         "name": "Color Rows and Columns",
+        "rating": 1900,
         "tags": [
           "dp",
           "greedy",
@@ -102,6 +105,7 @@
         "type": "codeforces",
         "id": "2000E",
         "name": "Photoshoot for Gorillas",
+        "rating": 1400,
         "tags": [
           "combinatorics",
           "data structures",
@@ -129,6 +133,7 @@
         "type": "codeforces",
         "id": "2000D",
         "name": "Right Left Wrong",
+        "rating": 1200,
         "tags": [
           "greedy",
           "implementation",
@@ -155,6 +160,7 @@
         "type": "codeforces",
         "id": "2000C",
         "name": "Numeric String Template",
+        "rating": 1000,
         "tags": [
           "data structures",
           "strings"
@@ -180,6 +186,7 @@
         "type": "codeforces",
         "id": "2000B",
         "name": "Seating in a Bus",
+        "rating": 800,
         "tags": [
           "two pointers"
         ],
@@ -204,6 +211,7 @@
         "type": "codeforces",
         "id": "2000A",
         "name": "Primary Task",
+        "rating": 800,
         "tags": [
           "implementation",
           "math",
