@@ -20699,5 +20699,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105314",
     "standingsUrl": "https://codeforces.com/gym/105314/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "JPC 1.0",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105317,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105317",
+    "standingsUrl": "https://codeforces.com/gym/105317/standings"
   }
 ]
