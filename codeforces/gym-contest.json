@@ -20709,5 +20709,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105317",
     "standingsUrl": "https://codeforces.com/gym/105317/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 Aleppo Collegiate Programming Contest",
+    "startTime": 1724482800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105316,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105316",
+    "standingsUrl": "https://codeforces.com/gym/105316/standings"
   }
 ]
