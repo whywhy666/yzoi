@@ -20720,5 +20720,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105316",
     "standingsUrl": "https://codeforces.com/gym/105316/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Tishreen Collegiate Programming Contest 2024",
+    "startTime": 1724655600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105319,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105319",
+    "standingsUrl": "https://codeforces.com/gym/105319/standings"
   }
 ]
