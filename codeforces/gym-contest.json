@@ -20731,5 +20731,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105319",
     "standingsUrl": "https://codeforces.com/gym/105319/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 Argentinian Programming Tournament (TAP)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105321,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105321",
+    "standingsUrl": "https://codeforces.com/gym/105321/standings"
   }
 ]
