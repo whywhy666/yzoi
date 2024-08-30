@@ -1,9 +1,64 @@
 {
   "version": "0.1.16",
-  "updateTime": 1724965876,
+  "updateTime": 1725052334,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 278838627,
+            "pid": "2006F",
+            "name": "Dora's Paint",
+            "verdict": "OK",
+            "creationTime": 1725036555
+          },
+          {
+            "platform": "codeforces",
+            "id": 278816205,
+            "pid": "2006E",
+            "name": "Iris's Full Binary Tree",
+            "verdict": "OK",
+            "creationTime": 1725032440
+          },
+          {
+            "platform": "codeforces",
+            "id": 278802409,
+            "pid": "2006D",
+            "name": "Iris and Adjacent Products",
+            "verdict": "OK",
+            "creationTime": 1725030839
+          },
+          {
+            "platform": "codeforces",
+            "id": 278788793,
+            "pid": "2006C",
+            "name": "Eri and Expanded Sets",
+            "verdict": "OK",
+            "creationTime": 1725029684
+          },
+          {
+            "platform": "codeforces",
+            "id": 278783201,
+            "pid": "2006B",
+            "name": "Iris and the Tree",
+            "verdict": "OK",
+            "creationTime": 1725029312
+          },
+          {
+            "platform": "codeforces",
+            "id": 278774854,
+            "pid": "2006A",
+            "name": "Iris and Game on the Tree",
+            "verdict": "OK",
+            "creationTime": 1725028787
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "8584cf20a1cb93b035db1cb1ac98ce41200b054e"
+  "ref": "32ef59d5944f83f04b945790a0141416f7efe34e"
 }
