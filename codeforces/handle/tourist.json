@@ -25,7 +25,8 @@
           "brute force",
           "combinatorics",
           "constructive algorithms",
-          "graphs"
+          "graphs",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2006/problem/F"
       },
@@ -49,6 +50,7 @@
         "id": "2006E",
         "name": "Iris's Full Binary Tree",
         "tags": [
+          "brute force",
           "data structures",
           "trees"
         ],
@@ -74,7 +76,7 @@
         "id": "2006D",
         "name": "Iris and Adjacent Products",
         "tags": [
-          "divide and conquer",
+          "data structures",
           "greedy",
           "math"
         ],
@@ -101,7 +103,6 @@
         "name": "Eri and Expanded Sets",
         "tags": [
           "binary search",
-          "brute force",
           "data structures",
           "dp",
           "math",
