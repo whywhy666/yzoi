@@ -103,9 +103,7 @@
         "id": "2006C",
         "name": "Eri and Expanded Sets",
         "tags": [
-          "binary search",
           "data structures",
-          "dp",
           "math",
           "number theory",
           "two pointers"
@@ -161,6 +159,7 @@
         "id": "2006A",
         "name": "Iris and Game on the Tree",
         "tags": [
+          "constructive algorithms",
           "dfs and similar",
           "games",
           "graphs",
