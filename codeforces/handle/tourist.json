@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2006F",
         "name": "Dora's Paint",
+        "rating": 3500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "2006E",
         "name": "Iris's Full Binary Tree",
+        "rating": 3100,
         "tags": [
           "brute force",
           "data structures",
@@ -76,6 +78,7 @@
         "type": "codeforces",
         "id": "2006D",
         "name": "Iris and Adjacent Products",
+        "rating": 2600,
         "tags": [
           "data structures",
           "greedy",
@@ -103,8 +106,10 @@
         "type": "codeforces",
         "id": "2006C",
         "name": "Eri and Expanded Sets",
+        "rating": 2300,
         "tags": [
           "data structures",
+          "divide and conquer",
           "math",
           "number theory",
           "two pointers"
@@ -130,6 +135,7 @@
         "type": "codeforces",
         "id": "2006B",
         "name": "Iris and the Tree",
+        "rating": 1800,
         "tags": [
           "brute force",
           "data structures",
@@ -159,6 +165,7 @@
         "type": "codeforces",
         "id": "2006A",
         "name": "Iris and Game on the Tree",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
