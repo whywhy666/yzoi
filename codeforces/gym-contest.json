@@ -20771,5 +20771,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105329",
     "standingsUrl": "https://codeforces.com/gym/105329/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Thailand National Competition 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105335,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105335",
+    "standingsUrl": "https://codeforces.com/gym/105335/standings"
   }
 ]
