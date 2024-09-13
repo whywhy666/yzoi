@@ -19784,6 +19784,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2024 HNMU@XTU",
+    "startTime": 1713067200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105104,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105104",
+    "standingsUrl": "https://codeforces.com/gym/105104/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "UTPC Spring 2024 Open Contest",
     "startTime": 1713636000,
     "duration": 18000,
@@ -20522,6 +20533,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2024 XTU Summer Camp Selection Competition",
+    "startTime": 1721264400,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105266,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105266",
+    "standingsUrl": "https://codeforces.com/gym/105266/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Almaty Code Cup 2024",
     "duration": 18000,
     "participantNumber": 0,
@@ -20741,6 +20763,28 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105321",
     "standingsUrl": "https://codeforces.com/gym/105321/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 Xiangtan University Summer Camp-Div.2",
+    "startTime": 1724990400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105323,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105323",
+    "standingsUrl": "https://codeforces.com/gym/105323/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 Xiangtan University Summer Camp-Div.1",
+    "startTime": 1724990400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105322,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105322",
+    "standingsUrl": "https://codeforces.com/gym/105322/standings"
   },
   {
     "type": "codeforces/gym/ioi",
