@@ -6,6 +6,184 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 281561360,
+      "creationTime": 1726550662,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1726548420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2017G",
+        "name": "Berserk Monsters",
+        "tags": [
+          "*special",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2017/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2017/submission/281561360"
+    },
+    {
+      "type": "codeforces",
+      "id": 281560744,
+      "creationTime": 1726550173,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1726548420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2017F",
+        "name": "Colored Portals",
+        "tags": [
+          "*special",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2017/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2017/submission/281560744"
+    },
+    {
+      "type": "codeforces",
+      "id": 281559972,
+      "creationTime": 1726549509,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1726548420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2017E",
+        "name": "Decreasing String",
+        "tags": [
+          "*special",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2017/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2017/submission/281559972"
+    },
+    {
+      "type": "codeforces",
+      "id": 281559494,
+      "creationTime": 1726549081,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1726548420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2017D",
+        "name": "Forming Triangles",
+        "tags": [
+          "*special",
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2017/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2017/submission/281559494"
+    },
+    {
+      "type": "codeforces",
+      "id": 281559325,
+      "creationTime": 1726548908,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1726548420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2017C",
+        "name": "Make Equal Again",
+        "tags": [
+          "*special",
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2017/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2017/submission/281559325"
+    },
+    {
+      "type": "codeforces",
+      "id": 281559071,
+      "creationTime": 1726548655,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1726548420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2017B",
+        "name": "Square or Not",
+        "tags": [
+          "*special",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2017/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2017/submission/281559071"
+    },
+    {
+      "type": "codeforces",
+      "id": 281558914,
+      "creationTime": 1726548496,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1726548420
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2017A",
+        "name": "My First Sorting Problem",
+        "tags": [
+          "*special",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2017/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2017/submission/281558914"
+    },
+    {
+      "type": "codeforces",
       "id": 278838627,
       "creationTime": 1725036555,
       "language": "C++20 (GCC 13-64)",
