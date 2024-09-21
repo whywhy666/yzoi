@@ -1,48 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1726866684,
+  "updateTime": 1726953018,
   "history": {
-    "user": [
-      {
-        "name": "陈陆洋",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 281947189,
-            "pid": "2005A",
-            "name": "Simple Palindrome",
-            "verdict": "OK",
-            "creationTime": 1726815500
-          },
-          {
-            "platform": "codeforces",
-            "id": 281947146,
-            "pid": "1620C",
-            "name": "BA-String",
-            "verdict": "OK",
-            "creationTime": 1726815474
-          },
-          {
-            "platform": "codeforces",
-            "id": 281947099,
-            "pid": "1620C",
-            "name": "BA-String",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1726815440
-          },
-          {
-            "platform": "codeforces",
-            "id": 281946825,
-            "pid": "2005A",
-            "name": "Simple Palindrome",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1726815255
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "75ae8d83edac02251312944b24e0a5bff6376898"
+  "ref": "3ca84e36278552dc290fc1da55b03905e83b69aa"
 }
