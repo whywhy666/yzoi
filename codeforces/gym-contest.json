@@ -20921,5 +20921,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105364",
     "standingsUrl": "https://codeforces.com/gym/105364/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "National Yang Ming Chiao Tung University 2024 Team Selection Programming Contest",
+    "startTime": 1724722200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105381,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105381",
+    "standingsUrl": "https://codeforces.com/gym/105381/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 ICPC Asia Taiwan Online Programming Contest",
+    "startTime": 1725670800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105383,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105383",
+    "standingsUrl": "https://codeforces.com/gym/105383/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Anton Trygub Contest 2 (The 3rd Universal Cup, Stage 3: Ukraine)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105384,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105384",
+    "standingsUrl": "https://codeforces.com/gym/105384/standings"
   }
 ]
