@@ -6,6 +6,469 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 283791895,
+      "creationTime": 1727712837,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011G",
+        "name": "Removal of a Permutation",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283791895"
+    },
+    {
+      "type": "codeforces",
+      "id": 283785777,
+      "creationTime": 1727710617,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011H",
+        "name": "Strange Matrix",
+        "tags": [
+          "*special",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283785777"
+    },
+    {
+      "type": "codeforces",
+      "id": 283782285,
+      "creationTime": 1727709359,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011E",
+        "name": "Rock-Paper-Scissors Bot",
+        "tags": [
+          "*special",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283782285"
+    },
+    {
+      "type": "codeforces",
+      "id": 283779726,
+      "creationTime": 1727708461,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011F",
+        "name": "Good Subarray",
+        "tags": [
+          "*special",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283779726"
+    },
+    {
+      "type": "codeforces",
+      "id": 283777330,
+      "creationTime": 1727707649,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011D",
+        "name": "Among Wolves",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283777330"
+    },
+    {
+      "type": "codeforces",
+      "id": 283775956,
+      "creationTime": 1727707240,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011C",
+        "name": "Split the Expression",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283775956"
+    },
+    {
+      "type": "codeforces",
+      "id": 283775353,
+      "creationTime": 1727707091,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011B",
+        "name": "Shuffle",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283775353"
+    },
+    {
+      "type": "codeforces",
+      "id": 283775097,
+      "creationTime": 1727707027,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1727706901
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2011A",
+        "name": "Problem Solving",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2011/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2011/submission/283775097"
+    },
+    {
+      "type": "codeforces",
+      "id": 283672395,
+      "creationTime": 1727640083,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -419843564
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020F",
+        "name": "Count Leaves",
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283672395"
+    },
+    {
+      "type": "codeforces",
+      "id": 283672372,
+      "creationTime": 1727640068,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -419843579
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020F",
+        "name": "Count Leaves",
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283672372"
+    },
+    {
+      "type": "codeforces",
+      "id": 283672366,
+      "creationTime": 1727640062,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -419843585
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020F",
+        "name": "Count Leaves",
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283672366"
+    },
+    {
+      "type": "codeforces",
+      "id": 283671852,
+      "creationTime": 1727639758,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -419843889
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020F",
+        "name": "Count Leaves",
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283671852"
+    },
+    {
+      "type": "codeforces",
+      "id": 283617562,
+      "creationTime": 1727627749,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1727624100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020F",
+        "name": "Count Leaves",
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283617562"
+    },
+    {
+      "type": "codeforces",
+      "id": 283570027,
+      "creationTime": 1727624875,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1727624100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020E",
+        "name": "Expected Power",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283570027"
+    },
+    {
+      "type": "codeforces",
+      "id": 283565809,
+      "creationTime": 1727624671,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1727624100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020D",
+        "name": "Connect the Dots",
+        "tags": [
+          "brute force",
+          "dp",
+          "dsu",
+          "graphs",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283565809"
+    },
+    {
+      "type": "codeforces",
+      "id": 283561527,
+      "creationTime": 1727624459,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1727624100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020C",
+        "name": "Bitwise Balancing",
+        "tags": [
+          "bitmasks",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283561527"
+    },
+    {
+      "type": "codeforces",
+      "id": 283558153,
+      "creationTime": 1727624287,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1727624100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020B",
+        "name": "Brightness Begins",
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283558153"
+    },
+    {
+      "type": "codeforces",
+      "id": 283556689,
+      "creationTime": 1727624155,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1727624100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2020A",
+        "name": "Find Minimum Operations",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2020/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2020/submission/283556689"
+    },
+    {
+      "type": "codeforces",
       "id": 281561360,
       "creationTime": 1726550662,
       "language": "Kotlin 1.9",

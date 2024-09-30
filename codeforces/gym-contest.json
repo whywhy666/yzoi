@@ -20935,6 +20935,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "TSEC Round 1 (Div. 4)",
+    "startTime": 1727602200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105380,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105380",
+    "standingsUrl": "https://codeforces.com/gym/105380/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2024 ICPC Asia Taiwan Online Programming Contest",
     "startTime": 1725670800,
     "duration": 10800,
@@ -20946,6 +20957,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 2024 CCPC Shandong Invitational Contest and Provincial Collegiate Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105385,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105385",
+    "standingsUrl": "https://codeforces.com/gym/105385/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Anton Trygub Contest 2 (The 3rd Universal Cup, Stage 3: Ukraine)",
     "duration": 18000,
     "participantNumber": 0,
@@ -20953,5 +20974,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105384",
     "standingsUrl": "https://codeforces.com/gym/105384/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Central Russia Regional Contest, 2023",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105387,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105387",
+    "standingsUrl": "https://codeforces.com/gym/105387/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC Potluck Contest 1 (The 3rd Universal Cup. Stage 6: Osijek)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105388,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105388",
+    "standingsUrl": "https://codeforces.com/gym/105388/standings"
   }
 ]
