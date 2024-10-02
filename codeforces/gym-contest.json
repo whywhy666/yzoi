@@ -20958,6 +20958,7 @@
   {
     "type": "codeforces/gym/icpc",
     "name": "The 2024 CCPC Shandong Invitational Contest and Provincial Collegiate Programming Contest",
+    "startTime": 1716687000,
     "duration": 18000,
     "participantNumber": 0,
     "id": 105385,
@@ -20988,7 +20989,7 @@
   {
     "type": "codeforces/gym/icpc",
     "name": "The 2024 ICPC Kunming Invitational Contest",
-    "startTime": 1716685200,
+    "startTime": 1716688800,
     "duration": 18000,
     "participantNumber": 0,
     "id": 105386,
@@ -21005,16 +21006,6 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105388",
     "standingsUrl": "https://codeforces.com/gym/105388/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
-    "name": "Public Gym?",
-    "duration": 600,
-    "participantNumber": 0,
-    "id": 105391,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/105391",
-    "standingsUrl": "https://codeforces.com/gym/105391/standings"
   },
   {
     "type": "codeforces/gym/icpc",
