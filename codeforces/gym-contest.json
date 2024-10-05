@@ -21017,5 +21017,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105390",
     "standingsUrl": "https://codeforces.com/gym/105390/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 KAIST 14th ICPC Mock Competition",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105401,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105401",
+    "standingsUrl": "https://codeforces.com/gym/105401/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Fall 2024 Cupertino Informatics Tournament",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105400,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105400",
+    "standingsUrl": "https://codeforces.com/gym/105400/standings"
   }
 ]
