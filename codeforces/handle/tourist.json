@@ -6,6 +6,228 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 284591976,
+      "creationTime": 1728200717,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021E3",
+        "name": "Digital Village (Extreme Version)",
+        "tags": [
+          "data structures",
+          "dp",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/E3"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284591976"
+    },
+    {
+      "type": "codeforces",
+      "id": 284583097,
+      "creationTime": 1728199506,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021E2",
+        "name": "Digital Village (Hard Version)",
+        "tags": [
+          "data structures",
+          "dp",
+          "dsu",
+          "graphs",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284583097"
+    },
+    {
+      "type": "codeforces",
+      "id": 284569919,
+      "creationTime": 1728197911,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021D",
+        "name": "Boss, Thirsty",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284569919"
+    },
+    {
+      "type": "codeforces",
+      "id": 284557557,
+      "creationTime": 1728196688,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021E1",
+        "name": "Digital Village (Easy Version)",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "dsu",
+          "graphs",
+          "greedy",
+          "math",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284557557"
+    },
+    {
+      "type": "codeforces",
+      "id": 284540071,
+      "creationTime": 1728195221,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021C2",
+        "name": "Adjust The Presentation (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "hashing",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284540071"
+    },
+    {
+      "type": "codeforces",
+      "id": 284538878,
+      "creationTime": 1728195124,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021C1",
+        "name": "Adjust The Presentation (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284538878"
+    },
+    {
+      "type": "codeforces",
+      "id": 284536329,
+      "creationTime": 1728194907,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021B",
+        "name": "Maximize Mex",
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284536329"
+    },
+    {
+      "type": "codeforces",
+      "id": 284535623,
+      "creationTime": 1728194775,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728194700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2021A",
+        "name": "Meaning Mean",
+        "tags": [
+          "data structures",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2021/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2021/submission/284535623"
+    },
+    {
+      "type": "codeforces",
       "id": 283791895,
       "creationTime": 1727712837,
       "language": "Kotlin 1.9",
@@ -415,8 +637,11 @@
         "rating": 1400,
         "tags": [
           "bitmasks",
+          "hashing",
           "implementation",
-          "math"
+          "math",
+          "schedules",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2020/problem/C"
       },
@@ -470,7 +695,8 @@
           "bitmasks",
           "brute force",
           "greedy",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2020/problem/A"
       },

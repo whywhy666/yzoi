@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1728162639,
+  "updateTime": 1728249045,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 284591976,
+            "pid": "2021E3",
+            "name": "Digital Village (Extreme Version)",
+            "verdict": "OK",
+            "creationTime": 1728200717
+          },
+          {
+            "platform": "codeforces",
+            "id": 284583097,
+            "pid": "2021E2",
+            "name": "Digital Village (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1728199506
+          },
+          {
+            "platform": "codeforces",
+            "id": 284569919,
+            "pid": "2021D",
+            "name": "Boss, Thirsty",
+            "verdict": "OK",
+            "creationTime": 1728197911
+          },
+          {
+            "platform": "codeforces",
+            "id": 284557557,
+            "pid": "2021E1",
+            "name": "Digital Village (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1728196688
+          },
+          {
+            "platform": "codeforces",
+            "id": 284540071,
+            "pid": "2021C2",
+            "name": "Adjust The Presentation (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1728195221
+          },
+          {
+            "platform": "codeforces",
+            "id": 284538878,
+            "pid": "2021C1",
+            "name": "Adjust The Presentation (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1728195124
+          },
+          {
+            "platform": "codeforces",
+            "id": 284536329,
+            "pid": "2021B",
+            "name": "Maximize Mex",
+            "verdict": "OK",
+            "creationTime": 1728194907
+          },
+          {
+            "platform": "codeforces",
+            "id": 284535623,
+            "pid": "2021A",
+            "name": "Meaning Mean",
+            "verdict": "OK",
+            "creationTime": 1728194775
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "9a69c9bb9d0678ce5ea4dcb6d8302bb7759e8c4a"
+  "ref": "b892f6fce90bc3f0657c50efe528c943a5bef304"
 }
