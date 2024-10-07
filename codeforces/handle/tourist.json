@@ -23,9 +23,13 @@
         "name": "Digital Village (Extreme Version)",
         "tags": [
           "data structures",
+          "dfs and similar",
           "dp",
+          "dsu",
           "graphs",
-          "math"
+          "greedy",
+          "math",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2021/problem/E3"
       },
@@ -78,10 +82,9 @@
         "id": "2021D",
         "name": "Boss, Thirsty",
         "tags": [
-          "constructive algorithms",
           "dp",
           "greedy",
-          "math"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2021/problem/D"
       },
@@ -107,13 +110,14 @@
         "tags": [
           "brute force",
           "data structures",
-          "dfs and similar",
           "dp",
           "dsu",
           "graphs",
           "greedy",
+          "implementation",
           "math",
-          "shortest paths"
+          "shortest paths",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2021/problem/E1"
       },
