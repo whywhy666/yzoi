@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2021E3",
         "name": "Digital Village (Extreme Version)",
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -52,6 +53,7 @@
         "type": "codeforces",
         "id": "2021E2",
         "name": "Digital Village (Hard Version)",
+        "rating": 2500,
         "tags": [
           "data structures",
           "dp",
@@ -81,6 +83,7 @@
         "type": "codeforces",
         "id": "2021D",
         "name": "Boss, Thirsty",
+        "rating": 2500,
         "tags": [
           "dp",
           "greedy",
@@ -107,6 +110,7 @@
         "type": "codeforces",
         "id": "2021E1",
         "name": "Digital Village (Easy Version)",
+        "rating": 2300,
         "tags": [
           "brute force",
           "data structures",
@@ -116,7 +120,6 @@
           "greedy",
           "implementation",
           "math",
-          "shortest paths",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2021/problem/E1"
@@ -140,6 +143,7 @@
         "type": "codeforces",
         "id": "2021C2",
         "name": "Adjust The Presentation (Hard Version)",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -168,6 +172,7 @@
         "type": "codeforces",
         "id": "2021C1",
         "name": "Adjust The Presentation (Easy Version)",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -193,6 +198,7 @@
         "type": "codeforces",
         "id": "2021B",
         "name": "Maximize Mex",
+        "rating": 1200,
         "tags": [
           "brute force",
           "greedy",
@@ -220,6 +226,7 @@
         "type": "codeforces",
         "id": "2021A",
         "name": "Meaning Mean",
+        "rating": 800,
         "tags": [
           "data structures",
           "greedy",
