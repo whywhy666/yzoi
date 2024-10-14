@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1728767552,
+  "updateTime": 1728940270,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 285717103,
+            "pid": "2022D2",
+            "name": "Asesino (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1728850667
+          },
+          {
+            "platform": "codeforces",
+            "id": 285712904,
+            "pid": "2022D2",
+            "name": "Asesino (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1728849930
+          },
+          {
+            "platform": "codeforces",
+            "id": 285711023,
+            "pid": "2022D2",
+            "name": "Asesino (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1728849627
+          },
+          {
+            "platform": "codeforces",
+            "id": 285709207,
+            "pid": "2022D1",
+            "name": "Asesino (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1728849352
+          },
+          {
+            "platform": "codeforces",
+            "id": 285707097,
+            "pid": "2022E1",
+            "name": "Billetes MX (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1728849060
+          },
+          {
+            "platform": "codeforces",
+            "id": 285707014,
+            "pid": "2022E2",
+            "name": "Billetes MX (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1728849052
+          },
+          {
+            "platform": "codeforces",
+            "id": 285703582,
+            "pid": "2022C",
+            "name": "Gerrymandering",
+            "verdict": "OK",
+            "creationTime": 1728848609
+          },
+          {
+            "platform": "codeforces",
+            "id": 285701527,
+            "pid": "2022B",
+            "name": "Kar Salesman",
+            "verdict": "OK",
+            "creationTime": 1728848318
+          },
+          {
+            "platform": "codeforces",
+            "id": 285701267,
+            "pid": "2022A",
+            "name": "Bus to Pénjamo",
+            "verdict": "OK",
+            "creationTime": 1728848199
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "28b2d274f519cccff5da0e5dfae8f3fbb152d536"
+  "ref": "f9d5084bada686d4165e7d8f823478f2677a25ef"
 }

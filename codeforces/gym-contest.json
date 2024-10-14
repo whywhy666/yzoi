@@ -21089,5 +21089,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105416",
     "standingsUrl": "https://codeforces.com/gym/105416/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Algorithmia IIITN 2024 - Round 1",
+    "startTime": 1728830100,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105418,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105418",
+    "standingsUrl": "https://codeforces.com/gym/105418/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024湖南省赛",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105423,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105423",
+    "standingsUrl": "https://codeforces.com/gym/105423/standings"
   }
 ]

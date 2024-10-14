@@ -6,6 +6,245 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 285717103,
+      "creationTime": 1728850667,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022D2",
+        "name": "Asesino (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285717103"
+    },
+    {
+      "type": "codeforces",
+      "id": 285712904,
+      "creationTime": 1728849930,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022D2",
+        "name": "Asesino (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285712904"
+    },
+    {
+      "type": "codeforces",
+      "id": 285711023,
+      "creationTime": 1728849627,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022D2",
+        "name": "Asesino (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285711023"
+    },
+    {
+      "type": "codeforces",
+      "id": 285709207,
+      "creationTime": 1728849352,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022D1",
+        "name": "Asesino (Easy Version)",
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "implementation",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285709207"
+    },
+    {
+      "type": "codeforces",
+      "id": 285707097,
+      "creationTime": 1728849060,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022E1",
+        "name": "Billetes MX (Easy Version)",
+        "tags": [
+          "2-sat",
+          "binary search",
+          "combinatorics",
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285707097"
+    },
+    {
+      "type": "codeforces",
+      "id": 285707014,
+      "creationTime": 1728849052,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022E2",
+        "name": "Billetes MX (Hard Version)",
+        "tags": [
+          "binary search",
+          "combinatorics",
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285707014"
+    },
+    {
+      "type": "codeforces",
+      "id": 285703582,
+      "creationTime": 1728848609,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022C",
+        "name": "Gerrymandering",
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285703582"
+    },
+    {
+      "type": "codeforces",
+      "id": 285701527,
+      "creationTime": 1728848318,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022B",
+        "name": "Kar Salesman",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285701527"
+    },
+    {
+      "type": "codeforces",
+      "id": 285701267,
+      "creationTime": 1728848199,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1728848100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2022A",
+        "name": "Bus to Pénjamo",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2022/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2022/submission/285701267"
+    },
+    {
+      "type": "codeforces",
       "id": 284591976,
       "creationTime": 1728200717,
       "language": "C++20 (GCC 13-64)",
@@ -114,8 +353,10 @@
         "tags": [
           "brute force",
           "data structures",
+          "dfs and similar",
           "dp",
           "dsu",
+          "fft",
           "graphs",
           "greedy",
           "implementation",
