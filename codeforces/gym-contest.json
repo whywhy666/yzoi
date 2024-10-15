@@ -21020,6 +21020,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC German Collegiate Programming Contest (GCPC 2024)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105394,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105394",
+    "standingsUrl": "https://codeforces.com/gym/105394/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2024 KAIST 14th ICPC Mock Competition",
     "duration": 18000,
     "participantNumber": 0,
@@ -21110,5 +21120,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105423",
     "standingsUrl": "https://codeforces.com/gym/105423/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 Квалификационный тур Уральского четвертьфинала ICPC",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105424,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105424",
+    "standingsUrl": "https://codeforces.com/gym/105424/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2023-2024 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2023)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105427,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105427",
+    "standingsUrl": "https://codeforces.com/gym/105427/standings"
   }
 ]

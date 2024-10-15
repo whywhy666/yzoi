@@ -23,7 +23,6 @@
         "name": "Asesino (Hard Version)",
         "tags": [
           "constructive algorithms",
-          "dp",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
@@ -49,7 +48,6 @@
         "name": "Asesino (Hard Version)",
         "tags": [
           "constructive algorithms",
-          "dp",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
@@ -75,7 +73,6 @@
         "name": "Asesino (Hard Version)",
         "tags": [
           "constructive algorithms",
-          "dp",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
@@ -130,6 +127,7 @@
           "2-sat",
           "binary search",
           "combinatorics",
+          "constructive algorithms",
           "dfs and similar",
           "dsu",
           "graphs"
@@ -210,6 +208,7 @@
         "id": "2022B",
         "name": "Kar Salesman",
         "tags": [
+          "binary search",
           "greedy",
           "math"
         ],
