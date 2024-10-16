@@ -23,6 +23,7 @@
         "name": "Asesino (Hard Version)",
         "tags": [
           "constructive algorithms",
+          "dp",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
@@ -48,6 +49,7 @@
         "name": "Asesino (Hard Version)",
         "tags": [
           "constructive algorithms",
+          "dp",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
@@ -73,6 +75,7 @@
         "name": "Asesino (Hard Version)",
         "tags": [
           "constructive algorithms",
+          "dp",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2022/problem/D2"
@@ -157,7 +160,6 @@
           "binary search",
           "combinatorics",
           "data structures",
-          "dfs and similar",
           "dsu",
           "graphs"
         ],
