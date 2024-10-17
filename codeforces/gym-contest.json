@@ -21140,5 +21140,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105427",
     "standingsUrl": "https://codeforces.com/gym/105427/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OMORI CONTEST",
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 105430,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105430",
+    "standingsUrl": "https://codeforces.com/gym/105430/standings"
   }
 ]
