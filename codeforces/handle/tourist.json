@@ -101,6 +101,7 @@
         "name": "Asesino (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
           "constructive algorithms",
           "implementation",
           "interactive"
@@ -236,6 +237,7 @@
         "id": "2022A",
         "name": "Bus to Pénjamo",
         "tags": [
+          "constructive algorithms",
           "greedy",
           "implementation",
           "math"
