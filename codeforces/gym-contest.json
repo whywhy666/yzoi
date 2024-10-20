@@ -21160,5 +21160,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105430",
     "standingsUrl": "https://codeforces.com/gym/105430/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TSEC Round 2 (Div. 3)",
+    "startTime": 1729434900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105435,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105435",
+    "standingsUrl": "https://codeforces.com/gym/105435/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024年“核桃杯”武汉地区ACM萌新赛",
+    "startTime": 1729310400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105434,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105434",
+    "standingsUrl": "https://codeforces.com/gym/105434/standings"
   }
 ]
