@@ -21205,6 +21205,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #36 (Starters-Forces)",
+    "startTime": 1729866900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105445,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105445",
+    "standingsUrl": "https://codeforces.com/gym/105445/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2020-2021 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2020)",
     "duration": 18000,
     "participantNumber": 0,
@@ -21212,5 +21223,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105444",
     "standingsUrl": "https://codeforces.com/gym/105444/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Moscow team school olympiad (MKOSHP) 2024",
+    "startTime": 1729412100,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105449,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105449",
+    "standingsUrl": "https://codeforces.com/gym/105449/standings"
   }
 ]
