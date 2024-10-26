@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2022D2",
         "name": "Asesino (Hard Version)",
+        "rating": 2700,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2022D2",
         "name": "Asesino (Hard Version)",
+        "rating": 2700,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "2022D2",
         "name": "Asesino (Hard Version)",
+        "rating": 2700,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "2022D1",
         "name": "Asesino (Easy Version)",
+        "rating": 1900,
         "tags": [
           "binary search",
           "brute force",
@@ -127,6 +131,7 @@
         "type": "codeforces",
         "id": "2022E1",
         "name": "Billetes MX (Easy Version)",
+        "rating": 2500,
         "tags": [
           "2-sat",
           "binary search",
@@ -157,6 +162,7 @@
         "type": "codeforces",
         "id": "2022E2",
         "name": "Billetes MX (Hard Version)",
+        "rating": 2600,
         "tags": [
           "binary search",
           "combinatorics",
@@ -185,6 +191,7 @@
         "type": "codeforces",
         "id": "2022C",
         "name": "Gerrymandering",
+        "rating": 1800,
         "tags": [
           "dp",
           "implementation"
@@ -210,6 +217,7 @@
         "type": "codeforces",
         "id": "2022B",
         "name": "Kar Salesman",
+        "rating": 1300,
         "tags": [
           "binary search",
           "greedy",
@@ -236,6 +244,7 @@
         "type": "codeforces",
         "id": "2022A",
         "name": "Bus to Pénjamo",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",

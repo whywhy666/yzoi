@@ -21226,6 +21226,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2024 United Kingdom and Ireland Programming Contest (UKIEPC 2024)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105446,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105446",
+    "standingsUrl": "https://codeforces.com/gym/105446/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Moscow team school olympiad (MKOSHP) 2024",
     "startTime": 1729412100,
     "duration": 18000,
@@ -21234,5 +21244,67 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105449",
     "standingsUrl": "https://codeforces.com/gym/105449/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC x WiCS Contest 10-25-24 (UT Internal)",
+    "startTime": 1729897200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105450,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105450",
+    "standingsUrl": "https://codeforces.com/gym/105450/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXIII Spain Olympiad in Informatics, Day 1",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105455,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105455",
+    "standingsUrl": "https://codeforces.com/gym/105455/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Пермская региональная олимпиада школьников по программированию 2024",
+    "startTime": 1729916400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105454,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105454",
+    "standingsUrl": "https://codeforces.com/gym/105454/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXIII Spain Olympiad in Informatics, Online Qualifier 1",
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 105457,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105457",
+    "standingsUrl": "https://codeforces.com/gym/105457/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXIII Spain Olympiad in Informatics, Day 2",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105456,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105456",
+    "standingsUrl": "https://codeforces.com/gym/105456/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXIII Spain Olympiad in Informatics, Online Qualifier 2",
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 105458,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105458",
+    "standingsUrl": "https://codeforces.com/gym/105458/standings"
   }
 ]
