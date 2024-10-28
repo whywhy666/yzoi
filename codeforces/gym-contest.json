@@ -21298,6 +21298,17 @@
     "standingsUrl": "https://codeforces.com/gym/105456/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 China Collegiate Programming Contest (CCPC) Harbin Onsite (The 3rd Universal Cup. Stage 14: Harbin)",
+    "startTime": 1729387200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105459,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105459",
+    "standingsUrl": "https://codeforces.com/gym/105459/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "XXIII Spain Olympiad in Informatics, Online Qualifier 2",
     "duration": 12600,
@@ -21306,5 +21317,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105458",
     "standingsUrl": "https://codeforces.com/gym/105458/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC, Swiss Subregional",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105461,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105461",
+    "standingsUrl": "https://codeforces.com/gym/105461/standings"
   }
 ]
