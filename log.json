@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1730495494,
+  "updateTime": 1730581867,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 289517385,
+            "pid": "2036G",
+            "name": "Library of Magic",
+            "verdict": "OK",
+            "creationTime": 1730560465
+          },
+          {
+            "platform": "codeforces",
+            "id": 289492388,
+            "pid": "2036F",
+            "name": "XORificator 3000",
+            "verdict": "OK",
+            "creationTime": 1730559173
+          },
+          {
+            "platform": "codeforces",
+            "id": 289485320,
+            "pid": "2036E",
+            "name": "Reverse the Rivers",
+            "verdict": "OK",
+            "creationTime": 1730558880
+          },
+          {
+            "platform": "codeforces",
+            "id": 289483768,
+            "pid": "2036E",
+            "name": "Reverse the Rivers",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1730558823
+          },
+          {
+            "platform": "codeforces",
+            "id": 289476205,
+            "pid": "2036D",
+            "name": "I Love 1543",
+            "verdict": "OK",
+            "creationTime": 1730558563
+          },
+          {
+            "platform": "codeforces",
+            "id": 289469721,
+            "pid": "2036C",
+            "name": "Anya and 1100",
+            "verdict": "OK",
+            "creationTime": 1730558372
+          },
+          {
+            "platform": "codeforces",
+            "id": 289466172,
+            "pid": "2036B",
+            "name": "Startup",
+            "verdict": "OK",
+            "creationTime": 1730558284
+          },
+          {
+            "platform": "codeforces",
+            "id": 289462675,
+            "pid": "2036A",
+            "name": "Quintomania",
+            "verdict": "OK",
+            "creationTime": 1730558156
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "83be46d3e8576ae06c0cde23fada2ce3c0733272"
+  "ref": "8afb2fd52208f2e73d584c665824c73acad5dd11"
 }

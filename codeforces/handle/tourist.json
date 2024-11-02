@@ -6,6 +6,209 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 289517385,
+      "creationTime": 1730560465,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036G",
+        "name": "Library of Magic",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289517385"
+    },
+    {
+      "type": "codeforces",
+      "id": 289492388,
+      "creationTime": 1730559173,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036F",
+        "name": "XORificator 3000",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289492388"
+    },
+    {
+      "type": "codeforces",
+      "id": 289485320,
+      "creationTime": 1730558880,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036E",
+        "name": "Reverse the Rivers",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289485320"
+    },
+    {
+      "type": "codeforces",
+      "id": 289483768,
+      "creationTime": 1730558823,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036E",
+        "name": "Reverse the Rivers",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289483768"
+    },
+    {
+      "type": "codeforces",
+      "id": 289476205,
+      "creationTime": 1730558563,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036D",
+        "name": "I Love 1543",
+        "tags": [
+          "brute force",
+          "implementation",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289476205"
+    },
+    {
+      "type": "codeforces",
+      "id": 289469721,
+      "creationTime": 1730558372,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036C",
+        "name": "Anya and 1100",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289469721"
+    },
+    {
+      "type": "codeforces",
+      "id": 289466172,
+      "creationTime": 1730558284,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036B",
+        "name": "Startup",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289466172"
+    },
+    {
+      "type": "codeforces",
+      "id": 289462675,
+      "creationTime": 1730558156,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1730558100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2036A",
+        "name": "Quintomania",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2036/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2036/submission/289462675"
+    },
+    {
+      "type": "codeforces",
       "id": 285717103,
       "creationTime": 1728850667,
       "language": "C++20 (GCC 13-64)",
