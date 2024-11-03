@@ -24,6 +24,8 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "constructive algorithms",
+          "divide and conquer",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/G"
@@ -75,6 +77,7 @@
         "name": "Reverse the Rivers",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/E"
@@ -100,6 +103,7 @@
         "name": "Reverse the Rivers",
         "tags": [
           "binary search",
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/E"
@@ -151,7 +155,6 @@
         "name": "Anya and 1100",
         "tags": [
           "brute force",
-          "data structures",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2036/problem/C"

@@ -21398,5 +21398,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105478",
     "standingsUrl": "https://codeforces.com/gym/105478/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 CCPC Liaoning Provincial Contest",
+    "startTime": 1730596800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105481,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105481",
+    "standingsUrl": "https://codeforces.com/gym/105481/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2024-2025, Вторая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105483,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105483",
+    "standingsUrl": "https://codeforces.com/gym/105483/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2024-2025, Первая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105482,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105482",
+    "standingsUrl": "https://codeforces.com/gym/105482/standings"
   }
 ]
