@@ -21429,5 +21429,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105482",
     "standingsUrl": "https://codeforces.com/gym/105482/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 China Unversity of Geosciences Freshman Contest",
+    "startTime": 1730521800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105485,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105485",
+    "standingsUrl": "https://codeforces.com/gym/105485/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 China College Students Programming Contest (CCPC) Female Onsite (2024年中国大学生程序设计竞赛女生专场)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105487,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105487",
+    "standingsUrl": "https://codeforces.com/gym/105487/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Тридцать шестая всероссийская олимпиада школьников по информатике, второй тур",
+    "startTime": 1712732400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105488,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105488",
+    "standingsUrl": "https://codeforces.com/gym/105488/standings"
   }
 ]
