@@ -21443,13 +21443,24 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "2024 China College Students Programming Contest (CCPC) Female Onsite (2024年中国大学生程序设计竞赛女生专场)",
+    "name": "2024 China Collegiate Programming Contest (CCPC) Female Onsite (2024年中国大学生程序设计竞赛女生专场)",
     "duration": 18000,
     "participantNumber": 0,
     "id": 105487,
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105487",
     "standingsUrl": "https://codeforces.com/gym/105487/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 ICPC Asia Chengdu Regional Contest (The 3rd Universal Cup. Stage 15: Chengdu)",
+    "startTime": 1729991100,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105486,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105486",
+    "standingsUrl": "https://codeforces.com/gym/105486/standings"
   },
   {
     "type": "codeforces/gym/ioi",
@@ -21471,5 +21482,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105490",
     "standingsUrl": "https://codeforces.com/gym/105490/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC NERC, Kyrgyzstan Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105493,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105493",
+    "standingsUrl": "https://codeforces.com/gym/105493/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 Benelux Algorithm Programming Contest (BAPC 24)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105492,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105492",
+    "standingsUrl": "https://codeforces.com/gym/105492/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC NERC, Kyrgyzstan Qualification Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105494,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105494",
+    "standingsUrl": "https://codeforces.com/gym/105494/standings"
   }
 ]
