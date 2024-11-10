@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2036G",
         "name": "Library of Magic",
+        "rating": 2200,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -50,6 +51,7 @@
         "type": "codeforces",
         "id": "2036F",
         "name": "XORificator 3000",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "dp",
@@ -77,6 +79,7 @@
         "type": "codeforces",
         "id": "2036E",
         "name": "Reverse the Rivers",
+        "rating": 1600,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -104,6 +107,7 @@
         "type": "codeforces",
         "id": "2036E",
         "name": "Reverse the Rivers",
+        "rating": 1600,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -131,6 +135,7 @@
         "type": "codeforces",
         "id": "2036D",
         "name": "I Love 1543",
+        "rating": 1300,
         "tags": [
           "brute force",
           "implementation",
@@ -157,6 +162,7 @@
         "type": "codeforces",
         "id": "2036C",
         "name": "Anya and 1100",
+        "rating": 1100,
         "tags": [
           "brute force",
           "implementation"
@@ -182,6 +188,7 @@
         "type": "codeforces",
         "id": "2036B",
         "name": "Startup",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"
@@ -207,6 +214,7 @@
         "type": "codeforces",
         "id": "2036A",
         "name": "Quintomania",
+        "rating": 800,
         "tags": [
           "implementation"
         ],

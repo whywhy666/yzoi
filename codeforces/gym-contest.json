@@ -21443,6 +21443,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 2024 ICPC Asia Nanjing Regional Contest (The 3rd Universal Cup. Stage 16: Nanjing)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105484,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105484",
+    "standingsUrl": "https://codeforces.com/gym/105484/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2024 China Collegiate Programming Contest (CCPC) Female Onsite (2024年中国大学生程序设计竞赛女生专场)",
     "duration": 18000,
     "participantNumber": 0,
@@ -21523,6 +21533,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105494",
     "standingsUrl": "https://codeforces.com/gym/105494/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Khulna Regional Inter University Programming Contest (KRIUPC) MIRROR",
+    "startTime": 1731229200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105498,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105498",
+    "standingsUrl": "https://codeforces.com/gym/105498/standings"
   },
   {
     "type": "codeforces/gym/icpc",
