@@ -21340,6 +21340,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 2024 ICPC Asia Xian Regional Contest (The 3rd Universal Cup. Stage 9: Xian)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105471,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105471",
+    "standingsUrl": "https://codeforces.com/gym/105471/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2019-2020 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2019)",
     "duration": 18000,
     "participantNumber": 0,
@@ -21576,5 +21586,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105505",
     "standingsUrl": "https://codeforces.com/gym/105505/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 Всероссийская командная олимпиада школьников по программированию, региональный этап Саратовской области (ВКОШП 24, Саратовский отборочный этап)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105507,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105507",
+    "standingsUrl": "https://codeforces.com/gym/105507/standings"
   }
 ]
