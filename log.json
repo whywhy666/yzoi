@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1731705101,
+  "updateTime": 1731791441,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 291624773,
-            "pid": "2031F",
-            "name": "Penchick and Even Medians",
-            "verdict": "OK",
-            "creationTime": 1731677311
-          },
-          {
-            "platform": "codeforces",
-            "id": 291597535,
-            "pid": "2031E",
-            "name": "Penchick and Chloe's Trees",
-            "verdict": "OK",
-            "creationTime": 1731675215
-          },
-          {
-            "platform": "codeforces",
-            "id": 291588970,
-            "pid": "2031D",
-            "name": "Penchick and Desert Rabbit",
-            "verdict": "OK",
-            "creationTime": 1731674754
-          },
-          {
-            "platform": "codeforces",
-            "id": 291584430,
-            "pid": "2031C",
-            "name": "Penchick and BBQ Buns",
-            "verdict": "OK",
-            "creationTime": 1731674525
-          },
-          {
-            "platform": "codeforces",
-            "id": 291577515,
-            "pid": "2031B",
-            "name": "Penchick and Satay Sticks",
-            "verdict": "OK",
-            "creationTime": 1731674217
-          },
-          {
-            "platform": "codeforces",
-            "id": 291577066,
-            "pid": "2031A",
-            "name": "Penchick and Modern Monument",
-            "verdict": "OK",
-            "creationTime": 1731674143
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8ab19aaa5afc69f31081438aaefd0cb47d1799a4"
+  "ref": "f3f4591f048c352a4764997da45277998c6cd837"
 }
