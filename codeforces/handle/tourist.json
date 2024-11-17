@@ -6,6 +6,214 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 291975854,
+      "creationTime": 1731855203,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037G",
+        "name": "Natlan Exploring",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291975854"
+    },
+    {
+      "type": "codeforces",
+      "id": 291969887,
+      "creationTime": 1731854968,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037E",
+        "name": "Kachina's Favorite Binary String",
+        "tags": [
+          "greedy",
+          "interactive",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291969887"
+    },
+    {
+      "type": "codeforces",
+      "id": 291968102,
+      "creationTime": 1731854902,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037F",
+        "name": "Ardent Flames",
+        "tags": [
+          "binary search",
+          "data structures",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291968102"
+    },
+    {
+      "type": "codeforces",
+      "id": 291962528,
+      "creationTime": 1731854699,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037E",
+        "name": "Kachina's Favorite Binary String",
+        "tags": [
+          "greedy",
+          "interactive",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291962528"
+    },
+    {
+      "type": "codeforces",
+      "id": 291956223,
+      "creationTime": 1731854485,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037D",
+        "name": "Sharky Surfing",
+        "tags": [
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291956223"
+    },
+    {
+      "type": "codeforces",
+      "id": 291950730,
+      "creationTime": 1731854314,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037C",
+        "name": "Superultra's Favorite Permutation",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291950730"
+    },
+    {
+      "type": "codeforces",
+      "id": 291947324,
+      "creationTime": 1731854231,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037B",
+        "name": "Intercepted Inputs",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291947324"
+    },
+    {
+      "type": "codeforces",
+      "id": 291945442,
+      "creationTime": 1731854157,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1731854100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2037A",
+        "name": "Twice",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2037/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2037/submission/291945442"
+    },
+    {
+      "type": "codeforces",
       "id": 291624773,
       "creationTime": 1731677311,
       "language": "C++20 (GCC 13-64)",
@@ -24,7 +232,8 @@
         "tags": [
           "binary search",
           "constructive algorithms",
-          "interactive"
+          "interactive",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2031/problem/F"
       },
@@ -48,12 +257,14 @@
         "id": "2031E",
         "name": "Penchick and Chloe's Trees",
         "tags": [
+          "binary search",
           "constructive algorithms",
           "data structures",
           "dfs and similar",
           "dp",
           "greedy",
           "math",
+          "sortings",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2031/problem/E"
