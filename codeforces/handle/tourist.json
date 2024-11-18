@@ -21,8 +21,11 @@
         "type": "codeforces",
         "id": "2037G",
         "name": "Natlan Exploring",
+        "rating": 2000,
         "tags": [
+          "bitmasks",
           "combinatorics",
+          "data structures",
           "dp",
           "math",
           "number theory"
@@ -48,6 +51,7 @@
         "type": "codeforces",
         "id": "2037E",
         "name": "Kachina's Favorite Binary String",
+        "rating": 1600,
         "tags": [
           "greedy",
           "interactive",
@@ -74,9 +78,11 @@
         "type": "codeforces",
         "id": "2037F",
         "name": "Ardent Flames",
+        "rating": 2100,
         "tags": [
           "binary search",
           "data structures",
+          "math",
           "sortings",
           "two pointers"
         ],
@@ -101,6 +107,7 @@
         "type": "codeforces",
         "id": "2037E",
         "name": "Kachina's Favorite Binary String",
+        "rating": 1600,
         "tags": [
           "greedy",
           "interactive",
@@ -127,6 +134,7 @@
         "type": "codeforces",
         "id": "2037D",
         "name": "Sharky Surfing",
+        "rating": 1300,
         "tags": [
           "data structures",
           "greedy",
@@ -153,6 +161,7 @@
         "type": "codeforces",
         "id": "2037C",
         "name": "Superultra's Favorite Permutation",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -180,6 +189,7 @@
         "type": "codeforces",
         "id": "2037B",
         "name": "Intercepted Inputs",
+        "rating": 800,
         "tags": [
           "brute force",
           "implementation"
@@ -205,6 +215,7 @@
         "type": "codeforces",
         "id": "2037A",
         "name": "Twice",
+        "rating": 800,
         "tags": [
           "implementation"
         ],
@@ -229,6 +240,7 @@
         "type": "codeforces",
         "id": "2031F",
         "name": "Penchick and Even Medians",
+        "rating": 2800,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -256,13 +268,13 @@
         "type": "codeforces",
         "id": "2031E",
         "name": "Penchick and Chloe's Trees",
+        "rating": 2100,
         "tags": [
-          "binary search",
-          "constructive algorithms",
           "data structures",
           "dfs and similar",
           "dp",
           "greedy",
+          "implementation",
           "math",
           "sortings",
           "trees"
@@ -288,6 +300,7 @@
         "type": "codeforces",
         "id": "2031D",
         "name": "Penchick and Desert Rabbit",
+        "rating": 1700,
         "tags": [
           "binary search",
           "data structures",
@@ -318,6 +331,7 @@
         "type": "codeforces",
         "id": "2031C",
         "name": "Penchick and BBQ Buns",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "math",
@@ -344,6 +358,7 @@
         "type": "codeforces",
         "id": "2031B",
         "name": "Penchick and Satay Sticks",
+        "rating": 900,
         "tags": [
           "brute force",
           "greedy",
@@ -370,8 +385,10 @@
         "type": "codeforces",
         "id": "2031A",
         "name": "Penchick and Modern Monument",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
+          "dp",
           "greedy",
           "math"
         ],
