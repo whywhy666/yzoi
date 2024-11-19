@@ -21780,7 +21780,7 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Aggie Competitive Programming Contest 2024",
+    "name": "Aggie Competitive Programming Contest (ACPC) 2024",
     "startTime": 1709578200,
     "duration": 10800,
     "participantNumber": 0,
@@ -21831,5 +21831,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105540",
     "standingsUrl": "https://codeforces.com/gym/105540/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Уральская командная олимпиада по программированию 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105545,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105545",
+    "standingsUrl": "https://codeforces.com/gym/105545/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2023 ICPC Asia Taoyuan Regional Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105544,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105544",
+    "standingsUrl": "https://codeforces.com/gym/105544/standings"
   }
 ]
