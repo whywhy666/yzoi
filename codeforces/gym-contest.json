@@ -21257,6 +21257,16 @@
     "standingsUrl": "https://codeforces.com/gym/105450/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 ICPC Greece Regional Collegiate Programming Contest (GRCPC 2024)",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105453,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105453",
+    "standingsUrl": "https://codeforces.com/gym/105453/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "XXIII Spain Olympiad in Informatics, Day 1",
     "duration": 10800,
