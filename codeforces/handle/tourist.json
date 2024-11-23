@@ -6,6 +6,307 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 292975899,
+      "creationTime": 1732381003,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039H2",
+        "name": "Cool Swap Walk (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "constructive algorithms",
+          "constructive algorithms",
+          "implementation",
+          "implementation",
+          "sortings",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/H2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292975899"
+    },
+    {
+      "type": "codeforces",
+      "id": 292972228,
+      "creationTime": 1732380278,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039H1",
+        "name": "Cool Swap Walk (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "implementation",
+          "sortings",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292972228"
+    },
+    {
+      "type": "codeforces",
+      "id": 292955967,
+      "creationTime": 1732377451,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039F2",
+        "name": "Shohag Loves Counting (Hard Version)",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292955967"
+    },
+    {
+      "type": "codeforces",
+      "id": 292955668,
+      "creationTime": 1732377409,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039F2",
+        "name": "Shohag Loves Counting (Hard Version)",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292955668"
+    },
+    {
+      "type": "codeforces",
+      "id": 292942851,
+      "creationTime": 1732375582,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039F1",
+        "name": "Shohag Loves Counting (Easy Version)",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292942851"
+    },
+    {
+      "type": "codeforces",
+      "id": 292929645,
+      "creationTime": 1732374142,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039E",
+        "name": "Shohag Loves Inversions",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292929645"
+    },
+    {
+      "type": "codeforces",
+      "id": 292921484,
+      "creationTime": 1732373458,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039D",
+        "name": "Shohag Loves GCD",
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292921484"
+    },
+    {
+      "type": "codeforces",
+      "id": 292917998,
+      "creationTime": 1732373228,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039C2",
+        "name": "Shohag Loves XOR (Hard Version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292917998"
+    },
+    {
+      "type": "codeforces",
+      "id": 292916804,
+      "creationTime": 1732373154,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039C2",
+        "name": "Shohag Loves XOR (Hard Version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292916804"
+    },
+    {
+      "type": "codeforces",
+      "id": 292911645,
+      "creationTime": 1732372843,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039C1",
+        "name": "Shohag Loves XOR (Easy Version)",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292911645"
+    },
+    {
+      "type": "codeforces",
+      "id": 292908262,
+      "creationTime": 1732372688,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039B",
+        "name": "Shohag Loves Strings",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292908262"
+    },
+    {
+      "type": "codeforces",
+      "id": 292905540,
+      "creationTime": 1732372551,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732372500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2039A",
+        "name": "Shohag Loves Mod",
+        "tags": [
+          "constructive algorithms",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2039/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2039/submission/292905540"
+    },
+    {
+      "type": "codeforces",
       "id": 291975854,
       "creationTime": 1731855203,
       "language": "C++20 (GCC 13-64)",
@@ -131957,8 +132258,8 @@
     }
   ],
   "codeforces": {
-    "rank": "tourist",
-    "rating": 4009,
+    "rank": "legendary grandmaster",
+    "rating": 3993,
     "maxRank": "tourist",
     "maxRating": 4009
   }
