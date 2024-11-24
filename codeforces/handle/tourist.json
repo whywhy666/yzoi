@@ -54,8 +54,6 @@
         "tags": [
           "constructive algorithms",
           "implementation",
-          "implementation",
-          "sortings",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/H1"
@@ -79,7 +77,10 @@
         "type": "codeforces",
         "id": "2039F2",
         "name": "Shohag Loves Counting (Hard Version)",
-        "tags": [],
+        "tags": [
+          "dp",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/F2"
       },
       "submissionUrl": "https://codeforces.com/contest/2039/submission/292955967"
@@ -101,7 +102,10 @@
         "type": "codeforces",
         "id": "2039F2",
         "name": "Shohag Loves Counting (Hard Version)",
-        "tags": [],
+        "tags": [
+          "dp",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/F2"
       },
       "submissionUrl": "https://codeforces.com/contest/2039/submission/292955668"
@@ -123,7 +127,12 @@
         "type": "codeforces",
         "id": "2039F1",
         "name": "Shohag Loves Counting (Easy Version)",
-        "tags": [],
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math",
+          "number theory"
+        ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/F1"
       },
       "submissionUrl": "https://codeforces.com/contest/2039/submission/292942851"
@@ -147,7 +156,11 @@
         "name": "Shohag Loves Inversions",
         "tags": [
           "combinatorics",
-          "dp"
+          "constructive algorithms",
+          "dp",
+          "expression parsing",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/E"
       },
@@ -171,6 +184,9 @@
         "id": "2039D",
         "name": "Shohag Loves GCD",
         "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/D"
@@ -197,6 +213,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/C2"
@@ -223,6 +240,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/C2"
@@ -249,6 +267,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/C1"
@@ -273,7 +292,9 @@
         "id": "2039B",
         "name": "Shohag Loves Strings",
         "tags": [
+          "constructive algorithms",
           "greedy",
+          "implementation",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/B"
