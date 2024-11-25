@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2039H2",
         "name": "Cool Swap Walk (Hard Version)",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "constructive algorithms",
@@ -51,6 +52,7 @@
         "type": "codeforces",
         "id": "2039H1",
         "name": "Cool Swap Walk (Easy Version)",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -77,6 +79,7 @@
         "type": "codeforces",
         "id": "2039F2",
         "name": "Shohag Loves Counting (Hard Version)",
+        "rating": 3200,
         "tags": [
           "dp",
           "number theory"
@@ -102,6 +105,7 @@
         "type": "codeforces",
         "id": "2039F2",
         "name": "Shohag Loves Counting (Hard Version)",
+        "rating": 3200,
         "tags": [
           "dp",
           "number theory"
@@ -127,6 +131,7 @@
         "type": "codeforces",
         "id": "2039F1",
         "name": "Shohag Loves Counting (Easy Version)",
+        "rating": 2800,
         "tags": [
           "combinatorics",
           "dp",
@@ -154,11 +159,10 @@
         "type": "codeforces",
         "id": "2039E",
         "name": "Shohag Loves Inversions",
+        "rating": 2200,
         "tags": [
           "combinatorics",
-          "constructive algorithms",
           "dp",
-          "expression parsing",
           "implementation",
           "math"
         ],
@@ -183,6 +187,7 @@
         "type": "codeforces",
         "id": "2039D",
         "name": "Shohag Loves GCD",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -210,6 +215,7 @@
         "type": "codeforces",
         "id": "2039C2",
         "name": "Shohag Loves XOR (Hard Version)",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -237,6 +243,7 @@
         "type": "codeforces",
         "id": "2039C2",
         "name": "Shohag Loves XOR (Hard Version)",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -264,6 +271,7 @@
         "type": "codeforces",
         "id": "2039C1",
         "name": "Shohag Loves XOR (Easy Version)",
+        "rating": 1200,
         "tags": [
           "bitmasks",
           "brute force",
@@ -291,6 +299,7 @@
         "type": "codeforces",
         "id": "2039B",
         "name": "Shohag Loves Strings",
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -318,6 +327,7 @@
         "type": "codeforces",
         "id": "2039A",
         "name": "Shohag Loves Mod",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "number theory"
