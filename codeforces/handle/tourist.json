@@ -6,6 +6,350 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 294089598,
+      "creationTime": 1732987693,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034G1",
+        "name": "Simurgh's Watch (Easy Version)",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/G1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294089598"
+    },
+    {
+      "type": "codeforces",
+      "id": 294074674,
+      "creationTime": 1732984962,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034G1",
+        "name": "Simurgh's Watch (Easy Version)",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/G1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294074674"
+    },
+    {
+      "type": "codeforces",
+      "id": 294061476,
+      "creationTime": 1732982759,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034H",
+        "name": "Rayan vs. Rayaneh",
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294061476"
+    },
+    {
+      "type": "codeforces",
+      "id": 294058476,
+      "creationTime": 1732982312,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "SKIPPED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034H",
+        "name": "Rayan vs. Rayaneh",
+        "tags": [
+          "dp",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294058476"
+    },
+    {
+      "type": "codeforces",
+      "id": 294048880,
+      "creationTime": 1732981003,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034F2",
+        "name": "Khayyam's Royal Decree (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294048880"
+    },
+    {
+      "type": "codeforces",
+      "id": 294045676,
+      "creationTime": 1732980608,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034F1",
+        "name": "Khayyam's Royal Decree (Easy Version)",
+        "tags": [
+          "combinatorics",
+          "combinatorics",
+          "dp",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294045676"
+    },
+    {
+      "type": "codeforces",
+      "id": 294035256,
+      "creationTime": 1732979455,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034E",
+        "name": "Permutations Harmony",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "constructive algorithms",
+          "greedy",
+          "hashing",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294035256"
+    },
+    {
+      "type": "codeforces",
+      "id": 294029423,
+      "creationTime": 1732978876,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034D",
+        "name": "Darius' Wisdom",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "sortings",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294029423"
+    },
+    {
+      "type": "codeforces",
+      "id": 294017117,
+      "creationTime": 1732977931,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034C",
+        "name": "Trapped in the Witch's Labyrinth",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294017117"
+    },
+    {
+      "type": "codeforces",
+      "id": 294014647,
+      "creationTime": 1732977791,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034C",
+        "name": "Trapped in the Witch's Labyrinth",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294014647"
+    },
+    {
+      "type": "codeforces",
+      "id": 294013619,
+      "creationTime": 1732977732,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034C",
+        "name": "Trapped in the Witch's Labyrinth",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294013619"
+    },
+    {
+      "type": "codeforces",
+      "id": 294006563,
+      "creationTime": 1732977438,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034B",
+        "name": "Rakhsh's Revival",
+        "tags": [
+          "greedy",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294006563"
+    },
+    {
+      "type": "codeforces",
+      "id": 294004703,
+      "creationTime": 1732977356,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1732977300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2034A",
+        "name": "King Keykhosrow's Mystery",
+        "tags": [
+          "brute force",
+          "chinese remainder theorem",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2034/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2034/submission/294004703"
+    },
+    {
+      "type": "codeforces",
       "id": 292975899,
       "creationTime": 1732381003,
       "language": "C++20 (GCC 13-64)",
@@ -27,8 +371,6 @@
           "constructive algorithms",
           "constructive algorithms",
           "implementation",
-          "implementation",
-          "sortings",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2039/problem/H2"
@@ -133,7 +475,6 @@
         "name": "Shohag Loves Counting (Easy Version)",
         "rating": 2800,
         "tags": [
-          "brute force",
           "combinatorics",
           "dp",
           "math",
@@ -132291,7 +132632,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3993,
+    "rating": 3985,
     "maxRank": "tourist",
     "maxRating": 4009
   }

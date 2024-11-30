@@ -1,9 +1,120 @@
 {
   "version": "0.1.16",
-  "updateTime": 1732914712,
+  "updateTime": 1733001082,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 294089598,
+            "pid": "2034G1",
+            "name": "Simurgh's Watch (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1732987693
+          },
+          {
+            "platform": "codeforces",
+            "id": 294074674,
+            "pid": "2034G1",
+            "name": "Simurgh's Watch (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1732984962
+          },
+          {
+            "platform": "codeforces",
+            "id": 294061476,
+            "pid": "2034H",
+            "name": "Rayan vs. Rayaneh",
+            "verdict": "OK",
+            "creationTime": 1732982759
+          },
+          {
+            "platform": "codeforces",
+            "id": 294058476,
+            "pid": "2034H",
+            "name": "Rayan vs. Rayaneh",
+            "verdict": "SKIPPED",
+            "creationTime": 1732982312
+          },
+          {
+            "platform": "codeforces",
+            "id": 294048880,
+            "pid": "2034F2",
+            "name": "Khayyam's Royal Decree (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1732981003
+          },
+          {
+            "platform": "codeforces",
+            "id": 294045676,
+            "pid": "2034F1",
+            "name": "Khayyam's Royal Decree (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1732980608
+          },
+          {
+            "platform": "codeforces",
+            "id": 294035256,
+            "pid": "2034E",
+            "name": "Permutations Harmony",
+            "verdict": "OK",
+            "creationTime": 1732979455
+          },
+          {
+            "platform": "codeforces",
+            "id": 294029423,
+            "pid": "2034D",
+            "name": "Darius' Wisdom",
+            "verdict": "OK",
+            "creationTime": 1732978876
+          },
+          {
+            "platform": "codeforces",
+            "id": 294017117,
+            "pid": "2034C",
+            "name": "Trapped in the Witch's Labyrinth",
+            "verdict": "OK",
+            "creationTime": 1732977931
+          },
+          {
+            "platform": "codeforces",
+            "id": 294014647,
+            "pid": "2034C",
+            "name": "Trapped in the Witch's Labyrinth",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1732977791
+          },
+          {
+            "platform": "codeforces",
+            "id": 294013619,
+            "pid": "2034C",
+            "name": "Trapped in the Witch's Labyrinth",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1732977732
+          },
+          {
+            "platform": "codeforces",
+            "id": 294006563,
+            "pid": "2034B",
+            "name": "Rakhsh's Revival",
+            "verdict": "OK",
+            "creationTime": 1732977438
+          },
+          {
+            "platform": "codeforces",
+            "id": 294004703,
+            "pid": "2034A",
+            "name": "King Keykhosrow's Mystery",
+            "verdict": "OK",
+            "creationTime": 1732977356
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c94626f7af40a9382765f59ccb903ecdd7bdf6d8"
+  "ref": "2a64e9538143c6ab28de38889f7c8e9bd04c4698"
 }
