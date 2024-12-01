@@ -72,6 +72,7 @@
         "id": "2034H",
         "name": "Rayan vs. Rayaneh",
         "tags": [
+          "brute force",
           "dp",
           "number theory"
         ],
@@ -97,6 +98,7 @@
         "id": "2034H",
         "name": "Rayan vs. Rayaneh",
         "tags": [
+          "brute force",
           "dp",
           "number theory"
         ],
@@ -123,7 +125,8 @@
         "name": "Khayyam's Royal Decree (Hard Version)",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/F2"
       },
@@ -148,9 +151,8 @@
         "name": "Khayyam's Royal Decree (Easy Version)",
         "tags": [
           "combinatorics",
-          "combinatorics",
           "dp",
-          "dp"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/F1"
       },
@@ -178,8 +180,6 @@
           "combinatorics",
           "constructive algorithms",
           "greedy",
-          "hashing",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/E"
@@ -205,10 +205,9 @@
         "name": "Darius' Wisdom",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "implementation",
-          "sortings",
-          "sortings",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/D"
       },
@@ -313,6 +312,7 @@
         "id": "2034B",
         "name": "Rakhsh's Revival",
         "tags": [
+          "data structures",
           "greedy",
           "implementation",
           "two pointers"

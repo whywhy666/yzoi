@@ -21885,6 +21885,17 @@
     "standingsUrl": "https://codeforces.com/gym/105552/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The 6th FanRuan Cup Southeast University Programming Contest (Winter)",
+    "startTime": 1733032800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105556,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105556",
+    "standingsUrl": "https://codeforces.com/gym/105556/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Innopolis Open 2024-2025. Elimination Round 1",
     "duration": 18000,
@@ -21906,6 +21917,17 @@
   },
   {
     "type": "codeforces/gym/ioi",
+    "name": "2024 Taiwan NHSPC Mock Contest (Mirror)",
+    "startTime": 1733014800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105570,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105570",
+    "standingsUrl": "https://codeforces.com/gym/105570/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
     "name": "Муниципальный этап ВсОШ по информатике для 9-11 классов, Оренбургская область, 2023",
     "duration": 14400,
     "participantNumber": 0,
@@ -21924,5 +21946,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105575",
     "standingsUrl": "https://codeforces.com/gym/105575/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2024 ICPC Asia Shenyang Regional Contest (The 3rd Universal Cup. Stage 19: Shenyang)",
+    "startTime": 1732410000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105578,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105578",
+    "standingsUrl": "https://codeforces.com/gym/105578/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии 2024-2025. Второй отбор",
+    "startTime": 1733036400,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105585,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105585",
+    "standingsUrl": "https://codeforces.com/gym/105585/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "“华为杯” 2024 年广东工业大学 ACM 新生程序设计竞赛（决赛）",
+    "duration": 19800,
+    "participantNumber": 0,
+    "id": 105586,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105586",
+    "standingsUrl": "https://codeforces.com/gym/105586/standings"
   }
 ]
