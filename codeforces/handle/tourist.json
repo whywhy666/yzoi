@@ -22,6 +22,7 @@
         "id": "2034G1",
         "name": "Simurgh's Watch (Easy Version)",
         "tags": [
+          "constructive algorithms",
           "greedy",
           "implementation"
         ],
@@ -47,6 +48,7 @@
         "id": "2034G1",
         "name": "Simurgh's Watch (Easy Version)",
         "tags": [
+          "constructive algorithms",
           "greedy",
           "implementation"
         ],
@@ -152,7 +154,8 @@
         "tags": [
           "combinatorics",
           "dp",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/F1"
       },
@@ -340,7 +343,6 @@
         "name": "King Keykhosrow's Mystery",
         "tags": [
           "brute force",
-          "chinese remainder theorem",
           "math",
           "number theory"
         ],
