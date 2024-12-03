@@ -21971,6 +21971,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Open Udmurtia High School Programming Contest 2015",
+    "startTime": 1733220000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105580,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105580",
+    "standingsUrl": "https://codeforces.com/gym/105580/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Когнитивные технологии 2024-2025. Второй отбор",
     "startTime": 1733036400,
     "duration": 10800,
@@ -21989,5 +22000,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105586",
     "standingsUrl": "https://codeforces.com/gym/105586/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Нижегородская область, 2024",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105591,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105591",
+    "standingsUrl": "https://codeforces.com/gym/105591/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 9-11 классы, Нижегородская область, 2024",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105592,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105592",
+    "standingsUrl": "https://codeforces.com/gym/105592/standings"
   }
 ]
