@@ -21971,6 +21971,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Open Udmurtia Junior Programming Contest 2018",
+    "startTime": 1733292000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105581,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105581",
+    "standingsUrl": "https://codeforces.com/gym/105581/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Open Udmurtia High School Programming Contest 2015",
     "startTime": 1733220000,
     "duration": 18000,
@@ -22012,6 +22023,17 @@
     "standingsUrl": "https://codeforces.com/gym/105591/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "CAMA 2024",
+    "startTime": 1733259600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105593,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105593",
+    "standingsUrl": "https://codeforces.com/gym/105593/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Муниципальный этап ВсОШ по информатике, 9-11 классы, Нижегородская область, 2024",
     "duration": 14400,
@@ -22020,5 +22042,55 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105592",
     "standingsUrl": "https://codeforces.com/gym/105592/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (1 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105595,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105595",
+    "standingsUrl": "https://codeforces.com/gym/105595/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (3 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105597,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105597",
+    "standingsUrl": "https://codeforces.com/gym/105597/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (2 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105596,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105596",
+    "standingsUrl": "https://codeforces.com/gym/105596/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике 9-11 класс 2024 (4 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105599,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105599",
+    "standingsUrl": "https://codeforces.com/gym/105599/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Municipal stage of ROI 2024, grades 9-11, Vologda and Krasnodar regions",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105600,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105600",
+    "standingsUrl": "https://codeforces.com/gym/105600/standings"
   }
 ]

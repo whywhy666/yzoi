@@ -130,7 +130,8 @@
         "tags": [
           "combinatorics",
           "dp",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/F2"
       },
@@ -181,7 +182,6 @@
         "id": "2034E",
         "name": "Permutations Harmony",
         "tags": [
-          "brute force",
           "combinatorics",
           "constructive algorithms",
           "greedy",
