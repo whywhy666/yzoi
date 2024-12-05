@@ -6,6 +6,188 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 295004098,
+      "creationTime": 1733410148,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1733409300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2050G",
+        "name": "Tree Destruction",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2050/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2050/submission/295004098"
+    },
+    {
+      "type": "codeforces",
+      "id": 294998837,
+      "creationTime": 1733409902,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1733409300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2050F",
+        "name": "Maximum modulo equality",
+        "tags": [
+          "data structures",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2050/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2050/submission/294998837"
+    },
+    {
+      "type": "codeforces",
+      "id": 294996500,
+      "creationTime": 1733409799,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1733409300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2050E",
+        "name": "Three Strings",
+        "tags": [
+          "dp",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2050/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2050/submission/294996500"
+    },
+    {
+      "type": "codeforces",
+      "id": 294994472,
+      "creationTime": 1733409715,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1733409300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2050D",
+        "name": "Digital string maximization",
+        "tags": [
+          "brute force",
+          "greedy",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2050/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2050/submission/294994472"
+    },
+    {
+      "type": "codeforces",
+      "id": 294991058,
+      "creationTime": 1733409584,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1733409300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2050C",
+        "name": "Uninteresting Number",
+        "tags": [
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2050/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2050/submission/294991058"
+    },
+    {
+      "type": "codeforces",
+      "id": 294989092,
+      "creationTime": 1733409504,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1733409300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2050B",
+        "name": "Transfusion",
+        "tags": [
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2050/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2050/submission/294989092"
+    },
+    {
+      "type": "codeforces",
+      "id": 294987464,
+      "creationTime": 1733409379,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1733409300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2050A",
+        "name": "Line Breaks",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2050/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2050/submission/294987464"
+    },
+    {
+      "type": "codeforces",
       "id": 294089598,
       "creationTime": 1732987693,
       "language": "C++20 (GCC 13-64)",
@@ -185,6 +367,7 @@
           "combinatorics",
           "constructive algorithms",
           "greedy",
+          "hashing",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/E"

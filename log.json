@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1733346762,
+  "updateTime": 1733433132,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 295004098,
+            "pid": "2050G",
+            "name": "Tree Destruction",
+            "verdict": "OK",
+            "creationTime": 1733410148
+          },
+          {
+            "platform": "codeforces",
+            "id": 294998837,
+            "pid": "2050F",
+            "name": "Maximum modulo equality",
+            "verdict": "OK",
+            "creationTime": 1733409902
+          },
+          {
+            "platform": "codeforces",
+            "id": 294996500,
+            "pid": "2050E",
+            "name": "Three Strings",
+            "verdict": "OK",
+            "creationTime": 1733409799
+          },
+          {
+            "platform": "codeforces",
+            "id": 294994472,
+            "pid": "2050D",
+            "name": "Digital string maximization",
+            "verdict": "OK",
+            "creationTime": 1733409715
+          },
+          {
+            "platform": "codeforces",
+            "id": 294991058,
+            "pid": "2050C",
+            "name": "Uninteresting Number",
+            "verdict": "OK",
+            "creationTime": 1733409584
+          },
+          {
+            "platform": "codeforces",
+            "id": 294989092,
+            "pid": "2050B",
+            "name": "Transfusion",
+            "verdict": "OK",
+            "creationTime": 1733409504
+          },
+          {
+            "platform": "codeforces",
+            "id": 294987464,
+            "pid": "2050A",
+            "name": "Line Breaks",
+            "verdict": "OK",
+            "creationTime": 1733409379
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "07c1a5b380ac3672faa8fb62c3ab59cef0a586b9"
+  "ref": "727a0075b02fe6b7cd9ecfa66da902b56bb439e3"
 }
