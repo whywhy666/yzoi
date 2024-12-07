@@ -21993,6 +21993,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Ural Championship 2014",
+    "startTime": 1733464800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105583,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105583",
+    "standingsUrl": "https://codeforces.com/gym/105583/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Ural Championship 2017",
     "startTime": 1733378400,
     "duration": 18000,
@@ -22123,5 +22134,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105602",
     "standingsUrl": "https://codeforces.com/gym/105602/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Липецкой области 2024 (9-11 классы)",
+    "startTime": 1733378400,
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 105605,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105605",
+    "standingsUrl": "https://codeforces.com/gym/105605/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада 1С, отборочный тур 2024-2025",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105608,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105608",
+    "standingsUrl": "https://codeforces.com/gym/105608/standings"
   }
 ]

@@ -24,7 +24,6 @@
         "tags": [
           "dfs and similar",
           "dp",
-          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2050/problem/G"
@@ -203,10 +202,12 @@
         "type": "codeforces",
         "id": "2034G1",
         "name": "Simurgh's Watch (Easy Version)",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/G1"
       },
@@ -229,10 +230,12 @@
         "type": "codeforces",
         "id": "2034G1",
         "name": "Simurgh's Watch (Easy Version)",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "greedy",
-          "implementation"
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2034/problem/G1"
       },
@@ -255,6 +258,7 @@
         "type": "codeforces",
         "id": "2034H",
         "name": "Rayan vs. Rayaneh",
+        "rating": 3300,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -282,6 +286,7 @@
         "type": "codeforces",
         "id": "2034H",
         "name": "Rayan vs. Rayaneh",
+        "rating": 3300,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -309,6 +314,7 @@
         "type": "codeforces",
         "id": "2034F2",
         "name": "Khayyam's Royal Decree (Hard Version)",
+        "rating": 2800,
         "tags": [
           "combinatorics",
           "dp",
@@ -336,6 +342,7 @@
         "type": "codeforces",
         "id": "2034F1",
         "name": "Khayyam's Royal Decree (Easy Version)",
+        "rating": 2500,
         "tags": [
           "combinatorics",
           "dp",
@@ -363,6 +370,7 @@
         "type": "codeforces",
         "id": "2034E",
         "name": "Permutations Harmony",
+        "rating": 2200,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -391,6 +399,7 @@
         "type": "codeforces",
         "id": "2034D",
         "name": "Darius' Wisdom",
+        "rating": 1600,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -418,6 +427,7 @@
         "type": "codeforces",
         "id": "2034C",
         "name": "Trapped in the Witch's Labyrinth",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -445,6 +455,7 @@
         "type": "codeforces",
         "id": "2034C",
         "name": "Trapped in the Witch's Labyrinth",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -472,6 +483,7 @@
         "type": "codeforces",
         "id": "2034C",
         "name": "Trapped in the Witch's Labyrinth",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -499,6 +511,7 @@
         "type": "codeforces",
         "id": "2034B",
         "name": "Rakhsh's Revival",
+        "rating": 1000,
         "tags": [
           "data structures",
           "greedy",
@@ -526,8 +539,10 @@
         "type": "codeforces",
         "id": "2034A",
         "name": "King Keykhosrow's Mystery",
+        "rating": 800,
         "tags": [
           "brute force",
+          "chinese remainder theorem",
           "math",
           "number theory"
         ],
