@@ -87265,7 +87265,9 @@
         "id": "1002C2",
         "name": "Distinguish zero state and plus state without errors",
         "rating": 1800,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/C2"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40047429"
@@ -87288,7 +87290,9 @@
         "id": "1002A4",
         "name": "Generate W state",
         "rating": 1900,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A4"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40046309"
@@ -87311,7 +87315,9 @@
         "id": "1002A4",
         "name": "Generate W state",
         "rating": 1900,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A4"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40043396"
@@ -87334,7 +87340,9 @@
         "id": "1002A4",
         "name": "Generate W state",
         "rating": 1900,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A4"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40043264"
@@ -87357,7 +87365,9 @@
         "id": "1002A4",
         "name": "Generate W state",
         "rating": 1900,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A4"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40043242"
@@ -87380,7 +87390,9 @@
         "id": "1002D3",
         "name": "Oracle for majority function",
         "rating": 1600,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/D3"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40041026"
@@ -87403,7 +87415,9 @@
         "id": "1002C1",
         "name": "Distinguish zero state and plus state with minimum error",
         "rating": 1700,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/C1"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40040760"
@@ -87426,7 +87440,9 @@
         "id": "1002C1",
         "name": "Distinguish zero state and plus state with minimum error",
         "rating": 1700,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/C1"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40040584"
@@ -87449,7 +87465,9 @@
         "id": "1002C1",
         "name": "Distinguish zero state and plus state with minimum error",
         "rating": 1700,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/C1"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40040528"
@@ -87472,7 +87490,9 @@
         "id": "1002E2",
         "name": "Another array reconstruction algorithm",
         "rating": 1900,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/E2"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40039388"
@@ -87495,7 +87515,9 @@
         "id": "1002B4",
         "name": "Distinguish four 2-qubit states - 2",
         "rating": 1700,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/B4"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40038460"
@@ -87518,7 +87540,9 @@
         "id": "1002B4",
         "name": "Distinguish four 2-qubit states - 2",
         "rating": 1700,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/B4"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40038398"
@@ -87541,7 +87565,9 @@
         "id": "1002E1",
         "name": "Bernstein-Vazirani algorithm",
         "rating": 1500,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/E1"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40035899"
@@ -87564,7 +87590,9 @@
         "id": "1002B3",
         "name": "Distinguish four 2-qubit states",
         "rating": 1600,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/B3"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40035628"
@@ -87587,7 +87615,9 @@
         "id": "1002D2",
         "name": "Oracle for f(x) = b * x + (1 - b) * (1 - x) mod 2",
         "rating": 1300,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/D2"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40035448"
@@ -87610,7 +87640,9 @@
         "id": "1002D1",
         "name": "Oracle for f(x) = b * x mod 2",
         "rating": 1200,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/D1"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40035302"
@@ -87633,7 +87665,9 @@
         "id": "1002B2",
         "name": "Distinguish GHZ state and W state",
         "rating": 1600,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/B2"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40035207"
@@ -87656,7 +87690,9 @@
         "id": "1002B1",
         "name": "Distinguish zero state and W state",
         "rating": 1300,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/B1"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40035171"
@@ -87679,7 +87715,9 @@
         "id": "1002A3",
         "name": "Generate superposition of two basis states",
         "rating": 1500,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A3"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40035044"
@@ -87702,7 +87740,9 @@
         "id": "1002A3",
         "name": "Generate superposition of two basis states",
         "rating": 1500,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A3"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40034960"
@@ -87725,7 +87765,9 @@
         "id": "1002A2",
         "name": "Generate superposition of zero state and a basis state",
         "rating": 1300,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A2"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40034831"
@@ -87748,7 +87790,9 @@
         "id": "1002A2",
         "name": "Generate superposition of zero state and a basis state",
         "rating": 1300,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A2"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40034787"
@@ -87771,7 +87815,9 @@
         "id": "1002A1",
         "name": "Generate superposition of all basis states",
         "rating": 800,
-        "tags": [],
+        "tags": [
+          "*special"
+        ],
         "problemUrl": "https://codeforces.com/contest/1002/problem/A1"
       },
       "submissionUrl": "https://codeforces.com/contest/1002/submission/40034609"
