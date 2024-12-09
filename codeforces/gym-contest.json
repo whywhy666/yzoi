@@ -22035,6 +22035,17 @@
     "standingsUrl": "https://codeforces.com/gym/105586/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2024 ICPC Asia Kunming Regional Contest (The 3rd Universal Cup. Stage 20: Kunming)",
+    "startTime": 1733016600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105588,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105588",
+    "standingsUrl": "https://codeforces.com/gym/105588/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Нижегородская область, 2024",
     "duration": 10800,
