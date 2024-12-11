@@ -22166,5 +22166,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105608",
     "standingsUrl": "https://codeforces.com/gym/105608/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Qualifying round of the IX regional Olympiad for the Governors Prize 2024, grades 9-10, Vologda region",
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 105613,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105613",
+    "standingsUrl": "https://codeforces.com/gym/105613/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Final round of the IX regional Olympiad for the Governors Prize 2024, grades 9-10, Vologda region",
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 105614,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105614",
+    "standingsUrl": "https://codeforces.com/gym/105614/standings"
   }
 ]
