@@ -22178,6 +22178,17 @@
     "standingsUrl": "https://codeforces.com/gym/105613/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The 19-th Beihang University Collegiate Programming Contest (BCPC 2024) - Preliminary",
+    "startTime": 1733400000,
+    "duration": 345600,
+    "participantNumber": 0,
+    "id": 105615,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105615",
+    "standingsUrl": "https://codeforces.com/gym/105615/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Final round of the IX regional Olympiad for the Governors Prize 2024, grades 9-10, Vologda region",
     "duration": 12600,
