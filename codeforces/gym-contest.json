@@ -22197,5 +22197,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105614",
     "standingsUrl": "https://codeforces.com/gym/105614/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 Russia Team Open, High School Programming Contest (VKOSHP XXV)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105617,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105617",
+    "standingsUrl": "https://codeforces.com/gym/105617/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии 2024-2025. Третий отбор",
+    "startTime": 1734166800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105618,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105618",
+    "standingsUrl": "https://codeforces.com/gym/105618/standings"
   }
 ]
