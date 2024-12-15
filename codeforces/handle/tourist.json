@@ -6,6 +6,298 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 296650497,
+      "creationTime": 1734274984,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044G2",
+        "name": "Medium Demon Problem (hard version)",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "dsu",
+          "graphs",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296650497"
+    },
+    {
+      "type": "codeforces",
+      "id": 296635934,
+      "creationTime": 1734274450,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044H",
+        "name": "Hard Demon Problem",
+        "tags": [
+          "data structures",
+          "dp",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296635934"
+    },
+    {
+      "type": "codeforces",
+      "id": 296628805,
+      "creationTime": 1734274225,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044F",
+        "name": "Easy Demon Problem",
+        "tags": [
+          "binary search",
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296628805"
+    },
+    {
+      "type": "codeforces",
+      "id": 296625939,
+      "creationTime": 1734274150,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044G2",
+        "name": "Medium Demon Problem (hard version)",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "dsu",
+          "graphs",
+          "implementation",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/G2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296625939"
+    },
+    {
+      "type": "codeforces",
+      "id": 296623876,
+      "creationTime": 1734274096,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044G1",
+        "name": "Medium Demon Problem (easy version)",
+        "tags": [
+          "dfs and similar",
+          "graph matchings",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/G1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296623876"
+    },
+    {
+      "type": "codeforces",
+      "id": 296613494,
+      "creationTime": 1734273863,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044F",
+        "name": "Easy Demon Problem",
+        "tags": [
+          "binary search",
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296613494"
+    },
+    {
+      "type": "codeforces",
+      "id": 296602605,
+      "creationTime": 1734273665,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044E",
+        "name": "Insane Problem",
+        "tags": [
+          "binary search",
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296602605"
+    },
+    {
+      "type": "codeforces",
+      "id": 296594495,
+      "creationTime": 1734273533,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044C",
+        "name": "Hard Problem",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296594495"
+    },
+    {
+      "type": "codeforces",
+      "id": 296594147,
+      "creationTime": 1734273524,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044D",
+        "name": "Harder Problem",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296594147"
+    },
+    {
+      "type": "codeforces",
+      "id": 296585211,
+      "creationTime": 1734273388,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044B",
+        "name": "Normal Problem",
+        "tags": [
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296585211"
+    },
+    {
+      "type": "codeforces",
+      "id": 296582856,
+      "creationTime": 1734273340,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1734273300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2044A",
+        "name": "Easy Problem",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2044/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2044/submission/296582856"
+    },
+    {
+      "type": "codeforces",
       "id": 295004098,
       "creationTime": 1733410148,
       "language": "C++20 (GCC 13-64)",
