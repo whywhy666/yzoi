@@ -22243,6 +22243,7 @@
   {
     "type": "codeforces/gym/icpc",
     "name": "The 2023 ICPC Asia Tehran Regional Contest",
+    "startTime": 1717133400,
     "duration": 18000,
     "participantNumber": 0,
     "id": 105627,
@@ -22260,5 +22261,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105629",
     "standingsUrl": "https://codeforces.com/gym/105629/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "SYSU Collegiate Programming Contest 2024 (SYSUCPC 2024), Final",
+    "startTime": 1734829200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105631,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105631",
+    "standingsUrl": "https://codeforces.com/gym/105631/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024 China Collegiate Programming Contest (CCPC) Zhengzhou Onsite (The 3rd Universal Cup. Stage 22: Zhengzhou)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105632,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105632",
+    "standingsUrl": "https://codeforces.com/gym/105632/standings"
   }
 ]
