@@ -22324,5 +22324,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105636",
     "standingsUrl": "https://codeforces.com/gym/105636/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Innopolis Open 2024-2025. Elimination Round 2",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105639,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105639",
+    "standingsUrl": "https://codeforces.com/gym/105639/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "GPC 2024",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105638,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105638",
+    "standingsUrl": "https://codeforces.com/gym/105638/standings"
   }
 ]
