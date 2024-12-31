@@ -22316,17 +22316,6 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "NOIP 2024",
-    "startTime": 1730248200,
-    "duration": 16200,
-    "participantNumber": 0,
-    "id": 105636,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/105636",
-    "standingsUrl": "https://codeforces.com/gym/105636/standings"
-  },
-  {
-    "type": "codeforces/gym/ioi",
     "name": "Innopolis Open 2024-2025. Elimination Round 2",
     "duration": 18000,
     "participantNumber": 0,
@@ -22354,5 +22343,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105641",
     "standingsUrl": "https://codeforces.com/gym/105641/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "SanSi Cup 2024",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105642,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105642",
+    "standingsUrl": "https://codeforces.com/gym/105642/standings"
   }
 ]
