@@ -6,6 +6,213 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 299684982,
+      "creationTime": 1736009817,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057H",
+        "name": "Coffee Break",
+        "tags": [
+          "data structures",
+          "greedy",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299684982"
+    },
+    {
+      "type": "codeforces",
+      "id": 299657436,
+      "creationTime": 1736005845,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057G",
+        "name": "Secret Message",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299657436"
+    },
+    {
+      "type": "codeforces",
+      "id": 299629090,
+      "creationTime": 1736002844,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057E2",
+        "name": "Another Exercise on Graphs (hard version)",
+        "tags": [
+          "binary search",
+          "brute force",
+          "dsu",
+          "graphs",
+          "shortest paths",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299629090"
+    },
+    {
+      "type": "codeforces",
+      "id": 299628545,
+      "creationTime": 1736002800,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057E1",
+        "name": "Another Exercise on Graphs (Easy Version)",
+        "tags": [
+          "binary search",
+          "brute force",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299628545"
+    },
+    {
+      "type": "codeforces",
+      "id": 299620639,
+      "creationTime": 1736002251,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057D",
+        "name": "Gifts Order",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299620639"
+    },
+    {
+      "type": "codeforces",
+      "id": 299608260,
+      "creationTime": 1736001637,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057C",
+        "name": "Trip to the Olympiad",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299608260"
+    },
+    {
+      "type": "codeforces",
+      "id": 299602932,
+      "creationTime": 1736001441,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057B",
+        "name": "Gorilla and the Exam",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299602932"
+    },
+    {
+      "type": "codeforces",
+      "id": 299601094,
+      "creationTime": 1736001342,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1736001300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2057A",
+        "name": "MEX Table",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2057/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2057/submission/299601094"
+    },
+    {
+      "type": "codeforces",
       "id": 296650497,
       "creationTime": 1734274984,
       "language": "C++20 (GCC 13-64)",
@@ -133280,7 +133487,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3985,
+    "rating": 3815,
     "maxRank": "tourist",
     "maxRating": 4009
   }

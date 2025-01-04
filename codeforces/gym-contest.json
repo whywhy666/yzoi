@@ -1621,6 +1621,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2012-2013 ACM-ICPC, Northwestern European Regional Contest (NWERC 2012)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 100192,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/100192",
+    "standingsUrl": "https://codeforces.com/gym/100192/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2013 (VI) Открытый Кубок мат-меха среди школьников Санкт-Петербурга и Ленинградской области",
     "startTime": 1507814100,
     "duration": 14400,
@@ -22356,6 +22366,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Osijek Competitive Programming Camp, Winter 2023, Day 6: Yuhao Du Contest 11 (The 1st Universal Cup. Stage 10: Zhejiang)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105645,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105645",
+    "standingsUrl": "https://codeforces.com/gym/105645/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Osijek Competitive Programming Camp, Winter 2023, Day 8: Dilhan Salgado Contest (The 1st Universal Cup. Stage 5: Osijek)",
     "duration": 18000,
     "participantNumber": 0,
@@ -22363,5 +22383,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105644",
     "standingsUrl": "https://codeforces.com/gym/105644/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Osijek Competitive Programming Camp, Winter 2024, Day 6: Potyczki Algorytmiczne Contest (The 3rd Universal Cup. Stage 2: Zielona Góra)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105646,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105646",
+    "standingsUrl": "https://codeforces.com/gym/105646/standings"
   }
 ]
