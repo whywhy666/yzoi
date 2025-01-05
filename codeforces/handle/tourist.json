@@ -49,6 +49,7 @@
         "id": "2057G",
         "name": "Secret Message",
         "tags": [
+          "combinatorics",
           "constructive algorithms",
           "math"
         ],
@@ -76,10 +77,12 @@
         "tags": [
           "binary search",
           "brute force",
+          "dp",
           "dsu",
           "graphs",
           "shortest paths",
-          "sortings"
+          "sortings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/E2"
       },
@@ -105,7 +108,9 @@
         "tags": [
           "binary search",
           "brute force",
-          "graphs"
+          "dp",
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/E1"
       },
@@ -129,7 +134,9 @@
         "id": "2057D",
         "name": "Gifts Order",
         "tags": [
-          "data structures"
+          "data structures",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/D"
       },
@@ -156,7 +163,8 @@
           "bitmasks",
           "constructive algorithms",
           "greedy",
-          "math"
+          "math",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/C"
       },

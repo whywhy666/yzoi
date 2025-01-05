@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1736025067,
+  "updateTime": 1736111431,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 299684982,
-            "pid": "2057H",
-            "name": "Coffee Break",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1736009817
-          },
-          {
-            "platform": "codeforces",
-            "id": 299657436,
-            "pid": "2057G",
-            "name": "Secret Message",
-            "verdict": "OK",
-            "creationTime": 1736005845
-          },
-          {
-            "platform": "codeforces",
-            "id": 299629090,
-            "pid": "2057E2",
-            "name": "Another Exercise on Graphs (hard version)",
-            "verdict": "OK",
-            "creationTime": 1736002844
-          },
-          {
-            "platform": "codeforces",
-            "id": 299628545,
-            "pid": "2057E1",
-            "name": "Another Exercise on Graphs (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1736002800
-          },
-          {
-            "platform": "codeforces",
-            "id": 299620639,
-            "pid": "2057D",
-            "name": "Gifts Order",
-            "verdict": "OK",
-            "creationTime": 1736002251
-          },
-          {
-            "platform": "codeforces",
-            "id": 299608260,
-            "pid": "2057C",
-            "name": "Trip to the Olympiad",
-            "verdict": "OK",
-            "creationTime": 1736001637
-          },
-          {
-            "platform": "codeforces",
-            "id": 299602932,
-            "pid": "2057B",
-            "name": "Gorilla and the Exam",
-            "verdict": "OK",
-            "creationTime": 1736001441
-          },
-          {
-            "platform": "codeforces",
-            "id": 299601094,
-            "pid": "2057A",
-            "name": "MEX Table",
-            "verdict": "OK",
-            "creationTime": 1736001342
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "4d5538632c01f5cf4599cc9d5a9b384f5b7e60c0"
+  "ref": "455507f0c08555f5f923d278ad991962cebaa82e"
 }
