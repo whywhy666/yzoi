@@ -77,12 +77,12 @@
         "tags": [
           "binary search",
           "brute force",
+          "dfs and similar",
           "dp",
           "dsu",
           "graphs",
           "shortest paths",
-          "sortings",
-          "trees"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/E2"
       },
@@ -109,6 +109,7 @@
           "binary search",
           "brute force",
           "dp",
+          "dsu",
           "graphs",
           "shortest paths"
         ],
@@ -163,8 +164,7 @@
           "bitmasks",
           "constructive algorithms",
           "greedy",
-          "math",
-          "ternary search"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/C"
       },
