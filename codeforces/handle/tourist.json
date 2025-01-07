@@ -24,7 +24,6 @@
         "tags": [
           "data structures",
           "greedy",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/H"
@@ -76,7 +75,6 @@
         "name": "Another Exercise on Graphs (hard version)",
         "tags": [
           "binary search",
-          "brute force",
           "dfs and similar",
           "dp",
           "dsu",
@@ -137,6 +135,7 @@
         "tags": [
           "data structures",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/D"
@@ -213,7 +212,8 @@
         "id": "2057A",
         "name": "MEX Table",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/A"
       },
