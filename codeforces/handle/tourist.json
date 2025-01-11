@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2057H",
         "name": "Coffee Break",
+        "rating": 3500,
         "tags": [
           "data structures",
           "greedy",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2057G",
         "name": "Secret Message",
+        "rating": 3000,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "2057E2",
         "name": "Another Exercise on Graphs (hard version)",
+        "rating": 2500,
         "tags": [
           "binary search",
           "dfs and similar",
@@ -103,6 +106,7 @@
         "type": "codeforces",
         "id": "2057E1",
         "name": "Another Exercise on Graphs (Easy Version)",
+        "rating": 2300,
         "tags": [
           "binary search",
           "brute force",
@@ -133,11 +137,13 @@
         "type": "codeforces",
         "id": "2057D",
         "name": "Gifts Order",
+        "rating": 2000,
         "tags": [
           "data structures",
           "greedy",
           "implementation",
-          "math"
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/2057/problem/D"
       },
@@ -160,6 +166,7 @@
         "type": "codeforces",
         "id": "2057C",
         "name": "Trip to the Olympiad",
+        "rating": 1500,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -187,6 +194,7 @@
         "type": "codeforces",
         "id": "2057B",
         "name": "Gorilla and the Exam",
+        "rating": 1000,
         "tags": [
           "greedy",
           "sortings"
@@ -212,6 +220,7 @@
         "type": "codeforces",
         "id": "2057A",
         "name": "MEX Table",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
