@@ -22293,6 +22293,17 @@
     "standingsUrl": "https://codeforces.com/gym/105629/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Abakoda Long 2024 Contest",
+    "startTime": 1735347600,
+    "duration": 810000,
+    "participantNumber": 0,
+    "id": 105628,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105628",
+    "standingsUrl": "https://codeforces.com/gym/105628/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "SYSU Collegiate Programming Contest 2024 (SYSUCPC 2024), Final",
     "startTime": 1734829200,
