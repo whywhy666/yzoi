@@ -22424,5 +22424,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105657",
     "standingsUrl": "https://codeforces.com/gym/105657/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AGM 2023, Final Round, Day 1",
+    "startTime": 1694253600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105663,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105663",
+    "standingsUrl": "https://codeforces.com/gym/105663/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AGM 2024 Qualification Round",
+    "startTime": 1711188000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105665,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105665",
+    "standingsUrl": "https://codeforces.com/gym/105665/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AGM 2023, Final Round, Day 2",
+    "startTime": 1694340000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105664,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105664",
+    "standingsUrl": "https://codeforces.com/gym/105664/standings"
   }
 ]
