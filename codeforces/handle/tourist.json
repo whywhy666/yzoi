@@ -6,6 +6,293 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 302123846,
+      "creationTime": 1737393593,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061H1",
+        "name": "Kevin and Stones (Easy Version)",
+        "tags": [
+          "flows",
+          "graph matchings",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302123846"
+    },
+    {
+      "type": "codeforces",
+      "id": 302121333,
+      "creationTime": 1737393114,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061H1",
+        "name": "Kevin and Stones (Easy Version)",
+        "tags": [
+          "flows",
+          "graph matchings",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302121333"
+    },
+    {
+      "type": "codeforces",
+      "id": 302104836,
+      "creationTime": 1737390219,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061G",
+        "name": "Kevin and Teams",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302104836"
+    },
+    {
+      "type": "codeforces",
+      "id": 302092403,
+      "creationTime": 1737388332,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061F2",
+        "name": "Kevin and Binary String (Hard Version)",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302092403"
+    },
+    {
+      "type": "codeforces",
+      "id": 302068249,
+      "creationTime": 1737385343,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061F1",
+        "name": "Kevin and Binary String (Easy Version)",
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302068249"
+    },
+    {
+      "type": "codeforces",
+      "id": 302059898,
+      "creationTime": 1737384597,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061E",
+        "name": "Kevin and And",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302059898"
+    },
+    {
+      "type": "codeforces",
+      "id": 302056206,
+      "creationTime": 1737384345,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061D",
+        "name": "Kevin and Numbers",
+        "tags": [
+          "brute force",
+          "data structures",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302056206"
+    },
+    {
+      "type": "codeforces",
+      "id": 302052972,
+      "creationTime": 1737384146,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061C",
+        "name": "Kevin and Puzzle",
+        "tags": [
+          "2-sat",
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302052972"
+    },
+    {
+      "type": "codeforces",
+      "id": 302050832,
+      "creationTime": 1737384032,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061B",
+        "name": "Kevin and Geometry",
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "data structures",
+          "geometry",
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302050832"
+    },
+    {
+      "type": "codeforces",
+      "id": 302049009,
+      "creationTime": 1737383942,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061A",
+        "name": "Kevin and Arithmetic",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302049009"
+    },
+    {
+      "type": "codeforces",
+      "id": 302047133,
+      "creationTime": 1737383810,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737383700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2061A",
+        "name": "Kevin and Arithmetic",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2061/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2061/submission/302047133"
+    },
+    {
+      "type": "codeforces",
       "id": 299684982,
       "creationTime": 1736009817,
       "language": "C++20 (GCC 13-64)",
