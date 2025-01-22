@@ -22479,6 +22479,16 @@
     "standingsUrl": "https://codeforces.com/gym/105666/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "Combinatorics Contest - Brazilian ICPC Summer School 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105669,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105669",
+    "standingsUrl": "https://codeforces.com/gym/105669/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "MITIT Winter 2025 Beginner Round",
     "duration": 9000,
@@ -22487,5 +22497,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105668",
     "standingsUrl": "https://codeforces.com/gym/105668/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2024-2025 Всероссийская олимпиада школьников по информатике, региональный этап, 1 тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105674,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105674",
+    "standingsUrl": "https://codeforces.com/gym/105674/standings"
   }
 ]
