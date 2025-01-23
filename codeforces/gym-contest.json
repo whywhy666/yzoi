@@ -22499,6 +22499,27 @@
     "standingsUrl": "https://codeforces.com/gym/105668/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #39 (1000-Forces)",
+    "startTime": 1737642900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105672,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105672",
+    "standingsUrl": "https://codeforces.com/gym/105672/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2024-2025 Всероссийская олимпиада школьников по информатике, региональный этап, 2 тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105675,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105675",
+    "standingsUrl": "https://codeforces.com/gym/105675/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "2024-2025 Всероссийская олимпиада школьников по информатике, региональный этап, 1 тур",
     "duration": 18000,

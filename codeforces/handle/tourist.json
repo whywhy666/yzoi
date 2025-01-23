@@ -77,8 +77,8 @@
           "constructive algorithms",
           "graph matchings",
           "graphs",
-          "implementation",
-          "interactive"
+          "interactive",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/G"
       },
@@ -102,16 +102,25 @@
         "id": "2061F2",
         "name": "Kevin and Binary String (Hard Version)",
         "tags": [
+          "2-sat",
           "binary search",
+          "bitmasks",
+          "brute force",
           "constructive algorithms",
           "data structures",
           "dp",
           "fft",
           "flows",
+          "geometry",
+          "graphs",
           "greedy",
+          "hashing",
           "implementation",
           "math",
-          "sortings"
+          "sortings",
+          "string suffix structures",
+          "strings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/F2"
       },
@@ -135,12 +144,8 @@
         "id": "2061F1",
         "name": "Kevin and Binary String (Easy Version)",
         "tags": [
-          "brute force",
-          "constructive algorithms",
           "greedy",
-          "implementation",
-          "strings",
-          "two pointers"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/F1"
       },
@@ -164,16 +169,11 @@
         "id": "2061E",
         "name": "Kevin and And",
         "tags": [
-          "binary search",
           "bitmasks",
           "brute force",
-          "data structures",
           "dp",
           "greedy",
-          "hashing",
-          "implementation",
-          "number theory",
-          "shortest paths",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/E"
@@ -199,8 +199,7 @@
         "name": "Kevin and Numbers",
         "tags": [
           "data structures",
-          "implementation",
-          "sortings"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -224,31 +223,7 @@
         "id": "2061C",
         "name": "Kevin and Puzzle",
         "tags": [
-          "binary search",
-          "bitmasks",
-          "brute force",
-          "combinatorics",
-          "constructive algorithms",
-          "data structures",
-          "dfs and similar",
-          "divide and conquer",
-          "dp",
-          "dsu",
-          "expression parsing",
-          "fft",
-          "flows",
-          "games",
-          "geometry",
-          "graph matchings",
-          "graphs",
-          "greedy",
-          "implementation",
-          "interactive",
-          "math",
-          "meet-in-the-middle",
-          "sortings",
-          "strings",
-          "ternary search"
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/C"
       },
@@ -272,38 +247,10 @@
         "id": "2061B",
         "name": "Kevin and Geometry",
         "tags": [
-          "binary search",
-          "brute force",
-          "constructive algorithms",
-          "data structures",
-          "dfs and similar",
-          "divide and conquer",
-          "dp",
-          "dsu",
-          "expression parsing",
-          "fft",
-          "flows",
-          "games",
           "geometry",
-          "graph matchings",
-          "graphs",
           "greedy",
-          "hashing",
-          "implementation",
-          "interactive",
           "math",
-          "matrices",
-          "meet-in-the-middle",
-          "number theory",
-          "probabilities",
-          "schedules",
-          "shortest paths",
-          "sortings",
-          "string suffix structures",
-          "strings",
-          "ternary search",
-          "trees",
-          "two pointers"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -327,20 +274,9 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
-          "binary search",
-          "bitmasks",
-          "brute force",
-          "combinatorics",
           "constructive algorithms",
-          "data structures",
-          "dp",
-          "fft",
-          "flows",
-          "geometry",
-          "implementation",
-          "interactive",
-          "math",
-          "two pointers"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },
@@ -364,20 +300,9 @@
         "id": "2061A",
         "name": "Kevin and Arithmetic",
         "tags": [
-          "binary search",
-          "bitmasks",
-          "brute force",
-          "combinatorics",
           "constructive algorithms",
-          "data structures",
-          "dp",
-          "fft",
-          "flows",
-          "geometry",
-          "implementation",
-          "interactive",
-          "math",
-          "two pointers"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
       },
