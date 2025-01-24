@@ -22500,6 +22500,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "AlgoChief Sprint Round 1",
+    "startTime": 1737729300,
+    "duration": 2700,
+    "participantNumber": 0,
+    "id": 105673,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105673",
+    "standingsUrl": "https://codeforces.com/gym/105673/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "TheForces Round #39 (1000-Forces)",
     "startTime": 1737642900,
     "duration": 7200,
