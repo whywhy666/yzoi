@@ -22550,5 +22550,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105679",
     "standingsUrl": "https://codeforces.com/gym/105679/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Qualification stage of Open Olympiad 2024-2025",
+    "duration": 604800,
+    "participantNumber": 0,
+    "id": 105681,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105681",
+    "standingsUrl": "https://codeforces.com/gym/105681/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада НЕЙМАРК 2024-25, Первый отбор",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105683,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105683",
+    "standingsUrl": "https://codeforces.com/gym/105683/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Олимпиада НЕЙМАРК 2024-25, Второй отбор",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105684,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105684",
+    "standingsUrl": "https://codeforces.com/gym/105684/standings"
   }
 ]

@@ -6,6 +6,241 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 303124667,
+      "creationTime": 1737909853,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062E2",
+        "name": "The Game (Hard Version)",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "games",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303124667"
+    },
+    {
+      "type": "codeforces",
+      "id": 303113824,
+      "creationTime": 1737908047,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062H",
+        "name": "Galaxy Generator",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303113824"
+    },
+    {
+      "type": "codeforces",
+      "id": 303088795,
+      "creationTime": 1737905012,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062F",
+        "name": "Traveling Salescat",
+        "tags": [
+          "dp",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303088795"
+    },
+    {
+      "type": "codeforces",
+      "id": 303078445,
+      "creationTime": 1737904079,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062E1",
+        "name": "The Game (Easy Version)",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "games",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303078445"
+    },
+    {
+      "type": "codeforces",
+      "id": 303073226,
+      "creationTime": 1737903660,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062D",
+        "name": "Balanced Tree",
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303073226"
+    },
+    {
+      "type": "codeforces",
+      "id": 303071272,
+      "creationTime": 1737903510,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062D",
+        "name": "Balanced Tree",
+        "tags": [
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303071272"
+    },
+    {
+      "type": "codeforces",
+      "id": 303055456,
+      "creationTime": 1737902515,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062C",
+        "name": "Cirno and Operations",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303055456"
+    },
+    {
+      "type": "codeforces",
+      "id": 303049852,
+      "creationTime": 1737902295,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062B",
+        "name": "Clockwork",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303049852"
+    },
+    {
+      "type": "codeforces",
+      "id": 303045066,
+      "creationTime": 1737902140,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1737902100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2062A",
+        "name": "String",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2062/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2062/submission/303045066"
+    },
+    {
+      "type": "codeforces",
       "id": 302123846,
       "creationTime": 1737393593,
       "language": "C++20 (GCC 13-64)",
@@ -21,6 +256,7 @@
         "type": "codeforces",
         "id": "2061H1",
         "name": "Kevin and Stones (Easy Version)",
+        "rating": 3500,
         "tags": [
           "flows",
           "graph matchings",
@@ -47,6 +283,7 @@
         "type": "codeforces",
         "id": "2061H1",
         "name": "Kevin and Stones (Easy Version)",
+        "rating": 3500,
         "tags": [
           "flows",
           "graph matchings",
@@ -73,43 +310,11 @@
         "type": "codeforces",
         "id": "2061G",
         "name": "Kevin and Teams",
+        "rating": 2900,
         "tags": [
-          "2-sat",
-          "binary search",
-          "bitmasks",
-          "brute force",
-          "chinese remainder theorem",
-          "combinatorics",
           "constructive algorithms",
-          "data structures",
-          "dfs and similar",
-          "divide and conquer",
-          "dp",
-          "dsu",
-          "expression parsing",
-          "fft",
-          "flows",
-          "games",
-          "geometry",
-          "graph matchings",
           "graphs",
-          "greedy",
-          "hashing",
-          "implementation",
-          "interactive",
-          "math",
-          "matrices",
-          "meet-in-the-middle",
-          "number theory",
-          "probabilities",
-          "schedules",
-          "shortest paths",
-          "sortings",
-          "string suffix structures",
-          "strings",
-          "ternary search",
-          "trees",
-          "two pointers"
+          "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/G"
       },
@@ -132,43 +337,10 @@
         "type": "codeforces",
         "id": "2061F2",
         "name": "Kevin and Binary String (Hard Version)",
+        "rating": 3500,
         "tags": [
-          "2-sat",
-          "binary search",
-          "bitmasks",
-          "brute force",
-          "chinese remainder theorem",
-          "combinatorics",
-          "constructive algorithms",
           "data structures",
-          "dfs and similar",
-          "divide and conquer",
-          "dp",
-          "dsu",
-          "expression parsing",
-          "fft",
-          "flows",
-          "games",
-          "geometry",
-          "graph matchings",
-          "graphs",
-          "greedy",
-          "hashing",
-          "implementation",
-          "interactive",
-          "math",
-          "matrices",
-          "meet-in-the-middle",
-          "number theory",
-          "probabilities",
-          "schedules",
-          "shortest paths",
-          "sortings",
-          "string suffix structures",
-          "strings",
-          "ternary search",
-          "trees",
-          "two pointers"
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/F2"
       },
@@ -191,11 +363,10 @@
         "type": "codeforces",
         "id": "2061F1",
         "name": "Kevin and Binary String (Easy Version)",
+        "rating": 2100,
         "tags": [
-          "brute force",
           "greedy",
-          "implementation",
-          "strings"
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/F1"
       },
@@ -218,10 +389,14 @@
         "type": "codeforces",
         "id": "2061E",
         "name": "Kevin and And",
+        "rating": 2000,
         "tags": [
           "bitmasks",
           "brute force",
-          "dp"
+          "dp",
+          "greedy",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/E"
       },
@@ -244,12 +419,10 @@
         "type": "codeforces",
         "id": "2061D",
         "name": "Kevin and Numbers",
+        "rating": 1600,
         "tags": [
-          "binary search",
           "bitmasks",
-          "brute force",
-          "data structures",
-          "sortings"
+          "data structures"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/D"
       },
@@ -272,7 +445,9 @@
         "type": "codeforces",
         "id": "2061C",
         "name": "Kevin and Puzzle",
+        "rating": 1600,
         "tags": [
+          "2-sat",
           "combinatorics",
           "dp"
         ],
@@ -297,14 +472,10 @@
         "type": "codeforces",
         "id": "2061B",
         "name": "Kevin and Geometry",
+        "rating": 1100,
         "tags": [
           "binary search",
-          "constructive algorithms",
-          "data structures",
-          "geometry",
-          "implementation",
-          "math",
-          "sortings"
+          "geometry"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/B"
       },
@@ -327,10 +498,8 @@
         "type": "codeforces",
         "id": "2061A",
         "name": "Kevin and Arithmetic",
+        "rating": 800,
         "tags": [
-          "brute force",
-          "greedy",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
@@ -354,10 +523,8 @@
         "type": "codeforces",
         "id": "2061A",
         "name": "Kevin and Arithmetic",
+        "rating": 800,
         "tags": [
-          "brute force",
-          "greedy",
-          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2061/problem/A"
@@ -133865,7 +134032,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3841,
+    "rating": 3840,
     "maxRank": "tourist",
     "maxRating": 4009
   }
