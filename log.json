@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1737925826,
+  "updateTime": 1738012291,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 303124667,
-            "pid": "2062E2",
-            "name": "The Game (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1737909853
-          },
-          {
-            "platform": "codeforces",
-            "id": 303113824,
-            "pid": "2062H",
-            "name": "Galaxy Generator",
-            "verdict": "OK",
-            "creationTime": 1737908047
-          },
-          {
-            "platform": "codeforces",
-            "id": 303088795,
-            "pid": "2062F",
-            "name": "Traveling Salescat",
-            "verdict": "OK",
-            "creationTime": 1737905012
-          },
-          {
-            "platform": "codeforces",
-            "id": 303078445,
-            "pid": "2062E1",
-            "name": "The Game (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1737904079
-          },
-          {
-            "platform": "codeforces",
-            "id": 303073226,
-            "pid": "2062D",
-            "name": "Balanced Tree",
-            "verdict": "OK",
-            "creationTime": 1737903660
-          },
-          {
-            "platform": "codeforces",
-            "id": 303071272,
-            "pid": "2062D",
-            "name": "Balanced Tree",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1737903510
-          },
-          {
-            "platform": "codeforces",
-            "id": 303055456,
-            "pid": "2062C",
-            "name": "Cirno and Operations",
-            "verdict": "OK",
-            "creationTime": 1737902515
-          },
-          {
-            "platform": "codeforces",
-            "id": 303049852,
-            "pid": "2062B",
-            "name": "Clockwork",
-            "verdict": "OK",
-            "creationTime": 1737902295
-          },
-          {
-            "platform": "codeforces",
-            "id": 303045066,
-            "pid": "2062A",
-            "name": "String",
-            "verdict": "OK",
-            "creationTime": 1737902140
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "8bdefbfd1ed81c1ffca021d978e4b88befff819d"
+  "ref": "016917a4e63e32ff353e27f94595dfa3493daabc"
 }

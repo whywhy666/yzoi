@@ -77,7 +77,9 @@
         "name": "Traveling Salescat",
         "tags": [
           "dp",
+          "graphs",
           "greedy",
+          "math",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/F"
@@ -106,6 +108,8 @@
           "dfs and similar",
           "games",
           "graphs",
+          "graphs",
+          "greedy",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/E1"
@@ -130,6 +134,7 @@
         "id": "2062D",
         "name": "Balanced Tree",
         "tags": [
+          "dfs and similar",
           "dp",
           "greedy",
           "trees"
@@ -156,6 +161,7 @@
         "id": "2062D",
         "name": "Balanced Tree",
         "tags": [
+          "dfs and similar",
           "dp",
           "greedy",
           "trees"
@@ -183,8 +189,7 @@
         "name": "Cirno and Operations",
         "tags": [
           "brute force",
-          "constructive algorithms",
-          "probabilities"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/C"
       },
@@ -208,7 +213,8 @@
         "id": "2062B",
         "name": "Clockwork",
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/B"
       },
@@ -232,7 +238,9 @@
         "id": "2062A",
         "name": "String",
         "tags": [
+          "constructive algorithms",
           "greedy",
+          "math",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2062/problem/A"
@@ -12282,6 +12290,7 @@
         "id": "1952A",
         "name": "Are You a Robot, Again?",
         "tags": [
+          "*special",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -12306,6 +12315,7 @@
         "id": "1952A",
         "name": "Are You a Robot, Again?",
         "tags": [
+          "*special",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"
@@ -12330,6 +12340,7 @@
         "id": "1952A",
         "name": "Are You a Robot, Again?",
         "tags": [
+          "*special",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/1952/problem/A"

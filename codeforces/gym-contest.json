@@ -22542,6 +22542,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2024-2025 ICPC Southwestern European Regional Contest (SWERC 2024)",
+    "startTime": 1733041800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105677,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105677",
+    "standingsUrl": "https://codeforces.com/gym/105677/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "IOI 2024 International Study Camp Mini Competition",
     "startTime": 1737448500,
     "duration": 7200,
