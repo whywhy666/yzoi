@@ -22591,5 +22591,48 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105684",
     "standingsUrl": "https://codeforces.com/gym/105684/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AlgoChief Sprint Round 2",
+    "startTime": 1738247700,
+    "duration": 3300,
+    "participantNumber": 0,
+    "id": 105687,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105687",
+    "standingsUrl": "https://codeforces.com/gym/105687/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 1-29-25 Div. 2 (Beginner)",
+    "startTime": 1738196100,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105689,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105689",
+    "standingsUrl": "https://codeforces.com/gym/105689/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MOI25 Training camp",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105691,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105691",
+    "standingsUrl": "https://codeforces.com/gym/105691/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 1-29-25 Div. 1 (Advanced)",
+    "startTime": 1738196100,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105690,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105690",
+    "standingsUrl": "https://codeforces.com/gym/105690/standings"
   }
 ]
