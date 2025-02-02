@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2062E2",
         "name": "The Game (Hard Version)",
+        "rating": 3000,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -50,6 +51,7 @@
         "type": "codeforces",
         "id": "2062H",
         "name": "Galaxy Generator",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -76,6 +78,7 @@
         "type": "codeforces",
         "id": "2062F",
         "name": "Traveling Salescat",
+        "rating": 2900,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -106,6 +109,7 @@
         "type": "codeforces",
         "id": "2062E1",
         "name": "The Game (Easy Version)",
+        "rating": 2000,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -135,6 +139,7 @@
         "type": "codeforces",
         "id": "2062D",
         "name": "Balanced Tree",
+        "rating": 2200,
         "tags": [
           "dfs and similar",
           "dp",
@@ -163,6 +168,7 @@
         "type": "codeforces",
         "id": "2062D",
         "name": "Balanced Tree",
+        "rating": 2200,
         "tags": [
           "dfs and similar",
           "dp",
@@ -191,6 +197,7 @@
         "type": "codeforces",
         "id": "2062C",
         "name": "Cirno and Operations",
+        "rating": 1200,
         "tags": [
           "brute force",
           "math"
@@ -216,6 +223,7 @@
         "type": "codeforces",
         "id": "2062B",
         "name": "Clockwork",
+        "rating": 900,
         "tags": [
           "greedy",
           "math"
@@ -241,6 +249,7 @@
         "type": "codeforces",
         "id": "2062A",
         "name": "String",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy",

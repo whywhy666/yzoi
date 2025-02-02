@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round 1002 (Div. 2)",
+    "startTime": 1738506900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 2059,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2059",
+    "standingsUrl": "https://codeforces.com/contest/2059/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
     "startTime": 1737902100,
     "duration": 9000,
