@@ -21431,8 +21431,7 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "Тридцать шестая всероссийская олимпиада школьников по информатике, первый тур",
-    "startTime": 1712559600,
+    "name": "2023-2024 Всероссийская олимпиада школьников по информатике, первый тур",
     "duration": 18000,
     "participantNumber": 0,
     "id": 105479,
@@ -21525,8 +21524,7 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "Тридцать шестая всероссийская олимпиада школьников по информатике, второй тур",
-    "startTime": 1712732400,
+    "name": "2023-2024 Всероссийская олимпиада школьников по информатике, второй тур",
     "duration": 18000,
     "participantNumber": 0,
     "id": 105488,
@@ -22676,5 +22674,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105696",
     "standingsUrl": "https://codeforces.com/gym/105696/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2024 Summer, Day 5: OCPC Potluck Contest 2",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105698,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105698",
+    "standingsUrl": "https://codeforces.com/gym/105698/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2020-2021 Всероссийская олимпиада школьников по информатике, второй тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105701,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105701",
+    "standingsUrl": "https://codeforces.com/gym/105701/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2020-2021 Всероссийская олимпиада школьников по информатике, первый тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105700,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105700",
+    "standingsUrl": "https://codeforces.com/gym/105700/standings"
   }
 ]
