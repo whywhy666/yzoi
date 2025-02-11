@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1739221912,
+  "updateTime": 1739308299,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 305674660,
+            "pid": "2066E",
+            "name": "Tropical Season",
+            "verdict": "OK",
+            "creationTime": 1739289213
+          },
+          {
+            "platform": "codeforces",
+            "id": 305651253,
+            "pid": "2066D2",
+            "name": "Club of Young Aircraft Builders (hard version)",
+            "verdict": "OK",
+            "creationTime": 1739287016
+          },
+          {
+            "platform": "codeforces",
+            "id": 305650970,
+            "pid": "2066D1",
+            "name": "Club of Young Aircraft Builders (easy version)",
+            "verdict": "OK",
+            "creationTime": 1739286996
+          },
+          {
+            "platform": "codeforces",
+            "id": 305635243,
+            "pid": "2066B",
+            "name": "White Magic",
+            "verdict": "OK",
+            "creationTime": 1739285946
+          },
+          {
+            "platform": "codeforces",
+            "id": 305633837,
+            "pid": "2066C",
+            "name": "Bitwise Slides",
+            "verdict": "OK",
+            "creationTime": 1739285860
+          },
+          {
+            "platform": "codeforces",
+            "id": 305626001,
+            "pid": "2066B",
+            "name": "White Magic",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1739285369
+          },
+          {
+            "platform": "codeforces",
+            "id": 305616029,
+            "pid": "2066A",
+            "name": "Object Identification",
+            "verdict": "OK",
+            "creationTime": 1739284852
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "ca5b5a2ede060a6de6c0f8d22bd710101cbbeab7"
+  "ref": "8874886ede43692b44788146f913db0e5e6a9250"
 }

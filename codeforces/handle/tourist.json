@@ -6,6 +6,184 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 305674660,
+      "creationTime": 1739289213,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2066E",
+        "name": "Tropical Season",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2066/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2066/submission/305674660"
+    },
+    {
+      "type": "codeforces",
+      "id": 305651253,
+      "creationTime": 1739287016,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2066D2",
+        "name": "Club of Young Aircraft Builders (hard version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2066/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2066/submission/305651253"
+    },
+    {
+      "type": "codeforces",
+      "id": 305650970,
+      "creationTime": 1739286996,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2066D1",
+        "name": "Club of Young Aircraft Builders (easy version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2066/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2066/submission/305650970"
+    },
+    {
+      "type": "codeforces",
+      "id": 305635243,
+      "creationTime": 1739285946,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2066B",
+        "name": "White Magic",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2066/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2066/submission/305635243"
+    },
+    {
+      "type": "codeforces",
+      "id": 305633837,
+      "creationTime": 1739285860,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2066C",
+        "name": "Bitwise Slides",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2066/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2066/submission/305633837"
+    },
+    {
+      "type": "codeforces",
+      "id": 305626001,
+      "creationTime": 1739285369,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2066B",
+        "name": "White Magic",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2066/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2066/submission/305626001"
+    },
+    {
+      "type": "codeforces",
+      "id": 305616029,
+      "creationTime": 1739284852,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1739284500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2066A",
+        "name": "Object Identification",
+        "tags": [
+          "graphs",
+          "implementation",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2066/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2066/submission/305616029"
+    },
+    {
+      "type": "codeforces",
       "id": 303124667,
       "creationTime": 1737909853,
       "language": "C++20 (GCC 13-64)",
@@ -134056,7 +134234,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3840,
+    "rating": 3856,
     "maxRank": "tourist",
     "maxRating": 4009
   }
