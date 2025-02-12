@@ -22,7 +22,10 @@
         "id": "2066E",
         "name": "Tropical Season",
         "tags": [
-          "data structures"
+          "binary search",
+          "data structures",
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/E"
       },
@@ -47,7 +50,8 @@
         "name": "Club of Young Aircraft Builders (hard version)",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/D2"
       },
@@ -72,7 +76,8 @@
         "name": "Club of Young Aircraft Builders (easy version)",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/D1"
       },
@@ -98,7 +103,10 @@
         "tags": [
           "constructive algorithms",
           "data structures",
-          "implementation"
+          "dp",
+          "greedy",
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/B"
       },
@@ -124,7 +132,8 @@
         "tags": [
           "bitmasks",
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/C"
       },
@@ -150,7 +159,10 @@
         "tags": [
           "constructive algorithms",
           "data structures",
-          "implementation"
+          "dp",
+          "greedy",
+          "implementation",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2066/problem/B"
       },
@@ -175,6 +187,7 @@
         "name": "Object Identification",
         "tags": [
           "graphs",
+          "greedy",
           "implementation",
           "interactive"
         ],
