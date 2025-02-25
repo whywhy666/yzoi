@@ -1,9 +1,40 @@
 {
   "version": "0.1.16",
-  "updateTime": 1740431502,
+  "updateTime": 1740517913,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 307685211,
+            "pid": "2072C",
+            "name": "Creating Keys for StORages Has Become My Main Skill",
+            "verdict": "OK",
+            "creationTime": 1740494524
+          },
+          {
+            "platform": "codeforces",
+            "id": 307678472,
+            "pid": "2072B",
+            "name": "Having Been a Treasurer in the Past, I Help Goblins Deceive",
+            "verdict": "OK",
+            "creationTime": 1740494331
+          },
+          {
+            "platform": "codeforces",
+            "id": 307676149,
+            "pid": "2072A",
+            "name": "New World, New Me, New Array",
+            "verdict": "OK",
+            "creationTime": 1740494217
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "10f51da995041d216bf78076c0cf5a11f9bac6af"
+  "ref": "60d191e61b5e0a8ac594d0667851752ef733d2a0"
 }

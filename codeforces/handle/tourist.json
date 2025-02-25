@@ -6,6 +6,85 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 307685211,
+      "creationTime": 1740494524,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740494100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2072C",
+        "name": "Creating Keys for StORages Has Become My Main Skill",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2072/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2072/submission/307685211"
+    },
+    {
+      "type": "codeforces",
+      "id": 307678472,
+      "creationTime": 1740494331,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740494100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2072B",
+        "name": "Having Been a Treasurer in the Past, I Help Goblins Deceive",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2072/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2072/submission/307678472"
+    },
+    {
+      "type": "codeforces",
+      "id": 307676149,
+      "creationTime": 1740494217,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740494100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2072A",
+        "name": "New World, New Me, New Array",
+        "tags": [
+          "greedy",
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2072/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2072/submission/307676149"
+    },
+    {
+      "type": "codeforces",
       "id": 305674660,
       "creationTime": 1739289213,
       "language": "C++20 (GCC 13-64)",
@@ -21,6 +100,7 @@
         "type": "codeforces",
         "id": "2066E",
         "name": "Tropical Season",
+        "rating": 3300,
         "tags": [
           "binary search",
           "data structures",
@@ -48,6 +128,7 @@
         "type": "codeforces",
         "id": "2066D2",
         "name": "Club of Young Aircraft Builders (hard version)",
+        "rating": 2900,
         "tags": [
           "combinatorics",
           "dp",
@@ -74,6 +155,7 @@
         "type": "codeforces",
         "id": "2066D1",
         "name": "Club of Young Aircraft Builders (easy version)",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "dp",
@@ -100,6 +182,7 @@
         "type": "codeforces",
         "id": "2066B",
         "name": "White Magic",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -128,6 +211,7 @@
         "type": "codeforces",
         "id": "2066C",
         "name": "Bitwise Slides",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -155,6 +239,7 @@
         "type": "codeforces",
         "id": "2066B",
         "name": "White Magic",
+        "rating": 1900,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -183,6 +268,7 @@
         "type": "codeforces",
         "id": "2066A",
         "name": "Object Identification",
+        "rating": 1400,
         "tags": [
           "graphs",
           "greedy",
