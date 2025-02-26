@@ -22798,5 +22798,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105723",
     "standingsUrl": "https://codeforces.com/gym/105723/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "EPT Solving Cup 5.0 공식 경연대회",
+    "startTime": 1740578400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105728,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105728",
+    "standingsUrl": "https://codeforces.com/gym/105728/standings"
   }
 ]
