@@ -6,6 +6,426 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 308390262,
+      "creationTime": 1740764615,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406719032
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071F",
+        "name": "Towering Arrays",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308390262"
+    },
+    {
+      "type": "codeforces",
+      "id": 308389425,
+      "creationTime": 1740764280,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406719367
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071F",
+        "name": "Towering Arrays",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308389425"
+    },
+    {
+      "type": "codeforces",
+      "id": 308389071,
+      "creationTime": 1740764141,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406719506
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071F",
+        "name": "Towering Arrays",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308389071"
+    },
+    {
+      "type": "codeforces",
+      "id": 308384300,
+      "creationTime": 1740761406,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071F",
+        "name": "Towering Arrays",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308384300"
+    },
+    {
+      "type": "codeforces",
+      "id": 308382770,
+      "creationTime": 1740761235,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071F",
+        "name": "Towering Arrays",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308382770"
+    },
+    {
+      "type": "codeforces",
+      "id": 308362984,
+      "creationTime": 1740758309,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071D2",
+        "name": "Infinite Sequence (Hard Version)",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "data structures",
+          "dp",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308362984"
+    },
+    {
+      "type": "codeforces",
+      "id": 308348225,
+      "creationTime": 1740756790,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071D1",
+        "name": "Infinite Sequence (Easy Version)",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308348225"
+    },
+    {
+      "type": "codeforces",
+      "id": 308336718,
+      "creationTime": 1740755838,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071D1",
+        "name": "Infinite Sequence (Easy Version)",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308336718"
+    },
+    {
+      "type": "codeforces",
+      "id": 308321804,
+      "creationTime": 1740754862,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071E",
+        "name": "LeaFall",
+        "tags": [
+          "combinatorics",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308321804"
+    },
+    {
+      "type": "codeforces",
+      "id": 308304806,
+      "creationTime": 1740753946,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071C",
+        "name": "Trapmigiano Reggiano",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "sortings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308304806"
+    },
+    {
+      "type": "codeforces",
+      "id": 308299965,
+      "creationTime": 1740753725,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071B",
+        "name": "Perfecto",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308299965"
+    },
+    {
+      "type": "codeforces",
+      "id": 308296034,
+      "creationTime": 1740753561,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071B",
+        "name": "Perfecto",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308296034"
+    },
+    {
+      "type": "codeforces",
+      "id": 308293214,
+      "creationTime": 1740753422,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071B",
+        "name": "Perfecto",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308293214"
+    },
+    {
+      "type": "codeforces",
+      "id": 308292700,
+      "creationTime": 1740753355,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1740753300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2071A",
+        "name": "The Play Never Ends",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2071/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2071/submission/308292700"
+    },
+    {
+      "type": "codeforces",
+      "id": 308210466,
+      "creationTime": 1740700766,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406782881
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "95D",
+        "name": "Horse Races",
+        "rating": 2500,
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/95/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/95/submission/308210466"
+    },
+    {
+      "type": "codeforces",
+      "id": 308208534,
+      "creationTime": 1740697477,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -406786170
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "53E",
+        "name": "Dead Ends",
+        "rating": 2500,
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/53/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/53/submission/308208534"
+    },
+    {
+      "type": "codeforces",
       "id": 307685211,
       "creationTime": 1740494524,
       "language": "C++20 (GCC 13-64)",
