@@ -148,6 +148,7 @@
         "name": "Infinite Sequence (Hard Version)",
         "tags": [
           "bitmasks",
+          "brute force",
           "constructive algorithms",
           "data structures",
           "dp",
@@ -177,7 +178,9 @@
         "name": "Infinite Sequence (Easy Version)",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/D1"
@@ -203,7 +206,9 @@
         "name": "Infinite Sequence (Easy Version)",
         "tags": [
           "bitmasks",
+          "brute force",
           "dp",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/D1"
@@ -256,6 +261,7 @@
         "tags": [
           "constructive algorithms",
           "dfs and similar",
+          "greedy",
           "sortings",
           "trees"
         ],
@@ -284,8 +290,7 @@
           "brute force",
           "constructive algorithms",
           "greedy",
-          "math",
-          "probabilities"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/B"
       },
@@ -312,8 +317,7 @@
           "brute force",
           "constructive algorithms",
           "greedy",
-          "math",
-          "probabilities"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/B"
       },
@@ -340,8 +344,7 @@
           "brute force",
           "constructive algorithms",
           "greedy",
-          "math",
-          "probabilities"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2071/problem/B"
       },

@@ -22841,5 +22841,46 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105740",
     "standingsUrl": "https://codeforces.com/gym/105740/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AGM 2025 Qualification Round",
+    "startTime": 1740830400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105745,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105745",
+    "standingsUrl": "https://codeforces.com/gym/105745/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Bangladesh Olympiad in Informatics 2025 Preliminary Round",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105747,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105747",
+    "standingsUrl": "https://codeforces.com/gym/105747/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Bangladesh Olympiad in Informatics 2025 National Round Day 1",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105746,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105746",
+    "standingsUrl": "https://codeforces.com/gym/105746/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Bangladesh Olympiad in Informatics 2025 National Round Day 2",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105748,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105748",
+    "standingsUrl": "https://codeforces.com/gym/105748/standings"
   }
 ]
