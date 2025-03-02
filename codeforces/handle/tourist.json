@@ -6,6 +6,352 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 308670343,
+      "creationTime": 1740927149,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068B",
+        "name": "Urban Planning",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308670343"
+    },
+    {
+      "type": "codeforces",
+      "id": 308667675,
+      "creationTime": 1740925932,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068E",
+        "name": "Porto Vs. Benfica",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308667675"
+    },
+    {
+      "type": "codeforces",
+      "id": 308667512,
+      "creationTime": 1740925853,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068E",
+        "name": "Porto Vs. Benfica",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308667512"
+    },
+    {
+      "type": "codeforces",
+      "id": 308664522,
+      "creationTime": 1740924504,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068D",
+        "name": "Morse Code",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308664522"
+    },
+    {
+      "type": "codeforces",
+      "id": 308659774,
+      "creationTime": 1740922514,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068K",
+        "name": "Amusement Park Rides",
+        "tags": [
+          "flows",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308659774"
+    },
+    {
+      "type": "codeforces",
+      "id": 308659485,
+      "creationTime": 1740922379,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068K",
+        "name": "Amusement Park Rides",
+        "tags": [
+          "flows",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308659485"
+    },
+    {
+      "type": "codeforces",
+      "id": 308655165,
+      "creationTime": 1740920590,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068K",
+        "name": "Amusement Park Rides",
+        "tags": [
+          "flows",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308655165"
+    },
+    {
+      "type": "codeforces",
+      "id": 308652050,
+      "creationTime": 1740919213,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068K",
+        "name": "Amusement Park Rides",
+        "tags": [
+          "flows",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308652050"
+    },
+    {
+      "type": "codeforces",
+      "id": 308651759,
+      "creationTime": 1740919060,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068K",
+        "name": "Amusement Park Rides",
+        "tags": [
+          "flows",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308651759"
+    },
+    {
+      "type": "codeforces",
+      "id": 308650565,
+      "creationTime": 1740918509,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068H",
+        "name": "Statues",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308650565"
+    },
+    {
+      "type": "codeforces",
+      "id": 308647611,
+      "creationTime": 1740917117,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068J",
+        "name": "The Ultimate Wine Tasting Event",
+        "tags": [
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308647611"
+    },
+    {
+      "type": "codeforces",
+      "id": 308645412,
+      "creationTime": 1740916210,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068F",
+        "name": "Mascot Naming",
+        "tags": [
+          "brute force",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308645412"
+    },
+    {
+      "type": "codeforces",
+      "id": 308644589,
+      "creationTime": 1740915895,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068C",
+        "name": "Ads",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308644589"
+    },
+    {
+      "type": "codeforces",
+      "id": 308643889,
+      "creationTime": 1740915616,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1740911700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2068A",
+        "name": "Condorcet Elections",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2068/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2068/submission/308643889"
+    },
+    {
+      "type": "codeforces",
       "id": 308390262,
       "creationTime": 1740764615,
       "language": "C++20 (GCC 13-64)",
@@ -260,7 +606,9 @@
         "name": "Trapmigiano Reggiano",
         "tags": [
           "constructive algorithms",
+          "data structures",
           "dfs and similar",
+          "dp",
           "greedy",
           "sortings",
           "trees"

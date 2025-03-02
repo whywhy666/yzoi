@@ -1,9 +1,128 @@
 {
   "version": "0.1.16",
-  "updateTime": 1740863481,
+  "updateTime": 1740949903,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 308670343,
+            "pid": "2068B",
+            "name": "Urban Planning",
+            "verdict": "OK",
+            "creationTime": 1740927149
+          },
+          {
+            "platform": "codeforces",
+            "id": 308667675,
+            "pid": "2068E",
+            "name": "Porto Vs. Benfica",
+            "verdict": "OK",
+            "creationTime": 1740925932
+          },
+          {
+            "platform": "codeforces",
+            "id": 308667512,
+            "pid": "2068E",
+            "name": "Porto Vs. Benfica",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740925853
+          },
+          {
+            "platform": "codeforces",
+            "id": 308664522,
+            "pid": "2068D",
+            "name": "Morse Code",
+            "verdict": "OK",
+            "creationTime": 1740924504
+          },
+          {
+            "platform": "codeforces",
+            "id": 308659774,
+            "pid": "2068K",
+            "name": "Amusement Park Rides",
+            "verdict": "OK",
+            "creationTime": 1740922514
+          },
+          {
+            "platform": "codeforces",
+            "id": 308659485,
+            "pid": "2068K",
+            "name": "Amusement Park Rides",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1740922379
+          },
+          {
+            "platform": "codeforces",
+            "id": 308655165,
+            "pid": "2068K",
+            "name": "Amusement Park Rides",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1740920590
+          },
+          {
+            "platform": "codeforces",
+            "id": 308652050,
+            "pid": "2068K",
+            "name": "Amusement Park Rides",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1740919213
+          },
+          {
+            "platform": "codeforces",
+            "id": 308651759,
+            "pid": "2068K",
+            "name": "Amusement Park Rides",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1740919060
+          },
+          {
+            "platform": "codeforces",
+            "id": 308650565,
+            "pid": "2068H",
+            "name": "Statues",
+            "verdict": "OK",
+            "creationTime": 1740918509
+          },
+          {
+            "platform": "codeforces",
+            "id": 308647611,
+            "pid": "2068J",
+            "name": "The Ultimate Wine Tasting Event",
+            "verdict": "OK",
+            "creationTime": 1740917117
+          },
+          {
+            "platform": "codeforces",
+            "id": 308645412,
+            "pid": "2068F",
+            "name": "Mascot Naming",
+            "verdict": "OK",
+            "creationTime": 1740916210
+          },
+          {
+            "platform": "codeforces",
+            "id": 308644589,
+            "pid": "2068C",
+            "name": "Ads",
+            "verdict": "OK",
+            "creationTime": 1740915895
+          },
+          {
+            "platform": "codeforces",
+            "id": 308643889,
+            "pid": "2068A",
+            "name": "Condorcet Elections",
+            "verdict": "OK",
+            "creationTime": 1740915616
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e5e8115217b62e8adeaae3334865cd4d8c82fa19"
+  "ref": "6c617c847abd3eab1fc5f4629761164ba5a0d908"
 }
