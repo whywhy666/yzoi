@@ -46,7 +46,11 @@
         "id": "2068E",
         "name": "Porto Vs. Benfica",
         "tags": [
-          "graphs"
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/E"
       },
@@ -70,7 +74,11 @@
         "id": "2068E",
         "name": "Porto Vs. Benfica",
         "tags": [
-          "graphs"
+          "data structures",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/E"
       },
@@ -94,7 +102,10 @@
         "id": "2068D",
         "name": "Morse Code",
         "tags": [
-          "dp"
+          "dp",
+          "greedy",
+          "sortings",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/D"
       },
@@ -243,7 +254,9 @@
         "id": "2068H",
         "name": "Statues",
         "tags": [
-          "greedy"
+          "constructive algorithms",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/H"
       },
@@ -267,7 +280,8 @@
         "id": "2068J",
         "name": "The Ultimate Wine Tasting Event",
         "tags": [
-          "combinatorics"
+          "combinatorics",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/J"
       },
@@ -318,7 +332,8 @@
         "name": "Ads",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/C"
       },
@@ -344,6 +359,7 @@
         "tags": [
           "constructive algorithms",
           "graphs",
+          "greedy",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2068/problem/A"
