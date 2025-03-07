@@ -22811,6 +22811,17 @@
     "standingsUrl": "https://codeforces.com/gym/105728/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "Bach Khoa Code Challenge #1",
+    "startTime": 1740899700,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105733,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105733",
+    "standingsUrl": "https://codeforces.com/gym/105733/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Олимпиада 1С 2025, предметный тур",
     "duration": 7200,
@@ -22934,5 +22945,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105760",
     "standingsUrl": "https://codeforces.com/gym/105760/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #40 (Maths-Forces)",
+    "startTime": 1741358100,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 105767,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105767",
+    "standingsUrl": "https://codeforces.com/gym/105767/standings"
   }
 ]
