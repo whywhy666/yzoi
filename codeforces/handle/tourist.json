@@ -6,6 +6,420 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 309860377,
+      "creationTime": 1741626896,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077G",
+        "name": "RGB Walking",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "dfs and similar",
+          "graphs",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309860377"
+    },
+    {
+      "type": "codeforces",
+      "id": 309860273,
+      "creationTime": 1741626887,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077G",
+        "name": "RGB Walking",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "dfs and similar",
+          "graphs",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309860273"
+    },
+    {
+      "type": "codeforces",
+      "id": 309860238,
+      "creationTime": 1741626884,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617901
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077G",
+        "name": "RGB Walking",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "dfs and similar",
+          "graphs",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309860238"
+    },
+    {
+      "type": "codeforces",
+      "id": 309859935,
+      "creationTime": 1741626855,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077G",
+        "name": "RGB Walking",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "dfs and similar",
+          "graphs",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309859935"
+    },
+    {
+      "type": "codeforces",
+      "id": 309855746,
+      "creationTime": 1741626275,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077G",
+        "name": "RGB Walking",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "dfs and similar",
+          "graphs",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309855746"
+    },
+    {
+      "type": "codeforces",
+      "id": 309846946,
+      "creationTime": 1741624839,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077G",
+        "name": "RGB Walking",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "dfs and similar",
+          "graphs",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309846946"
+    },
+    {
+      "type": "codeforces",
+      "id": 309841902,
+      "creationTime": 1741624065,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077G",
+        "name": "RGB Walking",
+        "tags": [
+          "bitmasks",
+          "chinese remainder theorem",
+          "dfs and similar",
+          "graphs",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309841902"
+    },
+    {
+      "type": "codeforces",
+      "id": 309836201,
+      "creationTime": 1741623252,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077F",
+        "name": "AND x OR",
+        "tags": [
+          "bitmasks",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309836201"
+    },
+    {
+      "type": "codeforces",
+      "id": 309828860,
+      "creationTime": 1741622347,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077D",
+        "name": "Maximum Polygon",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309828860"
+    },
+    {
+      "type": "codeforces",
+      "id": 309827634,
+      "creationTime": 1741622207,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077D",
+        "name": "Maximum Polygon",
+        "tags": [
+          "brute force",
+          "data structures",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309827634"
+    },
+    {
+      "type": "codeforces",
+      "id": 309812180,
+      "creationTime": 1741620671,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077E",
+        "name": "Another Folding Strip",
+        "tags": [
+          "combinatorics",
+          "data structures",
+          "divide and conquer",
+          "dp",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309812180"
+    },
+    {
+      "type": "codeforces",
+      "id": 309800177,
+      "creationTime": 1741619724,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077C",
+        "name": "Binary Subsequence Value Sum",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "fft",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309800177"
+    },
+    {
+      "type": "codeforces",
+      "id": 309799400,
+      "creationTime": 1741619669,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077C",
+        "name": "Binary Subsequence Value Sum",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "fft",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309799400"
+    },
+    {
+      "type": "codeforces",
+      "id": 309787242,
+      "creationTime": 1741618966,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077B",
+        "name": "Finding OR Sum",
+        "tags": [
+          "bitmasks",
+          "implementation",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309787242"
+    },
+    {
+      "type": "codeforces",
+      "id": 309770706,
+      "creationTime": 1741618182,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1741617900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2077A",
+        "name": "Breach of Faith",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2077/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2077/submission/309770706"
+    },
+    {
+      "type": "codeforces",
       "id": 308670343,
       "creationTime": 1740927149,
       "language": "C++20 (GCC 13-64)",
@@ -135121,7 +135535,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3857,
+    "rating": 3799,
     "maxRank": "tourist",
     "maxRating": 4009
   }

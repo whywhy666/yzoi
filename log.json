@@ -1,9 +1,136 @@
 {
   "version": "0.1.16",
-  "updateTime": 1741554626,
+  "updateTime": 1741641117,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 309860377,
+            "pid": "2077G",
+            "name": "RGB Walking",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1741626896
+          },
+          {
+            "platform": "codeforces",
+            "id": 309860273,
+            "pid": "2077G",
+            "name": "RGB Walking",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1741626887
+          },
+          {
+            "platform": "codeforces",
+            "id": 309860238,
+            "pid": "2077G",
+            "name": "RGB Walking",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1741626884
+          },
+          {
+            "platform": "codeforces",
+            "id": 309859935,
+            "pid": "2077G",
+            "name": "RGB Walking",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1741626855
+          },
+          {
+            "platform": "codeforces",
+            "id": 309855746,
+            "pid": "2077G",
+            "name": "RGB Walking",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1741626275
+          },
+          {
+            "platform": "codeforces",
+            "id": 309846946,
+            "pid": "2077G",
+            "name": "RGB Walking",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1741624839
+          },
+          {
+            "platform": "codeforces",
+            "id": 309841902,
+            "pid": "2077G",
+            "name": "RGB Walking",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1741624065
+          },
+          {
+            "platform": "codeforces",
+            "id": 309836201,
+            "pid": "2077F",
+            "name": "AND x OR",
+            "verdict": "OK",
+            "creationTime": 1741623252
+          },
+          {
+            "platform": "codeforces",
+            "id": 309828860,
+            "pid": "2077D",
+            "name": "Maximum Polygon",
+            "verdict": "OK",
+            "creationTime": 1741622347
+          },
+          {
+            "platform": "codeforces",
+            "id": 309827634,
+            "pid": "2077D",
+            "name": "Maximum Polygon",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1741622207
+          },
+          {
+            "platform": "codeforces",
+            "id": 309812180,
+            "pid": "2077E",
+            "name": "Another Folding Strip",
+            "verdict": "OK",
+            "creationTime": 1741620671
+          },
+          {
+            "platform": "codeforces",
+            "id": 309800177,
+            "pid": "2077C",
+            "name": "Binary Subsequence Value Sum",
+            "verdict": "OK",
+            "creationTime": 1741619724
+          },
+          {
+            "platform": "codeforces",
+            "id": 309799400,
+            "pid": "2077C",
+            "name": "Binary Subsequence Value Sum",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1741619669
+          },
+          {
+            "platform": "codeforces",
+            "id": 309787242,
+            "pid": "2077B",
+            "name": "Finding OR Sum",
+            "verdict": "OK",
+            "creationTime": 1741618966
+          },
+          {
+            "platform": "codeforces",
+            "id": 309770706,
+            "pid": "2077A",
+            "name": "Breach of Faith",
+            "verdict": "OK",
+            "creationTime": 1741618182
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "463ee9c38cc03c45d8b8cfaae70ba21a68c9e973"
+  "ref": "f1c510ece6a51049450b54a59d5f356b8c79099e"
 }

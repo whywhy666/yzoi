@@ -22956,5 +22956,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105767",
     "standingsUrl": "https://codeforces.com/gym/105767/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Winter Cup 7.0 Online Mirror Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105775,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105775",
+    "standingsUrl": "https://codeforces.com/gym/105775/standings"
   }
 ]
