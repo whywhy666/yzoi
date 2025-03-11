@@ -219,6 +219,7 @@
         "name": "AND x OR",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/F"
@@ -301,8 +302,7 @@
           "data structures",
           "divide and conquer",
           "dp",
-          "math",
-          "sortings"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/E"
       },
@@ -327,10 +327,11 @@
         "name": "Binary Subsequence Value Sum",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "fft",
-          "implementation",
-          "math"
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
       },
@@ -355,10 +356,11 @@
         "name": "Binary Subsequence Value Sum",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "fft",
-          "implementation",
-          "math"
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
       },
@@ -383,6 +385,7 @@
         "name": "Finding OR Sum",
         "tags": [
           "bitmasks",
+          "constructive algorithms",
           "implementation",
           "interactive",
           "math"
