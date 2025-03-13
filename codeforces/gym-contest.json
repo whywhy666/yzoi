@@ -22966,5 +22966,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105775",
     "standingsUrl": "https://codeforces.com/gym/105775/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC x WiCS Contest 3-12-25 (UT Internal)",
+    "startTime": 1741822200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105780,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105780",
+    "standingsUrl": "https://codeforces.com/gym/105780/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XXIX Spain Olympiad in Informatics, Online Qualifier",
+    "startTime": 1741798800,
+    "duration": 12600,
+    "participantNumber": 0,
+    "id": 105783,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105783",
+    "standingsUrl": "https://codeforces.com/gym/105783/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC x WiCS Contest 3-12-25 (Unofficial)",
+    "startTime": 1741822200,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105782,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105782",
+    "standingsUrl": "https://codeforces.com/gym/105782/standings"
   }
 ]
