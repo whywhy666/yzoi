@@ -328,9 +328,11 @@
         "name": "Binary Subsequence Value Sum",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "fft",
-          "math"
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
       },
@@ -355,9 +357,11 @@
         "name": "Binary Subsequence Value Sum",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "fft",
-          "math"
+          "math",
+          "matrices"
         ],
         "problemUrl": "https://codeforces.com/contest/2077/problem/C"
       },
@@ -135535,7 +135539,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3799,
+    "rating": 3857,
     "maxRank": "tourist",
     "maxRating": 4009
   }
