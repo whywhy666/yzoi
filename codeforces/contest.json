@@ -1,6 +1,28 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round 1010 (Div. 1, Unrated)",
+    "startTime": 1742049300,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 2081,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2081",
+    "standingsUrl": "https://codeforces.com/contest/2081/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 1010 (Div. 2, Unrated)",
+    "startTime": 1742049300,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 2082,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2082",
+    "standingsUrl": "https://codeforces.com/contest/2082/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Codeforces Round 1009 (Div. 3)",
     "startTime": 1741703700,
     "duration": 9000,
