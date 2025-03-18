@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2077G",
         "name": "RGB Walking",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "2077G",
         "name": "RGB Walking",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
@@ -77,6 +79,7 @@
         "type": "codeforces",
         "id": "2077G",
         "name": "RGB Walking",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
@@ -105,6 +108,7 @@
         "type": "codeforces",
         "id": "2077G",
         "name": "RGB Walking",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
@@ -133,6 +137,7 @@
         "type": "codeforces",
         "id": "2077G",
         "name": "RGB Walking",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
@@ -161,6 +166,7 @@
         "type": "codeforces",
         "id": "2077G",
         "name": "RGB Walking",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
@@ -189,6 +195,7 @@
         "type": "codeforces",
         "id": "2077G",
         "name": "RGB Walking",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "chinese remainder theorem",
@@ -217,6 +224,7 @@
         "type": "codeforces",
         "id": "2077F",
         "name": "AND x OR",
+        "rating": 3300,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -243,6 +251,7 @@
         "type": "codeforces",
         "id": "2077D",
         "name": "Maximum Polygon",
+        "rating": 3100,
         "tags": [
           "brute force",
           "data structures",
@@ -271,6 +280,7 @@
         "type": "codeforces",
         "id": "2077D",
         "name": "Maximum Polygon",
+        "rating": 3100,
         "tags": [
           "brute force",
           "data structures",
@@ -299,6 +309,7 @@
         "type": "codeforces",
         "id": "2077E",
         "name": "Another Folding Strip",
+        "rating": 2700,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -329,6 +340,7 @@
         "type": "codeforces",
         "id": "2077C",
         "name": "Binary Subsequence Value Sum",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "data structures",
@@ -358,6 +370,7 @@
         "type": "codeforces",
         "id": "2077C",
         "name": "Binary Subsequence Value Sum",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "data structures",
@@ -387,6 +400,7 @@
         "type": "codeforces",
         "id": "2077B",
         "name": "Finding OR Sum",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -415,6 +429,7 @@
         "type": "codeforces",
         "id": "2077A",
         "name": "Breach of Faith",
+        "rating": 1500,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -442,6 +457,7 @@
         "type": "codeforces",
         "id": "2068B",
         "name": "Urban Planning",
+        "rating": 3100,
         "tags": [
           "constructive algorithms"
         ],
@@ -466,6 +482,7 @@
         "type": "codeforces",
         "id": "2068E",
         "name": "Porto Vs. Benfica",
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -494,6 +511,7 @@
         "type": "codeforces",
         "id": "2068E",
         "name": "Porto Vs. Benfica",
+        "rating": 2800,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -522,6 +540,7 @@
         "type": "codeforces",
         "id": "2068D",
         "name": "Morse Code",
+        "rating": 3100,
         "tags": [
           "dp",
           "sortings",
@@ -548,6 +567,7 @@
         "type": "codeforces",
         "id": "2068K",
         "name": "Amusement Park Rides",
+        "rating": 3000,
         "tags": [
           "flows",
           "graphs"
@@ -573,6 +593,7 @@
         "type": "codeforces",
         "id": "2068K",
         "name": "Amusement Park Rides",
+        "rating": 3000,
         "tags": [
           "flows",
           "graphs"
@@ -598,6 +619,7 @@
         "type": "codeforces",
         "id": "2068K",
         "name": "Amusement Park Rides",
+        "rating": 3000,
         "tags": [
           "flows",
           "graphs"
@@ -623,6 +645,7 @@
         "type": "codeforces",
         "id": "2068K",
         "name": "Amusement Park Rides",
+        "rating": 3000,
         "tags": [
           "flows",
           "graphs"
@@ -648,6 +671,7 @@
         "type": "codeforces",
         "id": "2068K",
         "name": "Amusement Park Rides",
+        "rating": 3000,
         "tags": [
           "flows",
           "graphs"
@@ -673,6 +697,7 @@
         "type": "codeforces",
         "id": "2068H",
         "name": "Statues",
+        "rating": 2700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -699,6 +724,7 @@
         "type": "codeforces",
         "id": "2068J",
         "name": "The Ultimate Wine Tasting Event",
+        "rating": 2000,
         "tags": [
           "combinatorics",
           "greedy"
@@ -724,6 +750,7 @@
         "type": "codeforces",
         "id": "2068F",
         "name": "Mascot Naming",
+        "rating": 1900,
         "tags": [
           "brute force",
           "greedy",
@@ -751,6 +778,7 @@
         "type": "codeforces",
         "id": "2068C",
         "name": "Ads",
+        "rating": 2100,
         "tags": [
           "binary search",
           "greedy",
@@ -777,6 +805,7 @@
         "type": "codeforces",
         "id": "2068A",
         "name": "Condorcet Elections",
+        "rating": 2300,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -804,6 +833,7 @@
         "type": "codeforces",
         "id": "2071F",
         "name": "Towering Arrays",
+        "rating": 2700,
         "tags": [
           "binary search",
           "data structures"
@@ -829,6 +859,7 @@
         "type": "codeforces",
         "id": "2071F",
         "name": "Towering Arrays",
+        "rating": 2700,
         "tags": [
           "binary search",
           "data structures"
@@ -854,6 +885,7 @@
         "type": "codeforces",
         "id": "2071F",
         "name": "Towering Arrays",
+        "rating": 2700,
         "tags": [
           "binary search",
           "data structures"
@@ -879,6 +911,7 @@
         "type": "codeforces",
         "id": "2071F",
         "name": "Towering Arrays",
+        "rating": 2700,
         "tags": [
           "binary search",
           "data structures"
@@ -904,6 +937,7 @@
         "type": "codeforces",
         "id": "2071F",
         "name": "Towering Arrays",
+        "rating": 2700,
         "tags": [
           "binary search",
           "data structures"
@@ -929,6 +963,7 @@
         "type": "codeforces",
         "id": "2071D2",
         "name": "Infinite Sequence (Hard Version)",
+        "rating": 2500,
         "tags": [
           "bitmasks",
           "brute force",
@@ -959,6 +994,7 @@
         "type": "codeforces",
         "id": "2071D1",
         "name": "Infinite Sequence (Easy Version)",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -987,6 +1023,7 @@
         "type": "codeforces",
         "id": "2071D1",
         "name": "Infinite Sequence (Easy Version)",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -1015,6 +1052,7 @@
         "type": "codeforces",
         "id": "2071E",
         "name": "LeaFall",
+        "rating": 2600,
         "tags": [
           "combinatorics",
           "dp",
@@ -1042,6 +1080,7 @@
         "type": "codeforces",
         "id": "2071C",
         "name": "Trapmigiano Reggiano",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -1072,6 +1111,7 @@
         "type": "codeforces",
         "id": "2071B",
         "name": "Perfecto",
+        "rating": 1100,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -1099,6 +1139,7 @@
         "type": "codeforces",
         "id": "2071B",
         "name": "Perfecto",
+        "rating": 1100,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -1126,6 +1167,7 @@
         "type": "codeforces",
         "id": "2071B",
         "name": "Perfecto",
+        "rating": 1100,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -1153,6 +1195,7 @@
         "type": "codeforces",
         "id": "2071A",
         "name": "The Play Never Ends",
+        "rating": 800,
         "tags": [
           "math",
           "number theory"
