@@ -23022,12 +23022,33 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "2024-2025 Qualifying stage of the regional Olympiad Turing Machine in programming",
+    "name": "2024-2025 Qualifying stage of the regional Olympiad Turing Machine",
     "duration": 864000,
     "participantNumber": 0,
     "id": 105788,
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105788",
     "standingsUrl": "https://codeforces.com/gym/105788/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UFPE Starters Final Try-Outs 2025",
+    "startTime": 1742641200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105791,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105791",
+    "standingsUrl": "https://codeforces.com/gym/105791/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2024-2025 Regional Olympiad Final Turing Machine",
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 105792,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105792",
+    "standingsUrl": "https://codeforces.com/gym/105792/standings"
   }
 ]
