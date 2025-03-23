@@ -23043,6 +23043,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "UDESC Selection Contest 2024-1",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105790,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105790",
+    "standingsUrl": "https://codeforces.com/gym/105790/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
     "name": "2024-2025 Regional Olympiad Final Turing Machine",
     "duration": 14100,
     "participantNumber": 0,
@@ -23050,5 +23060,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105792",
     "standingsUrl": "https://codeforces.com/gym/105792/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UNICAMP Selection Contest 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105796,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105796",
+    "standingsUrl": "https://codeforces.com/gym/105796/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Cognitive Technologies 2024-2025. Final",
+    "startTime": 1742715000,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105798,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105798",
+    "standingsUrl": "https://codeforces.com/gym/105798/standings"
   }
 ]

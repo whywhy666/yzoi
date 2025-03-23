@@ -6,6 +6,229 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 312117803,
+      "creationTime": 1742760707,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -404722940
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089E",
+        "name": "Black Cat Collapse",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/312117803"
+    },
+    {
+      "type": "codeforces",
+      "id": 312117703,
+      "creationTime": 1742760627,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -404723020
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089E",
+        "name": "Black Cat Collapse",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/312117703"
+    },
+    {
+      "type": "codeforces",
+      "id": 312026130,
+      "creationTime": 1742716286,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1742708100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089E",
+        "name": "Black Cat Collapse",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/312026130"
+    },
+    {
+      "type": "codeforces",
+      "id": 312005425,
+      "creationTime": 1742712995,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1742708100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089D",
+        "name": "Conditional Operators",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/312005425"
+    },
+    {
+      "type": "codeforces",
+      "id": 311991638,
+      "creationTime": 1742711067,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1742708100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089B1",
+        "name": "Canteen (Easy Version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dsu",
+          "greedy",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/311991638"
+    },
+    {
+      "type": "codeforces",
+      "id": 311991504,
+      "creationTime": 1742711048,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1742708100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089B2",
+        "name": "Canteen (Hard Version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/B2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/311991504"
+    },
+    {
+      "type": "codeforces",
+      "id": 311986572,
+      "creationTime": 1742710436,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1742708100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089C2",
+        "name": "Key of Like (Hard Version)",
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/311986572"
+    },
+    {
+      "type": "codeforces",
+      "id": 311971941,
+      "creationTime": 1742708933,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1742708100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089C1",
+        "name": "Key of Like (Easy Version)",
+        "tags": [
+          "dp",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/311971941"
+    },
+    {
+      "type": "codeforces",
+      "id": 311962756,
+      "creationTime": 1742708347,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1742708100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2089A",
+        "name": "Simple Permutation",
+        "tags": [
+          "constructive algorithms",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2089/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2089/submission/311962756"
+    },
+    {
+      "type": "codeforces",
       "id": 309860377,
       "creationTime": 1741626896,
       "language": "C++20 (GCC 13-64)",
@@ -135585,7 +135808,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3798,
+    "rating": 3892,
     "maxRank": "tourist",
     "maxRating": 4009
   }
