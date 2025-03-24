@@ -114,9 +114,8 @@
         "tags": [
           "binary search",
           "data structures",
-          "dsu",
+          "flows",
           "greedy",
-          "implementation",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2089/problem/B1"
@@ -143,6 +142,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "dp",
           "greedy",
           "two pointers"
         ],
@@ -195,6 +195,7 @@
         "name": "Key of Like (Easy Version)",
         "tags": [
           "dp",
+          "games",
           "math",
           "probabilities"
         ],

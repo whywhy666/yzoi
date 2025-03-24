@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1742764260,
+  "updateTime": 1742850712,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 312117803,
-            "pid": "2089E",
-            "name": "Black Cat Collapse",
-            "verdict": "OK",
-            "creationTime": 1742760707
-          },
-          {
-            "platform": "codeforces",
-            "id": 312117703,
-            "pid": "2089E",
-            "name": "Black Cat Collapse",
-            "verdict": "OK",
-            "creationTime": 1742760627
-          },
-          {
-            "platform": "codeforces",
-            "id": 312026130,
-            "pid": "2089E",
-            "name": "Black Cat Collapse",
-            "verdict": "OK",
-            "creationTime": 1742716286
-          },
-          {
-            "platform": "codeforces",
-            "id": 312005425,
-            "pid": "2089D",
-            "name": "Conditional Operators",
-            "verdict": "OK",
-            "creationTime": 1742712995
-          },
-          {
-            "platform": "codeforces",
-            "id": 311991638,
-            "pid": "2089B1",
-            "name": "Canteen (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1742711067
-          },
-          {
-            "platform": "codeforces",
-            "id": 311991504,
-            "pid": "2089B2",
-            "name": "Canteen (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1742711048
-          },
-          {
-            "platform": "codeforces",
-            "id": 311986572,
-            "pid": "2089C2",
-            "name": "Key of Like (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1742710436
-          },
-          {
-            "platform": "codeforces",
-            "id": 311971941,
-            "pid": "2089C1",
-            "name": "Key of Like (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1742708933
-          },
-          {
-            "platform": "codeforces",
-            "id": 311962756,
-            "pid": "2089A",
-            "name": "Simple Permutation",
-            "verdict": "OK",
-            "creationTime": 1742708347
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "5219bcdd341a0c4fb9f1ec5decc1088437b181ac"
+  "ref": "cc76eaf6d63fbef4bfc2ee399c2d9fcaaf58ec2b"
 }
