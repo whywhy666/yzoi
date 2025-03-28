@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2089E",
         "name": "Black Cat Collapse",
+        "rating": 3500,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/2089/problem/E"
       },
@@ -43,6 +44,7 @@
         "type": "codeforces",
         "id": "2089E",
         "name": "Black Cat Collapse",
+        "rating": 3500,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/2089/problem/E"
       },
@@ -65,6 +67,7 @@
         "type": "codeforces",
         "id": "2089E",
         "name": "Black Cat Collapse",
+        "rating": 3500,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/2089/problem/E"
       },
@@ -87,6 +90,7 @@
         "type": "codeforces",
         "id": "2089D",
         "name": "Conditional Operators",
+        "rating": 3200,
         "tags": [
           "constructive algorithms"
         ],
@@ -111,6 +115,7 @@
         "type": "codeforces",
         "id": "2089B1",
         "name": "Canteen (Easy Version)",
+        "rating": 1900,
         "tags": [
           "binary search",
           "data structures",
@@ -139,10 +144,12 @@
         "type": "codeforces",
         "id": "2089B2",
         "name": "Canteen (Hard Version)",
+        "rating": 2300,
         "tags": [
           "binary search",
           "data structures",
           "dp",
+          "flows",
           "greedy",
           "two pointers"
         ],
@@ -167,6 +174,7 @@
         "type": "codeforces",
         "id": "2089C2",
         "name": "Key of Like (Hard Version)",
+        "rating": 3100,
         "tags": [
           "dp",
           "math",
@@ -193,6 +201,7 @@
         "type": "codeforces",
         "id": "2089C1",
         "name": "Key of Like (Easy Version)",
+        "rating": 2200,
         "tags": [
           "dp",
           "games",
@@ -220,6 +229,7 @@
         "type": "codeforces",
         "id": "2089A",
         "name": "Simple Permutation",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "number theory"
