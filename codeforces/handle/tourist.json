@@ -6,6 +6,257 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 314160492,
+      "creationTime": 1743878576,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -403605071
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084H",
+        "name": "Turtle and Nediam 2",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314160492"
+    },
+    {
+      "type": "codeforces",
+      "id": 314153931,
+      "creationTime": 1743874360,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084H",
+        "name": "Turtle and Nediam 2",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314153931"
+    },
+    {
+      "type": "codeforces",
+      "id": 314152849,
+      "creationTime": 1743874158,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084H",
+        "name": "Turtle and Nediam 2",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314152849"
+    },
+    {
+      "type": "codeforces",
+      "id": 314122753,
+      "creationTime": 1743868916,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084G1",
+        "name": "Wish Upon a Satellite (Easy Version)",
+        "tags": [
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/G1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314122753"
+    },
+    {
+      "type": "codeforces",
+      "id": 314113301,
+      "creationTime": 1743867709,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084F",
+        "name": "Skyscape",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314113301"
+    },
+    {
+      "type": "codeforces",
+      "id": 314096655,
+      "creationTime": 1743865916,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084E",
+        "name": "Blossom",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314096655"
+    },
+    {
+      "type": "codeforces",
+      "id": 314086450,
+      "creationTime": 1743864960,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084D",
+        "name": "Arcology On Permafrost",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314086450"
+    },
+    {
+      "type": "codeforces",
+      "id": 314079232,
+      "creationTime": 1743864404,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084C",
+        "name": "You Soared Afar With Grace",
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314079232"
+    },
+    {
+      "type": "codeforces",
+      "id": 314070221,
+      "creationTime": 1743863851,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084B",
+        "name": "MIN = GCD",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314070221"
+    },
+    {
+      "type": "codeforces",
+      "id": 314069578,
+      "creationTime": 1743863763,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743863700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2084A",
+        "name": "Max and Mod",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2084/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2084/submission/314069578"
+    },
+    {
+      "type": "codeforces",
       "id": 312117803,
       "creationTime": 1742760707,
       "language": "C++20 (GCC 13-64)",
@@ -135819,7 +136070,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3892,
+    "rating": 3796,
     "maxRank": "tourist",
     "maxRating": 4009
   }
