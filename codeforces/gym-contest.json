@@ -23105,6 +23105,17 @@
     "standingsUrl": "https://codeforces.com/gym/105805/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "XXIX Spain Olympiad in Informatics, Day 2 (Mirror)",
+    "startTime": 1743930000,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105804,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105804",
+    "standingsUrl": "https://codeforces.com/gym/105804/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "“华为杯”2025 年广东工业大学 ACM 程序设计竞赛",
     "duration": 18000,
@@ -23113,5 +23124,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105806",
     "standingsUrl": "https://codeforces.com/gym/105806/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TeamsCode Spring 2025 Novice Division",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105819,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105819",
+    "standingsUrl": "https://codeforces.com/gym/105819/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TeamsCode Spring 2025 Advanced Division",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105818,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105818",
+    "standingsUrl": "https://codeforces.com/gym/105818/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Spring 2025 Qualification Round 1",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105822,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105822",
+    "standingsUrl": "https://codeforces.com/gym/105822/standings"
   }
 ]

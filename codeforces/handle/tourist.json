@@ -145,9 +145,11 @@
         "id": "2084E",
         "name": "Blossom",
         "tags": [
+          "binary search",
+          "brute force",
           "combinatorics",
           "dp",
-          "fft",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/E"
@@ -172,6 +174,8 @@
         "id": "2084D",
         "name": "Arcology On Permafrost",
         "tags": [
+          "binary search",
+          "brute force",
           "constructive algorithms",
           "greedy",
           "math"
@@ -199,6 +203,7 @@
         "name": "You Soared Afar With Grace",
         "tags": [
           "constructive algorithms",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/C"
