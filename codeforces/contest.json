@@ -1,5 +1,16 @@
 [
   {
+    "type": "codeforces/icpc",
+    "name": "Kotlin Heroes: Episode 12",
+    "startTime": 1744036500,
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 2087,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2087",
+    "standingsUrl": "https://codeforces.com/contest/2087/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
     "startTime": 1743863700,
@@ -31,6 +42,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/contest/2095",
     "standingsUrl": "https://codeforces.com/contest/2095/standings"
+  },
+  {
+    "type": "codeforces/icpc",
+    "name": "Kotlin Heroes: Practice 12",
+    "startTime": 1743428100,
+    "duration": 604800,
+    "participantNumber": 0,
+    "id": 2088,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2088",
+    "standingsUrl": "https://codeforces.com/contest/2088/standings"
   },
   {
     "type": "codeforces/cf",

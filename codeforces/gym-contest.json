@@ -23127,6 +23127,28 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Code Rush 2025",
+    "startTime": 1743876300,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105809,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105809",
+    "standingsUrl": "https://codeforces.com/gym/105809/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UT Open 2025",
+    "startTime": 1743960600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105811,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105811",
+    "standingsUrl": "https://codeforces.com/gym/105811/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "TeamsCode Spring 2025 Novice Division",
     "duration": 10800,
     "participantNumber": 0,

@@ -6,6 +6,261 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 314400475,
+      "creationTime": 1744045344,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087I",
+        "name": "Hamiltonian Partition",
+        "tags": [
+          "*special",
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314400475"
+    },
+    {
+      "type": "codeforces",
+      "id": 314397583,
+      "creationTime": 1744044208,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087H",
+        "name": "Nim with Special Numbers",
+        "tags": [
+          "*special",
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314397583"
+    },
+    {
+      "type": "codeforces",
+      "id": 314389159,
+      "creationTime": 1744040905,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087G",
+        "name": "Esports in Berland",
+        "tags": [
+          "*special",
+          "*special",
+          "greedy",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314389159"
+    },
+    {
+      "type": "codeforces",
+      "id": 314382647,
+      "creationTime": 1744038639,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087F",
+        "name": "Weapon Upgrade",
+        "tags": [
+          "*special",
+          "*special",
+          "dp",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314382647"
+    },
+    {
+      "type": "codeforces",
+      "id": 314379495,
+      "creationTime": 1744037662,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087E",
+        "name": "Color the Arrows",
+        "tags": [
+          "*special",
+          "*special",
+          "dp",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314379495"
+    },
+    {
+      "type": "codeforces",
+      "id": 314378649,
+      "creationTime": 1744037412,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087D",
+        "name": "Uppercase or Lowercase?",
+        "tags": [
+          "*special",
+          "*special",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314378649"
+    },
+    {
+      "type": "codeforces",
+      "id": 314376774,
+      "creationTime": 1744036876,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087C",
+        "name": "Coin Game",
+        "tags": [
+          "*special",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314376774"
+    },
+    {
+      "type": "codeforces",
+      "id": 314376278,
+      "creationTime": 1744036736,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087B",
+        "name": "Showmatch",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314376278"
+    },
+    {
+      "type": "codeforces",
+      "id": 314375891,
+      "creationTime": 1744036627,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1744036500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2087A",
+        "name": "Password Generator",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2087/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2087/submission/314375891"
+    },
+    {
+      "type": "codeforces",
+      "id": 314333512,
+      "creationTime": 1744014793,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1743428100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2088A",
+        "name": "Easy Problem",
+        "tags": [
+          "*special",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2088/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2088/submission/314333512"
+    },
+    {
+      "type": "codeforces",
       "id": 314160492,
       "creationTime": 1743878576,
       "language": "C++20 (GCC 13-64)",
@@ -22,7 +277,8 @@
         "id": "2084H",
         "name": "Turtle and Nediam 2",
         "tags": [
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/H"
       },
@@ -46,7 +302,8 @@
         "id": "2084H",
         "name": "Turtle and Nediam 2",
         "tags": [
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/H"
       },
@@ -70,7 +327,8 @@
         "id": "2084H",
         "name": "Turtle and Nediam 2",
         "tags": [
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/H"
       },
@@ -145,7 +403,6 @@
         "id": "2084E",
         "name": "Blossom",
         "tags": [
-          "binary search",
           "brute force",
           "combinatorics",
           "dp",
@@ -229,7 +486,8 @@
         "name": "MIN = GCD",
         "tags": [
           "greedy",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/B"
       },
