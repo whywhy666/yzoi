@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1744060363,
+  "updateTime": 1744233061,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 314400475,
-            "pid": "2087I",
-            "name": "Hamiltonian Partition",
-            "verdict": "OK",
-            "creationTime": 1744045344
-          },
-          {
-            "platform": "codeforces",
-            "id": 314397583,
-            "pid": "2087H",
-            "name": "Nim with Special Numbers",
-            "verdict": "OK",
-            "creationTime": 1744044208
-          },
-          {
-            "platform": "codeforces",
-            "id": 314389159,
-            "pid": "2087G",
-            "name": "Esports in Berland",
-            "verdict": "OK",
-            "creationTime": 1744040905
-          },
-          {
-            "platform": "codeforces",
-            "id": 314382647,
-            "pid": "2087F",
-            "name": "Weapon Upgrade",
-            "verdict": "OK",
-            "creationTime": 1744038639
-          },
-          {
-            "platform": "codeforces",
-            "id": 314379495,
-            "pid": "2087E",
-            "name": "Color the Arrows",
-            "verdict": "OK",
-            "creationTime": 1744037662
-          },
-          {
-            "platform": "codeforces",
-            "id": 314378649,
-            "pid": "2087D",
-            "name": "Uppercase or Lowercase?",
-            "verdict": "OK",
-            "creationTime": 1744037412
-          },
-          {
-            "platform": "codeforces",
-            "id": 314376774,
-            "pid": "2087C",
-            "name": "Coin Game",
-            "verdict": "OK",
-            "creationTime": 1744036876
-          },
-          {
-            "platform": "codeforces",
-            "id": 314376278,
-            "pid": "2087B",
-            "name": "Showmatch",
-            "verdict": "OK",
-            "creationTime": 1744036736
-          },
-          {
-            "platform": "codeforces",
-            "id": 314375891,
-            "pid": "2087A",
-            "name": "Password Generator",
-            "verdict": "OK",
-            "creationTime": 1744036627
-          },
-          {
-            "platform": "codeforces",
-            "id": 314333512,
-            "pid": "2088A",
-            "name": "Easy Problem",
-            "verdict": "OK",
-            "creationTime": 1744014793
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "57542366cf7e70c0e3ca01b2409c88cdf2059062"
+  "ref": "c28e1f14b68485c4ad4dc917d66a25db9240a554"
 }

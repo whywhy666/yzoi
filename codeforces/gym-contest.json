@@ -23148,7 +23148,7 @@
     "standingsUrl": "https://codeforces.com/gym/105811/standings"
   },
   {
-    "type": "codeforces/gym/icpc",
+    "type": "codeforces/gym/ioi",
     "name": "TeamsCode Spring 2025 Novice Division",
     "duration": 10800,
     "participantNumber": 0,
@@ -23158,7 +23158,7 @@
     "standingsUrl": "https://codeforces.com/gym/105819/standings"
   },
   {
-    "type": "codeforces/gym/icpc",
+    "type": "codeforces/gym/ioi",
     "name": "TeamsCode Spring 2025 Advanced Division",
     "duration": 10800,
     "participantNumber": 0,
@@ -23176,5 +23176,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105822",
     "standingsUrl": "https://codeforces.com/gym/105822/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Отбор на ВКОШП.Junior 2025",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105826,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105826",
+    "standingsUrl": "https://codeforces.com/gym/105826/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Финал ВКОШП.Junior 2025",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105828,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105828",
+    "standingsUrl": "https://codeforces.com/gym/105828/standings"
   }
 ]
