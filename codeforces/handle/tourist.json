@@ -403,12 +403,10 @@
         "id": "2084E",
         "name": "Blossom",
         "tags": [
-          "brute force",
           "combinatorics",
-          "dp",
-          "fft",
           "implementation",
-          "math"
+          "math",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2084/problem/E"
       },
