@@ -101,7 +101,6 @@
         "tags": [
           "*special",
           "*special",
-          "dp",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2087/problem/F"
@@ -405,6 +404,7 @@
         "tags": [
           "binary search",
           "combinatorics",
+          "dp",
           "implementation",
           "math",
           "two pointers"
