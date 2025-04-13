@@ -23181,7 +23181,7 @@
   {
     "type": "codeforces/gym/ioi",
     "name": "MITIT Spring 2025 Qualification Round 1",
-    "duration": 7200,
+    "duration": 9000,
     "participantNumber": 0,
     "id": 105822,
     "phase": "FINISHED",
@@ -23218,5 +23218,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105831",
     "standingsUrl": "https://codeforces.com/gym/105831/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Spring 2025 Qualification Round 2",
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 105837,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105837",
+    "standingsUrl": "https://codeforces.com/gym/105837/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "XXVII Interregional Programming Olympiad, Vologda SU, 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105839,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105839",
+    "standingsUrl": "https://codeforces.com/gym/105839/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 14th Huazhong Agricultural University Programming Contest",
+    "startTime": 1744509600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105838,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105838",
+    "standingsUrl": "https://codeforces.com/gym/105838/standings"
   }
 ]
