@@ -6,6 +6,241 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 316291783,
+      "creationTime": 1745082807,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -402400840
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096H",
+        "name": "Wonderful XOR Problem",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316291783"
+    },
+    {
+      "type": "codeforces",
+      "id": 316272006,
+      "creationTime": 1745077532,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096G",
+        "name": "Wonderful Guessing Game",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316272006"
+    },
+    {
+      "type": "codeforces",
+      "id": 316261161,
+      "creationTime": 1745075869,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096F",
+        "name": "Wonderful Impostors",
+        "tags": [
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316261161"
+    },
+    {
+      "type": "codeforces",
+      "id": 316257518,
+      "creationTime": 1745075404,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096F",
+        "name": "Wonderful Impostors",
+        "tags": [
+          "data structures",
+          "implementation",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316257518"
+    },
+    {
+      "type": "codeforces",
+      "id": 316245551,
+      "creationTime": 1745074188,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096E",
+        "name": "Wonderful Teddy Bears",
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316245551"
+    },
+    {
+      "type": "codeforces",
+      "id": 316241076,
+      "creationTime": 1745073871,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096D",
+        "name": "Wonderful Lightbulbs",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316241076"
+    },
+    {
+      "type": "codeforces",
+      "id": 316239186,
+      "creationTime": 1745073738,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096C",
+        "name": "Wonderful City",
+        "tags": [
+          "data structures",
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316239186"
+    },
+    {
+      "type": "codeforces",
+      "id": 316235278,
+      "creationTime": 1745073474,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096B",
+        "name": "Wonderful Gloves",
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316235278"
+    },
+    {
+      "type": "codeforces",
+      "id": 316234623,
+      "creationTime": 1745073358,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745073300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2096A",
+        "name": "Wonderful Sticks",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2096/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2096/submission/316234623"
+    },
+    {
+      "type": "codeforces",
       "id": 314400475,
       "creationTime": 1744045344,
       "language": "Kotlin 1.9",
@@ -275,6 +510,7 @@
         "type": "codeforces",
         "id": "2084H",
         "name": "Turtle and Nediam 2",
+        "rating": 3500,
         "tags": [
           "dp",
           "greedy"
@@ -300,6 +536,7 @@
         "type": "codeforces",
         "id": "2084H",
         "name": "Turtle and Nediam 2",
+        "rating": 3500,
         "tags": [
           "dp",
           "greedy"
@@ -325,6 +562,7 @@
         "type": "codeforces",
         "id": "2084H",
         "name": "Turtle and Nediam 2",
+        "rating": 3500,
         "tags": [
           "dp",
           "greedy"
@@ -350,6 +588,7 @@
         "type": "codeforces",
         "id": "2084G1",
         "name": "Wish Upon a Satellite (Easy Version)",
+        "rating": 2600,
         "tags": [
           "dp",
           "games"
@@ -375,6 +614,7 @@
         "type": "codeforces",
         "id": "2084F",
         "name": "Skyscape",
+        "rating": 2900,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -401,6 +641,7 @@
         "type": "codeforces",
         "id": "2084E",
         "name": "Blossom",
+        "rating": 2400,
         "tags": [
           "binary search",
           "combinatorics",
@@ -430,6 +671,7 @@
         "type": "codeforces",
         "id": "2084D",
         "name": "Arcology On Permafrost",
+        "rating": 1600,
         "tags": [
           "binary search",
           "brute force",
@@ -458,6 +700,7 @@
         "type": "codeforces",
         "id": "2084C",
         "name": "You Soared Afar With Grace",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -485,6 +728,7 @@
         "type": "codeforces",
         "id": "2084B",
         "name": "MIN = GCD",
+        "rating": 1100,
         "tags": [
           "greedy",
           "math",
@@ -511,6 +755,7 @@
         "type": "codeforces",
         "id": "2084A",
         "name": "Max and Mod",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
@@ -136334,7 +136579,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3796,
+    "rating": 3760,
     "maxRank": "tourist",
     "maxRating": 4009
   }

@@ -23271,5 +23271,68 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105838",
     "standingsUrl": "https://codeforces.com/gym/105838/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2024-2025 Всероссийская олимпиада школьников по информатике, второй тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105843,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105843",
+    "standingsUrl": "https://codeforces.com/gym/105843/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2024-2025 Всероссийская олимпиада школьников по информатике, первый тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105842,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105842",
+    "standingsUrl": "https://codeforces.com/gym/105842/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CodEMI 2025",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105845,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105845",
+    "standingsUrl": "https://codeforces.com/gym/105845/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CPC External Problemset",
+    "startTime": 1744965300,
+    "duration": 600,
+    "participantNumber": 0,
+    "id": 105847,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105847",
+    "standingsUrl": "https://codeforces.com/gym/105847/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #42 (Ultimate-Answer-Forces)",
+    "startTime": 1744900500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 105846,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105846",
+    "standingsUrl": "https://codeforces.com/gym/105846/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025年北京市大学生程序设计竞赛暨“小米杯”全国邀请赛",
+    "startTime": 1745114400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105851,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105851",
+    "standingsUrl": "https://codeforces.com/gym/105851/standings"
   }
 ]
