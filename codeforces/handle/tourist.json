@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2096H",
         "name": "Wonderful XOR Problem",
+        "rating": 3200,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "2096G",
         "name": "Wonderful Guessing Game",
+        "rating": 3200,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -75,6 +77,7 @@
         "type": "codeforces",
         "id": "2096F",
         "name": "Wonderful Impostors",
+        "rating": 3100,
         "tags": [
           "data structures",
           "implementation",
@@ -101,6 +104,7 @@
         "type": "codeforces",
         "id": "2096F",
         "name": "Wonderful Impostors",
+        "rating": 3100,
         "tags": [
           "data structures",
           "implementation",
@@ -127,6 +131,7 @@
         "type": "codeforces",
         "id": "2096E",
         "name": "Wonderful Teddy Bears",
+        "rating": 2400,
         "tags": [
           "greedy",
           "implementation",
@@ -153,9 +158,8 @@
         "type": "codeforces",
         "id": "2096D",
         "name": "Wonderful Lightbulbs",
+        "rating": 2000,
         "tags": [
-          "bitmasks",
-          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2096/problem/D"
@@ -179,8 +183,8 @@
         "type": "codeforces",
         "id": "2096C",
         "name": "Wonderful City",
+        "rating": 1700,
         "tags": [
-          "data structures",
           "dp",
           "implementation"
         ],
@@ -205,6 +209,7 @@
         "type": "codeforces",
         "id": "2096B",
         "name": "Wonderful Gloves",
+        "rating": 1100,
         "tags": [
           "greedy",
           "math",
@@ -231,6 +236,7 @@
         "type": "codeforces",
         "id": "2096A",
         "name": "Wonderful Sticks",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"

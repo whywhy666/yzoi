@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1745183485,
+  "updateTime": 1745356360,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 316291783,
-            "pid": "2096H",
-            "name": "Wonderful XOR Problem",
-            "verdict": "OK",
-            "creationTime": 1745082807
-          },
-          {
-            "platform": "codeforces",
-            "id": 316272006,
-            "pid": "2096G",
-            "name": "Wonderful Guessing Game",
-            "verdict": "OK",
-            "creationTime": 1745077532
-          },
-          {
-            "platform": "codeforces",
-            "id": 316261161,
-            "pid": "2096F",
-            "name": "Wonderful Impostors",
-            "verdict": "OK",
-            "creationTime": 1745075869
-          },
-          {
-            "platform": "codeforces",
-            "id": 316257518,
-            "pid": "2096F",
-            "name": "Wonderful Impostors",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1745075404
-          },
-          {
-            "platform": "codeforces",
-            "id": 316245551,
-            "pid": "2096E",
-            "name": "Wonderful Teddy Bears",
-            "verdict": "OK",
-            "creationTime": 1745074188
-          },
-          {
-            "platform": "codeforces",
-            "id": 316241076,
-            "pid": "2096D",
-            "name": "Wonderful Lightbulbs",
-            "verdict": "OK",
-            "creationTime": 1745073871
-          },
-          {
-            "platform": "codeforces",
-            "id": 316239186,
-            "pid": "2096C",
-            "name": "Wonderful City",
-            "verdict": "OK",
-            "creationTime": 1745073738
-          },
-          {
-            "platform": "codeforces",
-            "id": 316235278,
-            "pid": "2096B",
-            "name": "Wonderful Gloves",
-            "verdict": "OK",
-            "creationTime": 1745073474
-          },
-          {
-            "platform": "codeforces",
-            "id": 316234623,
-            "pid": "2096A",
-            "name": "Wonderful Sticks",
-            "verdict": "OK",
-            "creationTime": 1745073358
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "ba80e6c599e1b6e4953503aff0757d9d2b554e11"
+  "ref": "bcbd67a61d4dc187c4cb6d0a1dd48bfa0404d0a5"
 }
