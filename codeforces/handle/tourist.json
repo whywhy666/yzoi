@@ -6,6 +6,222 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 317307318,
+      "creationTime": 1745662044,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097F",
+        "name": "Lost Luggage",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317307318"
+    },
+    {
+      "type": "codeforces",
+      "id": 317301103,
+      "creationTime": 1745660527,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097C",
+        "name": "Bermuda Triangle",
+        "tags": [
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "geometry",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317301103"
+    },
+    {
+      "type": "codeforces",
+      "id": 317299854,
+      "creationTime": 1745660245,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097E",
+        "name": "Clearing the Snowdrift",
+        "tags": [
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317299854"
+    },
+    {
+      "type": "codeforces",
+      "id": 317296567,
+      "creationTime": 1745659514,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097D",
+        "name": "Homework",
+        "tags": [
+          "bitmasks",
+          "math",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317296567"
+    },
+    {
+      "type": "codeforces",
+      "id": 317290744,
+      "creationTime": 1745658265,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097C",
+        "name": "Bermuda Triangle",
+        "tags": [
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "geometry",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317290744"
+    },
+    {
+      "type": "codeforces",
+      "id": 317290052,
+      "creationTime": 1745658125,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097C",
+        "name": "Bermuda Triangle",
+        "tags": [
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "geometry",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317290052"
+    },
+    {
+      "type": "codeforces",
+      "id": 317283633,
+      "creationTime": 1745657079,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097B",
+        "name": "Baggage Claim",
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "dfs and similar",
+          "dp",
+          "dsu",
+          "flows",
+          "graphs",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317283633"
+    },
+    {
+      "type": "codeforces",
+      "id": 317279828,
+      "creationTime": 1745656673,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1745656500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2097A",
+        "name": "Sports Betting",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2097/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2097/submission/317279828"
+    },
+    {
+      "type": "codeforces",
       "id": 316291783,
       "creationTime": 1745082807,
       "language": "C++20 (GCC 13-64)",
@@ -136587,7 +136803,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3760,
+    "rating": 3849,
     "maxRank": "tourist",
     "maxRating": 4009
   }

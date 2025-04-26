@@ -23337,6 +23337,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Mines HSPC 2025 Open Division",
+    "startTime": 1745683200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105859,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105859",
+    "standingsUrl": "https://codeforces.com/gym/105859/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2025 Winter ESCOM Training Camp, Final Contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -23344,5 +23355,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105858",
     "standingsUrl": "https://codeforces.com/gym/105858/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "PPSC 2025",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105863,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105863",
+    "standingsUrl": "https://codeforces.com/gym/105863/standings"
   }
 ]
