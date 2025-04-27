@@ -22,7 +22,8 @@
         "id": "2097F",
         "name": "Lost Luggage",
         "tags": [
-          "dp"
+          "dp",
+          "flows"
         ],
         "problemUrl": "https://codeforces.com/contest/2097/problem/F"
       },
@@ -181,12 +182,10 @@
         "name": "Baggage Claim",
         "tags": [
           "combinatorics",
-          "constructive algorithms",
-          "dfs and similar",
           "dp",
           "dsu",
-          "flows",
           "graphs",
+          "implementation",
           "math",
           "trees"
         ],
@@ -212,7 +211,8 @@
         "id": "2097A",
         "name": "Sports Betting",
         "tags": [
-          "constructive algorithms",
+          "brute force",
+          "math",
           "math",
           "sortings"
         ],

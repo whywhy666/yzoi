@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1745701885,
+  "updateTime": 1745788285,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 317307318,
-            "pid": "2097F",
-            "name": "Lost Luggage",
-            "verdict": "OK",
-            "creationTime": 1745662044
-          },
-          {
-            "platform": "codeforces",
-            "id": 317301103,
-            "pid": "2097C",
-            "name": "Bermuda Triangle",
-            "verdict": "OK",
-            "creationTime": 1745660527
-          },
-          {
-            "platform": "codeforces",
-            "id": 317299854,
-            "pid": "2097E",
-            "name": "Clearing the Snowdrift",
-            "verdict": "OK",
-            "creationTime": 1745660245
-          },
-          {
-            "platform": "codeforces",
-            "id": 317296567,
-            "pid": "2097D",
-            "name": "Homework",
-            "verdict": "OK",
-            "creationTime": 1745659514
-          },
-          {
-            "platform": "codeforces",
-            "id": 317290744,
-            "pid": "2097C",
-            "name": "Bermuda Triangle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1745658265
-          },
-          {
-            "platform": "codeforces",
-            "id": 317290052,
-            "pid": "2097C",
-            "name": "Bermuda Triangle",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1745658125
-          },
-          {
-            "platform": "codeforces",
-            "id": 317283633,
-            "pid": "2097B",
-            "name": "Baggage Claim",
-            "verdict": "OK",
-            "creationTime": 1745657079
-          },
-          {
-            "platform": "codeforces",
-            "id": 317279828,
-            "pid": "2097A",
-            "name": "Sports Betting",
-            "verdict": "OK",
-            "creationTime": 1745656673
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "424169db469a59e1323f94cba978460a1c2bd080"
+  "ref": "e58ee17d53aaf9c29c2c79558cb071b5f34abab6"
 }
