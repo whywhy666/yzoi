@@ -74,7 +74,10 @@
         "id": "2097E",
         "name": "Clearing the Snowdrift",
         "tags": [
-          "data structures"
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2097/problem/E"
       },
@@ -209,6 +212,7 @@
         "id": "2097A",
         "name": "Sports Betting",
         "tags": [
+          "2-sat",
           "brute force",
           "math",
           "sortings"
