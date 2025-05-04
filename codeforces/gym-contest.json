@@ -23389,6 +23389,16 @@
     "standingsUrl": "https://codeforces.com/gym/105864/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC Fall 2024 Day 2 Jagiellonian Contest (The 3rd Universal Cup. Stage 35: Kraków)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105869,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105869",
+    "standingsUrl": "https://codeforces.com/gym/105869/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "MITIT Spring 2025 Finals Round",
     "startTime": 1746279900,
