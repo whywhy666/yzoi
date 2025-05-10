@@ -23439,5 +23439,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105876",
     "standingsUrl": "https://codeforces.com/gym/105876/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Baozii Cup 2",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105883,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105883",
+    "standingsUrl": "https://codeforces.com/gym/105883/standings"
   }
 ]
