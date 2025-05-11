@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1746911471,
+  "updateTime": 1746997924,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 319281731,
+            "pid": "2101F",
+            "name": "Shoo Shatters the Sunshine",
+            "verdict": "OK",
+            "creationTime": 1746981408
+          },
+          {
+            "platform": "codeforces",
+            "id": 319271887,
+            "pid": "2101E",
+            "name": "Kia Bakes a Cake",
+            "verdict": "OK",
+            "creationTime": 1746979693
+          },
+          {
+            "platform": "codeforces",
+            "id": 319268734,
+            "pid": "2101E",
+            "name": "Kia Bakes a Cake",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1746979227
+          },
+          {
+            "platform": "codeforces",
+            "id": 319248152,
+            "pid": "2101C",
+            "name": "23 Kingdom",
+            "verdict": "OK",
+            "creationTime": 1746977121
+          },
+          {
+            "platform": "codeforces",
+            "id": 319244062,
+            "pid": "2101D",
+            "name": "Mani and Segments",
+            "verdict": "OK",
+            "creationTime": 1746976711
+          },
+          {
+            "platform": "codeforces",
+            "id": 319218858,
+            "pid": "2101B",
+            "name": "Quartet Swapping",
+            "verdict": "OK",
+            "creationTime": 1746974623
+          },
+          {
+            "platform": "codeforces",
+            "id": 319216381,
+            "pid": "2101A",
+            "name": "Mex in the Grid",
+            "verdict": "OK",
+            "creationTime": 1746974396
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "e5e903b6ac06d79e26ead31265a0aa0f7b85ea57"
+  "ref": "214a87dac13a28182f691978a216fa6f4499c331"
 }
