@@ -103,9 +103,9 @@
         "name": "23 Kingdom",
         "tags": [
           "binary search",
+          "brute force",
           "data structures",
           "greedy",
-          "ternary search",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/C"
@@ -207,6 +207,7 @@
         "type": "codeforces",
         "id": "2097F",
         "name": "Lost Luggage",
+        "rating": 3500,
         "tags": [
           "dp",
           "flows"
@@ -232,6 +233,7 @@
         "type": "codeforces",
         "id": "2097C",
         "name": "Bermuda Triangle",
+        "rating": 2400,
         "tags": [
           "chinese remainder theorem",
           "geometry",
@@ -260,6 +262,7 @@
         "type": "codeforces",
         "id": "2097E",
         "name": "Clearing the Snowdrift",
+        "rating": 3100,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -287,6 +290,7 @@
         "type": "codeforces",
         "id": "2097D",
         "name": "Homework",
+        "rating": 2800,
         "tags": [
           "bitmasks",
           "math",
@@ -313,6 +317,7 @@
         "type": "codeforces",
         "id": "2097C",
         "name": "Bermuda Triangle",
+        "rating": 2400,
         "tags": [
           "chinese remainder theorem",
           "geometry",
@@ -341,6 +346,7 @@
         "type": "codeforces",
         "id": "2097C",
         "name": "Bermuda Triangle",
+        "rating": 2400,
         "tags": [
           "chinese remainder theorem",
           "geometry",
@@ -369,6 +375,7 @@
         "type": "codeforces",
         "id": "2097B",
         "name": "Baggage Claim",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -400,6 +407,7 @@
         "type": "codeforces",
         "id": "2097A",
         "name": "Sports Betting",
+        "rating": 1400,
         "tags": [
           "2-sat",
           "brute force",
