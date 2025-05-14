@@ -106,6 +106,7 @@
           "brute force",
           "data structures",
           "greedy",
+          "ternary search",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2101/problem/C"
@@ -157,7 +158,9 @@
         "id": "2101B",
         "name": "Quartet Swapping",
         "tags": [
+          "brute force",
           "data structures",
+          "divide and conquer",
           "greedy",
           "sortings"
         ],
