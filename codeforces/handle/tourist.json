@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2101F",
         "name": "Shoo Shatters the Sunshine",
+        "rating": 3300,
         "tags": [
           "combinatorics",
           "dp",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2101E",
         "name": "Kia Bakes a Cake",
+        "rating": 3100,
         "tags": [
           "data structures",
           "dp",
@@ -74,6 +76,7 @@
         "type": "codeforces",
         "id": "2101E",
         "name": "Kia Bakes a Cake",
+        "rating": 3100,
         "tags": [
           "data structures",
           "dp",
@@ -101,7 +104,9 @@
         "type": "codeforces",
         "id": "2101C",
         "name": "23 Kingdom",
+        "rating": 2200,
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "greedy",
@@ -129,6 +134,7 @@
         "type": "codeforces",
         "id": "2101D",
         "name": "Mani and Segments",
+        "rating": 2500,
         "tags": [
           "data structures",
           "implementation",
@@ -156,6 +162,7 @@
         "type": "codeforces",
         "id": "2101B",
         "name": "Quartet Swapping",
+        "rating": 1800,
         "tags": [
           "brute force",
           "data structures",
@@ -184,6 +191,7 @@
         "type": "codeforces",
         "id": "2101A",
         "name": "Mex in the Grid",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "implementation"
