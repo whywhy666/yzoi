@@ -23489,5 +23489,58 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105891",
     "standingsUrl": "https://codeforces.com/gym/105891/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 21st Southeast University Programming Contest (Summer)",
+    "startTime": 1747548000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105895,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105895",
+    "standingsUrl": "https://codeforces.com/gym/105895/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 ICPC Wuhan Invitational Contest (The 3rd Universal Cup. Stage 37: Wuhan)",
+    "startTime": 1745632800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105901,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105901",
+    "standingsUrl": "https://codeforces.com/gym/105901/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 Fujian Normal University Programming Contest",
+    "startTime": 1747530000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105902,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105902",
+    "standingsUrl": "https://codeforces.com/gym/105902/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Ural championship 2025",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105905,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105905",
+    "standingsUrl": "https://codeforces.com/gym/105905/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "I SBC São Paulo Programming Marathon",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105904,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105904",
+    "standingsUrl": "https://codeforces.com/gym/105904/standings"
   }
 ]
