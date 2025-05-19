@@ -23514,6 +23514,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "VI UnBalloon Contest Mirror",
+    "startTime": 1747587600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105900,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105900",
+    "standingsUrl": "https://codeforces.com/gym/105900/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2025 Fujian Normal University Programming Contest",
     "startTime": 1747530000,
     "duration": 18000,
@@ -23542,5 +23553,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105904",
     "standingsUrl": "https://codeforces.com/gym/105904/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 9th Hebei Collegiate Programming Contest",
+    "startTime": 1747530000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105909,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105909",
+    "standingsUrl": "https://codeforces.com/gym/105909/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 ICPC Nanchang Invitational and Jiangxi Provincial Collegiate Programming Contest",
+    "startTime": 1747533600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105911,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105911",
+    "standingsUrl": "https://codeforces.com/gym/105911/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 23th Sichuan University Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105910,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105910",
+    "standingsUrl": "https://codeforces.com/gym/105910/standings"
   }
 ]
