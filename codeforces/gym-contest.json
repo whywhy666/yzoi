@@ -23596,5 +23596,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105920",
     "standingsUrl": "https://codeforces.com/gym/105920/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 18th Jilin Provincial Collegiate Programming Contest",
+    "startTime": 1748048400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105922,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105922",
+    "standingsUrl": "https://codeforces.com/gym/105922/standings"
   }
 ]
