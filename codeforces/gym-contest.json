@@ -23607,5 +23607,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105922",
     "standingsUrl": "https://codeforces.com/gym/105922/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "SBC Brazilian Phase Zero 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105925,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105925",
+    "standingsUrl": "https://codeforces.com/gym/105925/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 CCPC National Invitational Contest (Northeast), The 19th Northeast Collegiate Programming Contest",
+    "startTime": 1748136300,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105924,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105924",
+    "standingsUrl": "https://codeforces.com/gym/105924/standings"
   }
 ]
