@@ -22,7 +22,8 @@
         "id": "2115E",
         "name": "Gellyfish and Mayflower",
         "tags": [
-          "dp"
+          "dp",
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/E"
       },
@@ -46,7 +47,9 @@
         "id": "2115D",
         "name": "Gellyfish and Forget-Me-Not",
         "tags": [
-          "bitmasks"
+          "bitmasks",
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
       },
@@ -70,7 +73,9 @@
         "id": "2115D",
         "name": "Gellyfish and Forget-Me-Not",
         "tags": [
-          "bitmasks"
+          "bitmasks",
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
       },
@@ -96,6 +101,7 @@
         "tags": [
           "combinatorics",
           "dp",
+          "greedy",
           "math",
           "probabilities"
         ],
@@ -178,11 +184,10 @@
         "name": "Gellyfish and Flaming Peony",
         "tags": [
           "brute force",
-          "constructive algorithms",
           "dp",
-          "greedy",
           "math",
-          "number theory"
+          "number theory",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/A"
       },
@@ -137195,7 +137200,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3843,
+    "rating": 3777,
     "maxRank": "tourist",
     "maxRating": 4009
   }

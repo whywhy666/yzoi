@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1748725927,
+  "updateTime": 1748812341,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 322276073,
-            "pid": "2115E",
-            "name": "Gellyfish and Mayflower",
-            "verdict": "OK",
-            "creationTime": 1748707619
-          },
-          {
-            "platform": "codeforces",
-            "id": 322252360,
-            "pid": "2115D",
-            "name": "Gellyfish and Forget-Me-Not",
-            "verdict": "OK",
-            "creationTime": 1748705691
-          },
-          {
-            "platform": "codeforces",
-            "id": 322248007,
-            "pid": "2115D",
-            "name": "Gellyfish and Forget-Me-Not",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1748705386
-          },
-          {
-            "platform": "codeforces",
-            "id": 322234235,
-            "pid": "2115C",
-            "name": "Gellyfish and Eternal Violet",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1748704481
-          },
-          {
-            "platform": "codeforces",
-            "id": 322204435,
-            "pid": "2115B",
-            "name": "Gellyfish and Camellia Japonica",
-            "verdict": "OK",
-            "creationTime": 1748702859
-          },
-          {
-            "platform": "codeforces",
-            "id": 322200652,
-            "pid": "2115B",
-            "name": "Gellyfish and Camellia Japonica",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1748702701
-          },
-          {
-            "platform": "codeforces",
-            "id": 322191602,
-            "pid": "2115A",
-            "name": "Gellyfish and Flaming Peony",
-            "verdict": "OK",
-            "creationTime": 1748702310
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "abb6c1cfe6b0ac3abcc3bbf3bb69fc18c2a7db8d"
+  "ref": "23149b29c38e935ea9e6f62ec92c927f197174c6"
 }
