@@ -1,9 +1,96 @@
 {
   "version": "0.1.16",
-  "updateTime": 1748898859,
+  "updateTime": 1748985147,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 322719568,
+            "pid": "2111G",
+            "name": "Divisible Subarrays",
+            "verdict": "OK",
+            "creationTime": 1748965033
+          },
+          {
+            "platform": "codeforces",
+            "id": 322697990,
+            "pid": "2111E",
+            "name": "Changing the String",
+            "verdict": "OK",
+            "creationTime": 1748963280
+          },
+          {
+            "platform": "codeforces",
+            "id": 322694856,
+            "pid": "2111E",
+            "name": "Changing the String",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1748963048
+          },
+          {
+            "platform": "codeforces",
+            "id": 322691387,
+            "pid": "2111F",
+            "name": "Puzzle",
+            "verdict": "OK",
+            "creationTime": 1748962795
+          },
+          {
+            "platform": "codeforces",
+            "id": 322688282,
+            "pid": "2111F",
+            "name": "Puzzle",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1748962564
+          },
+          {
+            "platform": "codeforces",
+            "id": 322684054,
+            "pid": "2111E",
+            "name": "Changing the String",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1748962248
+          },
+          {
+            "platform": "codeforces",
+            "id": 322678511,
+            "pid": "2111D",
+            "name": "Creating a Schedule",
+            "verdict": "OK",
+            "creationTime": 1748961798
+          },
+          {
+            "platform": "codeforces",
+            "id": 322676707,
+            "pid": "2111C",
+            "name": "Equal Values",
+            "verdict": "OK",
+            "creationTime": 1748961614
+          },
+          {
+            "platform": "codeforces",
+            "id": 322676127,
+            "pid": "2111B",
+            "name": "Fibonacci Cubes",
+            "verdict": "OK",
+            "creationTime": 1748961535
+          },
+          {
+            "platform": "codeforces",
+            "id": 322675651,
+            "pid": "2111A",
+            "name": "Energy Crystals",
+            "verdict": "OK",
+            "creationTime": 1748961390
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "5b112e1b9aeb3d60fb0b136ac9b583be15d104bf"
+  "ref": "1b6779e3d076884c254a37489b9571ca9b6b4304"
 }

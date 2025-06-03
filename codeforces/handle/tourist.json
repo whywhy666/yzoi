@@ -6,6 +6,278 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 322719568,
+      "creationTime": 1748965033,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111G",
+        "name": "Divisible Subarrays",
+        "tags": [
+          "brute force",
+          "data structures",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322719568"
+    },
+    {
+      "type": "codeforces",
+      "id": 322697990,
+      "creationTime": 1748963280,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111E",
+        "name": "Changing the String",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "implementation",
+          "sortings",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322697990"
+    },
+    {
+      "type": "codeforces",
+      "id": 322694856,
+      "creationTime": 1748963048,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111E",
+        "name": "Changing the String",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "implementation",
+          "sortings",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322694856"
+    },
+    {
+      "type": "codeforces",
+      "id": 322691387,
+      "creationTime": 1748962795,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111F",
+        "name": "Puzzle",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322691387"
+    },
+    {
+      "type": "codeforces",
+      "id": 322688282,
+      "creationTime": 1748962564,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111F",
+        "name": "Puzzle",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322688282"
+    },
+    {
+      "type": "codeforces",
+      "id": 322684054,
+      "creationTime": 1748962248,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111E",
+        "name": "Changing the String",
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "implementation",
+          "sortings",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322684054"
+    },
+    {
+      "type": "codeforces",
+      "id": 322678511,
+      "creationTime": 1748961798,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111D",
+        "name": "Creating a Schedule",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322678511"
+    },
+    {
+      "type": "codeforces",
+      "id": 322676707,
+      "creationTime": 1748961614,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111C",
+        "name": "Equal Values",
+        "tags": [
+          "brute force",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322676707"
+    },
+    {
+      "type": "codeforces",
+      "id": 322676127,
+      "creationTime": 1748961535,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111B",
+        "name": "Fibonacci Cubes",
+        "tags": [
+          "brute force",
+          "dp",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322676127"
+    },
+    {
+      "type": "codeforces",
+      "id": 322675651,
+      "creationTime": 1748961390,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1748961300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2111A",
+        "name": "Energy Crystals",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2111/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2111/submission/322675651"
+    },
+    {
+      "type": "codeforces",
       "id": 322276073,
       "creationTime": 1748707619,
       "language": "C++20 (GCC 13-64)",
@@ -48,7 +320,9 @@
         "name": "Gellyfish and Forget-Me-Not",
         "tags": [
           "bitmasks",
+          "dp",
           "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
@@ -74,7 +348,9 @@
         "name": "Gellyfish and Forget-Me-Not",
         "tags": [
           "bitmasks",
+          "dp",
           "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2115/problem/D"
