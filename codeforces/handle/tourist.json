@@ -22,6 +22,7 @@
         "id": "2111G",
         "name": "Divisible Subarrays",
         "tags": [
+          "binary search",
           "brute force",
           "data structures",
           "interactive"
@@ -217,6 +218,7 @@
         "name": "Equal Values",
         "tags": [
           "brute force",
+          "greedy",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2111/problem/C"
