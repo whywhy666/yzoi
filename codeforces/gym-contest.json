@@ -23726,6 +23726,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Bach Khoa Code Challenge #2",
+    "startTime": 1749366900,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 105947,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105947",
+    "standingsUrl": "https://codeforces.com/gym/105947/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2025 UP ACM Algolympics Final Round",
     "startTime": 1749195900,
     "duration": 18000,
@@ -23734,5 +23745,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105946",
     "standingsUrl": "https://codeforces.com/gym/105946/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 Sichuan Provincial Collegiate Programming Contest",
+    "startTime": 1749344400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105949,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105949",
+    "standingsUrl": "https://codeforces.com/gym/105949/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CCF CAT NAEC 2025 (Provincial)",
+    "startTime": 1749340800,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 105948,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105948",
+    "standingsUrl": "https://codeforces.com/gym/105948/standings"
   }
 ]
