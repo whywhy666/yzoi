@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2111G",
         "name": "Divisible Subarrays",
+        "rating": 2900,
         "tags": [
           "binary search",
           "bitmasks",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "2111E",
         "name": "Changing the String",
+        "rating": 1900,
         "tags": [
           "binary search",
           "data structures",
@@ -78,6 +80,7 @@
         "type": "codeforces",
         "id": "2111E",
         "name": "Changing the String",
+        "rating": 1900,
         "tags": [
           "binary search",
           "data structures",
@@ -107,6 +110,7 @@
         "type": "codeforces",
         "id": "2111F",
         "name": "Puzzle",
+        "rating": 2400,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -134,6 +138,7 @@
         "type": "codeforces",
         "id": "2111F",
         "name": "Puzzle",
+        "rating": 2400,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -161,6 +166,7 @@
         "type": "codeforces",
         "id": "2111E",
         "name": "Changing the String",
+        "rating": 1900,
         "tags": [
           "binary search",
           "data structures",
@@ -190,6 +196,7 @@
         "type": "codeforces",
         "id": "2111D",
         "name": "Creating a Schedule",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -218,6 +225,7 @@
         "type": "codeforces",
         "id": "2111C",
         "name": "Equal Values",
+        "rating": 1100,
         "tags": [
           "brute force",
           "greedy",
@@ -244,6 +252,7 @@
         "type": "codeforces",
         "id": "2111B",
         "name": "Fibonacci Cubes",
+        "rating": 1100,
         "tags": [
           "brute force",
           "dp",
@@ -271,6 +280,7 @@
         "type": "codeforces",
         "id": "2111A",
         "name": "Energy Crystals",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation",
@@ -297,6 +307,7 @@
         "type": "codeforces",
         "id": "2115E",
         "name": "Gellyfish and Mayflower",
+        "rating": 3500,
         "tags": [
           "dp",
           "graphs"
@@ -322,6 +333,7 @@
         "type": "codeforces",
         "id": "2115D",
         "name": "Gellyfish and Forget-Me-Not",
+        "rating": 2900,
         "tags": [
           "bitmasks",
           "dp",
@@ -350,6 +362,7 @@
         "type": "codeforces",
         "id": "2115D",
         "name": "Gellyfish and Forget-Me-Not",
+        "rating": 2900,
         "tags": [
           "bitmasks",
           "dp",
@@ -378,6 +391,7 @@
         "type": "codeforces",
         "id": "2115C",
         "name": "Gellyfish and Eternal Violet",
+        "rating": 2700,
         "tags": [
           "combinatorics",
           "dp",
@@ -406,6 +420,7 @@
         "type": "codeforces",
         "id": "2115B",
         "name": "Gellyfish and Camellia Japonica",
+        "rating": 2100,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -436,6 +451,7 @@
         "type": "codeforces",
         "id": "2115B",
         "name": "Gellyfish and Camellia Japonica",
+        "rating": 2100,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -466,6 +482,7 @@
         "type": "codeforces",
         "id": "2115A",
         "name": "Gellyfish and Flaming Peony",
+        "rating": 1500,
         "tags": [
           "constructive algorithms",
           "dp",
