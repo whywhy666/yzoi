@@ -6,6 +6,188 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 324117711,
+      "creationTime": 1749744067,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1749738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2118F",
+        "name": "Shifts and Swaps",
+        "tags": [
+          "graphs",
+          "hashing",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2118/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2118/submission/324117711"
+    },
+    {
+      "type": "codeforces",
+      "id": 324088234,
+      "creationTime": 1749741267,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1749738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2118E",
+        "name": "Grid Coloring",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2118/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2118/submission/324088234"
+    },
+    {
+      "type": "codeforces",
+      "id": 324074227,
+      "creationTime": 1749740276,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1749738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2118D1",
+        "name": "Red Light, Green Light (Easy version)",
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2118/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2118/submission/324074227"
+    },
+    {
+      "type": "codeforces",
+      "id": 324073662,
+      "creationTime": 1749740238,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1749738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2118D2",
+        "name": "Red Light, Green Light (Hard version)",
+        "tags": [
+          "binary search",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "implementation",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2118/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2118/submission/324073662"
+    },
+    {
+      "type": "codeforces",
+      "id": 324053966,
+      "creationTime": 1749739202,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1749738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2118C",
+        "name": "Make It Beautiful",
+        "tags": [
+          "bitmasks",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2118/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2118/submission/324053966"
+    },
+    {
+      "type": "codeforces",
+      "id": 324051001,
+      "creationTime": 1749739092,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1749738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2118B",
+        "name": "Make It Permutation",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2118/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2118/submission/324051001"
+    },
+    {
+      "type": "codeforces",
+      "id": 324048205,
+      "creationTime": 1749738979,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1749738900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2118A",
+        "name": "Equal Subsequences",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2118/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2118/submission/324048205"
+    },
+    {
+      "type": "codeforces",
       "id": 322719568,
       "creationTime": 1748965033,
       "language": "C++20 (GCC 13-64)",

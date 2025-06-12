@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1749676431,
+  "updateTime": 1749762816,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 324117711,
+            "pid": "2118F",
+            "name": "Shifts and Swaps",
+            "verdict": "OK",
+            "creationTime": 1749744067
+          },
+          {
+            "platform": "codeforces",
+            "id": 324088234,
+            "pid": "2118E",
+            "name": "Grid Coloring",
+            "verdict": "OK",
+            "creationTime": 1749741267
+          },
+          {
+            "platform": "codeforces",
+            "id": 324074227,
+            "pid": "2118D1",
+            "name": "Red Light, Green Light (Easy version)",
+            "verdict": "OK",
+            "creationTime": 1749740276
+          },
+          {
+            "platform": "codeforces",
+            "id": 324073662,
+            "pid": "2118D2",
+            "name": "Red Light, Green Light (Hard version)",
+            "verdict": "OK",
+            "creationTime": 1749740238
+          },
+          {
+            "platform": "codeforces",
+            "id": 324053966,
+            "pid": "2118C",
+            "name": "Make It Beautiful",
+            "verdict": "OK",
+            "creationTime": 1749739202
+          },
+          {
+            "platform": "codeforces",
+            "id": 324051001,
+            "pid": "2118B",
+            "name": "Make It Permutation",
+            "verdict": "OK",
+            "creationTime": 1749739092
+          },
+          {
+            "platform": "codeforces",
+            "id": 324048205,
+            "pid": "2118A",
+            "name": "Equal Subsequences",
+            "verdict": "OK",
+            "creationTime": 1749738979
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "d1a9d4a4a44b8b8fc858901c42ae88e533edfb6f"
+  "ref": "93a0a58159e69c37902405ba80d938d2b303203e"
 }
