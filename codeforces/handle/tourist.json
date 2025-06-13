@@ -78,7 +78,8 @@
           "dfs and similar",
           "dp",
           "graphs",
-          "implementation"
+          "implementation",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2118/problem/D1"
       },
@@ -105,8 +106,10 @@
           "binary search",
           "dfs and similar",
           "dp",
+          "dsu",
           "graphs",
           "implementation",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2118/problem/D2"
@@ -132,7 +135,9 @@
         "name": "Make It Beautiful",
         "tags": [
           "bitmasks",
-          "greedy"
+          "data structures",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2118/problem/C"
       },
@@ -180,7 +185,8 @@
         "id": "2118A",
         "name": "Equal Subsequences",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2118/problem/A"
       },
