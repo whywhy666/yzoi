@@ -23790,9 +23790,20 @@
     "standingsUrl": "https://codeforces.com/gym/105961/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Vitebsk Open 2025, день 2",
+    "startTime": 1749971100,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105963,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105963",
+    "standingsUrl": "https://codeforces.com/gym/105963/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "UNICAMP Freshman Contest 2025",
-    "duration": 18000,
+    "duration": 12600,
     "participantNumber": 0,
     "id": 105962,
     "phase": "FINISHED",
