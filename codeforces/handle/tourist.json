@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2118F",
         "name": "Shifts and Swaps",
+        "rating": 3100,
         "tags": [
           "data structures",
           "graphs",
@@ -48,10 +49,10 @@
         "type": "codeforces",
         "id": "2118E",
         "name": "Grid Coloring",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
-          "greedy",
-          "sortings"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2118/problem/E"
       },
@@ -74,6 +75,7 @@
         "type": "codeforces",
         "id": "2118D1",
         "name": "Red Light, Green Light (Easy version)",
+        "rating": 1700,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -103,8 +105,10 @@
         "type": "codeforces",
         "id": "2118D2",
         "name": "Red Light, Green Light (Hard version)",
+        "rating": 2200,
         "tags": [
           "binary search",
+          "brute force",
           "dfs and similar",
           "dp",
           "dsu",
@@ -134,6 +138,7 @@
         "type": "codeforces",
         "id": "2118C",
         "name": "Make It Beautiful",
+        "rating": 1300,
         "tags": [
           "bitmasks",
           "data structures",
@@ -161,6 +166,7 @@
         "type": "codeforces",
         "id": "2118B",
         "name": "Make It Permutation",
+        "rating": 1200,
         "tags": [
           "constructive algorithms"
         ],
@@ -185,6 +191,7 @@
         "type": "codeforces",
         "id": "2118A",
         "name": "Equal Subsequences",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "greedy"
