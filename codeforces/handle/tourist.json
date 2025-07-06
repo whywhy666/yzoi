@@ -6,6 +6,227 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 327825347,
+      "creationTime": 1751823259,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124F2",
+        "name": "Appending Permutations (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327825347"
+    },
+    {
+      "type": "codeforces",
+      "id": 327818151,
+      "creationTime": 1751821751,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124G",
+        "name": "Maximise Sum",
+        "tags": [
+          "binary search",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327818151"
+    },
+    {
+      "type": "codeforces",
+      "id": 327806152,
+      "creationTime": 1751819449,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124I",
+        "name": "Lexicographic Partition",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327806152"
+    },
+    {
+      "type": "codeforces",
+      "id": 327786700,
+      "creationTime": 1751816708,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124F1",
+        "name": "Appending Permutations (Easy Version)",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327786700"
+    },
+    {
+      "type": "codeforces",
+      "id": 327756963,
+      "creationTime": 1751813899,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124E",
+        "name": "Make it Zero",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327756963"
+    },
+    {
+      "type": "codeforces",
+      "id": 327748678,
+      "creationTime": 1751813325,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124D",
+        "name": "Make a Palindrome",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327748678"
+    },
+    {
+      "type": "codeforces",
+      "id": 327742848,
+      "creationTime": 1751812986,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124C",
+        "name": "Subset Multiplication",
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327742848"
+    },
+    {
+      "type": "codeforces",
+      "id": 327740669,
+      "creationTime": 1751812870,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124B",
+        "name": "Minimise Sum",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327740669"
+    },
+    {
+      "type": "codeforces",
+      "id": 327736539,
+      "creationTime": 1751812594,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1751812500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2124A",
+        "name": "Deranged Deletions",
+        "tags": [
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2124/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2124/submission/327736539"
+    },
+    {
+      "type": "codeforces",
       "id": 324117711,
       "creationTime": 1749744067,
       "language": "C++20 (GCC 13-64)",
