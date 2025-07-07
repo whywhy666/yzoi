@@ -23905,5 +23905,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105986",
     "standingsUrl": "https://codeforces.com/gym/105986/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 Shanghai Collegiate Programming Contest",
+    "startTime": 1751680800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 105992,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/105992",
+    "standingsUrl": "https://codeforces.com/gym/105992/standings"
   }
 ]

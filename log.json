@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1751836358,
+  "updateTime": 1751922808,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 327825347,
-            "pid": "2124F2",
-            "name": "Appending Permutations (Hard Version)",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1751823259
-          },
-          {
-            "platform": "codeforces",
-            "id": 327818151,
-            "pid": "2124G",
-            "name": "Maximise Sum",
-            "verdict": "OK",
-            "creationTime": 1751821751
-          },
-          {
-            "platform": "codeforces",
-            "id": 327806152,
-            "pid": "2124I",
-            "name": "Lexicographic Partition",
-            "verdict": "OK",
-            "creationTime": 1751819449
-          },
-          {
-            "platform": "codeforces",
-            "id": 327786700,
-            "pid": "2124F1",
-            "name": "Appending Permutations (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1751816708
-          },
-          {
-            "platform": "codeforces",
-            "id": 327756963,
-            "pid": "2124E",
-            "name": "Make it Zero",
-            "verdict": "OK",
-            "creationTime": 1751813899
-          },
-          {
-            "platform": "codeforces",
-            "id": 327748678,
-            "pid": "2124D",
-            "name": "Make a Palindrome",
-            "verdict": "OK",
-            "creationTime": 1751813325
-          },
-          {
-            "platform": "codeforces",
-            "id": 327742848,
-            "pid": "2124C",
-            "name": "Subset Multiplication",
-            "verdict": "OK",
-            "creationTime": 1751812986
-          },
-          {
-            "platform": "codeforces",
-            "id": 327740669,
-            "pid": "2124B",
-            "name": "Minimise Sum",
-            "verdict": "OK",
-            "creationTime": 1751812870
-          },
-          {
-            "platform": "codeforces",
-            "id": 327736539,
-            "pid": "2124A",
-            "name": "Deranged Deletions",
-            "verdict": "OK",
-            "creationTime": 1751812594
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "70a599ed5a0eb91aa20dc1e544289104f5d6eaf6"
+  "ref": "bc2f34cee8786db93f7eae096b3e264f82d08065"
 }

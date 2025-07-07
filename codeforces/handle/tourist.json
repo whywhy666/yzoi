@@ -123,7 +123,9 @@
         "id": "2124E",
         "name": "Make it Zero",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/E"
       },
@@ -147,7 +149,9 @@
         "id": "2124D",
         "name": "Make a Palindrome",
         "tags": [
-          "greedy"
+          "expression parsing",
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/D"
       },
@@ -171,6 +175,8 @@
         "id": "2124C",
         "name": "Subset Multiplication",
         "tags": [
+          "constructive algorithms",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/C"
@@ -219,6 +225,7 @@
         "id": "2124A",
         "name": "Deranged Deletions",
         "tags": [
+          "constructive algorithms",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/A"
@@ -137922,7 +137929,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3777,
+    "rating": 3723,
     "maxRank": "tourist",
     "maxRating": 4009
   }
