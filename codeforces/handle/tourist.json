@@ -149,9 +149,9 @@
         "id": "2124D",
         "name": "Make a Palindrome",
         "tags": [
-          "expression parsing",
           "greedy",
-          "sortings"
+          "sortings",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2124/problem/D"
       },
