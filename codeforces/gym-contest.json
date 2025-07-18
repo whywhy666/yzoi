@@ -23926,5 +23926,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/105999",
     "standingsUrl": "https://codeforces.com/gym/105999/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 Aleppo Collegiate programming contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106007,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106007",
+    "standingsUrl": "https://codeforces.com/gym/106007/standings"
   }
 ]
