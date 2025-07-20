@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1752959580,
+  "updateTime": 1753046010,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 329863876,
-            "pid": "2122F",
-            "name": "Colorful Polygon",
-            "verdict": "OK",
-            "creationTime": 1752941821
-          },
-          {
-            "platform": "codeforces",
-            "id": 329854915,
-            "pid": "2122D",
-            "name": "Traffic Lights",
-            "verdict": "OK",
-            "creationTime": 1752940660
-          },
-          {
-            "platform": "codeforces",
-            "id": 329851078,
-            "pid": "2122D",
-            "name": "Traffic Lights",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1752940186
-          },
-          {
-            "platform": "codeforces",
-            "id": 329838033,
-            "pid": "2122G",
-            "name": "Tree Parking",
-            "verdict": "OK",
-            "creationTime": 1752938766
-          },
-          {
-            "platform": "codeforces",
-            "id": 329819343,
-            "pid": "2122E",
-            "name": "Greedy Grid Counting",
-            "verdict": "OK",
-            "creationTime": 1752937219
-          },
-          {
-            "platform": "codeforces",
-            "id": 329795708,
-            "pid": "2122C",
-            "name": "Manhattan Pairs",
-            "verdict": "OK",
-            "creationTime": 1752936081
-          },
-          {
-            "platform": "codeforces",
-            "id": 329790637,
-            "pid": "2122B",
-            "name": "Pile Shuffling",
-            "verdict": "OK",
-            "creationTime": 1752935895
-          },
-          {
-            "platform": "codeforces",
-            "id": 329788288,
-            "pid": "2122A",
-            "name": "Greedy Grid",
-            "verdict": "OK",
-            "creationTime": 1752935759
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "df602bf8ad289c23f4192731a07104797f680f57"
+  "ref": "639cd8a0fd011856be5f2a8908e572f2ae3dac6d"
 }
