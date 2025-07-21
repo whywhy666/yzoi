@@ -23946,5 +23946,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106009",
     "standingsUrl": "https://codeforces.com/gym/106009/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "COMP4128 Oil Skimming",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106012,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106012",
+    "standingsUrl": "https://codeforces.com/gym/106012/standings"
   }
 ]
