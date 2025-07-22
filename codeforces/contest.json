@@ -1,6 +1,17 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Educational Codeforces Round 181 (Rated for Div. 2)",
+    "startTime": 1753194900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 2125,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2125",
+    "standingsUrl": "https://codeforces.com/contest/2125/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
     "startTime": 1752935700,
     "duration": 8100,
