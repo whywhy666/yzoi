@@ -225,7 +225,7 @@
         "id": "2125A",
         "name": "Difficult Contest",
         "tags": [
-          "greedy",
+          "constructive algorithms",
           "implementation",
           "sortings",
           "strings"
@@ -467,6 +467,7 @@
         "type": "codeforces",
         "id": "2124F2",
         "name": "Appending Permutations (Hard Version)",
+        "rating": 2800,
         "tags": [
           "combinatorics",
           "dp"
@@ -492,6 +493,7 @@
         "type": "codeforces",
         "id": "2124G",
         "name": "Maximise Sum",
+        "rating": 3200,
         "tags": [
           "binary search",
           "data structures"
@@ -517,6 +519,7 @@
         "type": "codeforces",
         "id": "2124I",
         "name": "Lexicographic Partition",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "math",
@@ -543,6 +546,7 @@
         "type": "codeforces",
         "id": "2124F1",
         "name": "Appending Permutations (Easy Version)",
+        "rating": 2300,
         "tags": [
           "combinatorics",
           "dp"
@@ -568,6 +572,7 @@
         "type": "codeforces",
         "id": "2124E",
         "name": "Make it Zero",
+        "rating": 2100,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -594,6 +599,7 @@
         "type": "codeforces",
         "id": "2124D",
         "name": "Make a Palindrome",
+        "rating": 1700,
         "tags": [
           "greedy",
           "sortings",
@@ -620,6 +626,7 @@
         "type": "codeforces",
         "id": "2124C",
         "name": "Subset Multiplication",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -647,6 +654,7 @@
         "type": "codeforces",
         "id": "2124B",
         "name": "Minimise Sum",
+        "rating": 1000,
         "tags": [
           "greedy"
         ],
@@ -671,6 +679,7 @@
         "type": "codeforces",
         "id": "2124A",
         "name": "Deranged Deletions",
+        "rating": 800,
         "tags": [
           "greedy",
           "sortings"

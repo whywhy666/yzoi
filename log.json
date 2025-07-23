@@ -1,88 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1753218863,
+  "updateTime": 1753305286,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 330374548,
-            "pid": "2125F",
-            "name": "Timofey and Docker",
-            "verdict": "OK",
-            "creationTime": 1753198459
-          },
-          {
-            "platform": "codeforces",
-            "id": 330370696,
-            "pid": "2125F",
-            "name": "Timofey and Docker",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1753198120
-          },
-          {
-            "platform": "codeforces",
-            "id": 330369171,
-            "pid": "2125F",
-            "name": "Timofey and Docker",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1753197991
-          },
-          {
-            "platform": "codeforces",
-            "id": 330359488,
-            "pid": "2125F",
-            "name": "Timofey and Docker",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1753197282
-          },
-          {
-            "platform": "codeforces",
-            "id": 330338615,
-            "pid": "2125E",
-            "name": "Sets of Complementary Sums",
-            "verdict": "OK",
-            "creationTime": 1753196145
-          },
-          {
-            "platform": "codeforces",
-            "id": 330315735,
-            "pid": "2125D",
-            "name": "Segments Covering",
-            "verdict": "OK",
-            "creationTime": 1753195289
-          },
-          {
-            "platform": "codeforces",
-            "id": 330309757,
-            "pid": "2125C",
-            "name": "Count Good Numbers",
-            "verdict": "OK",
-            "creationTime": 1753195102
-          },
-          {
-            "platform": "codeforces",
-            "id": 330307330,
-            "pid": "2125B",
-            "name": "Left and Down",
-            "verdict": "OK",
-            "creationTime": 1753195014
-          },
-          {
-            "platform": "codeforces",
-            "id": 330306447,
-            "pid": "2125A",
-            "name": "Difficult Contest",
-            "verdict": "OK",
-            "creationTime": 1753194927
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "087a6718705df4701748a7f988c80fdebb5b742f"
+  "ref": "00201424f151ffc58700b47536d701b282affad9"
 }
