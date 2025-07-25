@@ -126,6 +126,7 @@
         "id": "2125E",
         "name": "Sets of Complementary Sums",
         "tags": [
+          "brute force",
           "combinatorics",
           "dp",
           "math",
@@ -154,6 +155,8 @@
         "name": "Segments Covering",
         "tags": [
           "dp",
+          "math",
+          "number theory",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2125/problem/D"
