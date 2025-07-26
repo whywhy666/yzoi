@@ -23929,6 +23929,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "ACPC Training - GYM 1",
+    "startTime": 1752579360,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106003,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106003",
+    "standingsUrl": "https://codeforces.com/gym/106003/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2025 Aleppo Collegiate programming contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -23959,6 +23970,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Game of Coders 4 - Over the Garden Wall",
+    "startTime": 1753516800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106015,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106015",
+    "standingsUrl": "https://codeforces.com/gym/106015/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "TheForces Round #43 (DIV2-Forces)",
     "startTime": 1753454100,
     "duration": 8100,
@@ -23967,5 +23989,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106014",
     "standingsUrl": "https://codeforces.com/gym/106014/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 ICPC Universidad Nacional de Colombia Programming Contest",
+    "startTime": 1753540500,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106017,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106017",
+    "standingsUrl": "https://codeforces.com/gym/106017/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 Homs Collegiate programming contest",
+    "startTime": 1753540500,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106016,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106016",
+    "standingsUrl": "https://codeforces.com/gym/106016/standings"
   }
 ]
