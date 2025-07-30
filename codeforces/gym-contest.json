@@ -23929,17 +23929,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "ACPC Training - GYM 1",
-    "startTime": 1752579360,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 106003,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/106003",
-    "standingsUrl": "https://codeforces.com/gym/106003/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "The 2025 Aleppo Collegiate programming contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -24011,5 +24000,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106016",
     "standingsUrl": "https://codeforces.com/gym/106016/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 Damascus University Collegiate Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106020,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106020",
+    "standingsUrl": "https://codeforces.com/gym/106020/standings"
   }
 ]
