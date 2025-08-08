@@ -889,7 +889,11 @@
           "brute force",
           "dfs and similar",
           "dp",
+          "flows",
+          "graph matchings",
           "graphs",
+          "implementation",
+          "probabilities",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/H"
@@ -917,7 +921,11 @@
           "brute force",
           "dfs and similar",
           "dp",
+          "flows",
+          "graph matchings",
           "graphs",
+          "implementation",
+          "probabilities",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/H"
@@ -968,6 +976,7 @@
         "name": "Ancient Tree",
         "tags": [
           "constructive algorithms",
+          "data structures",
           "dfs and similar",
           "dsu",
           "greedy",
@@ -996,6 +1005,7 @@
         "name": "Root was Built by Love, Broken by Destiny",
         "tags": [
           "combinatorics",
+          "dfs and similar",
           "graphs",
           "trees"
         ],
@@ -1023,6 +1033,7 @@
         "tags": [
           "games",
           "greedy",
+          "schedules",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/C"
@@ -1072,6 +1083,7 @@
         "id": "2127A",
         "name": "Mix Mex Max",
         "tags": [
+          "constructive algorithms",
           "greedy",
           "math"
         ],
