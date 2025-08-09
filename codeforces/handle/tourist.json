@@ -862,7 +862,7 @@
           "binary search",
           "constructive algorithms",
           "interactive",
-          "interactive"
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/G1"
       },
@@ -892,6 +892,7 @@
           "flows",
           "graph matchings",
           "graphs",
+          "greedy",
           "implementation",
           "probabilities",
           "trees"
@@ -924,6 +925,7 @@
           "flows",
           "graph matchings",
           "graphs",
+          "greedy",
           "implementation",
           "probabilities",
           "trees"
@@ -1033,7 +1035,6 @@
         "tags": [
           "games",
           "greedy",
-          "schedules",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/C"
