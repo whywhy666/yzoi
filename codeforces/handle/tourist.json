@@ -6,6 +6,247 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 333347105,
+      "creationTime": 1754838594,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131H",
+        "name": "Sea, You & copriMe",
+        "tags": [
+          "brute force",
+          "graphs",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333347105"
+    },
+    {
+      "type": "codeforces",
+      "id": 333326583,
+      "creationTime": 1754837862,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131G",
+        "name": "Wafu!",
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333326583"
+    },
+    {
+      "type": "codeforces",
+      "id": 333318052,
+      "creationTime": 1754837592,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131F",
+        "name": "Unjust Binary Life",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures",
+          "greedy",
+          "greedy",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333318052"
+    },
+    {
+      "type": "codeforces",
+      "id": 333315320,
+      "creationTime": 1754837509,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131F",
+        "name": "Unjust Binary Life",
+        "tags": [
+          "binary search",
+          "binary search",
+          "data structures",
+          "greedy",
+          "greedy",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333315320"
+    },
+    {
+      "type": "codeforces",
+      "id": 333303877,
+      "creationTime": 1754837180,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131E",
+        "name": "Adjacent XOR",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333303877"
+    },
+    {
+      "type": "codeforces",
+      "id": 333298459,
+      "creationTime": 1754837025,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131D",
+        "name": "Arboris Contractio",
+        "tags": [
+          "greedy",
+          "trees",
+          "trees",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333298459"
+    },
+    {
+      "type": "codeforces",
+      "id": 333289848,
+      "creationTime": 1754836738,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131C",
+        "name": "Make it Equal",
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333289848"
+    },
+    {
+      "type": "codeforces",
+      "id": 333288225,
+      "creationTime": 1754836659,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131B",
+        "name": "Alternating Series",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333288225"
+    },
+    {
+      "type": "codeforces",
+      "id": 333287671,
+      "creationTime": 1754836590,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1754836500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2131A",
+        "name": "Lever",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2131/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2131/submission/333287671"
+    },
+    {
+      "type": "codeforces",
       "id": 332918725,
       "creationTime": 1754593897,
       "language": "C++20 (GCC 13-64)",

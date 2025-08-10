@@ -1,9 +1,88 @@
 {
   "version": "0.1.16",
-  "updateTime": 1754773986,
+  "updateTime": 1754860386,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 333347105,
+            "pid": "2131H",
+            "name": "Sea, You & copriMe",
+            "verdict": "OK",
+            "creationTime": 1754838594
+          },
+          {
+            "platform": "codeforces",
+            "id": 333326583,
+            "pid": "2131G",
+            "name": "Wafu!",
+            "verdict": "OK",
+            "creationTime": 1754837862
+          },
+          {
+            "platform": "codeforces",
+            "id": 333318052,
+            "pid": "2131F",
+            "name": "Unjust Binary Life",
+            "verdict": "OK",
+            "creationTime": 1754837592
+          },
+          {
+            "platform": "codeforces",
+            "id": 333315320,
+            "pid": "2131F",
+            "name": "Unjust Binary Life",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1754837509
+          },
+          {
+            "platform": "codeforces",
+            "id": 333303877,
+            "pid": "2131E",
+            "name": "Adjacent XOR",
+            "verdict": "OK",
+            "creationTime": 1754837180
+          },
+          {
+            "platform": "codeforces",
+            "id": 333298459,
+            "pid": "2131D",
+            "name": "Arboris Contractio",
+            "verdict": "OK",
+            "creationTime": 1754837025
+          },
+          {
+            "platform": "codeforces",
+            "id": 333289848,
+            "pid": "2131C",
+            "name": "Make it Equal",
+            "verdict": "OK",
+            "creationTime": 1754836738
+          },
+          {
+            "platform": "codeforces",
+            "id": 333288225,
+            "pid": "2131B",
+            "name": "Alternating Series",
+            "verdict": "OK",
+            "creationTime": 1754836659
+          },
+          {
+            "platform": "codeforces",
+            "id": 333287671,
+            "pid": "2131A",
+            "name": "Lever",
+            "verdict": "OK",
+            "creationTime": 1754836590
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "c74b72bde660a8922144a8981715c6439e060a3a"
+  "ref": "53bf518bab08897f88e46b44e80d800d21a067d6"
 }
