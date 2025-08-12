@@ -24052,5 +24052,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106030",
     "standingsUrl": "https://codeforces.com/gym/106030/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "National Taiwan University Class Preliminary 2025",
+    "startTime": 1754717400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106033,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106033",
+    "standingsUrl": "https://codeforces.com/gym/106033/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 ICPC Syrian Private Universities Collegiate Programming Contest",
+    "startTime": 1755009300,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106032,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106032",
+    "standingsUrl": "https://codeforces.com/gym/106032/standings"
   }
 ]
