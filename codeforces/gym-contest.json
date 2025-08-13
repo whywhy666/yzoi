@@ -24074,5 +24074,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106032",
     "standingsUrl": "https://codeforces.com/gym/106032/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Central Russia Regional Contest, 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106035,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106035",
+    "standingsUrl": "https://codeforces.com/gym/106035/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Central Russia Regional Qualification Round, 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106034,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106034",
+    "standingsUrl": "https://codeforces.com/gym/106034/standings"
   }
 ]

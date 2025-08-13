@@ -27,7 +27,8 @@
           "graphs",
           "greedy",
           "math",
-          "number theory"
+          "number theory",
+          "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2131/problem/H"
       },
@@ -80,7 +81,6 @@
         "name": "Unjust Binary Life",
         "tags": [
           "binary search",
-          "binary search",
           "data structures",
           "greedy",
           "greedy",
@@ -110,7 +110,6 @@
         "id": "2131F",
         "name": "Unjust Binary Life",
         "tags": [
-          "binary search",
           "binary search",
           "data structures",
           "greedy",
@@ -1227,7 +1226,9 @@
         "name": "Hamed and AghaBalaSar",
         "rating": 2800,
         "tags": [
+          "brute force",
           "combinatorics",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2127/problem/F"
