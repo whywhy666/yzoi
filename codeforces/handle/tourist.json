@@ -53,6 +53,7 @@
         "tags": [
           "bitmasks",
           "brute force",
+          "data structures",
           "dfs and similar",
           "dp",
           "math"
@@ -139,6 +140,7 @@
         "id": "2131E",
         "name": "Adjacent XOR",
         "tags": [
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2131/problem/E"
@@ -163,6 +165,7 @@
         "id": "2131D",
         "name": "Arboris Contractio",
         "tags": [
+          "data structures",
           "graphs",
           "greedy",
           "trees"
