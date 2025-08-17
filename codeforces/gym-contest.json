@@ -24094,5 +24094,46 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106034",
     "standingsUrl": "https://codeforces.com/gym/106034/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 USP Try-outs",
+    "startTime": 1755365700,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106039,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106039",
+    "standingsUrl": "https://codeforces.com/gym/106039/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UNICAMP Selection Contest 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106038,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106038",
+    "standingsUrl": "https://codeforces.com/gym/106038/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Teamscode Summer 2025 Advanced Division",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106043,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106043",
+    "standingsUrl": "https://codeforces.com/gym/106043/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Teamscode Summer 2025 Novice Division",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106042,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106042",
+    "standingsUrl": "https://codeforces.com/gym/106042/standings"
   }
 ]
