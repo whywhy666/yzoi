@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1756329162,
+  "updateTime": 1756415565,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 335989794,
+            "pid": "2135D2",
+            "name": "From the Unknown (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1756394865
+          },
+          {
+            "platform": "codeforces",
+            "id": 335987869,
+            "pid": "2135D2",
+            "name": "From the Unknown (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1756394691
+          },
+          {
+            "platform": "codeforces",
+            "id": 335986615,
+            "pid": "2135D2",
+            "name": "From the Unknown (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1756394584
+          },
+          {
+            "platform": "codeforces",
+            "id": 335972651,
+            "pid": "2135D1",
+            "name": "From the Unknown (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1756393505
+          },
+          {
+            "platform": "codeforces",
+            "id": 335965466,
+            "pid": "2135C",
+            "name": "By the Assignment",
+            "verdict": "OK",
+            "creationTime": 1756393053
+          },
+          {
+            "platform": "codeforces",
+            "id": 335957256,
+            "pid": "2135B",
+            "name": "For the Champion",
+            "verdict": "OK",
+            "creationTime": 1756392577
+          },
+          {
+            "platform": "codeforces",
+            "id": 335954630,
+            "pid": "2135B",
+            "name": "For the Champion",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1756392423
+          },
+          {
+            "platform": "codeforces",
+            "id": 335945430,
+            "pid": "2135A",
+            "name": "Against the Difference",
+            "verdict": "OK",
+            "creationTime": 1756391868
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "812b37ed03072aafbbd7ec8251968191130fa8ca"
+  "ref": "775b1d8503bde3bd8b17bfc7907b2bb1ec34e4c5"
 }
