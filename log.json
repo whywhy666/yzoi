@@ -1,9 +1,48 @@
 {
   "version": "0.1.16",
-  "updateTime": 1757020318,
+  "updateTime": 1757106685,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "然然",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 336999132,
+            "pid": "2135A",
+            "name": "Against the Difference",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1757077999
+          },
+          {
+            "platform": "codeforces",
+            "id": 336998894,
+            "pid": "2135A",
+            "name": "Against the Difference",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1757077893
+          },
+          {
+            "platform": "codeforces",
+            "id": 336998713,
+            "pid": "2135A",
+            "name": "Against the Difference",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1757077799
+          },
+          {
+            "platform": "codeforces",
+            "id": 336998030,
+            "pid": "2135A",
+            "name": "Against the Difference",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1757077491
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "892541eafef2701ab5094771166f8074db6a60da"
+  "ref": "28c786cdc654c02de195b76d8a1cd6a0219f027a"
 }

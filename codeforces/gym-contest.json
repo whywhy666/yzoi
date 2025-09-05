@@ -24201,6 +24201,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "CoU CSE Fest 2025 - Inter University Programming Contest (Divisional)",
+    "startTime": 1757062800,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106057,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106057",
+    "standingsUrl": "https://codeforces.com/gym/106057/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 1st Universal Cup. Stage 18: Shenzhen",
     "duration": 18000,
     "participantNumber": 0,
@@ -24240,5 +24251,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106062",
     "standingsUrl": "https://codeforces.com/gym/106062/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 Aleppo and Idlib Private Universities Collegiate Programming Contest (APUCPC 2025)",
+    "startTime": 1756976400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106068,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106068",
+    "standingsUrl": "https://codeforces.com/gym/106068/standings"
   }
 ]
