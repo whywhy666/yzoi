@@ -6,6 +6,154 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 337624303,
+      "creationTime": 1757347250,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757342100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2138E1",
+        "name": "Determinant Construction (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "matrices"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2138/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2138/submission/337624303"
+    },
+    {
+      "type": "codeforces",
+      "id": 337603285,
+      "creationTime": 1757345028,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757342100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2138D",
+        "name": "Antiamuny and Slider Movement",
+        "tags": [
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2138/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2138/submission/337603285"
+    },
+    {
+      "type": "codeforces",
+      "id": 337585582,
+      "creationTime": 1757343538,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757342100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2138C2",
+        "name": "Maple and Tree Beauty (Hard Version)",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2138/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2138/submission/337585582"
+    },
+    {
+      "type": "codeforces",
+      "id": 337585056,
+      "creationTime": 1757343501,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757342100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2138C1",
+        "name": "Maple and Tree Beauty (Easy Version)",
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2138/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2138/submission/337585056"
+    },
+    {
+      "type": "codeforces",
+      "id": 337570452,
+      "creationTime": 1757342677,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757342100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2138B",
+        "name": "Antiamuny Wants to Learn Swap",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2138/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2138/submission/337570452"
+    },
+    {
+      "type": "codeforces",
+      "id": 337559464,
+      "creationTime": 1757342262,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757342100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2138A",
+        "name": "Cake Assignment",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2138/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2138/submission/337559464"
+    },
+    {
+      "type": "codeforces",
       "id": 335989794,
       "creationTime": 1756394865,
       "language": "C++20 (GCC 13-64)",

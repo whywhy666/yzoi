@@ -6,6 +6,131 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 337510678,
+      "creationTime": 1757317859,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -390165788
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2135A",
+        "name": "Against the Difference",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2135/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2135/submission/337510678"
+    },
+    {
+      "type": "codeforces",
+      "id": 337504716,
+      "creationTime": 1757314262,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -390169385
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2135A",
+        "name": "Against the Difference",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2135/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2135/submission/337504716"
+    },
+    {
+      "type": "codeforces",
+      "id": 337504671,
+      "creationTime": 1757314232,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -390169415
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2135A",
+        "name": "Against the Difference",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2135/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2135/submission/337504671"
+    },
+    {
+      "type": "codeforces",
+      "id": 337504417,
+      "creationTime": 1757314067,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -390169580
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2135A",
+        "name": "Against the Difference",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2135/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2135/submission/337504417"
+    },
+    {
+      "type": "codeforces",
+      "id": 337504335,
+      "creationTime": 1757314007,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "whywhy666"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -390169640
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2135A",
+        "name": "Against the Difference",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2135/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2135/submission/337504335"
+    },
+    {
+      "type": "codeforces",
       "id": 336999132,
       "creationTime": 1757077999,
       "language": "C++20 (GCC 13-64)",
