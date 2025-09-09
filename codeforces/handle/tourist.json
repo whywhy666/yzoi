@@ -22,8 +22,11 @@
         "id": "2138E1",
         "name": "Determinant Construction (Easy Version)",
         "tags": [
+          "brute force",
           "constructive algorithms",
-          "matrices"
+          "math",
+          "matrices",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/E1"
       },
@@ -47,7 +50,11 @@
         "id": "2138D",
         "name": "Antiamuny and Slider Movement",
         "tags": [
-          "combinatorics"
+          "binary search",
+          "brute force",
+          "combinatorics",
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/D"
       },
@@ -71,8 +78,11 @@
         "id": "2138C2",
         "name": "Maple and Tree Beauty (Hard Version)",
         "tags": [
+          "bitmasks",
+          "brute force",
           "dfs and similar",
           "dp",
+          "fft",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/C2"
@@ -97,6 +107,7 @@
         "id": "2138C1",
         "name": "Maple and Tree Beauty (Easy Version)",
         "tags": [
+          "brute force",
           "dfs and similar",
           "dp",
           "graphs",
@@ -124,6 +135,7 @@
         "id": "2138B",
         "name": "Antiamuny Wants to Learn Swap",
         "tags": [
+          "data structures",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/B"
@@ -147,7 +159,11 @@
         "type": "codeforces",
         "id": "2138A",
         "name": "Cake Assignment",
-        "tags": [],
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "greedy"
+        ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/2138/submission/337559464"
