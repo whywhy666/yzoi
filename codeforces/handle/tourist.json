@@ -6,6 +6,409 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 338242669,
+      "creationTime": 1757694338,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141I",
+        "name": "Color the Tree",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338242669"
+    },
+    {
+      "type": "codeforces",
+      "id": 338241979,
+      "creationTime": 1757694057,
+      "language": "Kotlin 1.9",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141I",
+        "name": "Color the Tree",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338241979"
+    },
+    {
+      "type": "codeforces",
+      "id": 338240895,
+      "creationTime": 1757693639,
+      "language": "Kotlin 1.9",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141I",
+        "name": "Color the Tree",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338240895"
+    },
+    {
+      "type": "codeforces",
+      "id": 338233017,
+      "creationTime": 1757690650,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141H",
+        "name": "Merging Vertices in a Graph",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338233017"
+    },
+    {
+      "type": "codeforces",
+      "id": 338231612,
+      "creationTime": 1757690153,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141G",
+        "name": "Good Robot Paths",
+        "tags": [
+          "*special",
+          "data structures",
+          "geometry",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338231612"
+    },
+    {
+      "type": "codeforces",
+      "id": 338227992,
+      "creationTime": 1757688978,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141F",
+        "name": "Array Reduction",
+        "tags": [
+          "*special",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338227992"
+    },
+    {
+      "type": "codeforces",
+      "id": 338226589,
+      "creationTime": 1757688547,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141E",
+        "name": "Perfect Cut",
+        "tags": [
+          "*special",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338226589"
+    },
+    {
+      "type": "codeforces",
+      "id": 338225941,
+      "creationTime": 1757688369,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141D",
+        "name": "Avoid Minimums",
+        "tags": [
+          "*special",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338225941"
+    },
+    {
+      "type": "codeforces",
+      "id": 338225096,
+      "creationTime": 1757688122,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141C",
+        "name": "Minimum on Subarrays",
+        "tags": [
+          "*special",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338225096"
+    },
+    {
+      "type": "codeforces",
+      "id": 338224395,
+      "creationTime": 1757687895,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141B",
+        "name": "Games",
+        "tags": [
+          "*special",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338224395"
+    },
+    {
+      "type": "codeforces",
+      "id": 338224095,
+      "creationTime": 1757687786,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1757687700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2141A",
+        "name": "Furniture Store",
+        "tags": [
+          "*special",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2141/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2141/submission/338224095"
+    },
+    {
+      "type": "codeforces",
+      "id": 338178499,
+      "creationTime": 1757663589,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1756823400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2142H",
+        "name": "Desktop Rearrangement",
+        "tags": [
+          "*special"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2142/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2142/submission/338178499"
+    },
+    {
+      "type": "codeforces",
+      "id": 338176607,
+      "creationTime": 1757662318,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1756823400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2142D",
+        "name": "Removal of Unattractive Pairs",
+        "tags": [
+          "*special",
+          "greedy",
+          "math",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2142/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2142/submission/338176607"
+    },
+    {
+      "type": "codeforces",
+      "id": 338176423,
+      "creationTime": 1757662193,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1756823400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2142C",
+        "name": "YetnotherrokenKeoard",
+        "tags": [
+          "*special",
+          "data structures",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2142/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2142/submission/338176423"
+    },
+    {
+      "type": "codeforces",
+      "id": 338176059,
+      "creationTime": 1757661962,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1756823400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2142B",
+        "name": "Dislike of Threes",
+        "tags": [
+          "*special",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2142/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2142/submission/338176059"
+    },
+    {
+      "type": "codeforces",
+      "id": 338170176,
+      "creationTime": 1757658124,
+      "language": "Kotlin 1.9",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1756823400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2142A",
+        "name": "Spy Detected!",
+        "tags": [
+          "*special",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2142/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2142/submission/338170176"
+    },
+    {
+      "type": "codeforces",
       "id": 337624303,
       "creationTime": 1757347250,
       "language": "C++20 (GCC 13-64)",
@@ -50,11 +453,11 @@
         "id": "2138D",
         "name": "Antiamuny and Slider Movement",
         "tags": [
-          "binary search",
           "brute force",
           "combinatorics",
           "implementation",
-          "math"
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/D"
       },
@@ -136,7 +539,8 @@
         "name": "Antiamuny Wants to Learn Swap",
         "tags": [
           "data structures",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2138/problem/B"
       },
@@ -140170,7 +140574,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3618,
+    "rating": 3619,
     "maxRank": "tourist",
     "maxRating": 4009
   }
