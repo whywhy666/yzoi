@@ -94,7 +94,10 @@
         "id": "2141H",
         "name": "Merging Vertices in a Graph",
         "tags": [
-          "*special"
+          "*special",
+          "dfs and similar",
+          "dsu",
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/2141/problem/H"
       },
