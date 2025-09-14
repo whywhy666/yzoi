@@ -24273,5 +24273,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106068",
     "standingsUrl": "https://codeforces.com/gym/106068/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 ICPC South America - Brazil First Phase",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106073,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106073",
+    "standingsUrl": "https://codeforces.com/gym/106073/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 ICPC Asia EC Regionals Online Contest (II)",
+    "startTime": 1757826000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106072,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106072",
+    "standingsUrl": "https://codeforces.com/gym/106072/standings"
   }
 ]
