@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2141I",
         "name": "Color the Tree",
+        "rating": 3500,
         "tags": [
           "*special"
         ],
@@ -45,6 +46,7 @@
         "type": "codeforces",
         "id": "2141I",
         "name": "Color the Tree",
+        "rating": 3500,
         "tags": [
           "*special"
         ],
@@ -69,6 +71,7 @@
         "type": "codeforces",
         "id": "2141I",
         "name": "Color the Tree",
+        "rating": 3500,
         "tags": [
           "*special"
         ],
@@ -93,6 +96,7 @@
         "type": "codeforces",
         "id": "2141H",
         "name": "Merging Vertices in a Graph",
+        "rating": 2700,
         "tags": [
           "*special",
           "dfs and similar",
@@ -120,6 +124,7 @@
         "type": "codeforces",
         "id": "2141G",
         "name": "Good Robot Paths",
+        "rating": 2800,
         "tags": [
           "*special",
           "data structures",
@@ -147,6 +152,7 @@
         "type": "codeforces",
         "id": "2141F",
         "name": "Array Reduction",
+        "rating": 2200,
         "tags": [
           "*special",
           "greedy"
@@ -172,6 +178,7 @@
         "type": "codeforces",
         "id": "2141E",
         "name": "Perfect Cut",
+        "rating": 2100,
         "tags": [
           "*special",
           "dp",
@@ -198,6 +205,7 @@
         "type": "codeforces",
         "id": "2141D",
         "name": "Avoid Minimums",
+        "rating": 1800,
         "tags": [
           "*special",
           "greedy",
@@ -224,6 +232,7 @@
         "type": "codeforces",
         "id": "2141C",
         "name": "Minimum on Subarrays",
+        "rating": 1800,
         "tags": [
           "*special",
           "brute force"
@@ -249,6 +258,7 @@
         "type": "codeforces",
         "id": "2141B",
         "name": "Games",
+        "rating": 1200,
         "tags": [
           "*special",
           "greedy"
@@ -274,6 +284,7 @@
         "type": "codeforces",
         "id": "2141A",
         "name": "Furniture Store",
+        "rating": 800,
         "tags": [
           "*special",
           "implementation"
@@ -427,6 +438,7 @@
         "type": "codeforces",
         "id": "2138E1",
         "name": "Determinant Construction (Easy Version)",
+        "rating": 3100,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -455,6 +467,7 @@
         "type": "codeforces",
         "id": "2138D",
         "name": "Antiamuny and Slider Movement",
+        "rating": 2600,
         "tags": [
           "brute force",
           "combinatorics",
@@ -483,6 +496,7 @@
         "type": "codeforces",
         "id": "2138C2",
         "name": "Maple and Tree Beauty (Hard Version)",
+        "rating": 2000,
         "tags": [
           "bitmasks",
           "brute force",
@@ -512,6 +526,7 @@
         "type": "codeforces",
         "id": "2138C1",
         "name": "Maple and Tree Beauty (Easy Version)",
+        "rating": 1800,
         "tags": [
           "brute force",
           "dfs and similar",
@@ -540,6 +555,7 @@
         "type": "codeforces",
         "id": "2138B",
         "name": "Antiamuny Wants to Learn Swap",
+        "rating": 1900,
         "tags": [
           "data structures",
           "greedy",
@@ -566,6 +582,7 @@
         "type": "codeforces",
         "id": "2138A",
         "name": "Cake Assignment",
+        "rating": 1100,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -592,6 +609,7 @@
         "type": "codeforces",
         "id": "2135D2",
         "name": "From the Unknown (Hard Version)",
+        "rating": 2500,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -619,6 +637,7 @@
         "type": "codeforces",
         "id": "2135D2",
         "name": "From the Unknown (Hard Version)",
+        "rating": 2500,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -646,6 +665,7 @@
         "type": "codeforces",
         "id": "2135D2",
         "name": "From the Unknown (Hard Version)",
+        "rating": 2500,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -673,6 +693,7 @@
         "type": "codeforces",
         "id": "2135D1",
         "name": "From the Unknown (Easy Version)",
+        "rating": 2100,
         "tags": [
           "constructive algorithms",
           "interactive",
@@ -699,6 +720,7 @@
         "type": "codeforces",
         "id": "2135C",
         "name": "By the Assignment",
+        "rating": 2000,
         "tags": [
           "binary search",
           "bitmasks",
@@ -729,6 +751,7 @@
         "type": "codeforces",
         "id": "2135B",
         "name": "For the Champion",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "interactive",
@@ -755,6 +778,7 @@
         "type": "codeforces",
         "id": "2135B",
         "name": "For the Champion",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "interactive",
@@ -781,6 +805,7 @@
         "type": "codeforces",
         "id": "2135A",
         "name": "Against the Difference",
+        "rating": 1200,
         "tags": [
           "data structures",
           "dp"
