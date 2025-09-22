@@ -24337,5 +24337,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106084",
     "standingsUrl": "https://codeforces.com/gym/106084/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Вузовско-академическая олимпиада по информатике 2025, первый отборочный тур",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106087,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106087",
+    "standingsUrl": "https://codeforces.com/gym/106087/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Вузовско-академическая олимпиада по информатике 2025, финал",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106089,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106089",
+    "standingsUrl": "https://codeforces.com/gym/106089/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Вузовско-академическая олимпиада по информатике 2025, второй отборочный тур",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106088,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106088",
+    "standingsUrl": "https://codeforces.com/gym/106088/standings"
   }
 ]
