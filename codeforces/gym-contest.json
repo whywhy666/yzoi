@@ -24378,5 +24378,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106094",
     "standingsUrl": "https://codeforces.com/gym/106094/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 10-1-25 Div. 1 (Advanced)",
+    "startTime": 1759361400,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106097,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106097",
+    "standingsUrl": "https://codeforces.com/gym/106097/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 10-1-25 Div. 2 (Beginner)",
+    "startTime": 1759361400,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106096,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106096",
+    "standingsUrl": "https://codeforces.com/gym/106096/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The American University in Cairo CSEA Fall 2025 contest",
+    "startTime": 1759417200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106098,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106098",
+    "standingsUrl": "https://codeforces.com/gym/106098/standings"
   }
 ]
