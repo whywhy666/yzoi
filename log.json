@@ -1,9 +1,96 @@
 {
   "version": "0.1.16",
-  "updateTime": 1759439489,
+  "updateTime": 1759525843,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 341715190,
+            "pid": "2152H1",
+            "name": "Victorious Coloring (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1759508773
+          },
+          {
+            "platform": "codeforces",
+            "id": 341714531,
+            "pid": "2152H1",
+            "name": "Victorious Coloring (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1759508666
+          },
+          {
+            "platform": "codeforces",
+            "id": 341708707,
+            "pid": "2152F",
+            "name": "Triple Attack",
+            "verdict": "OK",
+            "creationTime": 1759507709
+          },
+          {
+            "platform": "codeforces",
+            "id": 341705016,
+            "pid": "2152F",
+            "name": "Triple Attack",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1759507127
+          },
+          {
+            "platform": "codeforces",
+            "id": 341698696,
+            "pid": "2152G",
+            "name": "Query Jungle",
+            "verdict": "OK",
+            "creationTime": 1759506236
+          },
+          {
+            "platform": "codeforces",
+            "id": 341679653,
+            "pid": "2152E",
+            "name": "Monotone Subsequence",
+            "verdict": "OK",
+            "creationTime": 1759503967
+          },
+          {
+            "platform": "codeforces",
+            "id": 341672850,
+            "pid": "2152D",
+            "name": "Division Versus Addition",
+            "verdict": "OK",
+            "creationTime": 1759503313
+          },
+          {
+            "platform": "codeforces",
+            "id": 341664731,
+            "pid": "2152C",
+            "name": "Triple Removal",
+            "verdict": "OK",
+            "creationTime": 1759502552
+          },
+          {
+            "platform": "codeforces",
+            "id": 341660845,
+            "pid": "2152B",
+            "name": "Catching the Krug",
+            "verdict": "OK",
+            "creationTime": 1759502297
+          },
+          {
+            "platform": "codeforces",
+            "id": 341658948,
+            "pid": "2152A",
+            "name": "Increase or Smash",
+            "verdict": "OK",
+            "creationTime": 1759502161
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "6ba75865cc8778f9acfebbe8aa86ed7278c14875"
+  "ref": "aeacd2f43ebafd99774e4eaa51647c42ae99a9d5"
 }
