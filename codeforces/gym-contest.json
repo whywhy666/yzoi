@@ -24411,5 +24411,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106098",
     "standingsUrl": "https://codeforces.com/gym/106098/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AGM 2025, Final Round, Day 2",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106103,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106103",
+    "standingsUrl": "https://codeforces.com/gym/106103/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "AGM 2025, Final Round, Day 1",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106102,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106102",
+    "standingsUrl": "https://codeforces.com/gym/106102/standings"
   }
 ]

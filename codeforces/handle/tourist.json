@@ -74,7 +74,11 @@
         "tags": [
           "brute force",
           "data structures",
-          "greedy"
+          "dp",
+          "graphs",
+          "greedy",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/F"
       },
@@ -100,7 +104,11 @@
         "tags": [
           "brute force",
           "data structures",
-          "greedy"
+          "dp",
+          "graphs",
+          "greedy",
+          "trees",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/F"
       },
@@ -125,9 +133,9 @@
         "name": "Query Jungle",
         "tags": [
           "data structures",
-          "data structures",
+          "implementation",
           "math",
-          "math"
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/G"
       },
@@ -151,8 +159,9 @@
         "id": "2152E",
         "name": "Monotone Subsequence",
         "tags": [
-          "brute force",
+          "constructive algorithms",
           "interactive",
+          "math",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/E"
@@ -177,9 +186,8 @@
         "id": "2152D",
         "name": "Division Versus Addition",
         "tags": [
-          "bitmasks",
-          "data structures",
-          "games"
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/D"
       },
@@ -205,7 +213,6 @@
         "tags": [
           "data structures",
           "greedy",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/C"
@@ -230,8 +237,8 @@
         "id": "2152B",
         "name": "Catching the Krug",
         "tags": [
-          "binary search",
-          "games"
+          "games",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/B"
       },
