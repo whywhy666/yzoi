@@ -6,6 +6,189 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 342070375,
+      "creationTime": 1759684404,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1759682100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155F",
+        "name": "Juan's Colorful Tree",
+        "tags": [
+          "data structures",
+          "data structures",
+          "dfs and similar",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342070375"
+    },
+    {
+      "type": "codeforces",
+      "id": 342057845,
+      "creationTime": 1759683388,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1759682100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155E",
+        "name": "Mimo & Yuyu",
+        "tags": [
+          "games",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342057845"
+    },
+    {
+      "type": "codeforces",
+      "id": 342056923,
+      "creationTime": 1759683321,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1759682100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155E",
+        "name": "Mimo & Yuyu",
+        "tags": [
+          "games",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342056923"
+    },
+    {
+      "type": "codeforces",
+      "id": 342052533,
+      "creationTime": 1759683015,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1759682100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155D",
+        "name": "Batteries",
+        "tags": [
+          "brute force",
+          "implementation",
+          "interactive",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342052533"
+    },
+    {
+      "type": "codeforces",
+      "id": 342045184,
+      "creationTime": 1759682550,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1759682100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155C",
+        "name": "The Ancient Wizards' Capes",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342045184"
+    },
+    {
+      "type": "codeforces",
+      "id": 342041165,
+      "creationTime": 1759682291,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1759682100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155B",
+        "name": "Abraham's Great Escape",
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342041165"
+    },
+    {
+      "type": "codeforces",
+      "id": 342040183,
+      "creationTime": 1759682150,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "OUT_OF_COMPETITION",
+        "participantTime": 1759682100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155A",
+        "name": "El fucho",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342040183"
+    },
+    {
+      "type": "codeforces",
       "id": 341715190,
       "creationTime": 1759508773,
       "language": "C++20 (GCC 13-64)",
@@ -22,6 +205,7 @@
         "id": "2152H1",
         "name": "Victorious Coloring (Easy Version)",
         "tags": [
+          "dfs and similar",
           "dp",
           "graphs"
         ],
@@ -47,6 +231,7 @@
         "id": "2152H1",
         "name": "Victorious Coloring (Easy Version)",
         "tags": [
+          "dfs and similar",
           "dp",
           "graphs"
         ],
@@ -160,8 +345,9 @@
         "name": "Monotone Subsequence",
         "tags": [
           "constructive algorithms",
+          "graphs",
+          "greedy",
           "interactive",
-          "math",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/E"
@@ -187,6 +373,7 @@
         "name": "Division Versus Addition",
         "tags": [
           "games",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/D"
@@ -237,6 +424,7 @@
         "id": "2152B",
         "name": "Catching the Krug",
         "tags": [
+          "binary search",
           "games",
           "math"
         ],
@@ -262,6 +450,7 @@
         "id": "2152A",
         "name": "Increase or Smash",
         "tags": [
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/A"
