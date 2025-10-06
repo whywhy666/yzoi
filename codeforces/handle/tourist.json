@@ -54,7 +54,8 @@
         "name": "Mimo & Yuyu",
         "tags": [
           "games",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/E"
       },
@@ -79,7 +80,8 @@
         "name": "Mimo & Yuyu",
         "tags": [
           "games",
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/E"
       },
@@ -104,9 +106,11 @@
         "name": "Batteries",
         "tags": [
           "brute force",
-          "implementation",
+          "constructive algorithms",
+          "graph matchings",
+          "graphs",
           "interactive",
-          "probabilities"
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/D"
       },
@@ -131,6 +135,7 @@
         "name": "The Ancient Wizards' Capes",
         "tags": [
           "brute force",
+          "greedy",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/C"
@@ -320,6 +325,7 @@
           "data structures",
           "implementation",
           "math",
+          "matrices",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/G"

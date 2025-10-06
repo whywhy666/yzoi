@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1759698636,
+  "updateTime": 1759785109,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 342070375,
-            "pid": "2155F",
-            "name": "Juan's Colorful Tree",
-            "verdict": "OK",
-            "creationTime": 1759684404
-          },
-          {
-            "platform": "codeforces",
-            "id": 342057845,
-            "pid": "2155E",
-            "name": "Mimo & Yuyu",
-            "verdict": "OK",
-            "creationTime": 1759683388
-          },
-          {
-            "platform": "codeforces",
-            "id": 342056923,
-            "pid": "2155E",
-            "name": "Mimo & Yuyu",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1759683321
-          },
-          {
-            "platform": "codeforces",
-            "id": 342052533,
-            "pid": "2155D",
-            "name": "Batteries",
-            "verdict": "OK",
-            "creationTime": 1759683015
-          },
-          {
-            "platform": "codeforces",
-            "id": 342045184,
-            "pid": "2155C",
-            "name": "The Ancient Wizards' Capes",
-            "verdict": "OK",
-            "creationTime": 1759682550
-          },
-          {
-            "platform": "codeforces",
-            "id": 342041165,
-            "pid": "2155B",
-            "name": "Abraham's Great Escape",
-            "verdict": "OK",
-            "creationTime": 1759682291
-          },
-          {
-            "platform": "codeforces",
-            "id": 342040183,
-            "pid": "2155A",
-            "name": "El fucho",
-            "verdict": "OK",
-            "creationTime": 1759682150
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b4d89aea45a2d7f0d2dd46b872ae5d127cb3f240"
+  "ref": "bb68b88110ca2c4ecb71a4ae2e36e7e389fd9d13"
 }
