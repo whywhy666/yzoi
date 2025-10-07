@@ -24441,5 +24441,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106102",
     "standingsUrl": "https://codeforces.com/gym/106102/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UT 104c Midterm #1",
+    "startTime": 1759784400,
+    "duration": 3000,
+    "participantNumber": 0,
+    "id": 106104,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106104",
+    "standingsUrl": "https://codeforces.com/gym/106104/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Уральская командная олимпиада по программированию Юниоры 2024",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106106,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106106",
+    "standingsUrl": "https://codeforces.com/gym/106106/standings"
   }
 ]

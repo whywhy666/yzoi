@@ -6,6 +6,37 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 342365316,
+      "creationTime": 1759791609,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -387692038
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2155F",
+        "name": "Juan's Colorful Tree",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "graphs",
+          "meet-in-the-middle",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2155/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2155/submission/342365316"
+    },
+    {
+      "type": "codeforces",
       "id": 342070375,
       "creationTime": 1759684404,
       "language": "C++20 (GCC 13-64)",
@@ -23,12 +54,12 @@
         "name": "Juan's Colorful Tree",
         "tags": [
           "data structures",
-          "data structures",
           "dfs and similar",
           "dfs and similar",
           "dsu",
           "graphs",
           "graphs",
+          "meet-in-the-middle",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2155/problem/F"
@@ -212,7 +243,8 @@
         "tags": [
           "dfs and similar",
           "dp",
-          "graphs"
+          "greedy",
+          "schedules"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/H1"
       },
@@ -238,7 +270,8 @@
         "tags": [
           "dfs and similar",
           "dp",
-          "graphs"
+          "greedy",
+          "schedules"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/H1"
       },
@@ -430,7 +463,6 @@
         "id": "2152B",
         "name": "Catching the Krug",
         "tags": [
-          "binary search",
           "games",
           "math"
         ],
