@@ -240,11 +240,11 @@
         "type": "codeforces",
         "id": "2152H1",
         "name": "Victorious Coloring (Easy Version)",
+        "rating": 2900,
         "tags": [
           "dfs and similar",
           "dp",
-          "greedy",
-          "schedules"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/H1"
       },
@@ -267,11 +267,11 @@
         "type": "codeforces",
         "id": "2152H1",
         "name": "Victorious Coloring (Easy Version)",
+        "rating": 2900,
         "tags": [
           "dfs and similar",
           "dp",
-          "greedy",
-          "schedules"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/H1"
       },
@@ -294,6 +294,7 @@
         "type": "codeforces",
         "id": "2152F",
         "name": "Triple Attack",
+        "rating": 2500,
         "tags": [
           "brute force",
           "data structures",
@@ -324,6 +325,7 @@
         "type": "codeforces",
         "id": "2152F",
         "name": "Triple Attack",
+        "rating": 2500,
         "tags": [
           "brute force",
           "data structures",
@@ -354,6 +356,7 @@
         "type": "codeforces",
         "id": "2152G",
         "name": "Query Jungle",
+        "rating": 2900,
         "tags": [
           "data structures",
           "implementation",
@@ -382,6 +385,7 @@
         "type": "codeforces",
         "id": "2152E",
         "name": "Monotone Subsequence",
+        "rating": 2100,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -410,6 +414,7 @@
         "type": "codeforces",
         "id": "2152D",
         "name": "Division Versus Addition",
+        "rating": 1700,
         "tags": [
           "games",
           "greedy",
@@ -436,6 +441,7 @@
         "type": "codeforces",
         "id": "2152C",
         "name": "Triple Removal",
+        "rating": 1400,
         "tags": [
           "data structures",
           "greedy",
@@ -462,6 +468,7 @@
         "type": "codeforces",
         "id": "2152B",
         "name": "Catching the Krug",
+        "rating": 1300,
         "tags": [
           "games",
           "math"
@@ -487,6 +494,7 @@
         "type": "codeforces",
         "id": "2152A",
         "name": "Increase or Smash",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
