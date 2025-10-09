@@ -296,13 +296,8 @@
         "name": "Triple Attack",
         "rating": 2500,
         "tags": [
-          "brute force",
           "data structures",
-          "dp",
-          "graphs",
-          "greedy",
-          "trees",
-          "two pointers"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/F"
       },
@@ -327,13 +322,8 @@
         "name": "Triple Attack",
         "rating": 2500,
         "tags": [
-          "brute force",
           "data structures",
-          "dp",
-          "graphs",
-          "greedy",
-          "trees",
-          "two pointers"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/F"
       },
@@ -470,8 +460,7 @@
         "name": "Catching the Krug",
         "rating": 1300,
         "tags": [
-          "games",
-          "math"
+          "games"
         ],
         "problemUrl": "https://codeforces.com/contest/2152/problem/B"
       },
