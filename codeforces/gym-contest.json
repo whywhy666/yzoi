@@ -24473,5 +24473,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106106",
     "standingsUrl": "https://codeforces.com/gym/106106/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "SPbSU TechArena 2025",
+    "startTime": 1759050600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106111,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106111",
+    "standingsUrl": "https://codeforces.com/gym/106111/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025-2026 ICPC NERC, Kyrgyzstan Qualification Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106110,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106110",
+    "standingsUrl": "https://codeforces.com/gym/106110/standings"
   }
 ]
