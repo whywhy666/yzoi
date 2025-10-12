@@ -24494,5 +24494,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106110",
     "standingsUrl": "https://codeforces.com/gym/106110/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Coding Cup TecNM 2025",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106113,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106113",
+    "standingsUrl": "https://codeforces.com/gym/106113/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 Sun Yat-sen University Collegiate Programming Contest, Final",
+    "startTime": 1760236200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106114,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106114",
+    "standingsUrl": "https://codeforces.com/gym/106114/standings"
   }
 ]

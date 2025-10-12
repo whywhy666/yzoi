@@ -6,6 +6,404 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 343402510,
+      "creationTime": 1760288696,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343402510"
+    },
+    {
+      "type": "codeforces",
+      "id": 343402393,
+      "creationTime": 1760288690,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "SKIPPED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343402393"
+    },
+    {
+      "type": "codeforces",
+      "id": 343402014,
+      "creationTime": 1760288664,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343402014"
+    },
+    {
+      "type": "codeforces",
+      "id": 343401640,
+      "creationTime": 1760288632,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "SKIPPED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343401640"
+    },
+    {
+      "type": "codeforces",
+      "id": 343400211,
+      "creationTime": 1760288479,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343400211"
+    },
+    {
+      "type": "codeforces",
+      "id": 343399270,
+      "creationTime": 1760288370,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343399270"
+    },
+    {
+      "type": "codeforces",
+      "id": 343398202,
+      "creationTime": 1760288247,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343398202"
+    },
+    {
+      "type": "codeforces",
+      "id": 343396229,
+      "creationTime": 1760287986,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343396229"
+    },
+    {
+      "type": "codeforces",
+      "id": 343393947,
+      "creationTime": 1760287667,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343393947"
+    },
+    {
+      "type": "codeforces",
+      "id": 343393278,
+      "creationTime": 1760287572,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159F",
+        "name": "Grand Finale: Snakes",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343393278"
+    },
+    {
+      "type": "codeforces",
+      "id": 343374137,
+      "creationTime": 1760285070,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159D2",
+        "name": "Inverse Minimum Partition (Hard Version)",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343374137"
+    },
+    {
+      "type": "codeforces",
+      "id": 343370582,
+      "creationTime": 1760284675,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159D2",
+        "name": "Inverse Minimum Partition (Hard Version)",
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343370582"
+    },
+    {
+      "type": "codeforces",
+      "id": 343357121,
+      "creationTime": 1760283290,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159D1",
+        "name": "Inverse Minimum Partition (Easy Version)",
+        "tags": [
+          "binary search",
+          "dp",
+          "greedy",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343357121"
+    },
+    {
+      "type": "codeforces",
+      "id": 343344548,
+      "creationTime": 1760282211,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159C",
+        "name": "Twin Polynomials",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343344548"
+    },
+    {
+      "type": "codeforces",
+      "id": 343329244,
+      "creationTime": 1760281067,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159B",
+        "name": "Rectangles",
+        "tags": [
+          "data structures",
+          "implementation",
+          "implementation",
+          "two pointers",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343329244"
+    },
+    {
+      "type": "codeforces",
+      "id": 343312878,
+      "creationTime": 1760280165,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1760279700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2159A",
+        "name": "MAD Interactive Problem",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2159/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2159/submission/343312878"
+    },
+    {
+      "type": "codeforces",
       "id": 342365316,
       "creationTime": 1759791609,
       "language": "C++20 (GCC 13-64)",
@@ -141098,7 +141496,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3617,
+    "rating": 3630,
     "maxRank": "tourist",
     "maxRating": 4009
   }

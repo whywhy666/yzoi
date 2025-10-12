@@ -1,9 +1,144 @@
 {
   "version": "0.1.16",
-  "updateTime": 1760217030,
+  "updateTime": 1760303454,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 343402510,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "OK",
+            "creationTime": 1760288696
+          },
+          {
+            "platform": "codeforces",
+            "id": 343402393,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "SKIPPED",
+            "creationTime": 1760288690
+          },
+          {
+            "platform": "codeforces",
+            "id": 343402014,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "OK",
+            "creationTime": 1760288664
+          },
+          {
+            "platform": "codeforces",
+            "id": 343401640,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "SKIPPED",
+            "creationTime": 1760288632
+          },
+          {
+            "platform": "codeforces",
+            "id": 343400211,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1760288479
+          },
+          {
+            "platform": "codeforces",
+            "id": 343399270,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1760288370
+          },
+          {
+            "platform": "codeforces",
+            "id": 343398202,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1760288247
+          },
+          {
+            "platform": "codeforces",
+            "id": 343396229,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1760287986
+          },
+          {
+            "platform": "codeforces",
+            "id": 343393947,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1760287667
+          },
+          {
+            "platform": "codeforces",
+            "id": 343393278,
+            "pid": "2159F",
+            "name": "Grand Finale: Snakes",
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "creationTime": 1760287572
+          },
+          {
+            "platform": "codeforces",
+            "id": 343374137,
+            "pid": "2159D2",
+            "name": "Inverse Minimum Partition (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1760285070
+          },
+          {
+            "platform": "codeforces",
+            "id": 343370582,
+            "pid": "2159D2",
+            "name": "Inverse Minimum Partition (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1760284675
+          },
+          {
+            "platform": "codeforces",
+            "id": 343357121,
+            "pid": "2159D1",
+            "name": "Inverse Minimum Partition (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1760283290
+          },
+          {
+            "platform": "codeforces",
+            "id": 343344548,
+            "pid": "2159C",
+            "name": "Twin Polynomials",
+            "verdict": "OK",
+            "creationTime": 1760282211
+          },
+          {
+            "platform": "codeforces",
+            "id": 343329244,
+            "pid": "2159B",
+            "name": "Rectangles",
+            "verdict": "OK",
+            "creationTime": 1760281067
+          },
+          {
+            "platform": "codeforces",
+            "id": 343312878,
+            "pid": "2159A",
+            "name": "MAD Interactive Problem",
+            "verdict": "OK",
+            "creationTime": 1760280165
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b9ef40c0508dcbb4e5b3f32796926acfac555813"
+  "ref": "49132b0fe9f433be92bb54a79a530110fede8038"
 }
