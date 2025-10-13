@@ -24515,5 +24515,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106114",
     "standingsUrl": "https://codeforces.com/gym/106114/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 ICPC, Chula Selection Contest",
+    "startTime": 1760331600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106118,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106118",
+    "standingsUrl": "https://codeforces.com/gym/106118/standings"
   }
 ]

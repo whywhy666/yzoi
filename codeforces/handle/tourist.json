@@ -22,7 +22,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -46,7 +48,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -70,7 +74,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -94,7 +100,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -118,7 +126,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -142,7 +152,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -166,7 +178,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -190,7 +204,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -214,7 +230,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -238,7 +256,9 @@
         "id": "2159F",
         "name": "Grand Finale: Snakes",
         "tags": [
-          "interactive"
+          "binary search",
+          "interactive",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/F"
       },
@@ -313,8 +333,11 @@
         "name": "Inverse Minimum Partition (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
+          "data structures",
           "dp",
           "greedy",
+          "math",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/D1"
@@ -341,6 +364,7 @@
         "tags": [
           "combinatorics",
           "dp",
+          "graph matchings",
           "graphs",
           "math"
         ],
@@ -366,10 +390,11 @@
         "id": "2159B",
         "name": "Rectangles",
         "tags": [
+          "brute force",
           "data structures",
+          "dp",
+          "dsu",
           "implementation",
-          "implementation",
-          "two pointers",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2159/problem/B"
