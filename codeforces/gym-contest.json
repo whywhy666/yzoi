@@ -24548,5 +24548,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106122",
     "standingsUrl": "https://codeforces.com/gym/106122/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Delft Algorithm Programming Contest 2025 (DAPC 2025)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106125,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106125",
+    "standingsUrl": "https://codeforces.com/gym/106125/standings"
   }
 ]
