@@ -24558,5 +24558,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106125",
     "standingsUrl": "https://codeforces.com/gym/106125/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025-2026 ICPC German Collegiate Programming Contest (GCPC 2025)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106129,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106129",
+    "standingsUrl": "https://codeforces.com/gym/106129/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "National Yang Ming Chiao Tung University 2025 Individual Programming Contest",
+    "startTime": 1756258200,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106132,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106132",
+    "standingsUrl": "https://codeforces.com/gym/106132/standings"
   }
 ]
