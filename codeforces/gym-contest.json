@@ -24561,6 +24561,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2025-2026 ICPC Nordic Collegiate Programming Contest (NCPC 2025)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106124,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106124",
+    "standingsUrl": "https://codeforces.com/gym/106124/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2025-2026 ICPC German Collegiate Programming Contest (GCPC 2025)",
     "duration": 18000,
     "participantNumber": 0,
@@ -24579,5 +24589,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106132",
     "standingsUrl": "https://codeforces.com/gym/106132/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "East China University of Science and Technology Programming Contest 2025",
+    "startTime": 1761022800,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106136,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106136",
+    "standingsUrl": "https://codeforces.com/gym/106136/standings"
   }
 ]
