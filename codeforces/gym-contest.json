@@ -24592,17 +24592,6 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "Coding Challenge Alpha IX - by Algorave",
-    "startTime": 1761489000,
-    "duration": 7200,
-    "participantNumber": 0,
-    "id": 106134,
-    "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/106134",
-    "standingsUrl": "https://codeforces.com/gym/106134/standings"
-  },
-  {
-    "type": "codeforces/gym/icpc",
     "name": "East China University of Science and Technology Programming Contest 2025",
     "startTime": 1761022800,
     "duration": 14400,
@@ -24611,5 +24600,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106136",
     "standingsUrl": "https://codeforces.com/gym/106136/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 21st Hunan Provincial Collegiate Programming Contest",
+    "startTime": 1760230800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106139,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106139",
+    "standingsUrl": "https://codeforces.com/gym/106139/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "MOSCOW Team Olympiad for Schoold students, 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106141,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106141",
+    "standingsUrl": "https://codeforces.com/gym/106141/standings"
   }
 ]
