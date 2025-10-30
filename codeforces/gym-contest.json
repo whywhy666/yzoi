@@ -24592,6 +24592,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "BFS  BFS - MTA",
+    "startTime": 1761238800,
+    "duration": 600420,
+    "participantNumber": 0,
+    "id": 106137,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106137",
+    "standingsUrl": "https://codeforces.com/gym/106137/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "East China University of Science and Technology Programming Contest 2025",
     "startTime": 1761022800,
     "duration": 14400,
@@ -24634,6 +24645,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 10-29-25",
+    "startTime": 1761780600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106145,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106145",
+    "standingsUrl": "https://codeforces.com/gym/106145/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2025-2026 ICPC, NERC, Southern and Volga Russian Regional Contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -24641,5 +24663,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106144",
     "standingsUrl": "https://codeforces.com/gym/106144/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Junior Balkan Olympiad in Informatics 2005. Day 1",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106147,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106147",
+    "standingsUrl": "https://codeforces.com/gym/106147/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Junior Balkan Olympiad in Informatics 2005. Day 2",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106148,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106148",
+    "standingsUrl": "https://codeforces.com/gym/106148/standings"
   }
 ]
