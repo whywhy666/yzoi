@@ -24683,5 +24683,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106148",
     "standingsUrl": "https://codeforces.com/gym/106148/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 ICPC Greek Collegiate Programming Contest (GRCPC 2025)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106151,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106151",
+    "standingsUrl": "https://codeforces.com/gym/106151/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HNNU Freshman Competition Round 2",
+    "startTime": 1761907500,
+    "duration": 11700,
+    "participantNumber": 0,
+    "id": 106153,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106153",
+    "standingsUrl": "https://codeforces.com/gym/106153/standings"
   }
 ]

@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1761858782,
+  "updateTime": 1761945165,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 346718997,
-            "pid": "2161G",
-            "name": "Bitwise And Equals",
-            "verdict": "OK",
-            "creationTime": 1761849284
-          },
-          {
-            "platform": "codeforces",
-            "id": 346695560,
-            "pid": "2161F",
-            "name": "SubMST",
-            "verdict": "OK",
-            "creationTime": 1761845436
-          },
-          {
-            "platform": "codeforces",
-            "id": 346684086,
-            "pid": "2161E",
-            "name": "Left is Always Right",
-            "verdict": "OK",
-            "creationTime": 1761843922
-          },
-          {
-            "platform": "codeforces",
-            "id": 346675570,
-            "pid": "2161C",
-            "name": "Loyalty",
-            "verdict": "OK",
-            "creationTime": 1761842977
-          },
-          {
-            "platform": "codeforces",
-            "id": 346673500,
-            "pid": "2161D",
-            "name": "Locked Out",
-            "verdict": "OK",
-            "creationTime": 1761842789
-          },
-          {
-            "platform": "codeforces",
-            "id": 346668614,
-            "pid": "2161B",
-            "name": "Make Connected",
-            "verdict": "OK",
-            "creationTime": 1761842393
-          },
-          {
-            "platform": "codeforces",
-            "id": 346667010,
-            "pid": "2161A",
-            "name": "Round Trip",
-            "verdict": "OK",
-            "creationTime": 1761842196
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "820eeb7cc4de6b195f704f5d6d45576e656f8a7a"
+  "ref": "fb04e2d07d3643fc07eb659940be464ab4e94b6e"
 }
