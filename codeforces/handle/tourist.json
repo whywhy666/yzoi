@@ -22,7 +22,8 @@
         "id": "2161G",
         "name": "Bitwise And Equals",
         "tags": [
-          "bitmasks"
+          "bitmasks",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2161/problem/G"
       },
@@ -141719,7 +141720,7 @@
     }
   ],
   "codeforces": {
-    "rank": "легендарный гроссмейстер",
+    "rank": "legendary grandmaster",
     "rating": 3747,
     "maxRank": "tourist",
     "maxRating": 4009
