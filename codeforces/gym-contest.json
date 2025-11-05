@@ -24727,6 +24727,17 @@
     "standingsUrl": "https://codeforces.com/gym/106157/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "XIII UnB Contest Mirror",
+    "startTime": 1762275600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106159,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106159",
+    "standingsUrl": "https://codeforces.com/gym/106159/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Innopolis Open 2025-2026. Elimination Round 1",
     "duration": 18000,
@@ -24768,5 +24779,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106163",
     "standingsUrl": "https://codeforces.com/gym/106163/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 ICPC German Collegiate Programming Contest (GCPC 2021)",
+    "startTime": 1762331400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106167,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106167",
+    "standingsUrl": "https://codeforces.com/gym/106167/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025-2026 ICPC NERC, Kyrgyzstan Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106169,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106169",
+    "standingsUrl": "https://codeforces.com/gym/106169/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Swiss Subregional 2025-2026",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106170,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106170",
+    "standingsUrl": "https://codeforces.com/gym/106170/standings"
   }
 ]
