@@ -1,9 +1,104 @@
 {
   "version": "0.1.16",
-  "updateTime": 1762377222,
+  "updateTime": 1762463580,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 347765188,
+            "pid": "2164G",
+            "name": "Pointless Machine",
+            "verdict": "OK",
+            "creationTime": 1762448223
+          },
+          {
+            "platform": "codeforces",
+            "id": 347743613,
+            "pid": "2164F1",
+            "name": "Chain Prefix Rank (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1762444895
+          },
+          {
+            "platform": "codeforces",
+            "id": 347738287,
+            "pid": "2164F1",
+            "name": "Chain Prefix Rank (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1762444235
+          },
+          {
+            "platform": "codeforces",
+            "id": 347735193,
+            "pid": "2164F1",
+            "name": "Chain Prefix Rank (Easy Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1762443864
+          },
+          {
+            "platform": "codeforces",
+            "id": 347721213,
+            "pid": "2164E",
+            "name": "Journey",
+            "verdict": "OK",
+            "creationTime": 1762442329
+          },
+          {
+            "platform": "codeforces",
+            "id": 347716848,
+            "pid": "2164E",
+            "name": "Journey",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1762441884
+          },
+          {
+            "platform": "codeforces",
+            "id": 347711273,
+            "pid": "2164D",
+            "name": "Copy String",
+            "verdict": "OK",
+            "creationTime": 1762441336
+          },
+          {
+            "platform": "codeforces",
+            "id": 347705261,
+            "pid": "2164D",
+            "name": "Copy String",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1762440797
+          },
+          {
+            "platform": "codeforces",
+            "id": 347699153,
+            "pid": "2164C",
+            "name": "Dungeon",
+            "verdict": "OK",
+            "creationTime": 1762440340
+          },
+          {
+            "platform": "codeforces",
+            "id": 347692770,
+            "pid": "2164B",
+            "name": "Even Modulo Pair",
+            "verdict": "OK",
+            "creationTime": 1762439966
+          },
+          {
+            "platform": "codeforces",
+            "id": 347688631,
+            "pid": "2164A",
+            "name": "Sequence Game",
+            "verdict": "OK",
+            "creationTime": 1762439774
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "62822a80d7433fd4ee17085eca95eb8bc05fc31d"
+  "ref": "238c787a8956cdef7eb869d4cbb361adfe530cbf"
 }
