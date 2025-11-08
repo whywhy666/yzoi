@@ -24782,6 +24782,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "ICPC Asia Bangkok Regional Contest 2025",
+    "startTime": 1762581600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106164,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106164",
+    "standingsUrl": "https://codeforces.com/gym/106164/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2021-2022 ICPC German Collegiate Programming Contest (GCPC 2021)",
     "startTime": 1762331400,
     "duration": 18000,
@@ -24810,6 +24821,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106170",
     "standingsUrl": "https://codeforces.com/gym/106170/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2004-2005 Northwestern European Regional Contest (NWERC 2004)",
+    "startTime": 1762596000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106175,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106175",
+    "standingsUrl": "https://codeforces.com/gym/106175/standings"
   },
   {
     "type": "codeforces/gym/ioi",
