@@ -24842,5 +24842,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106174",
     "standingsUrl": "https://codeforces.com/gym/106174/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "TheForces Round #45 (DIV3-Forces2)",
+    "startTime": 1762698900,
+    "duration": 8100,
+    "participantNumber": 0,
+    "id": 106177,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106177",
+    "standingsUrl": "https://codeforces.com/gym/106177/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC India Online Prelims (2025 - 2026)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106179,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106179",
+    "standingsUrl": "https://codeforces.com/gym/106179/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Высшая проба - 2025. Заключительный этап",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106180,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106180",
+    "standingsUrl": "https://codeforces.com/gym/106180/standings"
   }
 ]
