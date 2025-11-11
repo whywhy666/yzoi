@@ -24884,5 +24884,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106182",
     "standingsUrl": "https://codeforces.com/gym/106182/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 ICPC Japan Online First Round Contest",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106185,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106185",
+    "standingsUrl": "https://codeforces.com/gym/106185/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 China Collegiate Programming Contest (CCPC) Harbin Onsite Warmup",
+    "startTime": 1762583400,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106184,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106184",
+    "standingsUrl": "https://codeforces.com/gym/106184/standings"
   }
 ]
