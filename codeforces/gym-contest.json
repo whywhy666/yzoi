@@ -24865,6 +24865,17 @@
     "standingsUrl": "https://codeforces.com/gym/106179/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2025-2026 ICPC Latin American Regional Programming Contest",
+    "startTime": 1762624800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106178,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106178",
+    "standingsUrl": "https://codeforces.com/gym/106178/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Высшая проба - 2025. Заключительный этап",
     "duration": 14400,
