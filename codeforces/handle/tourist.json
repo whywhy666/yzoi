@@ -217,8 +217,6 @@
         "id": "2164D",
         "name": "Copy String",
         "tags": [
-          "binary search",
-          "dp",
           "greedy",
           "implementation",
           "strings",
@@ -246,8 +244,6 @@
         "id": "2164D",
         "name": "Copy String",
         "tags": [
-          "binary search",
-          "dp",
           "greedy",
           "implementation",
           "strings",
@@ -305,8 +301,7 @@
         "tags": [
           "brute force",
           "math",
-          "number theory",
-          "probabilities"
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/B"
       },
@@ -331,7 +326,7 @@
         "name": "Sequence Game",
         "tags": [
           "brute force",
-          "greedy"
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2164/problem/A"
       },
@@ -142061,7 +142056,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3653,
+    "rating": 3652,
     "maxRank": "tourist",
     "maxRating": 4009
   }

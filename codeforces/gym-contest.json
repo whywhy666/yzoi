@@ -24666,7 +24666,7 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "Junior Balkan Olympiad in Informatics 2005. Day 1",
+    "name": "Junior Balkan Olympiad in Informatics 2025. Day 1",
     "duration": 14400,
     "participantNumber": 0,
     "id": 106147,
@@ -24676,7 +24676,7 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "Junior Balkan Olympiad in Informatics 2005. Day 2",
+    "name": "Junior Balkan Olympiad in Informatics 2025. Day 2",
     "duration": 14400,
     "participantNumber": 0,
     "id": 106148,
@@ -24916,5 +24916,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106184",
     "standingsUrl": "https://codeforces.com/gym/106184/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "NWU IUPC 2025 powered by CPS Academy",
+    "startTime": 1763038800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106186,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106186",
+    "standingsUrl": "https://codeforces.com/gym/106186/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Central Russia Regional Contest, 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106189,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106189",
+    "standingsUrl": "https://codeforces.com/gym/106189/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC x WiCS Contest 11-12-2025",
+    "startTime": 1762993800,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106188,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106188",
+    "standingsUrl": "https://codeforces.com/gym/106188/standings"
   }
 ]
