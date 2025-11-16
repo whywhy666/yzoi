@@ -1,6 +1,39 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round 1064 (Div. 1)",
+    "startTime": 1763303700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 2165,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2165",
+    "standingsUrl": "https://codeforces.com/contest/2165/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 1064 (Div. 2)",
+    "startTime": 1763303700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 2166,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2166",
+    "standingsUrl": "https://codeforces.com/contest/2166/standings"
+  },
+  {
+    "type": "codeforces/icpc",
+    "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+    "startTime": 1763257800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 2172,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2172",
+    "standingsUrl": "https://codeforces.com/contest/2172/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
     "startTime": 1763130900,
     "duration": 7200,
