@@ -24581,6 +24581,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "GDUT 2025 Monthly competition",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106130,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106130",
+    "standingsUrl": "https://codeforces.com/gym/106130/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "National Yang Ming Chiao Tung University 2025 Individual Programming Contest",
     "startTime": 1756258200,
     "duration": 10800,
@@ -24989,5 +24999,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106192",
     "standingsUrl": "https://codeforces.com/gym/106192/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HAMMERWARS 2025",
+    "startTime": 1763321400,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106195,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106195",
+    "standingsUrl": "https://codeforces.com/gym/106195/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 Winter China Unversity of Geosciences (Wuhan) Freshman Contest",
+    "startTime": 1763166600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106194,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106194",
+    "standingsUrl": "https://codeforces.com/gym/106194/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Уральская командная олимпиада по программированию 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106196,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106196",
+    "standingsUrl": "https://codeforces.com/gym/106196/standings"
   }
 ]

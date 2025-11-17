@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2164E",
         "name": "Journey",
+        "rating": 2300,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "2164G",
         "name": "Pointless Machine",
+        "rating": 3300,
         "tags": [
           "constructive algorithms",
           "graphs",
@@ -76,6 +78,7 @@
         "type": "codeforces",
         "id": "2164F1",
         "name": "Chain Prefix Rank (Easy Version)",
+        "rating": 2600,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -104,6 +107,7 @@
         "type": "codeforces",
         "id": "2164F1",
         "name": "Chain Prefix Rank (Easy Version)",
+        "rating": 2600,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -132,6 +136,7 @@
         "type": "codeforces",
         "id": "2164F1",
         "name": "Chain Prefix Rank (Easy Version)",
+        "rating": 2600,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -160,6 +165,7 @@
         "type": "codeforces",
         "id": "2164E",
         "name": "Journey",
+        "rating": 2300,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -188,6 +194,7 @@
         "type": "codeforces",
         "id": "2164E",
         "name": "Journey",
+        "rating": 2300,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -216,6 +223,7 @@
         "type": "codeforces",
         "id": "2164D",
         "name": "Copy String",
+        "rating": 1800,
         "tags": [
           "greedy",
           "implementation",
@@ -243,6 +251,7 @@
         "type": "codeforces",
         "id": "2164D",
         "name": "Copy String",
+        "rating": 1800,
         "tags": [
           "greedy",
           "implementation",
@@ -270,6 +279,7 @@
         "type": "codeforces",
         "id": "2164C",
         "name": "Dungeon",
+        "rating": 1400,
         "tags": [
           "binary search",
           "brute force",
@@ -298,6 +308,7 @@
         "type": "codeforces",
         "id": "2164B",
         "name": "Even Modulo Pair",
+        "rating": 1000,
         "tags": [
           "brute force",
           "math",
@@ -324,6 +335,7 @@
         "type": "codeforces",
         "id": "2164A",
         "name": "Sequence Game",
+        "rating": 800,
         "tags": [
           "brute force",
           "sortings"
