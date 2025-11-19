@@ -25031,5 +25031,55 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106196",
     "standingsUrl": "https://codeforces.com/gym/106196/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2024-2025, Вторая личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106199,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106199",
+    "standingsUrl": "https://codeforces.com/gym/106199/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Индивидуальная олимпиада школьников по информатике и программированию 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106201,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106201",
+    "standingsUrl": "https://codeforces.com/gym/106201/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2024-2025, Третья личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106200,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106200",
+    "standingsUrl": "https://codeforces.com/gym/106200/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2025-2026, Вторая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106203,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106203",
+    "standingsUrl": "https://codeforces.com/gym/106203/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2025-2026, Первая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106202,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106202",
+    "standingsUrl": "https://codeforces.com/gym/106202/standings"
   }
 ]
