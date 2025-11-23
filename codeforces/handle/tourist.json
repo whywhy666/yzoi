@@ -6,6 +6,309 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 350366970,
+      "creationTime": 1763904871,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -383578776
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157I",
+        "name": "Hyper Smawk Bros",
+        "tags": [
+          "dp",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350366970"
+    },
+    {
+      "type": "codeforces",
+      "id": 350361675,
+      "creationTime": 1763901281,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157I",
+        "name": "Hyper Smawk Bros",
+        "tags": [
+          "dp",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350361675"
+    },
+    {
+      "type": "codeforces",
+      "id": 350347583,
+      "creationTime": 1763898113,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157H",
+        "name": "Keygen 3",
+        "tags": [
+          "brute force",
+          "brute force",
+          "brute force",
+          "brute force",
+          "combinatorics",
+          "combinatorics",
+          "combinatorics",
+          "constructive algorithms",
+          "constructive algorithms",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350347583"
+    },
+    {
+      "type": "codeforces",
+      "id": 350334803,
+      "creationTime": 1763895431,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157G",
+        "name": "Isaac's Queries",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "dfs and similar",
+          "greedy",
+          "interactive",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350334803"
+    },
+    {
+      "type": "codeforces",
+      "id": 350325612,
+      "creationTime": 1763893887,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157F",
+        "name": "Git Gud",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "divide and conquer",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350325612"
+    },
+    {
+      "type": "codeforces",
+      "id": 350315754,
+      "creationTime": 1763892460,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157E",
+        "name": "Adjusting Drones",
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dp",
+          "dsu",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350315754"
+    },
+    {
+      "type": "codeforces",
+      "id": 350306955,
+      "creationTime": 1763891374,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157D",
+        "name": "Billion Players Game",
+        "tags": [
+          "greedy",
+          "math",
+          "ternary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350306955"
+    },
+    {
+      "type": "codeforces",
+      "id": 350302028,
+      "creationTime": 1763890878,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157C",
+        "name": "Meximum Array 2",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350302028"
+    },
+    {
+      "type": "codeforces",
+      "id": 350300494,
+      "creationTime": 1763890769,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157C",
+        "name": "Meximum Array 2",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350300494"
+    },
+    {
+      "type": "codeforces",
+      "id": 350298555,
+      "creationTime": 1763890664,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157B",
+        "name": "Expansion Plan 2",
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350298555"
+    },
+    {
+      "type": "codeforces",
+      "id": 350297010,
+      "creationTime": 1763890564,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1763890500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157A",
+        "name": "Dungeon Equilibrium",
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350297010"
+    },
+    {
+      "type": "codeforces",
       "id": 347846450,
       "creationTime": 1762503908,
       "language": "C++20 (GCC 13-64)",
@@ -142068,7 +142371,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3652,
+    "rating": 3757,
     "maxRank": "tourist",
     "maxRating": 4009
   }
