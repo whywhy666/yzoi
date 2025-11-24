@@ -6,6 +6,136 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 350415709,
+      "creationTime": 1763933286,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -383550361
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157I",
+        "name": "Hyper Smawk Bros",
+        "tags": [
+          "dp",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350415709"
+    },
+    {
+      "type": "codeforces",
+      "id": 350415692,
+      "creationTime": 1763933260,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -383550387
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157I",
+        "name": "Hyper Smawk Bros",
+        "tags": [
+          "dp",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350415692"
+    },
+    {
+      "type": "codeforces",
+      "id": 350415650,
+      "creationTime": 1763933207,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -383550440
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157I",
+        "name": "Hyper Smawk Bros",
+        "tags": [
+          "dp",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350415650"
+    },
+    {
+      "type": "codeforces",
+      "id": 350415630,
+      "creationTime": 1763933183,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -383550464
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157I",
+        "name": "Hyper Smawk Bros",
+        "tags": [
+          "dp",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350415630"
+    },
+    {
+      "type": "codeforces",
+      "id": 350415594,
+      "creationTime": 1763933139,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -383550508
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2157I",
+        "name": "Hyper Smawk Bros",
+        "tags": [
+          "dp",
+          "dp",
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2157/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2157/submission/350415594"
+    },
+    {
+      "type": "codeforces",
       "id": 350366970,
       "creationTime": 1763904871,
       "language": "C++20 (GCC 13-64)",
@@ -107,11 +237,15 @@
         "id": "2157G",
         "name": "Isaac's Queries",
         "tags": [
+          "bitmasks",
           "brute force",
           "constructive algorithms",
           "dfs and similar",
+          "divide and conquer",
+          "dp",
           "greedy",
           "interactive",
+          "math",
           "probabilities"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/G"
@@ -138,8 +272,8 @@
         "tags": [
           "brute force",
           "constructive algorithms",
+          "data structures",
           "divide and conquer",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/F"
@@ -197,7 +331,9 @@
         "tags": [
           "greedy",
           "math",
-          "ternary search"
+          "sortings",
+          "ternary search",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/D"
       },
@@ -223,6 +359,7 @@
         "tags": [
           "constructive algorithms",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/C"
@@ -249,6 +386,7 @@
         "tags": [
           "constructive algorithms",
           "greedy",
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/C"
@@ -273,7 +411,6 @@
         "id": "2157B",
         "name": "Expansion Plan 2",
         "tags": [
-          "greedy",
           "implementation",
           "math"
         ],

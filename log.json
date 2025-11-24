@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1763932345,
+  "updateTime": 1764018895,
   "history": {
     "user": [
       {
@@ -8,91 +8,43 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 350366970,
+            "id": 350415709,
             "pid": "2157I",
             "name": "Hyper Smawk Bros",
             "verdict": "OK",
-            "creationTime": 1763904871
+            "creationTime": 1763933286
           },
           {
             "platform": "codeforces",
-            "id": 350361675,
+            "id": 350415692,
+            "pid": "2157I",
+            "name": "Hyper Smawk Bros",
+            "verdict": "OK",
+            "creationTime": 1763933260
+          },
+          {
+            "platform": "codeforces",
+            "id": 350415650,
+            "pid": "2157I",
+            "name": "Hyper Smawk Bros",
+            "verdict": "RUNTIME_ERROR",
+            "creationTime": 1763933207
+          },
+          {
+            "platform": "codeforces",
+            "id": 350415630,
+            "pid": "2157I",
+            "name": "Hyper Smawk Bros",
+            "verdict": "OK",
+            "creationTime": 1763933183
+          },
+          {
+            "platform": "codeforces",
+            "id": 350415594,
             "pid": "2157I",
             "name": "Hyper Smawk Bros",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1763901281
-          },
-          {
-            "platform": "codeforces",
-            "id": 350347583,
-            "pid": "2157H",
-            "name": "Keygen 3",
-            "verdict": "OK",
-            "creationTime": 1763898113
-          },
-          {
-            "platform": "codeforces",
-            "id": 350334803,
-            "pid": "2157G",
-            "name": "Isaac's Queries",
-            "verdict": "OK",
-            "creationTime": 1763895431
-          },
-          {
-            "platform": "codeforces",
-            "id": 350325612,
-            "pid": "2157F",
-            "name": "Git Gud",
-            "verdict": "OK",
-            "creationTime": 1763893887
-          },
-          {
-            "platform": "codeforces",
-            "id": 350315754,
-            "pid": "2157E",
-            "name": "Adjusting Drones",
-            "verdict": "OK",
-            "creationTime": 1763892460
-          },
-          {
-            "platform": "codeforces",
-            "id": 350306955,
-            "pid": "2157D",
-            "name": "Billion Players Game",
-            "verdict": "OK",
-            "creationTime": 1763891374
-          },
-          {
-            "platform": "codeforces",
-            "id": 350302028,
-            "pid": "2157C",
-            "name": "Meximum Array 2",
-            "verdict": "OK",
-            "creationTime": 1763890878
-          },
-          {
-            "platform": "codeforces",
-            "id": 350300494,
-            "pid": "2157C",
-            "name": "Meximum Array 2",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1763890769
-          },
-          {
-            "platform": "codeforces",
-            "id": 350298555,
-            "pid": "2157B",
-            "name": "Expansion Plan 2",
-            "verdict": "OK",
-            "creationTime": 1763890664
-          },
-          {
-            "platform": "codeforces",
-            "id": 350297010,
-            "pid": "2157A",
-            "name": "Dungeon Equilibrium",
-            "verdict": "OK",
-            "creationTime": 1763890564
+            "creationTime": 1763933139
           }
         ],
         "newContests": []
@@ -100,5 +52,5 @@
     ],
     "contest": []
   },
-  "ref": "e1ac1afd9022b98567ee58456ecdd345ece84156"
+  "ref": "8c27ad8c5814116b79dd7b31e757db2445a685f3"
 }
