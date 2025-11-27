@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2157I",
         "name": "Hyper Smawk Bros",
+        "rating": 3500,
         "tags": [
           "dp",
           "dp",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2157I",
         "name": "Hyper Smawk Bros",
+        "rating": 3500,
         "tags": [
           "dp",
           "dp",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "2157I",
         "name": "Hyper Smawk Bros",
+        "rating": 3500,
         "tags": [
           "dp",
           "dp",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "2157I",
         "name": "Hyper Smawk Bros",
+        "rating": 3500,
         "tags": [
           "dp",
           "dp",
@@ -125,6 +129,7 @@
         "type": "codeforces",
         "id": "2157I",
         "name": "Hyper Smawk Bros",
+        "rating": 3500,
         "tags": [
           "dp",
           "dp",
@@ -151,6 +156,7 @@
         "type": "codeforces",
         "id": "2157I",
         "name": "Hyper Smawk Bros",
+        "rating": 3500,
         "tags": [
           "dp",
           "dp",
@@ -177,6 +183,7 @@
         "type": "codeforces",
         "id": "2157I",
         "name": "Hyper Smawk Bros",
+        "rating": 3500,
         "tags": [
           "dp",
           "dp",
@@ -203,10 +210,13 @@
         "type": "codeforces",
         "id": "2157H",
         "name": "Keygen 3",
+        "rating": 3200,
         "tags": [
           "brute force",
           "combinatorics",
-          "constructive algorithms"
+          "constructive algorithms",
+          "dfs and similar",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/H"
       },
@@ -229,6 +239,7 @@
         "type": "codeforces",
         "id": "2157G",
         "name": "Isaac's Queries",
+        "rating": 2800,
         "tags": [
           "bitmasks",
           "brute force",
@@ -262,11 +273,13 @@
         "type": "codeforces",
         "id": "2157F",
         "name": "Git Gud",
+        "rating": 2400,
         "tags": [
           "brute force",
           "constructive algorithms",
           "divide and conquer",
-          "math"
+          "math",
+          "ternary search"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/F"
       },
@@ -289,6 +302,7 @@
         "type": "codeforces",
         "id": "2157E",
         "name": "Adjusting Drones",
+        "rating": 1900,
         "tags": [
           "binary search",
           "brute force",
@@ -320,6 +334,7 @@
         "type": "codeforces",
         "id": "2157D",
         "name": "Billion Players Game",
+        "rating": 1600,
         "tags": [
           "greedy",
           "math",
@@ -348,6 +363,7 @@
         "type": "codeforces",
         "id": "2157C",
         "name": "Meximum Array 2",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -375,6 +391,7 @@
         "type": "codeforces",
         "id": "2157C",
         "name": "Meximum Array 2",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -402,6 +419,7 @@
         "type": "codeforces",
         "id": "2157B",
         "name": "Expansion Plan 2",
+        "rating": 900,
         "tags": [
           "implementation",
           "math"
@@ -427,6 +445,7 @@
         "type": "codeforces",
         "id": "2157A",
         "name": "Dungeon Equilibrium",
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation",
