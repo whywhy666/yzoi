@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 351073548,
+      "creationTime": 1764352567,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -383131080
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2170D",
+        "name": "Almost Roman",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2170/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2170/submission/351073548"
+    },
+    {
+      "type": "codeforces",
       "id": 350415709,
       "creationTime": 1763933286,
       "language": "C++20 (GCC 13-64)",

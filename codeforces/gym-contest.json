@@ -25146,6 +25146,16 @@
     "standingsUrl": "https://codeforces.com/gym/106222/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2025-2026 ICPC Southwestern European Regional Contest (SWERC 2025)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106225,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106225",
+    "standingsUrl": "https://codeforces.com/gym/106225/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "INOI 2024",
     "duration": 10800,
