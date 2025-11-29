@@ -23,7 +23,8 @@
         "name": "Almost Roman",
         "tags": [
           "constructive algorithms",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2170/problem/D"
       },
@@ -361,6 +362,7 @@
         "name": "Billion Players Game",
         "rating": 1600,
         "tags": [
+          "binary search",
           "greedy",
           "math",
           "sortings",
