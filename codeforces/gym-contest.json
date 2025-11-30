@@ -25164,5 +25164,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106224",
     "standingsUrl": "https://codeforces.com/gym/106224/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии 2025-2026. Второй отбор",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106230,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106230",
+    "standingsUrl": "https://codeforces.com/gym/106230/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2025-2026, Четвертая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106233,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106233",
+    "standingsUrl": "https://codeforces.com/gym/106233/standings"
   }
 ]
