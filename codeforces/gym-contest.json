@@ -25184,5 +25184,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106233",
     "standingsUrl": "https://codeforces.com/gym/106233/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Algo Cup 2025 by csspace.io (Qualification Round)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106235,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106235",
+    "standingsUrl": "https://codeforces.com/gym/106235/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025广东工业大学新生赛(决赛)",
+    "startTime": 1764478800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106239,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106239",
+    "standingsUrl": "https://codeforces.com/gym/106239/standings"
   }
 ]
