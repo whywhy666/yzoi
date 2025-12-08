@@ -25268,5 +25268,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106249",
     "standingsUrl": "https://codeforces.com/gym/106249/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Winter 2025-26 Beginner Round",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106251,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106251",
+    "standingsUrl": "https://codeforces.com/gym/106251/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Winter 2025-26 Advanced Team Round",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106250,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106250",
+    "standingsUrl": "https://codeforces.com/gym/106250/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2025 ICPC Asia Shenyang Regional Contest (The 4th Universal Cup. Stage 6: Grand Prix of Shenyang)",
+    "startTime": 1763254800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106252,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106252",
+    "standingsUrl": "https://codeforces.com/gym/106252/standings"
   }
 ]
