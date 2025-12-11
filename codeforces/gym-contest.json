@@ -25290,6 +25290,17 @@
     "standingsUrl": "https://codeforces.com/gym/106250/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике в Липецкой области 2025 (9-11 классы)",
+    "startTime": 1764914400,
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 106253,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106253",
+    "standingsUrl": "https://codeforces.com/gym/106253/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "The 2025 ICPC Asia Shenyang Regional Contest (The 4th Universal Cup. Stage 6: Grand Prix of Shenyang)",
     "startTime": 1763254800,
