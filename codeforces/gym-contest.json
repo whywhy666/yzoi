@@ -25310,5 +25310,36 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106252",
     "standingsUrl": "https://codeforces.com/gym/106252/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UT 104c Final Exam",
+    "startTime": 1765587600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106254,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106254",
+    "standingsUrl": "https://codeforces.com/gym/106254/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CUET Inter University Programming Contest 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106259,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106259",
+    "standingsUrl": "https://codeforces.com/gym/106259/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025 ICPC Asia Manila Regional",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106262,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106262",
+    "standingsUrl": "https://codeforces.com/gym/106262/standings"
   }
 ]
