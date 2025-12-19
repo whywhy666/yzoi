@@ -6,6 +6,343 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 354209546,
+      "creationTime": 1766162914,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180F2",
+        "name": "Control Car (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/F2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354209546"
+    },
+    {
+      "type": "codeforces",
+      "id": 354208163,
+      "creationTime": 1766162732,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180F1",
+        "name": "Control Car (Easy Version)",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354208163"
+    },
+    {
+      "type": "codeforces",
+      "id": 354180725,
+      "creationTime": 1766159664,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180H1",
+        "name": "Bug Is Feature (Unconditional Version)",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354180725"
+    },
+    {
+      "type": "codeforces",
+      "id": 354178501,
+      "creationTime": 1766159470,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180H1",
+        "name": "Bug Is Feature (Unconditional Version)",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354178501"
+    },
+    {
+      "type": "codeforces",
+      "id": 354146737,
+      "creationTime": 1766157133,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180C",
+        "name": "XOR-factorization",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354146737"
+    },
+    {
+      "type": "codeforces",
+      "id": 354145610,
+      "creationTime": 1766157061,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180E",
+        "name": "No Effect XOR",
+        "tags": [
+          "bitmasks",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354145610"
+    },
+    {
+      "type": "codeforces",
+      "id": 354141405,
+      "creationTime": 1766156805,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180C",
+        "name": "XOR-factorization",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354141405"
+    },
+    {
+      "type": "codeforces",
+      "id": 354135437,
+      "creationTime": 1766156453,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180E",
+        "name": "No Effect XOR",
+        "tags": [
+          "bitmasks",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354135437"
+    },
+    {
+      "type": "codeforces",
+      "id": 354127961,
+      "creationTime": 1766156062,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180D",
+        "name": "Insolvable Disks",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354127961"
+    },
+    {
+      "type": "codeforces",
+      "id": 354115774,
+      "creationTime": 1766155468,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180C",
+        "name": "XOR-factorization",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354115774"
+    },
+    {
+      "type": "codeforces",
+      "id": 354107149,
+      "creationTime": 1766155093,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180C",
+        "name": "XOR-factorization",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354107149"
+    },
+    {
+      "type": "codeforces",
+      "id": 354105487,
+      "creationTime": 1766155002,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180B",
+        "name": "Ashmal",
+        "tags": [
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354105487"
+    },
+    {
+      "type": "codeforces",
+      "id": 354105208,
+      "creationTime": 1766154951,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766154900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2180A",
+        "name": "Carnival Wheel",
+        "tags": [
+          "brute force",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2180/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2180/submission/354105208"
+    },
+    {
+      "type": "codeforces",
       "id": 351073548,
       "creationTime": 1764352567,
       "language": "C++20 (GCC 13-64)",
@@ -142546,7 +142883,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3757,
+    "rating": 3718,
     "maxRank": "tourist",
     "maxRating": 4009
   }
