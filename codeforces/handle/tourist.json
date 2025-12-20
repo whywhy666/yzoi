@@ -151,6 +151,8 @@
         "name": "No Effect XOR",
         "tags": [
           "bitmasks",
+          "divide and conquer",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/E"
@@ -204,6 +206,8 @@
         "name": "No Effect XOR",
         "tags": [
           "bitmasks",
+          "divide and conquer",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2180/problem/E"
@@ -228,6 +232,9 @@
         "id": "2180D",
         "name": "Insolvable Disks",
         "tags": [
+          "data structures",
+          "dp",
+          "geometry",
           "greedy",
           "math"
         ],
