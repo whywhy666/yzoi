@@ -25366,6 +25366,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии 2025-2026. Третий отбор",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106269,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106269",
+    "standingsUrl": "https://codeforces.com/gym/106269/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2025 Asia Yokohama Regional Contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -25373,5 +25383,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106268",
     "standingsUrl": "https://codeforces.com/gym/106268/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике (программирование), Москва, 2025",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106271,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106271",
+    "standingsUrl": "https://codeforces.com/gym/106271/standings"
   }
 ]
