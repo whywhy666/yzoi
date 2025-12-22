@@ -25366,6 +25366,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 20-th Beihang University Collegiate Programming Contest (BCPC 2025) - Final",
+    "startTime": 1766196000,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106267,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106267",
+    "standingsUrl": "https://codeforces.com/gym/106267/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Когнитивные технологии 2025-2026. Третий отбор",
     "duration": 10800,
     "participantNumber": 0,
@@ -25393,5 +25404,67 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106271",
     "standingsUrl": "https://codeforces.com/gym/106271/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC Asia Dhaka Regional Onsite 2025 — Replay Contest",
+    "startTime": 1766404800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106270,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106270",
+    "standingsUrl": "https://codeforces.com/gym/106270/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике (программирование) 9-11 класс 2025 (1 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106273,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106273",
+    "standingsUrl": "https://codeforces.com/gym/106273/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 20-th Beihang University Collegiate Programming Contest (BCPC 2025) - Preliminary",
+    "startTime": 1764849600,
+    "duration": 345600,
+    "participantNumber": 0,
+    "id": 106272,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106272",
+    "standingsUrl": "https://codeforces.com/gym/106272/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике (программирование) 9-11 класс 2025 (3 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106275,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106275",
+    "standingsUrl": "https://codeforces.com/gym/106275/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике (программирование) 9-11 класс 2025 (2 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106274,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106274",
+    "standingsUrl": "https://codeforces.com/gym/106274/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Школьный этап ВcОШ по информатике (программирование) 9-11 класс 2025 (4 группа регионов)",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106276,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106276",
+    "standingsUrl": "https://codeforces.com/gym/106276/standings"
   }
 ]
