@@ -6,6 +6,188 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 355400151,
+      "creationTime": 1766855536,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766846100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2178I",
+        "name": "Numbers or Fireworks",
+        "tags": [
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2178/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2178/submission/355400151"
+    },
+    {
+      "type": "codeforces",
+      "id": 355361811,
+      "creationTime": 1766849651,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766846100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2178F",
+        "name": "Conquer or of Forest",
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2178/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2178/submission/355361811"
+    },
+    {
+      "type": "codeforces",
+      "id": 355353395,
+      "creationTime": 1766848637,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766846100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2178E",
+        "name": "Flatten or Concatenate",
+        "tags": [
+          "binary search",
+          "divide and conquer",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2178/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2178/submission/355353395"
+    },
+    {
+      "type": "codeforces",
+      "id": 355336428,
+      "creationTime": 1766847243,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766846100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2178D",
+        "name": "Xmas or Hysteria",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2178/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2178/submission/355336428"
+    },
+    {
+      "type": "codeforces",
+      "id": 355319169,
+      "creationTime": 1766846437,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766846100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2178C",
+        "name": "First or Second",
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2178/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2178/submission/355319169"
+    },
+    {
+      "type": "codeforces",
+      "id": 355313798,
+      "creationTime": 1766846281,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766846100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2178B",
+        "name": "Impost or Sus",
+        "tags": [
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2178/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2178/submission/355313798"
+    },
+    {
+      "type": "codeforces",
+      "id": 355310645,
+      "creationTime": 1766846145,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1766846100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2178A",
+        "name": "Yes or Yes",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2178/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2178/submission/355310645"
+    },
+    {
+      "type": "codeforces",
       "id": 354209546,
       "creationTime": 1766162914,
       "language": "C++20 (GCC 13-64)",
@@ -142892,7 +143074,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3718,
+    "rating": 3585,
     "maxRank": "tourist",
     "maxRating": 4009
   }
