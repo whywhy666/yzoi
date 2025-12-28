@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1766869972,
+  "updateTime": 1766956396,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 355400151,
-            "pid": "2178I",
-            "name": "Numbers or Fireworks",
-            "verdict": "OK",
-            "creationTime": 1766855536
-          },
-          {
-            "platform": "codeforces",
-            "id": 355361811,
-            "pid": "2178F",
-            "name": "Conquer or of Forest",
-            "verdict": "OK",
-            "creationTime": 1766849651
-          },
-          {
-            "platform": "codeforces",
-            "id": 355353395,
-            "pid": "2178E",
-            "name": "Flatten or Concatenate",
-            "verdict": "OK",
-            "creationTime": 1766848637
-          },
-          {
-            "platform": "codeforces",
-            "id": 355336428,
-            "pid": "2178D",
-            "name": "Xmas or Hysteria",
-            "verdict": "OK",
-            "creationTime": 1766847243
-          },
-          {
-            "platform": "codeforces",
-            "id": 355319169,
-            "pid": "2178C",
-            "name": "First or Second",
-            "verdict": "OK",
-            "creationTime": 1766846437
-          },
-          {
-            "platform": "codeforces",
-            "id": 355313798,
-            "pid": "2178B",
-            "name": "Impost or Sus",
-            "verdict": "OK",
-            "creationTime": 1766846281
-          },
-          {
-            "platform": "codeforces",
-            "id": 355310645,
-            "pid": "2178A",
-            "name": "Yes or Yes",
-            "verdict": "OK",
-            "creationTime": 1766846145
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "2a07830be9c85455c72ce0733c0a6a728c3bc8d7"
+  "ref": "4d060a4003620b4c2a98754e9bf987b1cf39f1a8"
 }

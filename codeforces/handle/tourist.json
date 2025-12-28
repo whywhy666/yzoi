@@ -22,7 +22,10 @@
         "id": "2178I",
         "name": "Numbers or Fireworks",
         "tags": [
-          "combinatorics"
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "graphs"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/I"
       },
@@ -48,7 +51,7 @@
         "tags": [
           "combinatorics",
           "dfs and similar",
-          "dsu",
+          "math",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/F"
@@ -101,7 +104,8 @@
         "tags": [
           "constructive algorithms",
           "greedy",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/D"
       },
@@ -151,6 +155,7 @@
         "id": "2178B",
         "name": "Impost or Sus",
         "tags": [
+          "dp",
           "greedy",
           "implementation",
           "strings"
@@ -178,7 +183,6 @@
         "name": "Yes or Yes",
         "tags": [
           "constructive algorithms",
-          "dp",
           "greedy",
           "strings"
         ],
@@ -203,6 +207,7 @@
         "type": "codeforces",
         "id": "2180F2",
         "name": "Control Car (Hard Version)",
+        "rating": 3200,
         "tags": [
           "combinatorics",
           "dp",
@@ -230,6 +235,7 @@
         "type": "codeforces",
         "id": "2180F1",
         "name": "Control Car (Easy Version)",
+        "rating": 2800,
         "tags": [
           "combinatorics",
           "dp",
@@ -256,6 +262,7 @@
         "type": "codeforces",
         "id": "2180H1",
         "name": "Bug Is Feature (Unconditional Version)",
+        "rating": 3400,
         "tags": [
           "games"
         ],
@@ -280,6 +287,7 @@
         "type": "codeforces",
         "id": "2180H1",
         "name": "Bug Is Feature (Unconditional Version)",
+        "rating": 3400,
         "tags": [
           "games"
         ],
@@ -304,6 +312,7 @@
         "type": "codeforces",
         "id": "2180C",
         "name": "XOR-factorization",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -332,6 +341,7 @@
         "type": "codeforces",
         "id": "2180E",
         "name": "No Effect XOR",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "divide and conquer",
@@ -360,6 +370,7 @@
         "type": "codeforces",
         "id": "2180C",
         "name": "XOR-factorization",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -388,6 +399,7 @@
         "type": "codeforces",
         "id": "2180E",
         "name": "No Effect XOR",
+        "rating": 2300,
         "tags": [
           "bitmasks",
           "divide and conquer",
@@ -416,6 +428,7 @@
         "type": "codeforces",
         "id": "2180D",
         "name": "Insolvable Disks",
+        "rating": 1900,
         "tags": [
           "data structures",
           "dp",
@@ -443,6 +456,7 @@
         "type": "codeforces",
         "id": "2180C",
         "name": "XOR-factorization",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -471,6 +485,7 @@
         "type": "codeforces",
         "id": "2180C",
         "name": "XOR-factorization",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -499,6 +514,7 @@
         "type": "codeforces",
         "id": "2180B",
         "name": "Ashmal",
+        "rating": 800,
         "tags": [
           "greedy",
           "strings"
@@ -524,6 +540,7 @@
         "type": "codeforces",
         "id": "2180A",
         "name": "Carnival Wheel",
+        "rating": 800,
         "tags": [
           "brute force",
           "number theory"
@@ -549,6 +566,7 @@
         "type": "codeforces",
         "id": "2170D",
         "name": "Almost Roman",
+        "rating": 2200,
         "tags": [
           "constructive algorithms",
           "greedy",
