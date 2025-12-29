@@ -77,7 +77,6 @@
         "name": "Flatten or Concatenate",
         "tags": [
           "binary search",
-          "divide and conquer",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/E"
@@ -129,7 +128,6 @@
         "id": "2178C",
         "name": "First or Second",
         "tags": [
-          "dp",
           "greedy",
           "implementation"
         ],
@@ -182,8 +180,8 @@
         "id": "2178A",
         "name": "Yes or Yes",
         "tags": [
-          "constructive algorithms",
           "greedy",
+          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/A"
