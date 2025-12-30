@@ -25518,5 +25518,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106289",
     "standingsUrl": "https://codeforces.com/gym/106289/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2025年第一届哈尔滨工业大学程序设计竞赛一校三区联合校赛",
+    "startTime": 1766896200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106290,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106290",
+    "standingsUrl": "https://codeforces.com/gym/106290/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Innopolis Open 2025-2026. Elimination Round 2",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106292,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106292",
+    "standingsUrl": "https://codeforces.com/gym/106292/standings"
   }
 ]
