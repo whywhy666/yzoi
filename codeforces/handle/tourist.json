@@ -50,8 +50,9 @@
         "name": "Conquer or of Forest",
         "tags": [
           "combinatorics",
-          "dfs and similar",
+          "dp",
           "math",
+          "string suffix structures",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/F"
@@ -77,6 +78,7 @@
         "name": "Flatten or Concatenate",
         "tags": [
           "binary search",
+          "divide and conquer",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/E"
