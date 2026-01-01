@@ -50,9 +50,7 @@
         "name": "Conquer or of Forest",
         "tags": [
           "combinatorics",
-          "dp",
           "math",
-          "string suffix structures",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/F"
@@ -184,7 +182,6 @@
         "name": "Yes or Yes",
         "tags": [
           "greedy",
-          "string suffix structures",
           "strings"
         ],
         "problemUrl": "https://codeforces.com/contest/2178/problem/A"
