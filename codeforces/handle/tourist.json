@@ -6,6 +6,262 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 356846380,
+      "creationTime": 1767803921,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183G",
+        "name": "Snake Instructions",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356846380"
+    },
+    {
+      "type": "codeforces",
+      "id": 356841035,
+      "creationTime": 1767803151,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183G",
+        "name": "Snake Instructions",
+        "tags": [
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356841035"
+    },
+    {
+      "type": "codeforces",
+      "id": 356817483,
+      "creationTime": 1767800175,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183F",
+        "name": "Jumping Man",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356817483"
+    },
+    {
+      "type": "codeforces",
+      "id": 356815367,
+      "creationTime": 1767799936,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183F",
+        "name": "Jumping Man",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356815367"
+    },
+    {
+      "type": "codeforces",
+      "id": 356806836,
+      "creationTime": 1767799110,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183E",
+        "name": "LCM is Legendary Counting Master",
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356806836"
+    },
+    {
+      "type": "codeforces",
+      "id": 356800678,
+      "creationTime": 1767798579,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183D2",
+        "name": "Tree Coloring (Hard Version)",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356800678"
+    },
+    {
+      "type": "codeforces",
+      "id": 356796119,
+      "creationTime": 1767798215,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183D1",
+        "name": "Tree Coloring (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356796119"
+    },
+    {
+      "type": "codeforces",
+      "id": 356788406,
+      "creationTime": 1767797670,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183C",
+        "name": "War Strategy",
+        "tags": [
+          "binary search",
+          "greedy",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356788406"
+    },
+    {
+      "type": "codeforces",
+      "id": 356774554,
+      "creationTime": 1767796895,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183B",
+        "name": "Yet Another MEX Problem",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356774554"
+    },
+    {
+      "type": "codeforces",
+      "id": 356770865,
+      "creationTime": 1767796621,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1767796500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2183A",
+        "name": "Binary Array Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2183/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2183/submission/356770865"
+    },
+    {
+      "type": "codeforces",
       "id": 355400151,
       "creationTime": 1766855536,
       "language": "C++20 (GCC 13-64)",
@@ -143090,7 +143346,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3585,
+    "rating": 3475,
     "maxRank": "tourist",
     "maxRating": 4009
   }
