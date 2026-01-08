@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1767820498,
+  "updateTime": 1767906934,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 356846380,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1767803921
-          },
-          {
-            "platform": "codeforces",
-            "id": 356841035,
-            "pid": "2183G",
-            "name": "Snake Instructions",
-            "verdict": "RUNTIME_ERROR",
-            "creationTime": 1767803151
-          },
-          {
-            "platform": "codeforces",
-            "id": 356817483,
-            "pid": "2183F",
-            "name": "Jumping Man",
-            "verdict": "OK",
-            "creationTime": 1767800175
-          },
-          {
-            "platform": "codeforces",
-            "id": 356815367,
-            "pid": "2183F",
-            "name": "Jumping Man",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1767799936
-          },
-          {
-            "platform": "codeforces",
-            "id": 356806836,
-            "pid": "2183E",
-            "name": "LCM is Legendary Counting Master",
-            "verdict": "OK",
-            "creationTime": 1767799110
-          },
-          {
-            "platform": "codeforces",
-            "id": 356800678,
-            "pid": "2183D2",
-            "name": "Tree Coloring (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1767798579
-          },
-          {
-            "platform": "codeforces",
-            "id": 356796119,
-            "pid": "2183D1",
-            "name": "Tree Coloring (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1767798215
-          },
-          {
-            "platform": "codeforces",
-            "id": 356788406,
-            "pid": "2183C",
-            "name": "War Strategy",
-            "verdict": "OK",
-            "creationTime": 1767797670
-          },
-          {
-            "platform": "codeforces",
-            "id": 356774554,
-            "pid": "2183B",
-            "name": "Yet Another MEX Problem",
-            "verdict": "OK",
-            "creationTime": 1767796895
-          },
-          {
-            "platform": "codeforces",
-            "id": 356770865,
-            "pid": "2183A",
-            "name": "Binary Array Game",
-            "verdict": "OK",
-            "creationTime": 1767796621
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "71037a58d2f3dbd8bc6a5736ea74a8edf9f0981a"
+  "ref": "d6c8d7755986b2011aa28b7f34ce27423bf20ec1"
 }

@@ -22,6 +22,7 @@
         "id": "2183G",
         "name": "Snake Instructions",
         "tags": [
+          "constructive algorithms",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/G"
@@ -46,6 +47,7 @@
         "id": "2183G",
         "name": "Snake Instructions",
         "tags": [
+          "constructive algorithms",
           "interactive"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/G"
@@ -70,7 +72,9 @@
         "id": "2183F",
         "name": "Jumping Man",
         "tags": [
+          "brute force",
           "combinatorics",
+          "dfs and similar",
           "dp",
           "trees"
         ],
@@ -96,7 +100,9 @@
         "id": "2183F",
         "name": "Jumping Man",
         "tags": [
+          "brute force",
           "combinatorics",
+          "dfs and similar",
           "dp",
           "trees"
         ],
@@ -149,8 +155,10 @@
         "name": "Tree Coloring (Hard Version)",
         "tags": [
           "constructive algorithms",
+          "data structures",
           "dfs and similar",
           "greedy",
+          "implementation",
           "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2183/problem/D2"
