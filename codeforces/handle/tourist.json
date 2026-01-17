@@ -6,6 +6,364 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 358369207,
+      "creationTime": 1768671269,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190G",
+        "name": "Maximize Determinant",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358369207"
+    },
+    {
+      "type": "codeforces",
+      "id": 358363213,
+      "creationTime": 1768670228,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190G",
+        "name": "Maximize Determinant",
+        "tags": [
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358363213"
+    },
+    {
+      "type": "codeforces",
+      "id": 358351274,
+      "creationTime": 1768668144,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190E",
+        "name": "Median Permutation",
+        "tags": [
+          "combinatorics"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358351274"
+    },
+    {
+      "type": "codeforces",
+      "id": 358331630,
+      "creationTime": 1768665595,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190C",
+        "name": "Comparable Permutations",
+        "tags": [
+          "binary search",
+          "greedy",
+          "interactive",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358331630"
+    },
+    {
+      "type": "codeforces",
+      "id": 358317518,
+      "creationTime": 1768664215,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190D",
+        "name": "Prufer Vertex",
+        "tags": [
+          "combinatorics",
+          "number theory",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358317518"
+    },
+    {
+      "type": "codeforces",
+      "id": 358282759,
+      "creationTime": 1768661681,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190B2",
+        "name": "Sub-RBS (Hard Version)",
+        "tags": [
+          "dp",
+          "games",
+          "matrices",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/B2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358282759"
+    },
+    {
+      "type": "codeforces",
+      "id": 358272653,
+      "creationTime": 1768661145,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190B1",
+        "name": "Sub-RBS (Easy Version)",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "constructive algorithms",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "expression parsing",
+          "fft",
+          "flows",
+          "games",
+          "geometry",
+          "graph matchings",
+          "graphs",
+          "greedy",
+          "hashing",
+          "implementation",
+          "interactive",
+          "math",
+          "matrices",
+          "meet-in-the-middle",
+          "number theory",
+          "probabilities",
+          "schedules",
+          "shortest paths",
+          "sortings",
+          "string suffix structures",
+          "strings",
+          "ternary search",
+          "trees",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358272653"
+    },
+    {
+      "type": "codeforces",
+      "id": 358271113,
+      "creationTime": 1768661072,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190B1",
+        "name": "Sub-RBS (Easy Version)",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "constructive algorithms",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "expression parsing",
+          "fft",
+          "flows",
+          "games",
+          "geometry",
+          "graph matchings",
+          "graphs",
+          "greedy",
+          "hashing",
+          "implementation",
+          "interactive",
+          "math",
+          "matrices",
+          "meet-in-the-middle",
+          "number theory",
+          "probabilities",
+          "schedules",
+          "shortest paths",
+          "sortings",
+          "string suffix structures",
+          "strings",
+          "ternary search",
+          "trees",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358271113"
+    },
+    {
+      "type": "codeforces",
+      "id": 358265651,
+      "creationTime": 1768660815,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190B1",
+        "name": "Sub-RBS (Easy Version)",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "constructive algorithms",
+          "divide and conquer",
+          "dp",
+          "dsu",
+          "expression parsing",
+          "fft",
+          "flows",
+          "games",
+          "geometry",
+          "graph matchings",
+          "graphs",
+          "greedy",
+          "hashing",
+          "implementation",
+          "interactive",
+          "math",
+          "matrices",
+          "meet-in-the-middle",
+          "number theory",
+          "probabilities",
+          "schedules",
+          "shortest paths",
+          "sortings",
+          "string suffix structures",
+          "strings",
+          "ternary search",
+          "trees",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358265651"
+    },
+    {
+      "type": "codeforces",
+      "id": 358262127,
+      "creationTime": 1768660648,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1768660500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2190A",
+        "name": "Sorting Game",
+        "tags": [
+          "constructive algorithms",
+          "divide and conquer",
+          "dp",
+          "games",
+          "graphs",
+          "greedy",
+          "hashing",
+          "implementation",
+          "interactive",
+          "math",
+          "matrices",
+          "meet-in-the-middle",
+          "number theory",
+          "probabilities",
+          "schedules",
+          "shortest paths",
+          "sortings",
+          "string suffix structures",
+          "strings",
+          "ternary search",
+          "trees",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2190/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2190/submission/358262127"
+    },
+    {
+      "type": "codeforces",
       "id": 356846380,
       "creationTime": 1767803921,
       "language": "C++20 (GCC 13-64)",
@@ -143357,7 +143715,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3475,
+    "rating": 3510,
     "maxRank": "tourist",
     "maxRating": 4009
   }

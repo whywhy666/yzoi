@@ -25589,5 +25589,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106307",
     "standingsUrl": "https://codeforces.com/gym/106307/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 9-11 классы, Пермский край, 2025",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106309,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106309",
+    "standingsUrl": "https://codeforces.com/gym/106309/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Муниципальный этап ВсОШ по информатике, 7-8 классы, Пермский край, 2025",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106310,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106310",
+    "standingsUrl": "https://codeforces.com/gym/106310/standings"
   }
 ]
