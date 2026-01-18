@@ -1,96 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1768684399,
+  "updateTime": 1768770800,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 358369207,
-            "pid": "2190G",
-            "name": "Maximize Determinant",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768671269
-          },
-          {
-            "platform": "codeforces",
-            "id": 358363213,
-            "pid": "2190G",
-            "name": "Maximize Determinant",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768670228
-          },
-          {
-            "platform": "codeforces",
-            "id": 358351274,
-            "pid": "2190E",
-            "name": "Median Permutation",
-            "verdict": "OK",
-            "creationTime": 1768668144
-          },
-          {
-            "platform": "codeforces",
-            "id": 358331630,
-            "pid": "2190C",
-            "name": "Comparable Permutations",
-            "verdict": "OK",
-            "creationTime": 1768665595
-          },
-          {
-            "platform": "codeforces",
-            "id": 358317518,
-            "pid": "2190D",
-            "name": "Prufer Vertex",
-            "verdict": "OK",
-            "creationTime": 1768664215
-          },
-          {
-            "platform": "codeforces",
-            "id": 358282759,
-            "pid": "2190B2",
-            "name": "Sub-RBS (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1768661681
-          },
-          {
-            "platform": "codeforces",
-            "id": 358272653,
-            "pid": "2190B1",
-            "name": "Sub-RBS (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1768661145
-          },
-          {
-            "platform": "codeforces",
-            "id": 358271113,
-            "pid": "2190B1",
-            "name": "Sub-RBS (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768661072
-          },
-          {
-            "platform": "codeforces",
-            "id": 358265651,
-            "pid": "2190B1",
-            "name": "Sub-RBS (Easy Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1768660815
-          },
-          {
-            "platform": "codeforces",
-            "id": 358262127,
-            "pid": "2190A",
-            "name": "Sorting Game",
-            "verdict": "OK",
-            "creationTime": 1768660648
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "9f814303214a1fee92a56dee9265f7a5735aab1a"
+  "ref": "7e246af38aad5a0467036686dfa12d7d70b53023"
 }
