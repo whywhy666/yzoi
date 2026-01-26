@@ -25653,6 +25653,16 @@
     "standingsUrl": "https://codeforces.com/gym/106328/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "Brazilian ICPC Summer School 2026 problems",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106331,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106331",
+    "standingsUrl": "https://codeforces.com/gym/106331/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Нижегородская региональная олимпиада по информатике 2026, 7-8 классы, день 2",
     "duration": 18000,
