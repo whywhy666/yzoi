@@ -6,6 +6,194 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 360590434,
+      "creationTime": 1769704405,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1769697300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2187F1",
+        "name": "Al Fine (Maximizing Version)",
+        "tags": [
+          "binary search",
+          "divide and conquer",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2187/problem/F1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2187/submission/360590434"
+    },
+    {
+      "type": "codeforces",
+      "id": 360580139,
+      "creationTime": 1769703290,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1769697300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2187E",
+        "name": "Doors and Keys",
+        "tags": [
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2187/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2187/submission/360580139"
+    },
+    {
+      "type": "codeforces",
+      "id": 360553442,
+      "creationTime": 1769701038,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1769697300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2187D",
+        "name": "Cool Problem",
+        "tags": [
+          "bitmasks",
+          "divide and conquer",
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2187/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2187/submission/360553442"
+    },
+    {
+      "type": "codeforces",
+      "id": 360553044,
+      "creationTime": 1769701007,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1769697300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2187D",
+        "name": "Cool Problem",
+        "tags": [
+          "bitmasks",
+          "divide and conquer",
+          "dp",
+          "fft",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2187/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2187/submission/360553044"
+    },
+    {
+      "type": "codeforces",
+      "id": 360515531,
+      "creationTime": 1769698784,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1769697300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2187C",
+        "name": "Jerry and Tom",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "games",
+          "graphs",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2187/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2187/submission/360515531"
+    },
+    {
+      "type": "codeforces",
+      "id": 360501728,
+      "creationTime": 1769698129,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1769697300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2187B",
+        "name": "Shortest Statement Ever",
+        "tags": [
+          "bitmasks",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2187/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2187/submission/360501728"
+    },
+    {
+      "type": "codeforces",
+      "id": 360488024,
+      "creationTime": 1769697423,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1769697300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2187A",
+        "name": "Restricted Sorting",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2187/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2187/submission/360488024"
+    },
+    {
+      "type": "codeforces",
       "id": 358369207,
       "creationTime": 1768671269,
       "language": "C++20 (GCC 13-64)",
@@ -143625,7 +143813,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3510,
+    "rating": 3531,
     "maxRank": "tourist",
     "maxRating": 4009
   }

@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1769635418,
+  "updateTime": 1769721650,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 360590434,
+            "pid": "2187F1",
+            "name": "Al Fine (Maximizing Version)",
+            "verdict": "OK",
+            "creationTime": 1769704405
+          },
+          {
+            "platform": "codeforces",
+            "id": 360580139,
+            "pid": "2187E",
+            "name": "Doors and Keys",
+            "verdict": "OK",
+            "creationTime": 1769703290
+          },
+          {
+            "platform": "codeforces",
+            "id": 360553442,
+            "pid": "2187D",
+            "name": "Cool Problem",
+            "verdict": "OK",
+            "creationTime": 1769701038
+          },
+          {
+            "platform": "codeforces",
+            "id": 360553044,
+            "pid": "2187D",
+            "name": "Cool Problem",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1769701007
+          },
+          {
+            "platform": "codeforces",
+            "id": 360515531,
+            "pid": "2187C",
+            "name": "Jerry and Tom",
+            "verdict": "OK",
+            "creationTime": 1769698784
+          },
+          {
+            "platform": "codeforces",
+            "id": 360501728,
+            "pid": "2187B",
+            "name": "Shortest Statement Ever",
+            "verdict": "OK",
+            "creationTime": 1769698129
+          },
+          {
+            "platform": "codeforces",
+            "id": 360488024,
+            "pid": "2187A",
+            "name": "Restricted Sorting",
+            "verdict": "OK",
+            "creationTime": 1769697423
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "8dcd5fdeaac6c93b42294a4a121fc83509482172"
+  "ref": "3ab97d64b2cfc9f701c62c9c8f8ccff721335838"
 }

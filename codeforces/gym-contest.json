@@ -25683,6 +25683,17 @@
     "standingsUrl": "https://codeforces.com/gym/106337/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 1-28-2026",
+    "startTime": 1769646600,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106339,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106339",
+    "standingsUrl": "https://codeforces.com/gym/106339/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "2025-2026 Всероссийская олимпиада школьников по информатике, региональный этап, 2 тур",
     "duration": 18000,
