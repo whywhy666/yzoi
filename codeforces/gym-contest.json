@@ -25715,6 +25715,28 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Zaglol Contest - FCDS level 2 contest 2026",
+    "startTime": 1770280200,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106351,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106351",
+    "standingsUrl": "https://codeforces.com/gym/106351/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Zaglol Contest - FCDS level 1 contest 2026",
+    "startTime": 1770280200,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106350,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106350",
+    "standingsUrl": "https://codeforces.com/gym/106350/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2025-2026 ICPC Northwestern European Regional Programming Contest (NWERC 2025)",
     "duration": 18000,
     "participantNumber": 0,

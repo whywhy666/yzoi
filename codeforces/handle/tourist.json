@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2187F1",
         "name": "Al Fine (Maximizing Version)",
+        "rating": 3100,
         "tags": [
           "binary search",
           "data structures",
@@ -48,6 +49,7 @@
         "type": "codeforces",
         "id": "2187E",
         "name": "Doors and Keys",
+        "rating": 3500,
         "tags": [
           "brute force",
           "data structures",
@@ -74,6 +76,7 @@
         "type": "codeforces",
         "id": "2187D",
         "name": "Cool Problem",
+        "rating": 2600,
         "tags": [
           "bitmasks",
           "dp",
@@ -100,6 +103,7 @@
         "type": "codeforces",
         "id": "2187D",
         "name": "Cool Problem",
+        "rating": 2600,
         "tags": [
           "bitmasks",
           "dp",
@@ -126,6 +130,7 @@
         "type": "codeforces",
         "id": "2187C",
         "name": "Jerry and Tom",
+        "rating": 2300,
         "tags": [
           "data structures",
           "dfs and similar",
@@ -156,6 +161,7 @@
         "type": "codeforces",
         "id": "2187B",
         "name": "Shortest Statement Ever",
+        "rating": 1800,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -183,6 +189,7 @@
         "type": "codeforces",
         "id": "2187A",
         "name": "Restricted Sorting",
+        "rating": 1300,
         "tags": [
           "greedy",
           "sortings"
@@ -208,6 +215,7 @@
         "type": "codeforces",
         "id": "2190G",
         "name": "Maximize Determinant",
+        "rating": 3300,
         "tags": [
           "graphs"
         ],
@@ -232,6 +240,7 @@
         "type": "codeforces",
         "id": "2190G",
         "name": "Maximize Determinant",
+        "rating": 3300,
         "tags": [
           "graphs"
         ],
@@ -256,6 +265,7 @@
         "type": "codeforces",
         "id": "2190E",
         "name": "Median Permutation",
+        "rating": 3200,
         "tags": [
           "combinatorics"
         ],
@@ -280,6 +290,7 @@
         "type": "codeforces",
         "id": "2190C",
         "name": "Comparable Permutations",
+        "rating": 2300,
         "tags": [
           "greedy",
           "implementation",
@@ -308,6 +319,7 @@
         "type": "codeforces",
         "id": "2190D",
         "name": "Prufer Vertex",
+        "rating": 2500,
         "tags": [
           "combinatorics",
           "dsu",
@@ -336,6 +348,7 @@
         "type": "codeforces",
         "id": "2190B2",
         "name": "Sub-RBS (Hard Version)",
+        "rating": 1900,
         "tags": [
           "dp",
           "games",
@@ -363,6 +376,7 @@
         "type": "codeforces",
         "id": "2190B1",
         "name": "Sub-RBS (Easy Version)",
+        "rating": 1400,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -392,6 +406,7 @@
         "type": "codeforces",
         "id": "2190B1",
         "name": "Sub-RBS (Easy Version)",
+        "rating": 1400,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -421,6 +436,7 @@
         "type": "codeforces",
         "id": "2190B1",
         "name": "Sub-RBS (Easy Version)",
+        "rating": 1400,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -450,6 +466,7 @@
         "type": "codeforces",
         "id": "2190A",
         "name": "Sorting Game",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "games",
@@ -476,6 +493,7 @@
         "type": "codeforces",
         "id": "2183G",
         "name": "Snake Instructions",
+        "rating": 3200,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -502,6 +520,7 @@
         "type": "codeforces",
         "id": "2183G",
         "name": "Snake Instructions",
+        "rating": 3200,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -528,6 +547,7 @@
         "type": "codeforces",
         "id": "2183F",
         "name": "Jumping Man",
+        "rating": 2500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -556,6 +576,7 @@
         "type": "codeforces",
         "id": "2183F",
         "name": "Jumping Man",
+        "rating": 2500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -584,6 +605,7 @@
         "type": "codeforces",
         "id": "2183E",
         "name": "LCM is Legendary Counting Master",
+        "rating": 2100,
         "tags": [
           "dp",
           "math",
@@ -610,6 +632,7 @@
         "type": "codeforces",
         "id": "2183D2",
         "name": "Tree Coloring (Hard Version)",
+        "rating": 2100,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -640,6 +663,7 @@
         "type": "codeforces",
         "id": "2183D1",
         "name": "Tree Coloring (Easy Version)",
+        "rating": 1500,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -667,6 +691,7 @@
         "type": "codeforces",
         "id": "2183C",
         "name": "War Strategy",
+        "rating": 1500,
         "tags": [
           "binary search",
           "greedy",
@@ -694,6 +719,7 @@
         "type": "codeforces",
         "id": "2183B",
         "name": "Yet Another MEX Problem",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -719,6 +745,7 @@
         "type": "codeforces",
         "id": "2183A",
         "name": "Binary Array Game",
+        "rating": 800,
         "tags": [
           "games"
         ],
@@ -743,6 +770,7 @@
         "type": "codeforces",
         "id": "2178I",
         "name": "Numbers or Fireworks",
+        "rating": 3300,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -770,6 +798,7 @@
         "type": "codeforces",
         "id": "2178F",
         "name": "Conquer or of Forest",
+        "rating": 2200,
         "tags": [
           "combinatorics",
           "math",
@@ -796,6 +825,7 @@
         "type": "codeforces",
         "id": "2178E",
         "name": "Flatten or Concatenate",
+        "rating": 2000,
         "tags": [
           "binary search",
           "divide and conquer",
@@ -822,6 +852,7 @@
         "type": "codeforces",
         "id": "2178D",
         "name": "Xmas or Hysteria",
+        "rating": 1700,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -849,6 +880,7 @@
         "type": "codeforces",
         "id": "2178C",
         "name": "First or Second",
+        "rating": 1200,
         "tags": [
           "dp",
           "greedy",
@@ -875,6 +907,7 @@
         "type": "codeforces",
         "id": "2178B",
         "name": "Impost or Sus",
+        "rating": 900,
         "tags": [
           "dp",
           "greedy",
@@ -902,6 +935,7 @@
         "type": "codeforces",
         "id": "2178A",
         "name": "Yes or Yes",
+        "rating": 800,
         "tags": [
           "greedy",
           "strings"
