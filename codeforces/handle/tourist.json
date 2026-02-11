@@ -6,6 +6,404 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 362538510,
+      "creationTime": 1770836597,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -376647050
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196F",
+        "name": "Indivisible",
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362538510"
+    },
+    {
+      "type": "codeforces",
+      "id": 362537224,
+      "creationTime": 1770836054,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -376647593
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196F",
+        "name": "Indivisible",
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362537224"
+    },
+    {
+      "type": "codeforces",
+      "id": 362537146,
+      "creationTime": 1770836021,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -376647626
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196F",
+        "name": "Indivisible",
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362537146"
+    },
+    {
+      "type": "codeforces",
+      "id": 362528234,
+      "creationTime": 1770831249,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196F",
+        "name": "Indivisible",
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362528234"
+    },
+    {
+      "type": "codeforces",
+      "id": 362526162,
+      "creationTime": 1770831039,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196F",
+        "name": "Indivisible",
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362526162"
+    },
+    {
+      "type": "codeforces",
+      "id": 362488130,
+      "creationTime": 1770826391,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196E2",
+        "name": "Fuzzy Concatenation (Hard version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "string suffix structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362488130"
+    },
+    {
+      "type": "codeforces",
+      "id": 362486637,
+      "creationTime": 1770826233,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196E2",
+        "name": "Fuzzy Concatenation (Hard version)",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "string suffix structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/E2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362486637"
+    },
+    {
+      "type": "codeforces",
+      "id": 362474667,
+      "creationTime": 1770825038,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196D",
+        "name": "Double Bracket Sequence",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362474667"
+    },
+    {
+      "type": "codeforces",
+      "id": 362458165,
+      "creationTime": 1770823578,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196E1",
+        "name": "Fuzzy Concatenation (Easy Version)",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "data structures",
+          "greedy",
+          "string suffix structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/E1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362458165"
+    },
+    {
+      "type": "codeforces",
+      "id": 362444466,
+      "creationTime": 1770822531,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196C2",
+        "name": "Interactive Graph (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362444466"
+    },
+    {
+      "type": "codeforces",
+      "id": 362438127,
+      "creationTime": 1770822092,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196C2",
+        "name": "Interactive Graph (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362438127"
+    },
+    {
+      "type": "codeforces",
+      "id": 362436617,
+      "creationTime": 1770821993,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196C2",
+        "name": "Interactive Graph (Hard Version)",
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362436617"
+    },
+    {
+      "type": "codeforces",
+      "id": 362435985,
+      "creationTime": 1770821955,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196C1",
+        "name": "Interactive Graph (Simple Version)",
+        "tags": [
+          "combinatorics",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362435985"
+    },
+    {
+      "type": "codeforces",
+      "id": 362418617,
+      "creationTime": 1770820978,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196B",
+        "name": "Another Problem about Beautiful Pairs",
+        "tags": [
+          "brute force",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362418617"
+    },
+    {
+      "type": "codeforces",
+      "id": 362414862,
+      "creationTime": 1770820813,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1770820500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2196A",
+        "name": "Game with a Fraction",
+        "tags": [
+          "games",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2196/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2196/submission/362414862"
+    },
+    {
+      "type": "codeforces",
       "id": 360590434,
       "creationTime": 1769704405,
       "language": "C++20 (GCC 13-64)",
@@ -143846,7 +144244,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3533,
+    "rating": 3592,
     "maxRank": "tourist",
     "maxRating": 4009
   }
