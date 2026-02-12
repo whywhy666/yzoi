@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1770845307,
+  "updateTime": 1770931665,
   "history": {
     "user": [
       {
@@ -8,123 +8,11 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 362538510,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "OK",
-            "creationTime": 1770836597
-          },
-          {
-            "platform": "codeforces",
-            "id": 362537224,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "OK",
-            "creationTime": 1770836054
-          },
-          {
-            "platform": "codeforces",
-            "id": 362537146,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "OK",
-            "creationTime": 1770836021
-          },
-          {
-            "platform": "codeforces",
-            "id": 362528234,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1770831249
-          },
-          {
-            "platform": "codeforces",
-            "id": 362526162,
-            "pid": "2196F",
-            "name": "Indivisible",
-            "verdict": "TIME_LIMIT_EXCEEDED",
-            "creationTime": 1770831039
-          },
-          {
-            "platform": "codeforces",
-            "id": 362488130,
-            "pid": "2196E2",
-            "name": "Fuzzy Concatenation (Hard version)",
-            "verdict": "OK",
-            "creationTime": 1770826391
-          },
-          {
-            "platform": "codeforces",
-            "id": 362486637,
-            "pid": "2196E2",
-            "name": "Fuzzy Concatenation (Hard version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1770826233
-          },
-          {
-            "platform": "codeforces",
-            "id": 362474667,
-            "pid": "2196D",
-            "name": "Double Bracket Sequence",
-            "verdict": "OK",
-            "creationTime": 1770825038
-          },
-          {
-            "platform": "codeforces",
-            "id": 362458165,
-            "pid": "2196E1",
-            "name": "Fuzzy Concatenation (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1770823578
-          },
-          {
-            "platform": "codeforces",
-            "id": 362444466,
-            "pid": "2196C2",
-            "name": "Interactive Graph (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1770822531
-          },
-          {
-            "platform": "codeforces",
-            "id": 362438127,
-            "pid": "2196C2",
-            "name": "Interactive Graph (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1770822092
-          },
-          {
-            "platform": "codeforces",
-            "id": 362436617,
-            "pid": "2196C2",
-            "name": "Interactive Graph (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1770821993
-          },
-          {
-            "platform": "codeforces",
-            "id": 362435985,
-            "pid": "2196C1",
-            "name": "Interactive Graph (Simple Version)",
-            "verdict": "OK",
-            "creationTime": 1770821955
-          },
-          {
-            "platform": "codeforces",
-            "id": 362418617,
-            "pid": "2196B",
-            "name": "Another Problem about Beautiful Pairs",
-            "verdict": "OK",
-            "creationTime": 1770820978
-          },
-          {
-            "platform": "codeforces",
-            "id": 362414862,
-            "pid": "2196A",
-            "name": "Game with a Fraction",
-            "verdict": "OK",
-            "creationTime": 1770820813
+            "id": 362666374,
+            "pid": "3C",
+            "name": "Tic-tac-toe",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1770915093
           }
         ],
         "newContests": []
@@ -132,5 +20,5 @@
     ],
     "contest": []
   },
-  "ref": "2cfb25c46a6a45aa113a9008f01bff0b2097f3ba"
+  "ref": "a7d881b5f4d451d071860182af55f8fea58d4087"
 }

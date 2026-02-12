@@ -6,6 +6,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 362666374,
+      "creationTime": 1770915093,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -376568554
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "3C",
+        "name": "Tic-tac-toe",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "games",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/3/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/3/submission/362666374"
+    },
+    {
+      "type": "codeforces",
       "id": 362538510,
       "creationTime": 1770836597,
       "language": "C++20 (GCC 13-64)",
@@ -22,6 +49,7 @@
         "id": "2196F",
         "name": "Indivisible",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "graphs"
         ],
@@ -47,6 +75,7 @@
         "id": "2196F",
         "name": "Indivisible",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "graphs"
         ],
@@ -72,6 +101,7 @@
         "id": "2196F",
         "name": "Indivisible",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "graphs"
         ],
@@ -97,6 +127,7 @@
         "id": "2196F",
         "name": "Indivisible",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "graphs"
         ],
@@ -122,6 +153,7 @@
         "id": "2196F",
         "name": "Indivisible",
         "tags": [
+          "brute force",
           "constructive algorithms",
           "graphs"
         ],
@@ -148,6 +180,7 @@
         "name": "Fuzzy Concatenation (Hard version)",
         "tags": [
           "binary search",
+          "bitmasks",
           "data structures",
           "dp",
           "greedy",
@@ -176,6 +209,7 @@
         "name": "Fuzzy Concatenation (Hard version)",
         "tags": [
           "binary search",
+          "bitmasks",
           "data structures",
           "dp",
           "greedy",
@@ -203,7 +237,11 @@
         "id": "2196D",
         "name": "Double Bracket Sequence",
         "tags": [
-          "greedy"
+          "data structures",
+          "dp",
+          "flows",
+          "greedy",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2196/problem/D"
       },
@@ -340,6 +378,7 @@
         "id": "2196C1",
         "name": "Interactive Graph (Simple Version)",
         "tags": [
+          "binary search",
           "combinatorics",
           "dfs and similar",
           "dp",
@@ -370,7 +409,6 @@
         "tags": [
           "brute force",
           "math",
-          "number theory",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2196/problem/B"
