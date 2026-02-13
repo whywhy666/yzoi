@@ -1,24 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1770931665,
+  "updateTime": 1771018127,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 362666374,
-            "pid": "3C",
-            "name": "Tic-tac-toe",
-            "verdict": "COMPILATION_ERROR",
-            "creationTime": 1770915093
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a7d881b5f4d451d071860182af55f8fea58d4087"
+  "ref": "28eaf0430b2049941a4130e201156a676c13dcd2"
 }

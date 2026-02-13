@@ -239,9 +239,7 @@
         "tags": [
           "data structures",
           "dp",
-          "flows",
-          "greedy",
-          "sortings"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2196/problem/D"
       },
@@ -1786,7 +1784,6 @@
         "rating": 3500,
         "tags": [
           "dp",
-          "dp",
           "games"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/I"
@@ -1812,7 +1809,6 @@
         "name": "Hyper Smawk Bros",
         "rating": 3500,
         "tags": [
-          "dp",
           "dp",
           "games"
         ],
@@ -1840,7 +1836,6 @@
         "rating": 3500,
         "tags": [
           "dp",
-          "dp",
           "games"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/I"
@@ -1866,7 +1861,6 @@
         "name": "Hyper Smawk Bros",
         "rating": 3500,
         "tags": [
-          "dp",
           "dp",
           "games"
         ],
@@ -1894,7 +1888,6 @@
         "rating": 3500,
         "tags": [
           "dp",
-          "dp",
           "games"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/I"
@@ -1921,7 +1914,6 @@
         "rating": 3500,
         "tags": [
           "dp",
-          "dp",
           "games"
         ],
         "problemUrl": "https://codeforces.com/contest/2157/problem/I"
@@ -1947,7 +1939,6 @@
         "name": "Hyper Smawk Bros",
         "rating": 3500,
         "tags": [
-          "dp",
           "dp",
           "games"
         ],
@@ -3209,9 +3200,7 @@
         "tags": [
           "data structures",
           "dfs and similar",
-          "dfs and similar",
           "dsu",
-          "graphs",
           "graphs",
           "meet-in-the-middle",
           "trees"
@@ -3241,9 +3230,7 @@
         "tags": [
           "data structures",
           "dfs and similar",
-          "dfs and similar",
           "dsu",
-          "graphs",
           "graphs",
           "meet-in-the-middle",
           "trees"
@@ -4576,7 +4563,6 @@
           "binary search",
           "data structures",
           "greedy",
-          "greedy",
           "math",
           "sortings",
           "two pointers"
@@ -4606,7 +4592,6 @@
         "tags": [
           "binary search",
           "data structures",
-          "greedy",
           "greedy",
           "math",
           "sortings",
@@ -7957,7 +7942,6 @@
         "id": "2087I",
         "name": "Hamiltonian Partition",
         "tags": [
-          "*special",
           "*special"
         ],
         "problemUrl": "https://codeforces.com/contest/2087/problem/I"
@@ -7982,7 +7966,6 @@
         "id": "2087H",
         "name": "Nim with Special Numbers",
         "tags": [
-          "*special",
           "*special"
         ],
         "problemUrl": "https://codeforces.com/contest/2087/problem/H"
@@ -8008,8 +7991,6 @@
         "name": "Esports in Berland",
         "tags": [
           "*special",
-          "*special",
-          "greedy",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2087/problem/G"
@@ -8034,7 +8015,6 @@
         "id": "2087F",
         "name": "Weapon Upgrade",
         "tags": [
-          "*special",
           "*special",
           "dp"
         ],
@@ -8061,8 +8041,6 @@
         "name": "Color the Arrows",
         "tags": [
           "*special",
-          "*special",
-          "dp",
           "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2087/problem/E"
@@ -8087,7 +8065,6 @@
         "id": "2087D",
         "name": "Uppercase or Lowercase?",
         "tags": [
-          "*special",
           "*special",
           "interactive"
         ],
@@ -11883,8 +11860,6 @@
         "name": "Cool Swap Walk (Hard Version)",
         "rating": 3500,
         "tags": [
-          "constructive algorithms",
-          "constructive algorithms",
           "constructive algorithms",
           "implementation",
           "sortings"
@@ -28378,8 +28353,6 @@
         "rating": 1600,
         "tags": [
           "*special",
-          "*special",
-          "implementation",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/1910/problem/C"
@@ -34278,7 +34251,6 @@
         "rating": 800,
         "tags": [
           "greedy",
-          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1790/problem/B"
@@ -37376,6 +37348,7 @@
         "name": "Late For Work (submissions are not allowed)",
         "rating": 2900,
         "tags": [
+          "*broken",
           "data structures",
           "greedy",
           "schedules",
@@ -37404,6 +37377,7 @@
         "name": "Late For Work (submissions are not allowed)",
         "rating": 2900,
         "tags": [
+          "*broken",
           "data structures",
           "greedy",
           "schedules",
@@ -41607,10 +41581,7 @@
           "data structures",
           "dfs and similar",
           "graphs",
-          "graphs",
           "implementation",
-          "implementation",
-          "shortest paths",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/F"
@@ -41667,10 +41638,7 @@
           "data structures",
           "dfs and similar",
           "graphs",
-          "graphs",
           "implementation",
-          "implementation",
-          "shortest paths",
           "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/1662/problem/F"
@@ -74828,7 +74796,6 @@
         "name": "Dogecoin",
         "rating": 2300,
         "tags": [
-          "*special",
           "*special",
           "binary search",
           "data structures"
