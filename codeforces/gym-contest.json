@@ -25797,5 +25797,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106362",
     "standingsUrl": "https://codeforces.com/gym/106362/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Whalica Cup (Round 2)",
+    "startTime": 1771135200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106367,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106367",
+    "standingsUrl": "https://codeforces.com/gym/106367/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Innopolis Open 2025-2026. Final round",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106368,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106368",
+    "standingsUrl": "https://codeforces.com/gym/106368/standings"
   }
 ]
