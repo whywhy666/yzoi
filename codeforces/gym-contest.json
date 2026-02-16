@@ -25810,6 +25810,16 @@
     "standingsUrl": "https://codeforces.com/gym/106367/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2023 UCF Local Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106369,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106369",
+    "standingsUrl": "https://codeforces.com/gym/106369/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Innopolis Open 2025-2026. Final round",
     "duration": 18000,
