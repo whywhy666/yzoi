@@ -46,7 +46,9 @@
         "id": "2201F2",
         "name": "Monotone Monochrome Matrices (Hard Version)",
         "tags": [
-          "data structures"
+          "data structures",
+          "hashing",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2201/problem/F2"
       },
@@ -70,7 +72,8 @@
         "id": "2201F1",
         "name": "Monotone Monochrome Matrices (Medium Version)",
         "tags": [
-          "data structures"
+          "data structures",
+          "hashing"
         ],
         "problemUrl": "https://codeforces.com/contest/2201/problem/F1"
       },
@@ -149,7 +152,8 @@
         "tags": [
           "combinatorics",
           "constructive algorithms",
-          "dp"
+          "dp",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2201/problem/C"
       },
