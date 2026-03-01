@@ -1,9 +1,32 @@
 {
   "version": "0.1.16",
-  "updateTime": 1772313369,
+  "updateTime": 1772399838,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 364964966,
+            "pid": "1607H",
+            "name": "Banquet Preparations 2",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1772368828
+          },
+          {
+            "platform": "codeforces",
+            "id": 364964945,
+            "pid": "1607G",
+            "name": "Banquet Preparations 1",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1772368820
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "1c9641083c7611c1c971e931000e5d8a1dc2407c"
+  "ref": "5bfad554bcce98a5261919e41c787cff6acb4fe8"
 }
