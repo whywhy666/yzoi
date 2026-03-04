@@ -25925,5 +25925,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106398",
     "standingsUrl": "https://codeforces.com/gym/106398/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Bay Area Programming Contest 2026 Novice Division",
+    "startTime": 1772397900,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106403,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106403",
+    "standingsUrl": "https://codeforces.com/gym/106403/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Bay Area Programming Contest 2026 Advanced Division",
+    "startTime": 1772397900,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106404,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106404",
+    "standingsUrl": "https://codeforces.com/gym/106404/standings"
   }
 ]
