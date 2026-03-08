@@ -25929,6 +25929,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Tiangong University 2025 ICPC Team Selection Contest II (Online Mirror)",
+    "startTime": 1772946000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106396,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106396",
+    "standingsUrl": "https://codeforces.com/gym/106396/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Отбор на ВКОШП.Junior 2026",
     "duration": 10800,
     "participantNumber": 0,
@@ -25969,5 +25980,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106407",
     "standingsUrl": "https://codeforces.com/gym/106407/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HPI 2026 Advanced",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106409,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106409",
+    "standingsUrl": "https://codeforces.com/gym/106409/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "HPI 2026 Novice",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106410,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106410",
+    "standingsUrl": "https://codeforces.com/gym/106410/standings"
   }
 ]
