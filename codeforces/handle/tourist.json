@@ -230,10 +230,9 @@
         "id": "2207C",
         "name": "Where's My Water?",
         "tags": [
-          "binary search",
           "data structures",
-          "divide and conquer",
-          "implementation"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2207/problem/C"
       },
