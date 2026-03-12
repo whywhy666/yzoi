@@ -94,8 +94,10 @@
         "id": "2207F",
         "name": "Hanabi",
         "tags": [
+          "binary search",
           "data structures",
           "dp",
+          "dsu",
           "flows",
           "graph matchings",
           "graphs",
@@ -123,8 +125,10 @@
         "id": "2207F",
         "name": "Hanabi",
         "tags": [
+          "binary search",
           "data structures",
           "dp",
+          "dsu",
           "flows",
           "graph matchings",
           "graphs",
@@ -232,6 +236,7 @@
         "name": "Where's My Water?",
         "tags": [
           "data structures",
+          "divide and conquer",
           "dp",
           "math"
         ],
