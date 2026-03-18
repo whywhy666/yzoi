@@ -370,6 +370,7 @@
         "type": "codeforces",
         "id": "2201G",
         "name": "Codeforces Heuristic Contest 1001",
+        "rating": 3500,
         "tags": [
           "constructive algorithms"
         ],
@@ -394,6 +395,7 @@
         "type": "codeforces",
         "id": "2201F2",
         "name": "Monotone Monochrome Matrices (Hard Version)",
+        "rating": 2800,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -421,6 +423,7 @@
         "type": "codeforces",
         "id": "2201F1",
         "name": "Monotone Monochrome Matrices (Medium Version)",
+        "rating": 2900,
         "tags": [
           "data structures",
           "hashing"
@@ -446,6 +449,7 @@
         "type": "codeforces",
         "id": "2201D",
         "name": "Binary Not Search and Queries",
+        "rating": 2500,
         "tags": [
           "data structures",
           "greedy",
@@ -472,6 +476,7 @@
         "type": "codeforces",
         "id": "2201E",
         "name": "ABBA Counting",
+        "rating": 2900,
         "tags": [
           "fft",
           "math",
@@ -499,6 +504,7 @@
         "type": "codeforces",
         "id": "2201C",
         "name": "Rigged Bracket Sequence",
+        "rating": 2000,
         "tags": [
           "combinatorics",
           "dp",
@@ -525,6 +531,7 @@
         "type": "codeforces",
         "id": "2201B",
         "name": "Recollect Numbers",
+        "rating": 1700,
         "tags": [
           "constructive algorithms"
         ],
@@ -549,6 +556,7 @@
         "type": "codeforces",
         "id": "2201A2",
         "name": "Lost Civilization (Hard Version)",
+        "rating": 1700,
         "tags": [
           "data structures",
           "dp"
@@ -574,6 +582,7 @@
         "type": "codeforces",
         "id": "2201A1",
         "name": "Lost Civilization (Easy Version)",
+        "rating": 1300,
         "tags": [
           "data structures"
         ],
@@ -625,6 +634,7 @@
         "type": "codeforces",
         "id": "2196F",
         "name": "Indivisible",
+        "rating": 3300,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -651,6 +661,7 @@
         "type": "codeforces",
         "id": "2196F",
         "name": "Indivisible",
+        "rating": 3300,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -677,6 +688,7 @@
         "type": "codeforces",
         "id": "2196F",
         "name": "Indivisible",
+        "rating": 3300,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -703,6 +715,7 @@
         "type": "codeforces",
         "id": "2196F",
         "name": "Indivisible",
+        "rating": 3300,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -729,6 +742,7 @@
         "type": "codeforces",
         "id": "2196F",
         "name": "Indivisible",
+        "rating": 3300,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -755,6 +769,7 @@
         "type": "codeforces",
         "id": "2196E2",
         "name": "Fuzzy Concatenation (Hard version)",
+        "rating": 3000,
         "tags": [
           "binary search",
           "bitmasks",
@@ -784,6 +799,7 @@
         "type": "codeforces",
         "id": "2196E2",
         "name": "Fuzzy Concatenation (Hard version)",
+        "rating": 3000,
         "tags": [
           "binary search",
           "bitmasks",
@@ -813,6 +829,7 @@
         "type": "codeforces",
         "id": "2196D",
         "name": "Double Bracket Sequence",
+        "rating": 2500,
         "tags": [
           "data structures",
           "dp",
@@ -842,6 +859,7 @@
         "type": "codeforces",
         "id": "2196E1",
         "name": "Fuzzy Concatenation (Easy Version)",
+        "rating": 2900,
         "tags": [
           "binary search",
           "bitmasks",
@@ -871,6 +889,7 @@
         "type": "codeforces",
         "id": "2196C2",
         "name": "Interactive Graph (Hard Version)",
+        "rating": 2000,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -899,6 +918,7 @@
         "type": "codeforces",
         "id": "2196C2",
         "name": "Interactive Graph (Hard Version)",
+        "rating": 2000,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -927,6 +947,7 @@
         "type": "codeforces",
         "id": "2196C2",
         "name": "Interactive Graph (Hard Version)",
+        "rating": 2000,
         "tags": [
           "combinatorics",
           "dfs and similar",
@@ -955,6 +976,7 @@
         "type": "codeforces",
         "id": "2196C1",
         "name": "Interactive Graph (Simple Version)",
+        "rating": 1800,
         "tags": [
           "binary search",
           "combinatorics",
@@ -984,6 +1006,7 @@
         "type": "codeforces",
         "id": "2196B",
         "name": "Another Problem about Beautiful Pairs",
+        "rating": 1600,
         "tags": [
           "brute force",
           "math",
@@ -1010,6 +1033,7 @@
         "type": "codeforces",
         "id": "2196A",
         "name": "Game with a Fraction",
+        "rating": 1200,
         "tags": [
           "games",
           "math"
