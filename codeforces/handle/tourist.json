@@ -6,6 +6,252 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 368589447,
+      "creationTime": 1774717013,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211H",
+        "name": "Median Deletion",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368589447"
+    },
+    {
+      "type": "codeforces",
+      "id": 368563146,
+      "creationTime": 1774713097,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211G",
+        "name": "Rational Bubble Sort",
+        "tags": [
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368563146"
+    },
+    {
+      "type": "codeforces",
+      "id": 368559231,
+      "creationTime": 1774712655,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211G",
+        "name": "Rational Bubble Sort",
+        "tags": [
+          "geometry"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368559231"
+    },
+    {
+      "type": "codeforces",
+      "id": 368548810,
+      "creationTime": 1774711616,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211F",
+        "name": "Learning Binary Search",
+        "tags": [
+          "combinatorics",
+          "divide and conquer"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368548810"
+    },
+    {
+      "type": "codeforces",
+      "id": 368542243,
+      "creationTime": 1774711036,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211E",
+        "name": "Minimum Path Cover",
+        "tags": [
+          "dp",
+          "interactive",
+          "number theory",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368542243"
+    },
+    {
+      "type": "codeforces",
+      "id": 368532104,
+      "creationTime": 1774710231,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211C2",
+        "name": "Equal Multisets (Hard Version)",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368532104"
+    },
+    {
+      "type": "codeforces",
+      "id": 368531313,
+      "creationTime": 1774710171,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211C1",
+        "name": "Equal Multisets (Easy Version)",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368531313"
+    },
+    {
+      "type": "codeforces",
+      "id": 368523400,
+      "creationTime": 1774709625,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211D",
+        "name": "AND-array",
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368523400"
+    },
+    {
+      "type": "codeforces",
+      "id": 368520263,
+      "creationTime": 1774709436,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211B",
+        "name": "Mickey Mouse Constructive",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368520263"
+    },
+    {
+      "type": "codeforces",
+      "id": 368512041,
+      "creationTime": 1774709243,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1774709100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2211A",
+        "name": "Antimedian Deletion",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2211/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2211/submission/368512041"
+    },
+    {
+      "type": "codeforces",
       "id": 365899164,
       "creationTime": 1772990344,
       "language": "C++20 (GCC 13-64)",
@@ -144853,7 +145099,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3719,
+    "rating": 3755,
     "maxRank": "tourist",
     "maxRating": 4009
   }
