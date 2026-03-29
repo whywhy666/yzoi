@@ -44,7 +44,8 @@
         "id": "2211G",
         "name": "Rational Bubble Sort",
         "tags": [
-          "geometry"
+          "geometry",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/G"
       },
@@ -68,7 +69,8 @@
         "id": "2211G",
         "name": "Rational Bubble Sort",
         "tags": [
-          "geometry"
+          "geometry",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/G"
       },
@@ -93,7 +95,8 @@
         "name": "Learning Binary Search",
         "tags": [
           "combinatorics",
-          "divide and conquer"
+          "divide and conquer",
+          "dp"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/F"
       },
@@ -119,6 +122,7 @@
         "tags": [
           "dp",
           "interactive",
+          "math",
           "number theory",
           "trees"
         ],
@@ -144,6 +148,7 @@
         "id": "2211C2",
         "name": "Equal Multisets (Hard Version)",
         "tags": [
+          "constructive algorithms",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C2"
@@ -169,6 +174,7 @@
         "name": "Equal Multisets (Easy Version)",
         "tags": [
           "binary search",
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C1"
@@ -219,6 +225,7 @@
         "id": "2211B",
         "name": "Mickey Mouse Constructive",
         "tags": [
+          "dp",
           "greedy",
           "math"
         ],
@@ -244,6 +251,7 @@
         "id": "2211A",
         "name": "Antimedian Deletion",
         "tags": [
+          "implementation",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/A"
