@@ -149,6 +149,7 @@
         "name": "Equal Multisets (Hard Version)",
         "tags": [
           "constructive algorithms",
+          "dsu",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C2"
@@ -225,6 +226,7 @@
         "id": "2211B",
         "name": "Mickey Mouse Constructive",
         "tags": [
+          "constructive algorithms",
           "dp",
           "greedy",
           "math"
