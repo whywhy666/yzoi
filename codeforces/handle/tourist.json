@@ -44,6 +44,7 @@
         "id": "2211G",
         "name": "Rational Bubble Sort",
         "tags": [
+          "constructive algorithms",
           "geometry",
           "greedy"
         ],
@@ -69,6 +70,7 @@
         "id": "2211G",
         "name": "Rational Bubble Sort",
         "tags": [
+          "constructive algorithms",
           "geometry",
           "greedy"
         ],
@@ -96,7 +98,8 @@
         "tags": [
           "combinatorics",
           "divide and conquer",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/F"
       },
@@ -121,6 +124,7 @@
         "name": "Minimum Path Cover",
         "tags": [
           "dp",
+          "greedy",
           "interactive",
           "math",
           "number theory",
@@ -176,7 +180,8 @@
         "tags": [
           "binary search",
           "brute force",
-          "greedy"
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/C1"
       },
@@ -202,6 +207,7 @@
         "tags": [
           "bitmasks",
           "combinatorics",
+          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/D"
