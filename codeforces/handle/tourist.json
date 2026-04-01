@@ -123,6 +123,7 @@
         "id": "2211E",
         "name": "Minimum Path Cover",
         "tags": [
+          "brute force",
           "dp",
           "greedy",
           "interactive",
@@ -207,7 +208,6 @@
         "tags": [
           "bitmasks",
           "combinatorics",
-          "fft",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2211/problem/D"

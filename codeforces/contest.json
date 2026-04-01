@@ -1,5 +1,16 @@
 [
   {
+    "type": "codeforces/icpc",
+    "name": "April Fools Day Contest 2026",
+    "startTime": 1775054100,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 2214,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2214",
+    "standingsUrl": "https://codeforces.com/contest/2214/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round 1089 (Div. 2)",
     "startTime": 1774794900,
