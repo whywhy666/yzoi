@@ -26214,6 +26214,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "UTPC Spring 2026 Open Contest",
+    "startTime": 1775323800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106457,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106457",
+    "standingsUrl": "https://codeforces.com/gym/106457/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 15th Huazhong Agricultural University Programming Contest",
     "startTime": 1775268600,
     "duration": 18000,
@@ -26222,5 +26233,66 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106456",
     "standingsUrl": "https://codeforces.com/gym/106456/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии 2023-2024. Второй отбор",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106459,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106459",
+    "standingsUrl": "https://codeforces.com/gym/106459/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии 2023-2024. Первый отбор",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106458,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106458",
+    "standingsUrl": "https://codeforces.com/gym/106458/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "KUPC 2025 (The 4th Universal Cup. Stage 22: GP of Kyoto)",
+    "startTime": 1774656000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106461,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106461",
+    "standingsUrl": "https://codeforces.com/gym/106461/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Когнитивные технологии 2023-2024. Третий отбор",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106460,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106460",
+    "standingsUrl": "https://codeforces.com/gym/106460/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "MITIT Spring 2026 Invitationals Qualification Round 2",
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 106463,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106463",
+    "standingsUrl": "https://codeforces.com/gym/106463/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Первенство Свердловской области по программированию среди начинающих 2026",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106462,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106462",
+    "standingsUrl": "https://codeforces.com/gym/106462/standings"
   }
 ]
