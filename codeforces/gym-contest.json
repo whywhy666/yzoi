@@ -26035,6 +26035,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Rutgers University Programming Contest Spring 2026 - Open Division",
+    "startTime": 1775926800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106414,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106414",
+    "standingsUrl": "https://codeforces.com/gym/106414/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2026 ICPC Latin America Championship",
     "duration": 18000,
     "participantNumber": 0,
@@ -26327,8 +26338,18 @@
     "standingsUrl": "https://codeforces.com/gym/106475/standings"
   },
   {
-    "type": "codeforces/gym/icpc",
-    "name": "MCC 2026 Qualification (Upsolving)",
+    "type": "codeforces/gym/ioi",
+    "name": "Первенство Свердловской области по программированию среди начинающих 2026. Отборочный тур",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106479,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106479",
+    "standingsUrl": "https://codeforces.com/gym/106479/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Midnight Code Cup MCC 2026 Qualification (Upsolving)",
     "startTime": 1775912400,
     "duration": 14400,
     "participantNumber": 0,
