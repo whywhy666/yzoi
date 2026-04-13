@@ -1,9 +1,72 @@
 {
   "version": "0.1.16",
-  "updateTime": 1776029268,
+  "updateTime": 1776116468,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 371036845,
+            "pid": "2219D",
+            "name": "MEX Replacement on Tree",
+            "verdict": "OK",
+            "creationTime": 1776101668
+          },
+          {
+            "platform": "codeforces",
+            "id": 371031577,
+            "pid": "2219D",
+            "name": "MEX Replacement on Tree",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1776098101
+          },
+          {
+            "platform": "codeforces",
+            "id": 371019251,
+            "pid": "2219B1",
+            "name": "Unique Values (Easy version)",
+            "verdict": "OK",
+            "creationTime": 1776096621
+          },
+          {
+            "platform": "codeforces",
+            "id": 371015865,
+            "pid": "2219E",
+            "name": "Weird Chessboard",
+            "verdict": "OK",
+            "creationTime": 1776096171
+          },
+          {
+            "platform": "codeforces",
+            "id": 371005332,
+            "pid": "2219C",
+            "name": "Coloring a Red Black Tree",
+            "verdict": "OK",
+            "creationTime": 1776094913
+          },
+          {
+            "platform": "codeforces",
+            "id": 370979018,
+            "pid": "2219B1",
+            "name": "Unique Values (Easy version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1776092356
+          },
+          {
+            "platform": "codeforces",
+            "id": 370961797,
+            "pid": "2219A",
+            "name": "Grid L",
+            "verdict": "OK",
+            "creationTime": 1776091202
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "aa694b86b1d3b51cd3c09d110b0519afb84483a5"
+  "ref": "96c6a14775e5e49754d7a74f48ad1f971a4e620b"
 }

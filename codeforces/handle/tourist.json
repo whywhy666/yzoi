@@ -6,6 +6,181 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 371036845,
+      "creationTime": 1776101668,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -371381979
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2219D",
+        "name": "MEX Replacement on Tree",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2219/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2219/submission/371036845"
+    },
+    {
+      "type": "codeforces",
+      "id": 371031577,
+      "creationTime": 1776098101,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1776090903
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2219D",
+        "name": "MEX Replacement on Tree",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2219/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2219/submission/371031577"
+    },
+    {
+      "type": "codeforces",
+      "id": 371019251,
+      "creationTime": 1776096621,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1776090900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2219B1",
+        "name": "Unique Values (Easy version)",
+        "tags": [
+          "binary search",
+          "divide and conquer",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2219/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2219/submission/371019251"
+    },
+    {
+      "type": "codeforces",
+      "id": 371015865,
+      "creationTime": 1776096171,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1776090900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2219E",
+        "name": "Weird Chessboard",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2219/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2219/submission/371015865"
+    },
+    {
+      "type": "codeforces",
+      "id": 371005332,
+      "creationTime": 1776094913,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1776090900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2219C",
+        "name": "Coloring a Red Black Tree",
+        "tags": [
+          "dp",
+          "greedy",
+          "probabilities",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2219/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2219/submission/371005332"
+    },
+    {
+      "type": "codeforces",
+      "id": 370979018,
+      "creationTime": 1776092356,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1776090900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2219B1",
+        "name": "Unique Values (Easy version)",
+        "tags": [
+          "binary search",
+          "divide and conquer",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2219/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2219/submission/370979018"
+    },
+    {
+      "type": "codeforces",
+      "id": 370961797,
+      "creationTime": 1776091202,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1776090900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2219A",
+        "name": "Grid L",
+        "tags": [
+          "binary search",
+          "brute force",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2219/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2219/submission/370961797"
+    },
+    {
+      "type": "codeforces",
       "id": 368589447,
       "creationTime": 1774717013,
       "language": "C++20 (GCC 13-64)",
@@ -145115,7 +145290,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3755,
+    "rating": 3541,
     "maxRank": "tourist",
     "maxRating": 4009
   }
