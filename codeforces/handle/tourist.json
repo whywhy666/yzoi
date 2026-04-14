@@ -21,7 +21,10 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2219/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2219/submission/371036845"
@@ -43,7 +46,10 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
-        "tags": [],
+        "tags": [
+          "data structures",
+          "math"
+        ],
         "problemUrl": "https://codeforces.com/contest/2219/problem/D"
       },
       "submissionUrl": "https://codeforces.com/contest/2219/submission/371031577"
@@ -68,7 +74,8 @@
         "tags": [
           "binary search",
           "divide and conquer",
-          "interactive"
+          "interactive",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2219/problem/B1"
       },
@@ -117,7 +124,9 @@
         "id": "2219C",
         "name": "Coloring a Red Black Tree",
         "tags": [
+          "dfs and similar",
           "dp",
+          "fft",
           "greedy",
           "probabilities",
           "trees"
@@ -146,7 +155,8 @@
         "tags": [
           "binary search",
           "divide and conquer",
-          "interactive"
+          "interactive",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2219/problem/B1"
       },
@@ -170,8 +180,8 @@
         "id": "2219A",
         "name": "Grid L",
         "tags": [
-          "binary search",
           "brute force",
+          "constructive algorithms",
           "math",
           "number theory"
         ],
@@ -196,6 +206,7 @@
         "type": "codeforces",
         "id": "2211H",
         "name": "Median Deletion",
+        "rating": 3500,
         "tags": [],
         "problemUrl": "https://codeforces.com/contest/2211/problem/H"
       },
@@ -218,6 +229,7 @@
         "type": "codeforces",
         "id": "2211G",
         "name": "Rational Bubble Sort",
+        "rating": 2900,
         "tags": [
           "constructive algorithms",
           "geometry",
@@ -244,6 +256,7 @@
         "type": "codeforces",
         "id": "2211G",
         "name": "Rational Bubble Sort",
+        "rating": 2900,
         "tags": [
           "constructive algorithms",
           "geometry",
@@ -270,6 +283,7 @@
         "type": "codeforces",
         "id": "2211F",
         "name": "Learning Binary Search",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "divide and conquer",
@@ -297,6 +311,7 @@
         "type": "codeforces",
         "id": "2211E",
         "name": "Minimum Path Cover",
+        "rating": 2500,
         "tags": [
           "brute force",
           "dp",
@@ -327,6 +342,7 @@
         "type": "codeforces",
         "id": "2211C2",
         "name": "Equal Multisets (Hard Version)",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "dsu",
@@ -353,6 +369,7 @@
         "type": "codeforces",
         "id": "2211C1",
         "name": "Equal Multisets (Easy Version)",
+        "rating": 1300,
         "tags": [
           "binary search",
           "brute force",
@@ -380,6 +397,7 @@
         "type": "codeforces",
         "id": "2211D",
         "name": "AND-array",
+        "rating": 1900,
         "tags": [
           "bitmasks",
           "combinatorics",
@@ -406,6 +424,7 @@
         "type": "codeforces",
         "id": "2211B",
         "name": "Mickey Mouse Constructive",
+        "rating": 1100,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -433,6 +452,7 @@
         "type": "codeforces",
         "id": "2211A",
         "name": "Antimedian Deletion",
+        "rating": 800,
         "tags": [
           "implementation",
           "math"
@@ -458,6 +478,7 @@
         "type": "codeforces",
         "id": "2207G",
         "name": "Toothless",
+        "rating": 3300,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -484,6 +505,7 @@
         "type": "codeforces",
         "id": "2207G",
         "name": "Toothless",
+        "rating": 3300,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -510,6 +532,7 @@
         "type": "codeforces",
         "id": "2207G",
         "name": "Toothless",
+        "rating": 3300,
         "tags": [
           "constructive algorithms",
           "dfs and similar",
@@ -536,6 +559,7 @@
         "type": "codeforces",
         "id": "2207F",
         "name": "Hanabi",
+        "rating": 2900,
         "tags": [
           "binary search",
           "data structures",
@@ -567,6 +591,7 @@
         "type": "codeforces",
         "id": "2207F",
         "name": "Hanabi",
+        "rating": 2900,
         "tags": [
           "binary search",
           "data structures",
@@ -598,6 +623,7 @@
         "type": "codeforces",
         "id": "2207E2",
         "name": "N-MEX (Counting Version)",
+        "rating": 2400,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -624,6 +650,7 @@
         "type": "codeforces",
         "id": "2207E1",
         "name": "N-MEX (Constructive Version)",
+        "rating": 2100,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -649,6 +676,7 @@
         "type": "codeforces",
         "id": "2207D",
         "name": "Boxed Like a Fish",
+        "rating": 2200,
         "tags": [
           "dfs and similar",
           "dp",
@@ -677,6 +705,7 @@
         "type": "codeforces",
         "id": "2207C",
         "name": "Where's My Water?",
+        "rating": 1600,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -704,6 +733,7 @@
         "type": "codeforces",
         "id": "2207B",
         "name": "One Night At Freddy's",
+        "rating": 1600,
         "tags": [
           "games",
           "greedy",
@@ -730,6 +760,7 @@
         "type": "codeforces",
         "id": "2207A",
         "name": "1-1",
+        "rating": 800,
         "tags": [
           "greedy",
           "strings"
