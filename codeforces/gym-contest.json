@@ -26410,5 +26410,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106488",
     "standingsUrl": "https://codeforces.com/gym/106488/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Небольшой отчетный контест",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106491,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106491",
+    "standingsUrl": "https://codeforces.com/gym/106491/standings"
   }
 ]
