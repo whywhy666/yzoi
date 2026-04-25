@@ -6,6 +6,258 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 372526393,
+      "creationTime": 1777136565,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222H",
+        "name": "Counting Sort?",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372526393"
+    },
+    {
+      "type": "codeforces",
+      "id": 372524615,
+      "creationTime": 1777136191,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222H",
+        "name": "Counting Sort?",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372524615"
+    },
+    {
+      "type": "codeforces",
+      "id": 372518111,
+      "creationTime": 1777134658,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222H",
+        "name": "Counting Sort?",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372518111"
+    },
+    {
+      "type": "codeforces",
+      "id": 372507408,
+      "creationTime": 1777132433,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222F",
+        "name": "Building Tree",
+        "tags": [
+          "divide and conquer",
+          "dsu",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372507408"
+    },
+    {
+      "type": "codeforces",
+      "id": 372503967,
+      "creationTime": 1777131789,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222F",
+        "name": "Building Tree",
+        "tags": [
+          "divide and conquer",
+          "dsu",
+          "graphs",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372503967"
+    },
+    {
+      "type": "codeforces",
+      "id": 372493413,
+      "creationTime": 1777130082,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222E",
+        "name": "Seek the Truth",
+        "tags": [
+          "binary search",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372493413"
+    },
+    {
+      "type": "codeforces",
+      "id": 372483974,
+      "creationTime": 1777128817,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222D",
+        "name": "Permutation Construction",
+        "tags": [
+          "constructive algorithms",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372483974"
+    },
+    {
+      "type": "codeforces",
+      "id": 372481367,
+      "creationTime": 1777128508,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222C",
+        "name": "Median Partition",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372481367"
+    },
+    {
+      "type": "codeforces",
+      "id": 372480453,
+      "creationTime": 1777128405,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222B",
+        "name": "Artistic Balance Tree",
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372480453"
+    },
+    {
+      "type": "codeforces",
+      "id": 372473811,
+      "creationTime": 1777127787,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1777127700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2222A",
+        "name": "A Wonderful Contest",
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2222/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2222/submission/372473811"
+    },
+    {
+      "type": "codeforces",
       "id": 371036845,
       "creationTime": 1776101668,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -145327,7 +145579,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3541,
+    "rating": 3470,
     "maxRank": "tourist",
     "maxRating": 4009
   }
