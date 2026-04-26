@@ -26443,6 +26443,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "IPL 2026",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106501,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106501",
+    "standingsUrl": "https://codeforces.com/gym/106501/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "XXVIII Interregional Programming Olympiad, Vologda SU, 2026",
     "duration": 18000,
     "participantNumber": 0,
@@ -26450,5 +26460,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106500",
     "standingsUrl": "https://codeforces.com/gym/106500/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 华南师范大学程序设计竞赛 (SCNUCPC 2026)",
+    "startTime": 1777177800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106503,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106503",
+    "standingsUrl": "https://codeforces.com/gym/106503/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "1024 club problemset",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106502,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106502",
+    "standingsUrl": "https://codeforces.com/gym/106502/standings"
   }
 ]
