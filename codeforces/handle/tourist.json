@@ -184,7 +184,7 @@
         "name": "Permutation Construction",
         "tags": [
           "constructive algorithms",
-          "greedy",
+          "data structures",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/D"
@@ -260,6 +260,7 @@
         "name": "A Wonderful Contest",
         "tags": [
           "brute force",
+          "dp",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2222/problem/A"

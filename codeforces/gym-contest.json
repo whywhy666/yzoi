@@ -26481,5 +26481,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106502",
     "standingsUrl": "https://codeforces.com/gym/106502/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "TeamsCode 2026 Spring Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106507,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106507",
+    "standingsUrl": "https://codeforces.com/gym/106507/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 SCUT Programming Contest（2026 华南理工大学程序设计校赛）",
+    "startTime": 1774749600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106508,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106508",
+    "standingsUrl": "https://codeforces.com/gym/106508/standings"
   }
 ]
