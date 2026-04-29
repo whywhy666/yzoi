@@ -26502,5 +26502,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106508",
     "standingsUrl": "https://codeforces.com/gym/106508/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Columbia University Local Contest (CULC) Spring 2026",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106511,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106511",
+    "standingsUrl": "https://codeforces.com/gym/106511/standings"
   }
 ]
