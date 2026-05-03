@@ -6,6 +6,31 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 373382263,
+      "creationTime": 1777780498,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -369703149
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1883A",
+        "name": "Morning",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1883/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1883/submission/373382263"
+    },
+    {
+      "type": "codeforces",
       "id": 372526393,
       "creationTime": 1777136565,
       "language": "C++20 (GCC 13-64)",

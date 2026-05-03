@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1777757665,
+  "updateTime": 1777844140,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 373382263,
+            "pid": "1883A",
+            "name": "Morning",
+            "verdict": "COMPILATION_ERROR",
+            "creationTime": 1777780498
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "7d44c31ee813eda3fca3c7a69819840d83ab14bd"
+  "ref": "5326cc6318bfda08a34e4deaf3a25e8a8334ec7d"
 }
