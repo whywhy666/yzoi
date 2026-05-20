@@ -26664,5 +26664,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106534",
     "standingsUrl": "https://codeforces.com/gym/106534/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Intra-IUT Junior Programming Contest (IJPC) 2026",
+    "startTime": 1779283800,
+    "duration": 12000,
+    "participantNumber": 0,
+    "id": 106539,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106539",
+    "standingsUrl": "https://codeforces.com/gym/106539/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 ICPC Gran Premio de Mexico 2da Fecha",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106540,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106540",
+    "standingsUrl": "https://codeforces.com/gym/106540/standings"
   }
 ]
