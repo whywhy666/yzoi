@@ -6,6 +6,288 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 375842134,
+      "creationTime": 1779555867,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229H",
+        "name": "Wowee Binary String",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375842134"
+    },
+    {
+      "type": "codeforces",
+      "id": 375841254,
+      "creationTime": 1779555624,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229H",
+        "name": "Wowee Binary String",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375841254"
+    },
+    {
+      "type": "codeforces",
+      "id": 375839776,
+      "creationTime": 1779555204,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229H",
+        "name": "Wowee Binary String",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375839776"
+    },
+    {
+      "type": "codeforces",
+      "id": 375814943,
+      "creationTime": 1779550211,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229F",
+        "name": "Load Unbalancing",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375814943"
+    },
+    {
+      "type": "codeforces",
+      "id": 375801087,
+      "creationTime": 1779548716,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229E",
+        "name": "Deconstruction Tree",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375801087"
+    },
+    {
+      "type": "codeforces",
+      "id": 375800460,
+      "creationTime": 1779548658,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229E",
+        "name": "Deconstruction Tree",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375800460"
+    },
+    {
+      "type": "codeforces",
+      "id": 375793066,
+      "creationTime": 1779548095,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229D",
+        "name": "Me When Median Problem",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375793066"
+    },
+    {
+      "type": "codeforces",
+      "id": 375778319,
+      "creationTime": 1779547253,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229C2",
+        "name": "We Be Flipping (Hard Version)",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375778319"
+    },
+    {
+      "type": "codeforces",
+      "id": 375775109,
+      "creationTime": 1779547077,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229C1",
+        "name": "We Be Flipping (Easy Version)",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/C1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375775109"
+    },
+    {
+      "type": "codeforces",
+      "id": 375774026,
+      "creationTime": 1779546997,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229B",
+        "name": "Absolute Cinema",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375774026"
+    },
+    {
+      "type": "codeforces",
+      "id": 375773711,
+      "creationTime": 1779546938,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1779546900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2229A",
+        "name": "Slimes on a Line",
+        "tags": [
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2229/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2229/submission/375773711"
+    },
+    {
+      "type": "codeforces",
       "id": 373382263,
       "creationTime": 1777780498,
       "language": "C++20 (GCC 13-64)",
@@ -145615,7 +145897,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3470,
+    "rating": 3428,
     "maxRank": "tourist",
     "maxRating": 4009
   }
