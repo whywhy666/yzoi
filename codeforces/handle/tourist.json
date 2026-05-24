@@ -102,8 +102,9 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "brute force",
           "dp",
-          "implementation"
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/F"
       },
@@ -128,6 +129,7 @@
         "name": "Deconstruction Tree",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "graphs",
           "trees"
@@ -155,6 +157,7 @@
         "name": "Deconstruction Tree",
         "tags": [
           "combinatorics",
+          "data structures",
           "dp",
           "graphs",
           "trees"
@@ -206,7 +209,8 @@
         "id": "2229C2",
         "name": "We Be Flipping (Hard Version)",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/C2"
       },
@@ -230,7 +234,8 @@
         "id": "2229C1",
         "name": "We Be Flipping (Easy Version)",
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/C1"
       },
@@ -254,7 +259,8 @@
         "id": "2229B",
         "name": "Absolute Cinema",
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/B"
       },
