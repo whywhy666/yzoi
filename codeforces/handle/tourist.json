@@ -185,7 +185,8 @@
         "name": "Me When Median Problem",
         "tags": [
           "binary search",
-          "greedy"
+          "greedy",
+          "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/D"
       },
@@ -210,6 +211,7 @@
         "name": "We Be Flipping (Hard Version)",
         "tags": [
           "constructive algorithms",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2229/problem/C2"
