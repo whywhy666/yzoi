@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2229H",
         "name": "Wowee Binary String",
+        "rating": 3200,
         "tags": [
           "combinatorics",
           "dp",
@@ -47,6 +48,7 @@
         "type": "codeforces",
         "id": "2229H",
         "name": "Wowee Binary String",
+        "rating": 3200,
         "tags": [
           "combinatorics",
           "dp",
@@ -73,6 +75,7 @@
         "type": "codeforces",
         "id": "2229H",
         "name": "Wowee Binary String",
+        "rating": 3200,
         "tags": [
           "combinatorics",
           "dp",
@@ -99,6 +102,7 @@
         "type": "codeforces",
         "id": "2229F",
         "name": "Load Unbalancing",
+        "rating": 2400,
         "tags": [
           "binary search",
           "bitmasks",
@@ -126,6 +130,7 @@
         "type": "codeforces",
         "id": "2229E",
         "name": "Deconstruction Tree",
+        "rating": 2100,
         "tags": [
           "combinatorics",
           "data structures",
@@ -154,6 +159,7 @@
         "type": "codeforces",
         "id": "2229E",
         "name": "Deconstruction Tree",
+        "rating": 2100,
         "tags": [
           "combinatorics",
           "data structures",
@@ -182,6 +188,7 @@
         "type": "codeforces",
         "id": "2229D",
         "name": "Me When Median Problem",
+        "rating": 1700,
         "tags": [
           "binary search",
           "greedy"
@@ -207,6 +214,7 @@
         "type": "codeforces",
         "id": "2229C2",
         "name": "We Be Flipping (Hard Version)",
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -233,6 +241,7 @@
         "type": "codeforces",
         "id": "2229C1",
         "name": "We Be Flipping (Easy Version)",
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -258,6 +267,7 @@
         "type": "codeforces",
         "id": "2229B",
         "name": "Absolute Cinema",
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -283,6 +293,7 @@
         "type": "codeforces",
         "id": "2229A",
         "name": "Slimes on a Line",
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",
@@ -334,6 +345,7 @@
         "type": "codeforces",
         "id": "2222H",
         "name": "Counting Sort?",
+        "rating": 3500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -360,6 +372,7 @@
         "type": "codeforces",
         "id": "2222H",
         "name": "Counting Sort?",
+        "rating": 3500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -386,6 +399,7 @@
         "type": "codeforces",
         "id": "2222H",
         "name": "Counting Sort?",
+        "rating": 3500,
         "tags": [
           "brute force",
           "combinatorics",
@@ -412,6 +426,7 @@
         "type": "codeforces",
         "id": "2222F",
         "name": "Building Tree",
+        "rating": 2600,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -440,6 +455,7 @@
         "type": "codeforces",
         "id": "2222F",
         "name": "Building Tree",
+        "rating": 2600,
         "tags": [
           "data structures",
           "divide and conquer",
@@ -468,6 +484,7 @@
         "type": "codeforces",
         "id": "2222E",
         "name": "Seek the Truth",
+        "rating": 2000,
         "tags": [
           "binary search",
           "bitmasks",
@@ -495,6 +512,7 @@
         "type": "codeforces",
         "id": "2222D",
         "name": "Permutation Construction",
+        "rating": 1800,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -521,6 +539,7 @@
         "type": "codeforces",
         "id": "2222C",
         "name": "Median Partition",
+        "rating": 1500,
         "tags": [
           "dp",
           "math"
@@ -546,6 +565,7 @@
         "type": "codeforces",
         "id": "2222B",
         "name": "Artistic Balance Tree",
+        "rating": 1100,
         "tags": [
           "greedy",
           "sortings"
@@ -571,6 +591,7 @@
         "type": "codeforces",
         "id": "2222A",
         "name": "A Wonderful Contest",
+        "rating": 800,
         "tags": [
           "brute force",
           "dp",
@@ -597,6 +618,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
+        "rating": 2700,
         "tags": [
           "data structures",
           "implementation",
@@ -624,6 +646,7 @@
         "type": "codeforces",
         "id": "2219D",
         "name": "MEX Replacement on Tree",
+        "rating": 2700,
         "tags": [
           "data structures",
           "implementation",
@@ -651,6 +674,7 @@
         "type": "codeforces",
         "id": "2219B1",
         "name": "Unique Values (Easy version)",
+        "rating": 1900,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -679,6 +703,7 @@
         "type": "codeforces",
         "id": "2219E",
         "name": "Weird Chessboard",
+        "rating": 3500,
         "tags": [
           "constructive algorithms",
           "math"
@@ -704,6 +729,7 @@
         "type": "codeforces",
         "id": "2219C",
         "name": "Coloring a Red Black Tree",
+        "rating": 2300,
         "tags": [
           "dfs and similar",
           "dp",
@@ -733,6 +759,7 @@
         "type": "codeforces",
         "id": "2219B1",
         "name": "Unique Values (Easy version)",
+        "rating": 1900,
         "tags": [
           "binary search",
           "constructive algorithms",
@@ -761,6 +788,7 @@
         "type": "codeforces",
         "id": "2219A",
         "name": "Grid L",
+        "rating": 1400,
         "tags": [
           "brute force",
           "constructive algorithms",
