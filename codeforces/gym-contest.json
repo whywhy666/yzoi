@@ -26709,6 +26709,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "XIII Maratona Mineira de Programação - XIII Minas Gerais Programming Contest",
+    "startTime": 1780161900,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106552,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106552",
+    "standingsUrl": "https://codeforces.com/gym/106552/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "[Unofficial Mirror] 2026 CCPC National Invitational (Nanchang) and The 3rd Jiangxi Provincial Programming Contest",
     "startTime": 1779586200,
     "duration": 18000,
@@ -26737,5 +26748,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106559",
     "standingsUrl": "https://codeforces.com/gym/106559/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 24th Programming Contest of Beijing Normal University",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106562,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106562",
+    "standingsUrl": "https://codeforces.com/gym/106562/standings"
   }
 ]
