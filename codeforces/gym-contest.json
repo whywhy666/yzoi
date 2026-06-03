@@ -26780,5 +26780,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106567",
     "standingsUrl": "https://codeforces.com/gym/106567/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2026 ICPC China Sichuan Provincial Programming Contest",
+    "startTime": 1780448400,
+    "duration": 18300,
+    "participantNumber": 0,
+    "id": 106570,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106570",
+    "standingsUrl": "https://codeforces.com/gym/106570/standings"
   }
 ]
