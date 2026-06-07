@@ -26813,5 +26813,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106575",
     "standingsUrl": "https://codeforces.com/gym/106575/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UCPC 2024 preliminary",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106580,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106580",
+    "standingsUrl": "https://codeforces.com/gym/106580/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2025-2026 Всероссийская олимпиада школьников по информатике, второй тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106583,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106583",
+    "standingsUrl": "https://codeforces.com/gym/106583/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "2025-2026 Всероссийская олимпиада школьников по информатике, первый тур",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106582,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106582",
+    "standingsUrl": "https://codeforces.com/gym/106582/standings"
   }
 ]
