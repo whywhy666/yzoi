@@ -6,6 +6,209 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 379398914,
+      "creationTime": 1781798091,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237G",
+        "name": "Send GCDs",
+        "tags": [
+          "communication",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379398914"
+    },
+    {
+      "type": "codeforces",
+      "id": 379397782,
+      "creationTime": 1781797891,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237G",
+        "name": "Send GCDs",
+        "tags": [
+          "communication",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379397782"
+    },
+    {
+      "type": "codeforces",
+      "id": 379391026,
+      "creationTime": 1781796917,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237F",
+        "name": "Paint the Array",
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379391026"
+    },
+    {
+      "type": "codeforces",
+      "id": 379385715,
+      "creationTime": 1781795728,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237E",
+        "name": "Permutation Commutation",
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379385715"
+    },
+    {
+      "type": "codeforces",
+      "id": 379378824,
+      "creationTime": 1781794932,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237D",
+        "name": "Fullmetal Bitchemist",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379378824"
+    },
+    {
+      "type": "codeforces",
+      "id": 379367009,
+      "creationTime": 1781793818,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237C",
+        "name": "Duck Surplus",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379367009"
+    },
+    {
+      "type": "codeforces",
+      "id": 379361214,
+      "creationTime": 1781793511,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237B",
+        "name": "Annoying the Ghost",
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379361214"
+    },
+    {
+      "type": "codeforces",
+      "id": 379359165,
+      "creationTime": 1781793350,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1781793300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2237A",
+        "name": "Destroying Towers",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2237/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2237/submission/379359165"
+    },
+    {
+      "type": "codeforces",
       "id": 375842134,
       "creationTime": 1779555867,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -145931,7 +146134,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3428,
+    "rating": 3486,
     "maxRank": "tourist",
     "maxRating": 4009
   }

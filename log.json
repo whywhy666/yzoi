@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1781736139,
+  "updateTime": 1781823166,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 379398914,
+            "pid": "2237G",
+            "name": "Send GCDs",
+            "verdict": "OK",
+            "creationTime": 1781798091
+          },
+          {
+            "platform": "codeforces",
+            "id": 379397782,
+            "pid": "2237G",
+            "name": "Send GCDs",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1781797891
+          },
+          {
+            "platform": "codeforces",
+            "id": 379391026,
+            "pid": "2237F",
+            "name": "Paint the Array",
+            "verdict": "OK",
+            "creationTime": 1781796917
+          },
+          {
+            "platform": "codeforces",
+            "id": 379385715,
+            "pid": "2237E",
+            "name": "Permutation Commutation",
+            "verdict": "OK",
+            "creationTime": 1781795728
+          },
+          {
+            "platform": "codeforces",
+            "id": 379378824,
+            "pid": "2237D",
+            "name": "Fullmetal Bitchemist",
+            "verdict": "OK",
+            "creationTime": 1781794932
+          },
+          {
+            "platform": "codeforces",
+            "id": 379367009,
+            "pid": "2237C",
+            "name": "Duck Surplus",
+            "verdict": "OK",
+            "creationTime": 1781793818
+          },
+          {
+            "platform": "codeforces",
+            "id": 379361214,
+            "pid": "2237B",
+            "name": "Annoying the Ghost",
+            "verdict": "OK",
+            "creationTime": 1781793511
+          },
+          {
+            "platform": "codeforces",
+            "id": 379359165,
+            "pid": "2237A",
+            "name": "Destroying Towers",
+            "verdict": "OK",
+            "creationTime": 1781793350
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "8c5494f023a0453572d5663ba600cc5b720d6238"
+  "ref": "e894d19533ed6f3e0f75135ef73b174d89478bbd"
 }
