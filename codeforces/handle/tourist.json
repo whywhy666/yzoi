@@ -102,11 +102,9 @@
         "id": "2237E",
         "name": "Permutation Commutation",
         "tags": [
-          "2-sat",
-          "chinese remainder theorem",
-          "fft",
-          "flows",
-          "string suffix structures"
+          "data structures",
+          "graphs",
+          "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/E"
       },
@@ -206,7 +204,12 @@
         "id": "2237A",
         "name": "Destroying Towers",
         "tags": [
-          "greedy"
+          "2-sat",
+          "fft",
+          "flows",
+          "games",
+          "greedy",
+          "schedules"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/A"
       },
