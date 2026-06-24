@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2237G",
         "name": "Send GCDs",
+        "rating": 2900,
         "tags": [
           "communication",
           "constructive algorithms",
@@ -49,6 +50,7 @@
         "type": "codeforces",
         "id": "2237G",
         "name": "Send GCDs",
+        "rating": 2900,
         "tags": [
           "communication",
           "constructive algorithms",
@@ -77,6 +79,7 @@
         "type": "codeforces",
         "id": "2237F",
         "name": "Paint the Array",
+        "rating": 2400,
         "tags": [
           "data structures",
           "dp",
@@ -103,6 +106,7 @@
         "type": "codeforces",
         "id": "2237E",
         "name": "Permutation Commutation",
+        "rating": 2000,
         "tags": [
           "data structures",
           "graphs",
@@ -129,6 +133,7 @@
         "type": "codeforces",
         "id": "2237D",
         "name": "Fullmetal Bitchemist",
+        "rating": 1500,
         "tags": [
           "constructive algorithms",
           "greedy",
@@ -155,6 +160,7 @@
         "type": "codeforces",
         "id": "2237C",
         "name": "Duck Surplus",
+        "rating": 1000,
         "tags": [
           "greedy"
         ],
@@ -179,6 +185,7 @@
         "type": "codeforces",
         "id": "2237B",
         "name": "Annoying the Ghost",
+        "rating": 1000,
         "tags": [
           "brute force",
           "greedy"
@@ -204,6 +211,7 @@
         "type": "codeforces",
         "id": "2237A",
         "name": "Destroying Towers",
+        "rating": 800,
         "tags": [
           "games",
           "greedy",
