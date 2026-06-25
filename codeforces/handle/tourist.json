@@ -162,6 +162,7 @@
         "name": "Duck Surplus",
         "rating": 1000,
         "tags": [
+          "binary search",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2237/problem/C"
@@ -146148,7 +146149,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3486,
+    "rating": 3488,
     "maxRank": "tourist",
     "maxRating": 4009
   }
