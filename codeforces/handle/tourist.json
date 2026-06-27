@@ -6,6 +6,112 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 380351477,
+      "creationTime": 1782574973,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1782570900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2239D",
+        "name": "Hunting the Beast",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2239/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2239/submission/380351477"
+    },
+    {
+      "type": "codeforces",
+      "id": 380336414,
+      "creationTime": 1782572659,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1782570900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2239C",
+        "name": "Revival",
+        "tags": [
+          "binary search",
+          "data structures",
+          "math",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2239/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2239/submission/380336414"
+    },
+    {
+      "type": "codeforces",
+      "id": 380324092,
+      "creationTime": 1782571295,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1782570900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2239B",
+        "name": "Decidophobia",
+        "tags": [
+          "greedy",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2239/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2239/submission/380324092"
+    },
+    {
+      "type": "codeforces",
+      "id": 380322407,
+      "creationTime": 1782571104,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1782570900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2239A",
+        "name": "Nim Game Is XOR Game",
+        "tags": [
+          "bitmasks",
+          "games",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2239/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2239/submission/380322407"
+    },
+    {
+      "type": "codeforces",
       "id": 379398914,
       "creationTime": 1781798091,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -146149,7 +146255,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3488,
+    "rating": 3439,
     "maxRank": "tourist",
     "maxRating": 4009
   }
