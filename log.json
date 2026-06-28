@@ -1,48 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1782597467,
+  "updateTime": 1782683862,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 380351477,
-            "pid": "2239D",
-            "name": "Hunting the Beast",
-            "verdict": "OK",
-            "creationTime": 1782574973
-          },
-          {
-            "platform": "codeforces",
-            "id": 380336414,
-            "pid": "2239C",
-            "name": "Revival",
-            "verdict": "OK",
-            "creationTime": 1782572659
-          },
-          {
-            "platform": "codeforces",
-            "id": 380324092,
-            "pid": "2239B",
-            "name": "Decidophobia",
-            "verdict": "OK",
-            "creationTime": 1782571295
-          },
-          {
-            "platform": "codeforces",
-            "id": 380322407,
-            "pid": "2239A",
-            "name": "Nim Game Is XOR Game",
-            "verdict": "OK",
-            "creationTime": 1782571104
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "e59154fdbafd1c91cd8842c7a5bea574b3691a73"
+  "ref": "8bc7baa4756e76d81bdebdd78457bccb567a7a8d"
 }
