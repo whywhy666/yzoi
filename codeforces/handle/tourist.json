@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2239D",
         "name": "Hunting the Beast",
+        "rating": 2500,
         "tags": [
           "combinatorics",
           "dp",
@@ -48,9 +49,9 @@
         "type": "codeforces",
         "id": "2239C",
         "name": "Revival",
+        "rating": 2200,
         "tags": [
           "binary search",
-          "constructive algorithms",
           "data structures",
           "math",
           "two pointers"
@@ -76,8 +77,10 @@
         "type": "codeforces",
         "id": "2239B",
         "name": "Decidophobia",
+        "rating": 1500,
         "tags": [
           "greedy",
+          "math",
           "sortings",
           "two pointers"
         ],
@@ -102,8 +105,8 @@
         "type": "codeforces",
         "id": "2239A",
         "name": "Nim Game Is XOR Game",
+        "rating": 1300,
         "tags": [
-          "bitmasks",
           "constructive algorithms",
           "games",
           "greedy",
