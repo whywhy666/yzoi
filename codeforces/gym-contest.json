@@ -26959,9 +26959,9 @@
     "standingsUrl": "https://codeforces.com/gym/106606/standings"
   },
   {
-    "type": "codeforces/gym/icpc",
+    "type": "codeforces/gym/ioi",
     "name": "Первенство Урала по программированию 2026. Младшая лига",
-    "duration": 21600,
+    "duration": 14400,
     "participantNumber": 0,
     "id": 106609,
     "phase": "FINISHED",
@@ -26981,7 +26981,7 @@
   {
     "type": "codeforces/gym/ioi",
     "name": "Первенство Урала по программированию 2026. Старшая  лига",
-    "duration": 21600,
+    "duration": 14400,
     "participantNumber": 0,
     "id": 106610,
     "phase": "FINISHED",
