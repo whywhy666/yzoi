@@ -26979,6 +26979,16 @@
     "standingsUrl": "https://codeforces.com/gym/106608/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "La Salle-Pui Ching Programming Challenge 培正喇沙編程挑戰賽 2025",
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106611,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106611",
+    "standingsUrl": "https://codeforces.com/gym/106611/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Первенство Урала по программированию 2026. Старшая  лига",
     "duration": 14400,
