@@ -6,6 +6,209 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 383013765,
+      "creationTime": 1784221884,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213101
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245G",
+        "name": "NPC Challenge",
+        "tags": [
+          "divide and conquer",
+          "interactive"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/383013765"
+    },
+    {
+      "type": "codeforces",
+      "id": 382985915,
+      "creationTime": 1784216755,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245F",
+        "name": "Familiar?",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/382985915"
+    },
+    {
+      "type": "codeforces",
+      "id": 382979407,
+      "creationTime": 1784215787,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245E",
+        "name": "Tom and Jerry",
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/382979407"
+    },
+    {
+      "type": "codeforces",
+      "id": 382967140,
+      "creationTime": 1784214238,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245D1",
+        "name": "Construct an Array (Easy Version)",
+        "tags": [
+          "dfs and similar",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/382967140"
+    },
+    {
+      "type": "codeforces",
+      "id": 382966892,
+      "creationTime": 1784214214,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245D2",
+        "name": "Construct an Array (Hard Version)",
+        "tags": [
+          "2-sat",
+          "dfs and similar",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/382966892"
+    },
+    {
+      "type": "codeforces",
+      "id": 382963077,
+      "creationTime": 1784213814,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245C",
+        "name": "MEXOR",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/382963077"
+    },
+    {
+      "type": "codeforces",
+      "id": 382957752,
+      "creationTime": 1784213303,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245B",
+        "name": "Delete and Concatenate",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/382957752"
+    },
+    {
+      "type": "codeforces",
+      "id": 382957212,
+      "creationTime": 1784213176,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1784213100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2245A",
+        "name": "Who Watches the Watchpig?",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2245/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2245/submission/382957212"
+    },
+    {
+      "type": "codeforces",
       "id": 380351477,
       "creationTime": 1782574973,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -146261,7 +146464,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3439,
+    "rating": 3530,
     "maxRank": "tourist",
     "maxRating": 4009
   }
