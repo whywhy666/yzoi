@@ -1,80 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1784239123,
+  "updateTime": 1784324652,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 383013765,
-            "pid": "2245G",
-            "name": "NPC Challenge",
-            "verdict": "OK",
-            "creationTime": 1784221884
-          },
-          {
-            "platform": "codeforces",
-            "id": 382985915,
-            "pid": "2245F",
-            "name": "Familiar?",
-            "verdict": "OK",
-            "creationTime": 1784216755
-          },
-          {
-            "platform": "codeforces",
-            "id": 382979407,
-            "pid": "2245E",
-            "name": "Tom and Jerry",
-            "verdict": "OK",
-            "creationTime": 1784215787
-          },
-          {
-            "platform": "codeforces",
-            "id": 382967140,
-            "pid": "2245D1",
-            "name": "Construct an Array (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1784214238
-          },
-          {
-            "platform": "codeforces",
-            "id": 382966892,
-            "pid": "2245D2",
-            "name": "Construct an Array (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1784214214
-          },
-          {
-            "platform": "codeforces",
-            "id": 382963077,
-            "pid": "2245C",
-            "name": "MEXOR",
-            "verdict": "OK",
-            "creationTime": 1784213814
-          },
-          {
-            "platform": "codeforces",
-            "id": 382957752,
-            "pid": "2245B",
-            "name": "Delete and Concatenate",
-            "verdict": "OK",
-            "creationTime": 1784213303
-          },
-          {
-            "platform": "codeforces",
-            "id": 382957212,
-            "pid": "2245A",
-            "name": "Who Watches the Watchpig?",
-            "verdict": "OK",
-            "creationTime": 1784213176
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "b008f4d2688f094c2ab350ed0d92cfb7af8158b1"
+  "ref": "4989df7239702df4d9c62378dd1ad2631fde3062"
 }
