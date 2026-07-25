@@ -27069,5 +27069,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106626",
     "standingsUrl": "https://codeforces.com/gym/106626/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Game of Coders 5.0 | Finals Round",
+    "startTime": 1784964900,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106628,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106628",
+    "standingsUrl": "https://codeforces.com/gym/106628/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "IUT 12th ICT Fest Inter University Programming Contest 2026",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106631,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106631",
+    "standingsUrl": "https://codeforces.com/gym/106631/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "SVU and HIAST Collegiate Programming Contest 2026",
+    "startTime": 1784794560,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106632,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106632",
+    "standingsUrl": "https://codeforces.com/gym/106632/standings"
   }
 ]
