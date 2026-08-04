@@ -25852,6 +25852,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "IU CSCI-B392-590, Spring 2026: Contest 3",
+    "startTime": 1771621200,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106379,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106379",
+    "standingsUrl": "https://codeforces.com/gym/106379/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 6th Liaoning Provincial Collegiate Programming Contest",
     "startTime": 1763168400,
     "duration": 18000,
@@ -27101,5 +27112,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106632",
     "standingsUrl": "https://codeforces.com/gym/106632/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Lexington Informatics Tournament 2026",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106637,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106637",
+    "standingsUrl": "https://codeforces.com/gym/106637/standings"
   }
 ]
