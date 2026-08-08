@@ -26329,6 +26329,17 @@
     "standingsUrl": "https://codeforces.com/gym/106462/standings"
   },
   {
+    "type": "codeforces/gym/ioi",
+    "name": "Lincatoria Problems",
+    "startTime": 1775601120,
+    "duration": 10617600,
+    "participantNumber": 0,
+    "id": 106465,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106465",
+    "standingsUrl": "https://codeforces.com/gym/106465/standings"
+  },
+  {
     "type": "codeforces/gym/icpc",
     "name": "East China University of Science and Technology Programming Championship 2026",
     "startTime": 1775536200,
