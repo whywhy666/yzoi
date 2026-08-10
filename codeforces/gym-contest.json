@@ -27154,5 +27154,27 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106641",
     "standingsUrl": "https://codeforces.com/gym/106641/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Upper Egypt Programming Contest 2026 (UEPC 2026)",
+    "startTime": 1786186800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106642,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106642",
+    "standingsUrl": "https://codeforces.com/gym/106642/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "National Taiwan University Class Preliminary 2026",
+    "startTime": 1786253400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106644,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106644",
+    "standingsUrl": "https://codeforces.com/gym/106644/standings"
   }
 ]
