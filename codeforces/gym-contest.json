@@ -27221,6 +27221,17 @@
     "standingsUrl": "https://codeforces.com/gym/106666/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "EPT Solving Cup 6.0",
+    "startTime": 1787652000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106669,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106669",
+    "standingsUrl": "https://codeforces.com/gym/106669/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "TeamsCode Summer 2026 Contest",
     "duration": 10800,
@@ -27239,5 +27250,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106670",
     "standingsUrl": "https://codeforces.com/gym/106670/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Vorg CUP, Финал, 2025-2026",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106672,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106672",
+    "standingsUrl": "https://codeforces.com/gym/106672/standings"
   }
 ]
