@@ -11,6 +11,17 @@
     "standingsUrl": "https://codeforces.com/contest/2257/standings"
   },
   {
+    "type": "codeforces/ioi",
+    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+    "startTime": 1786705200,
+    "duration": 1209600,
+    "participantNumber": 0,
+    "id": 2251,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2251",
+    "standingsUrl": "https://codeforces.com/contest/2251/standings"
+  },
+  {
     "type": "codeforces/cf",
     "name": "Codeforces Round 1116 (Div. 1)",
     "startTime": 1786286100,
