@@ -27290,5 +27290,37 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106682",
     "standingsUrl": "https://codeforces.com/gym/106682/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Hong Kong Joint Collegiate Programming Contest 2026",
+    "startTime": 1788066000,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106687,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106687",
+    "standingsUrl": "https://codeforces.com/gym/106687/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 6th Guangxi Collegiate Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106689,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106689",
+    "standingsUrl": "https://codeforces.com/gym/106689/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2026 Winter, Day 5: Colin and His Friends Contest",
+    "startTime": 1769565600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106688,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106688",
+    "standingsUrl": "https://codeforces.com/gym/106688/standings"
   }
 ]
