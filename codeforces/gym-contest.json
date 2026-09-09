@@ -27322,5 +27322,38 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106688",
     "standingsUrl": "https://codeforces.com/gym/106688/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 National Invitational of CCPC (Qinhuangdao) and the 10th Hebei Collegiate Programming Contest",
+    "startTime": 1779582600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106695,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106695",
+    "standingsUrl": "https://codeforces.com/gym/106695/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 Beijing Collegiate Programming Contest",
+    "startTime": 1778378400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106694,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106694",
+    "standingsUrl": "https://codeforces.com/gym/106694/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 CCPC National Invitational (Nanchang) and Jiangxi Provincial Collegiate Programming Contest",
+    "startTime": 1779586200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106696,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106696",
+    "standingsUrl": "https://codeforces.com/gym/106696/standings"
   }
 ]
