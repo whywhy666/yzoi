@@ -27347,6 +27347,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 7th Guangxi Collegiate Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106697,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106697",
+    "standingsUrl": "https://codeforces.com/gym/106697/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2026 CCPC National Invitational (Nanchang) and Jiangxi Provincial Collegiate Programming Contest",
     "startTime": 1779586200,
     "duration": 18000,

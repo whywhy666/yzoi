@@ -6,6 +6,195 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390170925,
+      "creationTime": 1789023361,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358460286
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/390170925"
+    },
+    {
+      "type": "codeforces",
+      "id": 390170892,
+      "creationTime": 1789023337,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358460310
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/390170892"
+    },
+    {
+      "type": "codeforces",
+      "id": 390170871,
+      "creationTime": 1789023321,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358460326
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/390170871"
+    },
+    {
+      "type": "codeforces",
+      "id": 390170776,
+      "creationTime": 1789023242,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358460405
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/390170776"
+    },
+    {
+      "type": "codeforces",
+      "id": 390169694,
+      "creationTime": 1789022406,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358461241
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/390169694"
+    },
+    {
+      "type": "codeforces",
+      "id": 390168159,
+      "creationTime": 1789021188,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358462459
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/390168159"
+    },
+    {
+      "type": "codeforces",
+      "id": 390168094,
+      "creationTime": 1789021133,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358462514
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "484E",
+        "name": "Sign on Fence",
+        "rating": 2500,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/484/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/484/submission/390168094"
+    },
+    {
+      "type": "codeforces",
       "id": 383013765,
       "creationTime": 1784221884,
       "language": "C++23 (GCC 14-64, msys2)",
