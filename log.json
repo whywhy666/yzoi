@@ -1,72 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1789080787,
+  "updateTime": 1789167329,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 390170925,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "OK",
-            "creationTime": 1789023361
-          },
-          {
-            "platform": "codeforces",
-            "id": 390170892,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "OK",
-            "creationTime": 1789023337
-          },
-          {
-            "platform": "codeforces",
-            "id": 390170871,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "OK",
-            "creationTime": 1789023321
-          },
-          {
-            "platform": "codeforces",
-            "id": 390170776,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789023242
-          },
-          {
-            "platform": "codeforces",
-            "id": 390169694,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789022406
-          },
-          {
-            "platform": "codeforces",
-            "id": 390168159,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "OK",
-            "creationTime": 1789021188
-          },
-          {
-            "platform": "codeforces",
-            "id": 390168094,
-            "pid": "484E",
-            "name": "Sign on Fence",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789021133
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "503f542a94ee44c7766aad59a649f67baa4dae45"
+  "ref": "118f836e1aa1f1ee14bf3a3f3bac88ee6c40c81d"
 }
