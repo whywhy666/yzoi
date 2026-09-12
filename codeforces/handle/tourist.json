@@ -6,6 +6,218 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390464037,
+      "creationTime": 1789228631,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1789223700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2262C",
+        "name": "Traveling the World",
+        "tags": [
+          "combinatorics",
+          "graphs",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2262/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2262/submission/390464037"
+    },
+    {
+      "type": "codeforces",
+      "id": 390440682,
+      "creationTime": 1789225420,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1789223700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2262B",
+        "name": "Culling Game",
+        "tags": [
+          "binary search",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2262/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2262/submission/390440682"
+    },
+    {
+      "type": "codeforces",
+      "id": 390437166,
+      "creationTime": 1789225061,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1789223700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2262B",
+        "name": "Culling Game",
+        "tags": [
+          "binary search",
+          "data structures",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2262/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2262/submission/390437166"
+    },
+    {
+      "type": "codeforces",
+      "id": 390427368,
+      "creationTime": 1789224203,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1789223700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2262A2",
+        "name": "Floor of MEX (Hard Version)",
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2262/problem/A2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2262/submission/390427368"
+    },
+    {
+      "type": "codeforces",
+      "id": 390425531,
+      "creationTime": 1789224069,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1789223700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2262A1",
+        "name": "Floor of MEX (Easy Version)",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2262/problem/A1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2262/submission/390425531"
+    },
+    {
+      "type": "codeforces",
+      "id": 390373022,
+      "creationTime": 1789190225,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358293422
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C2",
+        "name": "Good Subarrays (Hard Version)",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/390373022"
+    },
+    {
+      "type": "codeforces",
+      "id": 390371008,
+      "creationTime": 1789188054,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358295593
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C2",
+        "name": "Good Subarrays (Hard Version)",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/390371008"
+    },
+    {
+      "type": "codeforces",
+      "id": 390370931,
+      "creationTime": 1789187961,
+      "language": "C++20 (GCC 13-64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358295686
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1736C2",
+        "name": "Good Subarrays (Hard Version)",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1736/problem/C2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1736/submission/390370931"
+    },
+    {
+      "type": "codeforces",
       "id": 390170925,
       "creationTime": 1789023361,
       "language": "C++20 (GCC 13-64)",
@@ -146664,7 +146876,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3528,
+    "rating": 3301,
     "maxRank": "tourist",
     "maxRating": 4009
   }

@@ -1,9 +1,80 @@
 {
   "version": "0.1.16",
-  "updateTime": 1789167329,
+  "updateTime": 1789253112,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 390464037,
+            "pid": "2262C",
+            "name": "Traveling the World",
+            "verdict": "OK",
+            "creationTime": 1789228631
+          },
+          {
+            "platform": "codeforces",
+            "id": 390440682,
+            "pid": "2262B",
+            "name": "Culling Game",
+            "verdict": "OK",
+            "creationTime": 1789225420
+          },
+          {
+            "platform": "codeforces",
+            "id": 390437166,
+            "pid": "2262B",
+            "name": "Culling Game",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1789225061
+          },
+          {
+            "platform": "codeforces",
+            "id": 390427368,
+            "pid": "2262A2",
+            "name": "Floor of MEX (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1789224203
+          },
+          {
+            "platform": "codeforces",
+            "id": 390425531,
+            "pid": "2262A1",
+            "name": "Floor of MEX (Easy Version)",
+            "verdict": "OK",
+            "creationTime": 1789224069
+          },
+          {
+            "platform": "codeforces",
+            "id": 390373022,
+            "pid": "1736C2",
+            "name": "Good Subarrays (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1789190225
+          },
+          {
+            "platform": "codeforces",
+            "id": 390371008,
+            "pid": "1736C2",
+            "name": "Good Subarrays (Hard Version)",
+            "verdict": "OK",
+            "creationTime": 1789188054
+          },
+          {
+            "platform": "codeforces",
+            "id": 390370931,
+            "pid": "1736C2",
+            "name": "Good Subarrays (Hard Version)",
+            "verdict": "WRONG_ANSWER",
+            "creationTime": 1789187961
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "118f836e1aa1f1ee14bf3a3f3bac88ee6c40c81d"
+  "ref": "54f3a34c2c9dce06c16c69462043d776a35ee8a6"
 }

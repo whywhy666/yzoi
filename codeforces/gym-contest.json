@@ -27367,6 +27367,17 @@
     "standingsUrl": "https://codeforces.com/gym/106696/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2026 ICPC Asia EC Regionals Online Contest (II)",
+    "startTime": 1789189200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106701,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106701",
+    "standingsUrl": "https://codeforces.com/gym/106701/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Bangladesh Olympiad in Informatics Discord Server Monthly Round 2",
     "duration": 12600,
