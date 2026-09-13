@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "updateTime": 1789253112,
+  "updateTime": 1789339534,
   "history": {
     "user": [
       {
@@ -8,67 +8,27 @@
         "newSubmissions": [
           {
             "platform": "codeforces",
-            "id": 390464037,
-            "pid": "2262C",
-            "name": "Traveling the World",
+            "id": 390651990,
+            "pid": "1401F",
+            "name": "Reverse and Swap",
             "verdict": "OK",
-            "creationTime": 1789228631
+            "creationTime": 1789326747
           },
           {
             "platform": "codeforces",
-            "id": 390440682,
-            "pid": "2262B",
-            "name": "Culling Game",
+            "id": 390651968,
+            "pid": "1401F",
+            "name": "Reverse and Swap",
             "verdict": "OK",
-            "creationTime": 1789225420
+            "creationTime": 1789326721
           },
           {
             "platform": "codeforces",
-            "id": 390437166,
-            "pid": "2262B",
-            "name": "Culling Game",
+            "id": 390648109,
+            "pid": "1401F",
+            "name": "Reverse and Swap",
             "verdict": "WRONG_ANSWER",
-            "creationTime": 1789225061
-          },
-          {
-            "platform": "codeforces",
-            "id": 390427368,
-            "pid": "2262A2",
-            "name": "Floor of MEX (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1789224203
-          },
-          {
-            "platform": "codeforces",
-            "id": 390425531,
-            "pid": "2262A1",
-            "name": "Floor of MEX (Easy Version)",
-            "verdict": "OK",
-            "creationTime": 1789224069
-          },
-          {
-            "platform": "codeforces",
-            "id": 390373022,
-            "pid": "1736C2",
-            "name": "Good Subarrays (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1789190225
-          },
-          {
-            "platform": "codeforces",
-            "id": 390371008,
-            "pid": "1736C2",
-            "name": "Good Subarrays (Hard Version)",
-            "verdict": "OK",
-            "creationTime": 1789188054
-          },
-          {
-            "platform": "codeforces",
-            "id": 390370931,
-            "pid": "1736C2",
-            "name": "Good Subarrays (Hard Version)",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789187961
+            "creationTime": 1789325575
           }
         ],
         "newContests": []
@@ -76,5 +36,5 @@
     ],
     "contest": []
   },
-  "ref": "54f3a34c2c9dce06c16c69462043d776a35ee8a6"
+  "ref": "f4bcc26a3d60ac36046a5e76c3405fcee01411b4"
 }

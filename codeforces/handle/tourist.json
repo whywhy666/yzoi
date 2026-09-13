@@ -6,6 +6,87 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390651990,
+      "creationTime": 1789326747,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358156900
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1401F",
+        "name": "Reverse and Swap",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1401/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1401/submission/390651990"
+    },
+    {
+      "type": "codeforces",
+      "id": 390651968,
+      "creationTime": 1789326721,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358156926
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1401F",
+        "name": "Reverse and Swap",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1401/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1401/submission/390651968"
+    },
+    {
+      "type": "codeforces",
+      "id": 390648109,
+      "creationTime": 1789325575,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -358158072
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1401F",
+        "name": "Reverse and Swap",
+        "rating": 2400,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1401/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1401/submission/390648109"
+    },
+    {
+      "type": "codeforces",
       "id": 390464037,
       "creationTime": 1789228631,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -50,6 +131,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "implementation",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2262/problem/B"
@@ -76,6 +158,7 @@
         "tags": [
           "binary search",
           "data structures",
+          "implementation",
           "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2262/problem/B"

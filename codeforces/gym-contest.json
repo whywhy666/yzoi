@@ -27386,5 +27386,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106700",
     "standingsUrl": "https://codeforces.com/gym/106700/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2026 ICPC China Guizhou Provincial Contest",
+    "startTime": 1789268400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106705,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106705",
+    "standingsUrl": "https://codeforces.com/gym/106705/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Aleppo Collegiate Programming Contest 2026",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106706,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106706",
+    "standingsUrl": "https://codeforces.com/gym/106706/standings"
   }
 ]
