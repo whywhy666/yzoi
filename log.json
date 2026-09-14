@@ -1,40 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1789339534,
+  "updateTime": 1789429143,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 390651990,
-            "pid": "1401F",
-            "name": "Reverse and Swap",
-            "verdict": "OK",
-            "creationTime": 1789326747
-          },
-          {
-            "platform": "codeforces",
-            "id": 390651968,
-            "pid": "1401F",
-            "name": "Reverse and Swap",
-            "verdict": "OK",
-            "creationTime": 1789326721
-          },
-          {
-            "platform": "codeforces",
-            "id": 390648109,
-            "pid": "1401F",
-            "name": "Reverse and Swap",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1789325575
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "f4bcc26a3d60ac36046a5e76c3405fcee01411b4"
+  "ref": "0e4e5252b4c8d080997628c769b98c3b1fc9f25d"
 }
