@@ -6,6 +6,34 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 390885111,
+      "creationTime": 1789534560,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -357949087
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "920F",
+        "name": "SUM and REPLACE",
+        "rating": 2000,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dsu",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/920/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/920/submission/390885111"
+    },
+    {
+      "type": "codeforces",
       "id": 390651990,
       "creationTime": 1789326747,
       "language": "C++23 (GCC 14-64, msys2)",

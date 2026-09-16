@@ -1,9 +1,24 @@
 {
   "version": "0.1.16",
-  "updateTime": 1789514446,
+  "updateTime": 1789601300,
   "history": {
-    "user": [],
+    "user": [
+      {
+        "name": "tourist",
+        "newSubmissions": [
+          {
+            "platform": "codeforces",
+            "id": 390885111,
+            "pid": "920F",
+            "name": "SUM and REPLACE",
+            "verdict": "OK",
+            "creationTime": 1789534560
+          }
+        ],
+        "newContests": []
+      }
+    ],
     "contest": []
   },
-  "ref": "b9d6565894d92289dab00b19bf48cb5f1010f2a3"
+  "ref": "dcec1ae7fe078178f9a7bd265f808eed13a9d5d4"
 }
