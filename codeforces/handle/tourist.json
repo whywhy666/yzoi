@@ -132,6 +132,7 @@
         "name": "Traveling the World",
         "tags": [
           "combinatorics",
+          "constructive algorithms",
           "graphs",
           "greedy",
           "math"
@@ -213,7 +214,8 @@
         "name": "Floor of MEX (Hard Version)",
         "tags": [
           "dp",
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2262/problem/A2"
       },
@@ -146988,7 +146990,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3301,
+    "rating": 3307,
     "maxRank": "tourist",
     "maxRating": 4009
   }
