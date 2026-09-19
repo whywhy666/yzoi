@@ -130,6 +130,7 @@
         "type": "codeforces",
         "id": "2262C",
         "name": "Traveling the World",
+        "rating": 2200,
         "tags": [
           "combinatorics",
           "constructive algorithms",
@@ -158,6 +159,7 @@
         "type": "codeforces",
         "id": "2262B",
         "name": "Culling Game",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -185,6 +187,7 @@
         "type": "codeforces",
         "id": "2262B",
         "name": "Culling Game",
+        "rating": 2000,
         "tags": [
           "binary search",
           "data structures",
@@ -212,6 +215,7 @@
         "type": "codeforces",
         "id": "2262A2",
         "name": "Floor of MEX (Hard Version)",
+        "rating": 1800,
         "tags": [
           "dp",
           "implementation",
@@ -238,6 +242,7 @@
         "type": "codeforces",
         "id": "2262A1",
         "name": "Floor of MEX (Easy Version)",
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
