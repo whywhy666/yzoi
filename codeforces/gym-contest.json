@@ -27471,5 +27471,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106714",
     "standingsUrl": "https://codeforces.com/gym/106714/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "CODEFEM - Mexican Womens Competitive Programming League",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106718,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106718",
+    "standingsUrl": "https://codeforces.com/gym/106718/standings"
   }
 ]
