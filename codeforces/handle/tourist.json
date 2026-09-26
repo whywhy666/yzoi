@@ -6,6 +6,132 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 392217392,
+      "creationTime": 1790438553,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1790433300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268D",
+        "name": "AghaBalaSar and Hamed",
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392217392"
+    },
+    {
+      "type": "codeforces",
+      "id": 392208993,
+      "creationTime": 1790437169,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1790433300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268C",
+        "name": "KiaKio and Energy Intervals",
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "data structures",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392208993"
+    },
+    {
+      "type": "codeforces",
+      "id": 392200443,
+      "creationTime": 1790435937,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1790433300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268E",
+        "name": "Kia Kio and Tree of Life",
+        "tags": [
+          "data structures",
+          "fft"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392200443"
+    },
+    {
+      "type": "codeforces",
+      "id": 392185587,
+      "creationTime": 1790434169,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1790433300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268B",
+        "name": "What a SauSaGe! It's All Meat",
+        "tags": [
+          "bitmasks",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392185587"
+    },
+    {
+      "type": "codeforces",
+      "id": 392179325,
+      "creationTime": 1790433657,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1790433300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2268A",
+        "name": "K Is Important",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2268/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2268/submission/392179325"
+    },
+    {
+      "type": "codeforces",
       "id": 390885111,
       "creationTime": 1789534560,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -146995,7 +147121,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3307,
+    "rating": 3384,
     "maxRank": "tourist",
     "maxRating": 4009
   }
