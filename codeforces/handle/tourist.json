@@ -22,7 +22,9 @@
         "id": "2268D",
         "name": "AghaBalaSar and Hamed",
         "tags": [
-          "dp"
+          "data structures",
+          "dp",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2268/problem/D"
       },
@@ -48,8 +50,11 @@
         "tags": [
           "binary search",
           "bitmasks",
+          "brute force",
           "data structures",
-          "greedy"
+          "divide and conquer",
+          "greedy",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/2268/problem/C"
       },
@@ -74,7 +79,9 @@
         "name": "Kia Kio and Tree of Life",
         "tags": [
           "data structures",
-          "fft"
+          "fft",
+          "math",
+          "trees"
         ],
         "problemUrl": "https://codeforces.com/contest/2268/problem/E"
       },
@@ -99,6 +106,7 @@
         "name": "What a SauSaGe! It's All Meat",
         "tags": [
           "bitmasks",
+          "brute force",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2268/problem/B"
