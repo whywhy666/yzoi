@@ -27179,6 +27179,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "ICPC Masters Mexico 2026",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106646,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106646",
+    "standingsUrl": "https://codeforces.com/gym/106646/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "CCF CAT NAEC 2026 (Final)",
     "startTime": 1786078800,
     "duration": 14400,
@@ -27514,5 +27524,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106725",
     "standingsUrl": "https://codeforces.com/gym/106725/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Отборочный этап любительской лиги Московской командной олимпиады школьников по программированию (МКОШП) 2026",
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 106727,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106727",
+    "standingsUrl": "https://codeforces.com/gym/106727/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 ICPC Asia Taiwan Online Programming Contest",
+    "startTime": 1789779600,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106728,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106728",
+    "standingsUrl": "https://codeforces.com/gym/106728/standings"
   }
 ]
