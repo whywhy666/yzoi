@@ -27545,5 +27545,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106728",
     "standingsUrl": "https://codeforces.com/gym/106728/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 Benelux Algorithm Programming Contest Preliminary (BAPC Prelims 2026)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106730,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106730",
+    "standingsUrl": "https://codeforces.com/gym/106730/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "MEPhI Аutumn Cup 2026",
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 106732,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106732",
+    "standingsUrl": "https://codeforces.com/gym/106732/standings"
   }
 ]
