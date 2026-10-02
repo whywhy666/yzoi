@@ -27558,6 +27558,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 9-30-2026",
+    "startTime": 1790812800,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106733,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106733",
+    "standingsUrl": "https://codeforces.com/gym/106733/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "MEPhI Аutumn Cup 2026",
     "duration": 9000,
     "participantNumber": 0,
