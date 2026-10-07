@@ -27611,6 +27611,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "University of Science and Technology of China Freshman Programming Contest 2026(2026 Kruskal Cup)",
+    "startTime": 1789272000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106745,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106745",
+    "standingsUrl": "https://codeforces.com/gym/106745/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2026-2027 ICPC NERC, Kyrgyzstan Qualification Contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -27618,5 +27629,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106744",
     "standingsUrl": "https://codeforces.com/gym/106744/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2025-2026, Третья личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106747,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106747",
+    "standingsUrl": "https://codeforces.com/gym/106747/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Интернет-олимпиады, Сезон 2025-2026, Четвертая личная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106748,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106748",
+    "standingsUrl": "https://codeforces.com/gym/106748/standings"
   }
 ]
