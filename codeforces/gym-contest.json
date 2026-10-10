@@ -27649,5 +27649,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106748",
     "standingsUrl": "https://codeforces.com/gym/106748/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Заключительный этап Олимпиады школьников «Шаг в будущее» 2025-26",
+    "duration": 14100,
+    "participantNumber": 0,
+    "id": 106754,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106754",
+    "standingsUrl": "https://codeforces.com/gym/106754/standings"
   }
 ]
