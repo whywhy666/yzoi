@@ -6,6 +6,207 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 394022544,
+      "creationTime": 1791651068,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271H1",
+        "name": "Personal Issues (Easy Version)",
+        "tags": [
+          "games",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/H1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/394022544"
+    },
+    {
+      "type": "codeforces",
+      "id": 394016388,
+      "creationTime": 1791649838,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271F",
+        "name": "Beautiful Pillers",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/394016388"
+    },
+    {
+      "type": "codeforces",
+      "id": 394003723,
+      "creationTime": 1791647881,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271E",
+        "name": "Array Emptying",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/394003723"
+    },
+    {
+      "type": "codeforces",
+      "id": 394003466,
+      "creationTime": 1791647847,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271E",
+        "name": "Array Emptying",
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/394003466"
+    },
+    {
+      "type": "codeforces",
+      "id": 393983900,
+      "creationTime": 1791645791,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271D",
+        "name": "Target Infection",
+        "tags": [
+          "binary search",
+          "brute force"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393983900"
+    },
+    {
+      "type": "codeforces",
+      "id": 393976882,
+      "creationTime": 1791645247,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271B",
+        "name": "MEX Game",
+        "tags": [
+          "games"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393976882"
+    },
+    {
+      "type": "codeforces",
+      "id": 393974697,
+      "creationTime": 1791645059,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271C",
+        "name": "XOR Problem",
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393974697"
+    },
+    {
+      "type": "codeforces",
+      "id": 393972769,
+      "creationTime": 1791644822,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1791644700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2271A",
+        "name": "Robot Odd Moves",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2271/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2271/submission/393972769"
+    },
+    {
+      "type": "codeforces",
       "id": 392217392,
       "creationTime": 1790438553,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -147136,7 +147337,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3384,
+    "rating": 3343,
     "maxRank": "tourist",
     "maxRating": 4009
   }
