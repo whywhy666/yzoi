@@ -27669,5 +27669,25 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106754",
     "standingsUrl": "https://codeforces.com/gym/106754/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "GPL 2026 Novice",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106759,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106759",
+    "standingsUrl": "https://codeforces.com/gym/106759/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "GPL 2026 Advanced",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106760,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106760",
+    "standingsUrl": "https://codeforces.com/gym/106760/standings"
   }
 ]

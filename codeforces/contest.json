@@ -1,6 +1,28 @@
 [
   {
     "type": "codeforces/cf",
+    "name": "Codeforces Round 1127 (Div. 1, Based on Mexican Olympiad in Informatics 2026)",
+    "startTime": 1791743700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 2273,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2273",
+    "standingsUrl": "https://codeforces.com/contest/2273/standings"
+  },
+  {
+    "type": "codeforces/cf",
+    "name": "Codeforces Round 1127 (Div. 2, Based on Mexican Olympiad in Informatics 2026)",
+    "startTime": 1791743700,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 2274,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/contest/2274",
+    "standingsUrl": "https://codeforces.com/contest/2274/standings"
+  },
+  {
+    "type": "codeforces/cf",
     "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
     "startTime": 1791644700,
     "duration": 10800,
