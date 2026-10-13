@@ -27682,6 +27682,27 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2026 ICPC Bolivia National Contest (Phase 2)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106758,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106758",
+    "standingsUrl": "https://codeforces.com/gym/106758/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 NUIT Freshman Contest",
+    "startTime": 1791698400,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 106761,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106761",
+    "standingsUrl": "https://codeforces.com/gym/106761/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "GPL 2026 Advanced",
     "duration": 18000,
     "participantNumber": 0,
