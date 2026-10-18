@@ -51,9 +51,9 @@
         "name": "Plegma II: Ask Me Any Cell (Easy Version)",
         "tags": [
           "brute force",
-          "communication",
           "constructive algorithms",
           "dp",
+          "greedy",
           "math"
         ],
         "problemUrl": "https://codeforces.com/contest/2261/problem/F1"
@@ -81,6 +81,7 @@
           "bitmasks",
           "data structures",
           "divide and conquer",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2261/problem/G"
@@ -108,6 +109,7 @@
           "bitmasks",
           "data structures",
           "divide and conquer",
+          "dp",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2261/problem/G"
@@ -163,6 +165,7 @@
           "constructive algorithms",
           "data structures",
           "dsu",
+          "graphs",
           "hashing",
           "trees",
           "two pointers"
@@ -192,6 +195,7 @@
           "constructive algorithms",
           "data structures",
           "dsu",
+          "graphs",
           "hashing",
           "trees",
           "two pointers"
