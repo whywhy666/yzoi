@@ -27741,5 +27741,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106768",
     "standingsUrl": "https://codeforces.com/gym/106768/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "mhuman_tasks_archive",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106775,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106775",
+    "standingsUrl": "https://codeforces.com/gym/106775/standings"
   }
 ]
