@@ -21,6 +21,7 @@
         "type": "codeforces",
         "id": "2261H",
         "name": "Oh Tree Tree Tree, No Need to Leave",
+        "rating": 3500,
         "tags": [
           "bitmasks",
           "communication",
@@ -50,6 +51,7 @@
         "type": "codeforces",
         "id": "2261F1",
         "name": "Plegma II: Ask Me Any Cell (Easy Version)",
+        "rating": 2500,
         "tags": [
           "brute force",
           "constructive algorithms",
@@ -78,6 +80,7 @@
         "type": "codeforces",
         "id": "2261G",
         "name": "1 2 3 and XOR, Where Did Everybody Go?",
+        "rating": 2800,
         "tags": [
           "bitmasks",
           "data structures",
@@ -108,6 +111,7 @@
         "type": "codeforces",
         "id": "2261G",
         "name": "1 2 3 and XOR, Where Did Everybody Go?",
+        "rating": 2800,
         "tags": [
           "bitmasks",
           "data structures",
@@ -138,6 +142,7 @@
         "type": "codeforces",
         "id": "2261E",
         "name": "What Does the Cow Say?",
+        "rating": 1800,
         "tags": [
           "binary search",
           "data structures",
@@ -166,6 +171,7 @@
         "type": "codeforces",
         "id": "2261D2",
         "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -196,6 +202,7 @@
         "type": "codeforces",
         "id": "2261D2",
         "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
+        "rating": 2400,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -226,6 +233,7 @@
         "type": "codeforces",
         "id": "2261D1",
         "name": "Come Be My Friend, Don't Be So Scared (Easy Version)",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "math"
@@ -251,6 +259,7 @@
         "type": "codeforces",
         "id": "2261E",
         "name": "What Does the Cow Say?",
+        "rating": 1800,
         "tags": [
           "binary search",
           "data structures",
@@ -279,6 +288,7 @@
         "type": "codeforces",
         "id": "2261E",
         "name": "What Does the Cow Say?",
+        "rating": 1800,
         "tags": [
           "binary search",
           "data structures",
@@ -307,6 +317,7 @@
         "type": "codeforces",
         "id": "2261C",
         "name": "I Know About a Million Things",
+        "rating": 1000,
         "tags": [
           "games",
           "math"
@@ -332,6 +343,7 @@
         "type": "codeforces",
         "id": "2261C",
         "name": "I Know About a Million Things",
+        "rating": 1000,
         "tags": [
           "games",
           "math"
@@ -357,6 +369,7 @@
         "type": "codeforces",
         "id": "2261B",
         "name": "What's the Capital of France?",
+        "rating": 1100,
         "tags": [
           "bitmasks",
           "greedy",
@@ -383,6 +396,7 @@
         "type": "codeforces",
         "id": "2261A",
         "name": "Hey, It's Me, Souvlakity",
+        "rating": 800,
         "tags": [
           "games",
           "math"
@@ -408,6 +422,7 @@
         "type": "codeforces",
         "id": "2271H1",
         "name": "Personal Issues (Easy Version)",
+        "rating": 2800,
         "tags": [
           "dp",
           "games",
@@ -434,6 +449,7 @@
         "type": "codeforces",
         "id": "2271F",
         "name": "Beautiful Pillers",
+        "rating": 2300,
         "tags": [
           "constructive algorithms",
           "data structures",
@@ -462,6 +478,7 @@
         "type": "codeforces",
         "id": "2271E",
         "name": "Array Emptying",
+        "rating": 2100,
         "tags": [
           "binary search",
           "data structures",
@@ -488,6 +505,7 @@
         "type": "codeforces",
         "id": "2271E",
         "name": "Array Emptying",
+        "rating": 2100,
         "tags": [
           "binary search",
           "data structures",
@@ -514,6 +532,7 @@
         "type": "codeforces",
         "id": "2271D",
         "name": "Target Infection",
+        "rating": 1700,
         "tags": [
           "binary search",
           "brute force",
@@ -542,6 +561,7 @@
         "type": "codeforces",
         "id": "2271B",
         "name": "MEX Game",
+        "rating": 1000,
         "tags": [
           "games"
         ],
@@ -566,6 +586,7 @@
         "type": "codeforces",
         "id": "2271C",
         "name": "XOR Problem",
+        "rating": 1400,
         "tags": [
           "bitmasks",
           "constructive algorithms",
@@ -594,6 +615,7 @@
         "type": "codeforces",
         "id": "2271A",
         "name": "Robot Odd Moves",
+        "rating": 800,
         "tags": [
           "constructive algorithms",
           "math"
