@@ -27792,5 +27792,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106785",
     "standingsUrl": "https://codeforces.com/gym/106785/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 United Kingdom and Ireland Programming Contest (UKIEPC 2026)",
+    "startTime": 1793188800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106787,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106787",
+    "standingsUrl": "https://codeforces.com/gym/106787/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "ICPC 2026–2027 Northwestern Russia Qualification",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106790,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106790",
+    "standingsUrl": "https://codeforces.com/gym/106790/standings"
   }
 ]
