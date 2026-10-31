@@ -27827,6 +27827,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "SanSi Cup 2025",
+    "duration": 15000,
+    "participantNumber": 0,
+    "id": 106793,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106793",
+    "standingsUrl": "https://codeforces.com/gym/106793/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "UTPC Contest 10-28-2026 Div. 1 (Advanced)",
     "startTime": 1793230200,
     "duration": 7200,
