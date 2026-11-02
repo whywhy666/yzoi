@@ -27859,6 +27859,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "The 2026 ICPC Asia Chengdu Regional Contest (The 5th Universal Cup. Stage 5: Grand Prix of Chengdu)",
+    "startTime": 1792890600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106799,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106799",
+    "standingsUrl": "https://codeforces.com/gym/106799/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Пермская региональная олимпиада школьников по программированию (ПРОШП) 2026",
     "startTime": 1793077800,
     "duration": 18000,
@@ -27867,5 +27878,26 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106798",
     "standingsUrl": "https://codeforces.com/gym/106798/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2026-2027, Вторая командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106801,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106801",
+    "standingsUrl": "https://codeforces.com/gym/106801/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "IV DCC CODE CUP",
+    "startTime": 1793462400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106800,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106800",
+    "standingsUrl": "https://codeforces.com/gym/106800/standings"
   }
 ]
