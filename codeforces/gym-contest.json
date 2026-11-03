@@ -27859,6 +27859,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2026-2027 ICPC German Collegiate Programming Contest (GCPC 2026)",
+    "startTime": 1793624400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106797,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106797",
+    "standingsUrl": "https://codeforces.com/gym/106797/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2026 ICPC Asia Chengdu Regional Contest (The 5th Universal Cup. Stage 5: Grand Prix of Chengdu)",
     "startTime": 1792890600,
     "duration": 18000,
@@ -27899,5 +27910,16 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106800",
     "standingsUrl": "https://codeforces.com/gym/106800/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026 Fall UT CS104c Midterm #2",
+    "startTime": 1793656800,
+    "duration": 3000,
+    "participantNumber": 0,
+    "id": 106803,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106803",
+    "standingsUrl": "https://codeforces.com/gym/106803/standings"
   }
 ]
