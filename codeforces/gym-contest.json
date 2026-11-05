@@ -27870,6 +27870,17 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2025-2026 ICPC North America Championship (NAC 2026)",
+    "startTime": 1793793600,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106796,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106796",
+    "standingsUrl": "https://codeforces.com/gym/106796/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2026 ICPC Asia Chengdu Regional Contest (The 5th Universal Cup. Stage 5: Grand Prix of Chengdu)",
     "startTime": 1792890600,
     "duration": 18000,
