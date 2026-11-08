@@ -27946,6 +27946,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2026-2027 ICPC NERC, Kyrgyzstan Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106802,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106802",
+    "standingsUrl": "https://codeforces.com/gym/106802/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2026 Benelux Algorithm Programming Contest (BAPC 26)",
     "duration": 18000,
     "participantNumber": 0,
@@ -27953,6 +27963,17 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106806",
     "standingsUrl": "https://codeforces.com/gym/106806/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Replay of ICPC IUBAT Asia Dhaka Regional 2026 Online Preliminary Contest",
+    "startTime": 1794042000,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106810,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106810",
+    "standingsUrl": "https://codeforces.com/gym/106810/standings"
   },
   {
     "type": "codeforces/gym/ioi",
@@ -27963,5 +27984,35 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106812",
     "standingsUrl": "https://codeforces.com/gym/106812/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Final round of the 11th Regional Olympiad for the Governor’s Prize 2026, grades 7-8, Vologda Region",
+    "duration": 9000,
+    "participantNumber": 0,
+    "id": 106815,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106815",
+    "standingsUrl": "https://codeforces.com/gym/106815/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Интернет-олимпиады, Сезон 2026-2027, Третья командная олимпиада",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106817,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106817",
+    "standingsUrl": "https://codeforces.com/gym/106817/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Final round of the 11th Regional Olympiad for the Governor’s Prize 2026, grades 9-10, Vologda Region",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106816,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106816",
+    "standingsUrl": "https://codeforces.com/gym/106816/standings"
   }
 ]

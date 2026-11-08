@@ -6,6 +6,149 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 397765878,
+      "creationTime": 1794066910,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1794062100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2279E",
+        "name": "Save Me!",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2279/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2279/submission/397765878"
+    },
+    {
+      "type": "codeforces",
+      "id": 397764659,
+      "creationTime": 1794066634,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1794062100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2279E",
+        "name": "Save Me!",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/2279/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2279/submission/397764659"
+    },
+    {
+      "type": "codeforces",
+      "id": 397755588,
+      "creationTime": 1794064795,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1794062100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2279D",
+        "name": "Meta Graph",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2279/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2279/submission/397755588"
+    },
+    {
+      "type": "codeforces",
+      "id": 397744289,
+      "creationTime": 1794063235,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1794062100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2279C",
+        "name": "Anti-Productive",
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2279/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2279/submission/397744289"
+    },
+    {
+      "type": "codeforces",
+      "id": 397741719,
+      "creationTime": 1794062967,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1794062100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2279B",
+        "name": "Balanced Subsets",
+        "tags": [
+          "combinatorics",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2279/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2279/submission/397741719"
+    },
+    {
+      "type": "codeforces",
+      "id": 397737200,
+      "creationTime": 1794062535,
+      "language": "C++23 (GCC 14-64, msys2)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1794062100
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "2279A",
+        "name": "Reverse and Double",
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/2279/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/2279/submission/397737200"
+    },
+    {
+      "type": "codeforces",
       "id": 395033187,
       "creationTime": 1792258463,
       "language": "C++23 (GCC 14-64, msys2)",
@@ -147755,7 +147898,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3382,
+    "rating": 3408,
     "maxRank": "tourist",
     "maxRating": 4009
   }
