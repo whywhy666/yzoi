@@ -1,64 +1,9 @@
 {
   "version": "0.1.16",
-  "updateTime": 1794096441,
+  "updateTime": 1794183848,
   "history": {
-    "user": [
-      {
-        "name": "tourist",
-        "newSubmissions": [
-          {
-            "platform": "codeforces",
-            "id": 397765878,
-            "pid": "2279E",
-            "name": "Save Me!",
-            "verdict": "OK",
-            "creationTime": 1794066910
-          },
-          {
-            "platform": "codeforces",
-            "id": 397764659,
-            "pid": "2279E",
-            "name": "Save Me!",
-            "verdict": "WRONG_ANSWER",
-            "creationTime": 1794066634
-          },
-          {
-            "platform": "codeforces",
-            "id": 397755588,
-            "pid": "2279D",
-            "name": "Meta Graph",
-            "verdict": "OK",
-            "creationTime": 1794064795
-          },
-          {
-            "platform": "codeforces",
-            "id": 397744289,
-            "pid": "2279C",
-            "name": "Anti-Productive",
-            "verdict": "OK",
-            "creationTime": 1794063235
-          },
-          {
-            "platform": "codeforces",
-            "id": 397741719,
-            "pid": "2279B",
-            "name": "Balanced Subsets",
-            "verdict": "OK",
-            "creationTime": 1794062967
-          },
-          {
-            "platform": "codeforces",
-            "id": 397737200,
-            "pid": "2279A",
-            "name": "Reverse and Double",
-            "verdict": "OK",
-            "creationTime": 1794062535
-          }
-        ],
-        "newContests": []
-      }
-    ],
+    "user": [],
     "contest": []
   },
-  "ref": "a12d79c4c804e82e61720457e323c5357b8bf5a3"
+  "ref": "7f09b29cbab8d61e7607769248a52d84117f85dd"
 }

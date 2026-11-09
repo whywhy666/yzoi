@@ -21,7 +21,10 @@
         "type": "codeforces",
         "id": "2279E",
         "name": "Save Me!",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "meet-in-the-middle"
+        ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/2279/submission/397765878"
@@ -43,7 +46,10 @@
         "type": "codeforces",
         "id": "2279E",
         "name": "Save Me!",
-        "tags": [],
+        "tags": [
+          "brute force",
+          "meet-in-the-middle"
+        ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/E"
       },
       "submissionUrl": "https://codeforces.com/contest/2279/submission/397764659"
@@ -68,7 +74,9 @@
         "tags": [
           "brute force",
           "constructive algorithms",
-          "graphs"
+          "dp",
+          "graphs",
+          "shortest paths"
         ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/D"
       },
@@ -92,6 +100,7 @@
         "id": "2279C",
         "name": "Anti-Productive",
         "tags": [
+          "brute force",
           "greedy"
         ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/C"
@@ -116,6 +125,7 @@
         "id": "2279B",
         "name": "Balanced Subsets",
         "tags": [
+          "bitmasks",
           "combinatorics",
           "dp"
         ],
@@ -141,6 +151,8 @@
         "id": "2279A",
         "name": "Reverse and Double",
         "tags": [
+          "binary search",
+          "brute force",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/A"
