@@ -23,6 +23,7 @@
         "name": "Save Me!",
         "tags": [
           "brute force",
+          "dfs and similar",
           "meet-in-the-middle"
         ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/E"
@@ -48,6 +49,7 @@
         "name": "Save Me!",
         "tags": [
           "brute force",
+          "dfs and similar",
           "meet-in-the-middle"
         ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/E"
@@ -101,7 +103,9 @@
         "name": "Anti-Productive",
         "tags": [
           "brute force",
-          "greedy"
+          "greedy",
+          "math",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/C"
       },
@@ -153,6 +157,7 @@
         "tags": [
           "binary search",
           "brute force",
+          "data structures",
           "implementation"
         ],
         "problemUrl": "https://codeforces.com/contest/2279/problem/A"
