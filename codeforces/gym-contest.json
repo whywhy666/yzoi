@@ -27977,9 +27977,9 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "CSP-J 2026 自测（官方数据）",
+    "name": "CSP-J 2026",
     "startTime": 1793404800,
-    "duration": 1158600,
+    "duration": 12600,
     "participantNumber": 0,
     "id": 106813,
     "phase": "FINISHED",
@@ -28008,9 +28008,9 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "CSP-S 2026 自测（官方数据）",
+    "name": "CSP-S 2026",
     "startTime": 1793428200,
-    "duration": 1135200,
+    "duration": 14400,
     "participantNumber": 0,
     "id": 106814,
     "phase": "FINISHED",
@@ -28047,5 +28047,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106821",
     "standingsUrl": "https://codeforces.com/gym/106821/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2026-2027 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106826,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106826",
+    "standingsUrl": "https://codeforces.com/gym/106826/standings"
   }
 ]
