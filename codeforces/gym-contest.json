@@ -28050,6 +28050,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "2026-2027 ICPC, NERC, Southern and Volga Russian Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106825,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106825",
+    "standingsUrl": "https://codeforces.com/gym/106825/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "2026-2027 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals)",
     "duration": 18000,
     "participantNumber": 0,
@@ -28057,5 +28067,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106826",
     "standingsUrl": "https://codeforces.com/gym/106826/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "Moscow team school olympiad (MKOSHP) 2025",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106829,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106829",
+    "standingsUrl": "https://codeforces.com/gym/106829/standings"
   }
 ]
