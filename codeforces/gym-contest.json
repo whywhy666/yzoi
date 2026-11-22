@@ -28139,6 +28139,16 @@
     "standingsUrl": "https://codeforces.com/gym/106836/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2026 ICPC Belarus Qualification",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106839,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106839",
+    "standingsUrl": "https://codeforces.com/gym/106839/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Municipal Stage of ROI 2026, Grades 9–11, Vologda Region and Krasnodar Krai",
     "duration": 14100,
@@ -28147,5 +28157,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106838",
     "standingsUrl": "https://codeforces.com/gym/106838/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2026 ICPC Belarus Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106840,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106840",
+    "standingsUrl": "https://codeforces.com/gym/106840/standings"
   }
 ]
