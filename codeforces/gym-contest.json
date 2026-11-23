@@ -28160,6 +28160,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "SanSi Cup 2026 Qualification round",
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 106841,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106841",
+    "standingsUrl": "https://codeforces.com/gym/106841/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "The 2026 ICPC Belarus Regional Contest",
     "duration": 18000,
     "participantNumber": 0,
@@ -28167,5 +28177,15 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106840",
     "standingsUrl": "https://codeforces.com/gym/106840/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Bangladesh Olympiad in Informatics Practice Round 4",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 106843,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106843",
+    "standingsUrl": "https://codeforces.com/gym/106843/standings"
   }
 ]
