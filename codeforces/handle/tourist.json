@@ -131726,7 +131726,9 @@
         "id": "211A",
         "name": "Privatization",
         "rating": 3000,
-        "tags": [],
+        "tags": [
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/211/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/211/submission/1900307"
@@ -131749,7 +131751,9 @@
         "id": "211A",
         "name": "Privatization",
         "rating": 3000,
-        "tags": [],
+        "tags": [
+          "graphs"
+        ],
         "problemUrl": "https://codeforces.com/contest/211/problem/A"
       },
       "submissionUrl": "https://codeforces.com/contest/211/submission/1900285"
