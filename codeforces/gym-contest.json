@@ -28189,6 +28189,17 @@
     "standingsUrl": "https://codeforces.com/gym/106843/standings"
   },
   {
+    "type": "codeforces/gym/icpc",
+    "name": "2026-2027 ICPC Latin American Regional Programming Contest",
+    "startTime": 1794070800,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106849,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106849",
+    "standingsUrl": "https://codeforces.com/gym/106849/standings"
+  },
+  {
     "type": "codeforces/gym/ioi",
     "name": "Innopolis Open 2026-2027. Qualification round 2",
     "duration": 18000,
@@ -28197,5 +28208,55 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/106851",
     "standingsUrl": "https://codeforces.com/gym/106851/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2025 Summer, Day 8: Chromate Sent This to Dominater in His DMs and Dominater Said :---) Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106855,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106855",
+    "standingsUrl": "https://codeforces.com/gym/106855/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2024 Winter, Day 2: Portuguese Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106857,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106857",
+    "standingsUrl": "https://codeforces.com/gym/106857/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2025 Summer, Day 2: KIT Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106856,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106856",
+    "standingsUrl": "https://codeforces.com/gym/106856/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2023 Winter, Day 4: Jatin Garg Contest 1",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106859,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106859",
+    "standingsUrl": "https://codeforces.com/gym/106859/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "OCPC 2023 Fall, Day 5: Jatin Yadav Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 106858,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/106858",
+    "standingsUrl": "https://codeforces.com/gym/106858/standings"
   }
 ]
